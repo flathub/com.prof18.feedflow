@@ -12,6 +12,7 @@ finish-args:
   - --device=dri
   - --filesystem=xdg-documents:ro
   - --filesystem=xdg-download:rw
+  - --filesystem=xdg-config:create
 
 modules:
   - name: openjdk
@@ -36,7 +37,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/prof18/feed-flow
-        tag: 1.4.0-all
+        tag: 1.5.0-all
       - type: file
         url: "https://services.gradle.org/distributions/gradle-8.14.3-bin.zip"
         sha256: "bd71102213493060956ec229d946beee57158dbd89d0e62b91bca0fa2c5f3531"
