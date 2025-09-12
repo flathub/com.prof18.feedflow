@@ -6364,45 +6364,45 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-datetime-jvm/0.7.1/kotlinx-datetime-jvm-0.7.1.jar",
-    "sha512": "1c7f560ae5ea82f5e874ebd517b44083a66556c821a5fb58216561568a97fc314355e81f5cf1940d6b67dfbb179c3191b59fc4252c11ba9de21ea3433ca27311",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-datetime-jvm/0.7.1",
-    "dest-filename": "kotlinx-datetime-jvm-0.7.1.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-datetime-jvm/0.7.1-0.6.x-compat/kotlinx-datetime-jvm-0.7.1-0.6.x-compat.jar",
+    "sha512": "6ccdde6bede8133fa2084c003b66c39ca7703e1be6573b1bf341ea8c2af9498b7c700089613454902122ac6140414d9ca9a4980b3f011218f5444489171926ea",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-datetime-jvm/0.7.1-0.6.x-compat",
+    "dest-filename": "kotlinx-datetime-jvm-0.7.1-0.6.x-compat.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-datetime-jvm/0.7.1/kotlinx-datetime-jvm-0.7.1.module",
-    "sha512": "10f49a565636051725b4ce8a864b9266f2342496548274fc27c03225b193ffe955050e44180590966c0b8ae201c3c2bff8c853b7ae2bac0e66f948331f5684de",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-datetime-jvm/0.7.1",
-    "dest-filename": "kotlinx-datetime-jvm-0.7.1.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-datetime-jvm/0.7.1-0.6.x-compat/kotlinx-datetime-jvm-0.7.1-0.6.x-compat.module",
+    "sha512": "5c1829dc3dda8275f96cc138a976ad7a3307a9c9763727ba04037b08b20581adc1d8a4b251638dab3889dca14ac30b180fc5e7e26ff3e0e7c528ec903f67caff",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-datetime-jvm/0.7.1-0.6.x-compat",
+    "dest-filename": "kotlinx-datetime-jvm-0.7.1-0.6.x-compat.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-datetime-jvm/0.7.1/kotlinx-datetime-jvm-0.7.1.pom",
-    "sha512": "f4d11a69cd3e825e805273369bfbc9cb4354b7bd9b58046e8387c2a374bd0b4354db87aa13eff755d51b4e16d52dfbfa8529e23efe96088caa0533c15891a515",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-datetime-jvm/0.7.1",
-    "dest-filename": "kotlinx-datetime-jvm-0.7.1.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-datetime-jvm/0.7.1-0.6.x-compat/kotlinx-datetime-jvm-0.7.1-0.6.x-compat.pom",
+    "sha512": "e92281472f40666ef2651ca99bee439b085e47911a6d85fe79814ccfa0192139c0db47c3b7591ef5b2c488126a0c09e833eb4614a82ef42d33019252e0d75e60",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-datetime-jvm/0.7.1-0.6.x-compat",
+    "dest-filename": "kotlinx-datetime-jvm-0.7.1-0.6.x-compat.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-datetime/0.7.1/kotlinx-datetime-0.7.1.jar",
-    "sha512": "432726550538b0c0c33a3f59131b707732f58207e2624f20945bc9f25e2c6e96a628a8f487c970563c06044e2c1aece38ea7e607280e3171178f1718d6929db7",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-datetime/0.7.1",
-    "dest-filename": "kotlinx-datetime-0.7.1.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-datetime/0.7.1-0.6.x-compat/kotlinx-datetime-0.7.1-0.6.x-compat.jar",
+    "sha512": "eb6c05d2b510e3c61563bb7bc1b2b1c4289776ceb41148883c90610748f21a44d436368dcdb07df854a8e9e1dccf59e98761b84f30e3c800db87a15516b9f76a",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-datetime/0.7.1-0.6.x-compat",
+    "dest-filename": "kotlinx-datetime-0.7.1-0.6.x-compat.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-datetime/0.7.1/kotlinx-datetime-0.7.1.module",
-    "sha512": "a68209f7dc11f5f4dd0dccb41319b5544aafbe8672b6ecab327b8dc24d103380ccc59d2b40754d2786706b0688a6e886fe9f6cffc7b0dbfc5194e57e05f53c34",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-datetime/0.7.1",
-    "dest-filename": "kotlinx-datetime-0.7.1.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-datetime/0.7.1-0.6.x-compat/kotlinx-datetime-0.7.1-0.6.x-compat.module",
+    "sha512": "6b41cecd3cc6a5d5743e283a798b96ce02899c6749c2ff866f98d2678fb0fe595fc43b4418956b10e316236ace0a4e51aa0851bf20cbc48a2756181a0052125d",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-datetime/0.7.1-0.6.x-compat",
+    "dest-filename": "kotlinx-datetime-0.7.1-0.6.x-compat.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-datetime/0.7.1/kotlinx-datetime-0.7.1.pom",
-    "sha512": "25d011a5daa059f2d1ec282615dcc472fe38700661b0da2b93fee622dfa6f8b3441de0b126c281e71d2830c8c34c063f058e87dbf1be20c5521cfa4ebc765182",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-datetime/0.7.1",
-    "dest-filename": "kotlinx-datetime-0.7.1.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-datetime/0.7.1-0.6.x-compat/kotlinx-datetime-0.7.1-0.6.x-compat.pom",
+    "sha512": "3baa72a370991a758c561d10bf79281c7ed8709c86cfdf1fd783889d0bb4c850719299123e7fa6dbb0c582a47ecf598efac8e25428513584275f45e1e423182e",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-datetime/0.7.1-0.6.x-compat",
+    "dest-filename": "kotlinx-datetime-0.7.1-0.6.x-compat.pom"
   },
   {
     "type": "file",
