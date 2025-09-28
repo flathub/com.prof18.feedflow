@@ -652,178 +652,178 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.8.2/compose-gradle-plugin-1.8.2.jar",
-    "sha512": "ff1f538834fcc73a2dd273272c1ee91ef1bc0c82cdcaab02fbdc641c9d4b87065853bf0ae141f753055b1894513e629f9537e4b8fa75ff6c2d7b425ca93398ca",
-    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.8.2",
-    "dest-filename": "compose-gradle-plugin-1.8.2.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.9.0/compose-gradle-plugin-1.9.0.jar",
+    "sha512": "544324b83f56888fd8efb06147e545d84c7fb12c3952463e5841781d1e5c7edf467bbdb7d68a95f003e77271055ca3e1050294e503a5ec3ccfdc71e4407cbea7",
+    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.9.0",
+    "dest-filename": "compose-gradle-plugin-1.9.0.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.8.2/compose-gradle-plugin-1.8.2.module",
-    "sha512": "26e1dadd814f8cb71835475b1aac5c85b779f62917e30c19bda65dc0f513d2886ff88c637ace6bcc74ffb44aad9544ce5c360c1e28294320a8015adb1c4e710b",
-    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.8.2",
-    "dest-filename": "compose-gradle-plugin-1.8.2.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.9.0/compose-gradle-plugin-1.9.0.module",
+    "sha512": "4561ff76ea7f3b4240950fda47ad8bf4c0aa19de29b344af8a1338e687f7959c9389d0933a114025d0b6faa86959b54989fa3e75502fae1c43a67b2be5cca802",
+    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.9.0",
+    "dest-filename": "compose-gradle-plugin-1.9.0.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.8.2/compose-gradle-plugin-1.8.2.pom",
-    "sha512": "48805d5b49989ac4cec7c2f5163d5c3e1a1a2ab22f21aa321f4db253ee29f7a2871143aa46e9d0b5a27558dc9e72ed4049cd2d4c0f2df4912ab4074406e826ef",
-    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.8.2",
-    "dest-filename": "compose-gradle-plugin-1.8.2.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.9.0/compose-gradle-plugin-1.9.0.pom",
+    "sha512": "3f0e7a4f18fff6a22053027a2da404c9f46cea712fd52650d298f836fa12bb416483ed3bf902945e0c1cfe16bb96474272a13c936aef7ed6bc95a925c87bfafb",
+    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.9.0",
+    "dest-filename": "compose-gradle-plugin-1.9.0.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.0.0-beta06/hot-reload-annotations-jvm-1.0.0-beta06.jar",
-    "sha512": "11c9a898028f936bd8899625efae2d674691589e0d577cda657152c24c9bad9bfac54631d0e3471f87b0c545fa4d0905d33ce66a00aaf5c7182be6e46be782d1",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.0.0-beta06",
-    "dest-filename": "hot-reload-annotations-jvm-1.0.0-beta06.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.0.0-beta08/hot-reload-annotations-jvm-1.0.0-beta08.jar",
+    "sha512": "4de3673f93fd4b2eefef424e28f56119389aad5ce1690e6d9dd97cd4908db47bdf0899c3f75640bc735e181044748b64b53846ace0bef0b6d1a25ad5277fef25",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.0.0-beta08",
+    "dest-filename": "hot-reload-annotations-jvm-1.0.0-beta08.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.0.0-beta06/hot-reload-annotations-jvm-1.0.0-beta06.module",
-    "sha512": "f20229d3f9c4555e2d82e3c5432c19e418bc97409e76254439cf7aea1775bffe5bb2164511b65bb06c42a8b48b0c4955abe33975636e7a5cb431b435801e0bbb",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.0.0-beta06",
-    "dest-filename": "hot-reload-annotations-jvm-1.0.0-beta06.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.0.0-beta08/hot-reload-annotations-jvm-1.0.0-beta08.module",
+    "sha512": "aabcaab3c70f2bd4ca3237b4c2be3a6556bc728d0dda0475a08c7d4d2afb0683f55921383b55757e1145572a0eacc85b4cfe08a36ba7bac10681c3c817f31433",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.0.0-beta08",
+    "dest-filename": "hot-reload-annotations-jvm-1.0.0-beta08.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.0.0-beta06/hot-reload-annotations-jvm-1.0.0-beta06.pom",
-    "sha512": "6f2f52105220ff2fca7ee9a00103d98d3c90e8722614441164908192005a83ed95578a2d699f3bfa451eecec4b76e9ff60116431855cc0b184edd504d4f02385",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.0.0-beta06",
-    "dest-filename": "hot-reload-annotations-jvm-1.0.0-beta06.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.0.0-beta08/hot-reload-annotations-jvm-1.0.0-beta08.pom",
+    "sha512": "87c559f6f9c75d22d50e2c7c19d928a214439419f14dbd58642c2f8cb2223cd8cc47c6f0524d66db1e2080b72cbd56c77f825d9909036c499ce65f9b81ffcd18",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations-jvm/1.0.0-beta08",
+    "dest-filename": "hot-reload-annotations-jvm-1.0.0-beta08.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.0.0-beta06/hot-reload-annotations-1.0.0-beta06.module",
-    "sha512": "3aadef8d0df447043b0a2be0fff71621b2a51ad4c927272451ebf0c9e99ed09e1bbfad84267b2d594611f069a8d529ea4ea0ec3e8f1e3be48956d6e7a1ac381b",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.0.0-beta06",
-    "dest-filename": "hot-reload-annotations-1.0.0-beta06.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.0.0-beta08/hot-reload-annotations-1.0.0-beta08.module",
+    "sha512": "f9f3ee4a7320da8adb5af9106fd93bd0d08959505cf5966673761bba660137055df8c565cee8995d7ca7ef0cf8cf1ea3150b9bccf406482e75b69ffb2ecead2e",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.0.0-beta08",
+    "dest-filename": "hot-reload-annotations-1.0.0-beta08.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.0.0-beta06/hot-reload-annotations-1.0.0-beta06.pom",
-    "sha512": "7be6440f2db58b9c30ef8259b09ff446381f4dbf67bd2af1a6c9b15133bb571ba9589e9495599f237b5dd2f4a80cd0c0edf9f464402d84f683e436dada435b72",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.0.0-beta06",
-    "dest-filename": "hot-reload-annotations-1.0.0-beta06.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.0.0-beta08/hot-reload-annotations-1.0.0-beta08.pom",
+    "sha512": "61e9d8aacc094ddfcadc2665e613b0aeac0defa38f71b2d00553a42e2361cf10b386a34e9591cd1465db539e8edd7b64aab770bc95d00997e77c42b9b0ff472a",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-annotations/1.0.0-beta08",
+    "dest-filename": "hot-reload-annotations-1.0.0-beta08.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-core/1.0.0-beta06/hot-reload-core-1.0.0-beta06.jar",
-    "sha512": "f8ac6467940767ef4b817231321d5890e3646a693242451e637e4fa94fade2de3bd895acda0a10ab62e882b32b68b95f347486dfa6c0b9a78c00e05fd4524fac",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-core/1.0.0-beta06",
-    "dest-filename": "hot-reload-core-1.0.0-beta06.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-core/1.0.0-beta08/hot-reload-core-1.0.0-beta08.jar",
+    "sha512": "7ff553086fe8667c14a11e127de45ab2613a986f81c99a9482b43142252842c87341f6dc73f3a24f98dc75878e175d3ea6942a965c1626b4299efceb78f2f4a3",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-core/1.0.0-beta08",
+    "dest-filename": "hot-reload-core-1.0.0-beta08.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-core/1.0.0-beta06/hot-reload-core-1.0.0-beta06.module",
-    "sha512": "36cfb548acf0833a3fdaa373b19702f3ed79eb2fdef10810186001751520576795eab3e481ed06ccc98689f00fcc65cc5c8342737ae9031ca192ca415fb31ff6",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-core/1.0.0-beta06",
-    "dest-filename": "hot-reload-core-1.0.0-beta06.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-core/1.0.0-beta08/hot-reload-core-1.0.0-beta08.module",
+    "sha512": "ca1403b0c9221a854794deb5aa74fbe9469ddb5d10070914fb37680831c71a276a533c1849fc1892546ee15d5871880440f8782ce5bec28e1e94d8f12be981ad",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-core/1.0.0-beta08",
+    "dest-filename": "hot-reload-core-1.0.0-beta08.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-core/1.0.0-beta06/hot-reload-core-1.0.0-beta06.pom",
-    "sha512": "b31088bea496ec603e3601a4e14b1662d3693a9dbb2e45d2808da9f9370cb5638a70237fd0399247b971c6a1bf10df6be8f16f4c74002f33fde5b8352fb8716e",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-core/1.0.0-beta06",
-    "dest-filename": "hot-reload-core-1.0.0-beta06.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-core/1.0.0-beta08/hot-reload-core-1.0.0-beta08.pom",
+    "sha512": "e73407269fdda5203ee7aea9d227a721bd456ad99cb00fd2f3c291984290a63be791d363eb91b650a774200432bafef05e4347591f526523064a1509def0ae84",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-core/1.0.0-beta08",
+    "dest-filename": "hot-reload-core-1.0.0-beta08.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-gradle-core/1.0.0-beta06/hot-reload-gradle-core-1.0.0-beta06.jar",
-    "sha512": "5542f291730c36c753aadac58dc375306849d2aaf37236abcbbee75e5d2069df799e9dae168088cfd34e4996ee9b90b3d8d5d263d6aa50a51c9ec7651e10b08d",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-gradle-core/1.0.0-beta06",
-    "dest-filename": "hot-reload-gradle-core-1.0.0-beta06.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-gradle-core/1.0.0-beta08/hot-reload-gradle-core-1.0.0-beta08.jar",
+    "sha512": "b89486e4d9610fa6a0f5cd5b47bec61952d4d3f755660989f67fbf6dc817d2c32678fe3ee70a5532efd1eb535e20b4a7c78ea88130c2f07165b8d80bba73a23c",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-gradle-core/1.0.0-beta08",
+    "dest-filename": "hot-reload-gradle-core-1.0.0-beta08.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-gradle-core/1.0.0-beta06/hot-reload-gradle-core-1.0.0-beta06.module",
-    "sha512": "46272a516e0c9a687478a8f1230dff18031efa2e8d36d3cc40e2b8373b41c2a14085a3b3b61c5117b1998f107812fccbbc12d2463e0d2e048e60e4dcfb4f178e",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-gradle-core/1.0.0-beta06",
-    "dest-filename": "hot-reload-gradle-core-1.0.0-beta06.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-gradle-core/1.0.0-beta08/hot-reload-gradle-core-1.0.0-beta08.module",
+    "sha512": "431c06fa2986022145c1116d859792817ce2a1753a4e8c4daca95a610c47ca109dde8e259de79fa9e9487c262c3e4b60ecd1a75af7b205e350d72596a58fd1a6",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-gradle-core/1.0.0-beta08",
+    "dest-filename": "hot-reload-gradle-core-1.0.0-beta08.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-gradle-core/1.0.0-beta06/hot-reload-gradle-core-1.0.0-beta06.pom",
-    "sha512": "0c2db66e3aeef094c71ff5c2638a58dc1de31e4793c5e0ba0a9273749b9a9fa67e9b5babd2083ff207bc9447c8114d92f1861ded2f80f9bad9b6d0c2cf824c6f",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-gradle-core/1.0.0-beta06",
-    "dest-filename": "hot-reload-gradle-core-1.0.0-beta06.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-gradle-core/1.0.0-beta08/hot-reload-gradle-core-1.0.0-beta08.pom",
+    "sha512": "f96428dff39d410951af36dd7e9a390d7da5b8d6f7b0dabf8e165c9c3747bec35b03491c6ecc12fdbe5e6cb39d03111c897e48ab8cc7504026b99ffa8890918f",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-gradle-core/1.0.0-beta08",
+    "dest-filename": "hot-reload-gradle-core-1.0.0-beta08.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-gradle-idea/1.0.0-beta06/hot-reload-gradle-idea-1.0.0-beta06.jar",
-    "sha512": "6931ecb232a4884d40b585e3449c1004fc175d916368cdca32387e3de952dfbe884ab76cc723e8150067b7c45bffbd65c63e11134de677f5a9ea9f5ff43c68cf",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-gradle-idea/1.0.0-beta06",
-    "dest-filename": "hot-reload-gradle-idea-1.0.0-beta06.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-gradle-idea/1.0.0-beta08/hot-reload-gradle-idea-1.0.0-beta08.jar",
+    "sha512": "88f78e7a61aa8f54ce2cb22a447ffeb3f002d7b685e59a30b2ce3ce6fcca188969f6a66470b152f7f52eea5dbd78bd6c337ba2e2fa67fb32663595b70f10476f",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-gradle-idea/1.0.0-beta08",
+    "dest-filename": "hot-reload-gradle-idea-1.0.0-beta08.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-gradle-idea/1.0.0-beta06/hot-reload-gradle-idea-1.0.0-beta06.module",
-    "sha512": "53796f4a49b1746b664449b43878d7fd4b8f707b853d3a35d942429530243352909c559b8a6712ea90473ed4e69d010eefa14f355a43d0948926c3f96167fb26",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-gradle-idea/1.0.0-beta06",
-    "dest-filename": "hot-reload-gradle-idea-1.0.0-beta06.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-gradle-idea/1.0.0-beta08/hot-reload-gradle-idea-1.0.0-beta08.module",
+    "sha512": "90bf836d7f4c76a1504b712187131c20442c4e8ab01f0d2e8ed1eb09e73ab8489661c0dc307adf1ca6f9e0eb5e8f56d6d1d81c4678ba65471fcd113f331ee920",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-gradle-idea/1.0.0-beta08",
+    "dest-filename": "hot-reload-gradle-idea-1.0.0-beta08.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-gradle-idea/1.0.0-beta06/hot-reload-gradle-idea-1.0.0-beta06.pom",
-    "sha512": "ecb47ef63b97f218e571e1168039f1eadf165178a4b1eef775a53c9f013cee335606ba3314211f565bc87741564b1f64cc54e71e1faaf626fed043551a58e69f",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-gradle-idea/1.0.0-beta06",
-    "dest-filename": "hot-reload-gradle-idea-1.0.0-beta06.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-gradle-idea/1.0.0-beta08/hot-reload-gradle-idea-1.0.0-beta08.pom",
+    "sha512": "db1c9ce0aaa840a5d7eaefe6340162907679eed6325ec2bacd07532e4d3bc1d7fe4909eb9ab738144ac9e0167a0594a1e839e0e3472713ddac219b66a2a0f789",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-gradle-idea/1.0.0-beta08",
+    "dest-filename": "hot-reload-gradle-idea-1.0.0-beta08.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-gradle-plugin/1.0.0-beta06/hot-reload-gradle-plugin-1.0.0-beta06.jar",
-    "sha512": "bcc9521c8e41b02196ad9a61b1602de2f834868926a533f9665ba981654fc435d86153fdee5409db65db2e7a56974fe15a69772926ef1eee2011cbfacd7bc104",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-gradle-plugin/1.0.0-beta06",
-    "dest-filename": "hot-reload-gradle-plugin-1.0.0-beta06.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-gradle-plugin/1.0.0-beta08/hot-reload-gradle-plugin-1.0.0-beta08.jar",
+    "sha512": "ae8ab5640e06f9a0d4d78199e2e6458783ba6f63c0e52b95b85133da8ece46b5eb3f118c191a61c20d98ef18322cff2219216504efbcec2e41d1f36aa999613a",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-gradle-plugin/1.0.0-beta08",
+    "dest-filename": "hot-reload-gradle-plugin-1.0.0-beta08.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-gradle-plugin/1.0.0-beta06/hot-reload-gradle-plugin-1.0.0-beta06.module",
-    "sha512": "d851cbf744842e897595c7a472dc4595302b56b9fdfe33c132d4caa1e71953dd3880ec4cbecba754a783a301cc1c1d7c7fbfc298ef00c1276be80ba6b37ca95a",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-gradle-plugin/1.0.0-beta06",
-    "dest-filename": "hot-reload-gradle-plugin-1.0.0-beta06.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-gradle-plugin/1.0.0-beta08/hot-reload-gradle-plugin-1.0.0-beta08.module",
+    "sha512": "ad36af19cf2a37a02c819b35db04bc0906a0cbd96816cbc9b392ba159cf04c4526dbc3a460a7b2adbbfc42f914158cf5206fb18e53ef15ae55a2aa92b19dc2ba",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-gradle-plugin/1.0.0-beta08",
+    "dest-filename": "hot-reload-gradle-plugin-1.0.0-beta08.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-gradle-plugin/1.0.0-beta06/hot-reload-gradle-plugin-1.0.0-beta06.pom",
-    "sha512": "735af254c1a69a301a5b10451c324b4cc42452717fc223a596bb1650a0f5200d76c00e938a0d7666b935b2017d77617cc0cc0e193562833921de3f0406267cbe",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-gradle-plugin/1.0.0-beta06",
-    "dest-filename": "hot-reload-gradle-plugin-1.0.0-beta06.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-gradle-plugin/1.0.0-beta08/hot-reload-gradle-plugin-1.0.0-beta08.pom",
+    "sha512": "4037ab0e7dd37ed228c3b80b6e9732dc1ab30b46718da0118b1eff36e9d501f01e8da4eafb27f262458c629e8d23281b347ab8dead6d309b2d30e6e03f01261d",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-gradle-plugin/1.0.0-beta08",
+    "dest-filename": "hot-reload-gradle-plugin-1.0.0-beta08.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.0.0-beta06/hot-reload-orchestration-1.0.0-beta06.jar",
-    "sha512": "56e16e863c471cbb639f580efbea7aa0781a43d51f4ddd05b70edce64eac3da4f5bd1e51c5e8056ff763dd504b366b837717af22fb0c5f87eecc2adc121e3bd7",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.0.0-beta06",
-    "dest-filename": "hot-reload-orchestration-1.0.0-beta06.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.0.0-beta08/hot-reload-orchestration-1.0.0-beta08.jar",
+    "sha512": "ff9199621c45ce3c9365da90b41ac8bcaea70897cfd345a9a49d8cd9aa65062c552fdc68fad86343427ae0357fafc113e295e5436344b6a3c2e63a75f6c5affd",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.0.0-beta08",
+    "dest-filename": "hot-reload-orchestration-1.0.0-beta08.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.0.0-beta06/hot-reload-orchestration-1.0.0-beta06.module",
-    "sha512": "56e84e215856b1b9dd8d1494da68116352cc3cbd9bba36f4dd7a9e741f887ef0a4242bdb80f53a1296955f18780fafa0dc87fe8902529448098789f8418784d4",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.0.0-beta06",
-    "dest-filename": "hot-reload-orchestration-1.0.0-beta06.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.0.0-beta08/hot-reload-orchestration-1.0.0-beta08.module",
+    "sha512": "62597252ce5e7efd4c5382e547533f91e2a0aa3dc029d14772d234d9bb5c67e8eb840cf51858b2fca9ef523bbb393c2069283a64195a58b8468d5035b08001a4",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.0.0-beta08",
+    "dest-filename": "hot-reload-orchestration-1.0.0-beta08.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.0.0-beta06/hot-reload-orchestration-1.0.0-beta06.pom",
-    "sha512": "b47c15a82b7411856c18a9bfa8593c4c2eab2c7411d9ba511ac9a1ede8dbd319a8dc46c1306cc47fd1cc9e0d8ec5728c6e945f20d9b6e4165b3d7aaf71142d3b",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.0.0-beta06",
-    "dest-filename": "hot-reload-orchestration-1.0.0-beta06.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.0.0-beta08/hot-reload-orchestration-1.0.0-beta08.pom",
+    "sha512": "57defd0b4f0ce94fe58faaafccc6b18f752e555fa8cf777700d1a163a6b035308534488fba824166094d256798bba70d28cabd6dbb8838ca0a9bb0780b297189",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/hot-reload-orchestration/1.0.0-beta08",
+    "dest-filename": "hot-reload-orchestration-1.0.0-beta08.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/org.jetbrains.compose.hot-reload.gradle.plugin/1.0.0-beta06/org.jetbrains.compose.hot-reload.gradle.plugin-1.0.0-beta06.pom",
-    "sha512": "c158c8b26ab6dce13813b18fac7a4fa5f14913cdf3f140bad86b37a38ddf2c408c4bce288f6df158cfeb8878e616dbf6cb160cccdcb6a6ca802af4ba4583fc7b",
-    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/org.jetbrains.compose.hot-reload.gradle.plugin/1.0.0-beta06",
-    "dest-filename": "org.jetbrains.compose.hot-reload.gradle.plugin-1.0.0-beta06.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/hot-reload/org.jetbrains.compose.hot-reload.gradle.plugin/1.0.0-beta08/org.jetbrains.compose.hot-reload.gradle.plugin-1.0.0-beta08.pom",
+    "sha512": "6ea5736ef834aedc5c886df629bb8f4d5aec62d5be450e08f6cff04d50378ef05c9095ba8f90dc67f2e9d4357040b21ced429d87baea2311e760901e10a74e4d",
+    "dest": "./offline-repository/org/jetbrains/compose/hot-reload/org.jetbrains.compose.hot-reload.gradle.plugin/1.0.0-beta08",
+    "dest-filename": "org.jetbrains.compose.hot-reload.gradle.plugin-1.0.0-beta08.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/org.jetbrains.compose.gradle.plugin/1.8.2/org.jetbrains.compose.gradle.plugin-1.8.2.pom",
-    "sha512": "3460d5bc55190439cc802f8138a79979d7fb619ff728760e9543b14f28c959e5040e0b2dc7c27d2ad6b4e6485942e1a11c78232a4c8f0ea00683f8b09114ae86",
-    "dest": "./offline-repository/org/jetbrains/compose/org.jetbrains.compose.gradle.plugin/1.8.2",
-    "dest-filename": "org.jetbrains.compose.gradle.plugin-1.8.2.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/org.jetbrains.compose.gradle.plugin/1.9.0/org.jetbrains.compose.gradle.plugin-1.9.0.pom",
+    "sha512": "68f010724c1f6c5ea9f6fb9e398771306f63a95b56216b6865de8e92b1c30a0ab06e24df720c1fe585faf667fb800d53be9538c0022731af3a36a02e85ebb2d6",
+    "dest": "./offline-repository/org/jetbrains/compose/org.jetbrains.compose.gradle.plugin/1.9.0",
+    "dest-filename": "org.jetbrains.compose.gradle.plugin-1.9.0.pom"
   },
   {
     "type": "file",

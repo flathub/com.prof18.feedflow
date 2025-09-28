@@ -593,5 +593,173 @@
     "sha512": "ef7769e7278dd46d28e49372957ad59f9af2f4d97d4c0b674fc6d9a9b99dd7b610ff9a191314a25e77439dbf84e8c3869d2d2f9ffed26bdf2f9784faa64905b2",
     "dest": "./offline-repository/com/fasterxml/jackson/core/jackson-core/2.15.0",
     "dest-filename": "jackson-core-2.15.0.pom"
-  }
+  },
+  {
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/io/sentry/sentry/8.22.0/sentry-8.22.0.jar",
+  "sha512": "96002501eaf20d65c5bc6f7c148fe295d622c48857e91d18c17827dabf99d96983f1f581b0b154ffbc7d0650d62c0b75872da62f5f47a8d082a45bc4bc77a7ca",
+  "dest": "./offline-repository/io/sentry/sentry/8.22.0",
+  "dest-filename": "sentry-8.22.0.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/io/sentry/sentry/8.22.0/sentry-8.22.0.pom",
+  "sha512": "e395ee78ea512883d8cc6a4f86bb32c5be5386bada201081c137b4ba1246b5fba5ef487b280abbb4e99ebbb5fa2908b31b9350166b2736fbb2a430ccb3a503ed",
+  "dest": "./offline-repository/io/sentry/sentry/8.22.0",
+  "dest-filename": "sentry-8.22.0.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.2.10/kotlin-stdlib-2.2.10.jar",
+  "sha512": "4bfdea9c22f5d73691c74e602acc04d5c1552e38c09b7dbbd31909c0c557c7720106c6802678ba92563a72d3560fdea0f32fa5639d99bdf752ddd303c30c2fd5",
+  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.2.10",
+  "dest-filename": "kotlin-stdlib-2.2.10.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.2.10/kotlin-stdlib-2.2.10-all.jar",
+  "sha512": "ddad3e61c6adabdcbe71492a2ab922dce4557f7ece1c83b8cbdbe8cfc004c370bce6431c63faa35900bc0cd0fc0e7d38c81e5afe834493b948427b46e174ec0a",
+  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.2.10",
+  "dest-filename": "kotlin-stdlib-2.2.10-all.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/material/material-ripple-desktop/1.8.2/material-ripple-desktop-1.8.2.jar",
+  "sha512": "0e55bc9c2f93bde3c1d52b015cbc974116dc0537027ae20833ffa581df1619f720f55c7070769b5b4248a3075c4efbb321e523c76488061fa770b6445dfd10e3",
+  "dest": "./offline-repository/org/jetbrains/compose/material/material-ripple-desktop/1.8.2",
+  "dest-filename": "material-ripple-desktop-1.8.2.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio-jvm/3.15.0/okio-jvm-3.15.0.jar",
+  "sha512": "f327600f43ab5f56753934848d9f49c3509cc5d4b871271345aa3a457a55bf9e244ff4d7d4e5c3de5eadb024cd2e13aca24817763005ce1b0ef0dc0a06be93dc",
+  "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.15.0",
+  "dest-filename": "okio-jvm-3.15.0.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core/1.7.3/kotlinx-serialization-core-1.7.3.jar",
+  "sha512": "ae058db7e7c100f5ac6e1c021bae8e060135f2cf4657d1511a9d245ee3c696717c126c1642f521e732a2baa695f48f4ef63a7ffdebb2446a988e3936859a0a70",
+  "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core/1.7.3",
+  "dest-filename": "kotlinx-serialization-core-1.7.3.jar"
+},
+  {
+    "type": "file",
+    "url": "https://maven.google.com/androidx/lifecycle/lifecycle-common/2.9.2/lifecycle-common-2.9.2.jar",
+    "sha512": "934d581408ee1a783d4e8ec3a24ffe9da6401ff53e79f4893310acd0063264aa4249d1c512cae9a029ecf1858f9ec9d795ba5bcd87494cbde1ce25a28b9101a0",
+    "dest": "./offline-repository/androidx/lifecycle/lifecycle-common/2.9.2",
+    "dest-filename": "lifecycle-common-2.9.2.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://maven.google.com/androidx/lifecycle/lifecycle-common/2.9.2/lifecycle-common-2.9.2.pom",
+    "sha512": "faab40655af9d1af61f198927635d4cbfdea4c332ef7958647efc98596fceadd89b375aa311328853fd5da040fb43ccb41cc1dc327096be62ea053110b2910e5",
+    "dest": "./offline-repository/androidx/lifecycle/lifecycle-common/2.9.2",
+    "dest-filename": "lifecycle-common-2.9.2.pom"
+  },
+    {
+    "type": "file",
+    "url": "https://maven.google.com/androidx/lifecycle/lifecycle-common-jvm/2.9.2/lifecycle-common-jvm-2.9.2.jar",
+    "sha512": "20b6ce1a985e807206cd0d5b9170908d4c9fe8fe00b457c5495affd9e46d3f3435e535efe5a4a4295ba0567fd863f641739b05229daf5d19a5b872a789d0882f",
+    "dest": "./offline-repository/androidx/lifecycle/lifecycle-common-jvm/2.9.2",
+    "dest-filename": "lifecycle-common-jvm-2.9.2.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://maven.google.com/androidx/lifecycle/lifecycle-common-jvm/2.9.2/lifecycle-common-jvm-2.9.2.pom",
+    "sha512": "a5f7fd4934fb48d8ff8e8cee89afbcc47414e8a337f0e5fb0d2aa754b8531bd199506b0c9e68a502d07a5fb435082c9088d5869f848582e0a3a5d2c556bcd375",
+    "dest": "./offline-repository/androidx/lifecycle/lifecycle-common-jvm/2.9.2",
+    "dest-filename": "lifecycle-common-jvm-2.9.2.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://maven.google.com/androidx/lifecycle/lifecycle-common-jvm/2.9.2/lifecycle-common-jvm-2.9.2.module",
+    "sha512": "cf4129377e0a515f1f33cafb12c84de22d38fd487ac02587e8a44b5be69564242aea22b5ff96f164e5a43e2305623d34d613b95fc175bc8f160c7e48588ddd3d",
+    "dest": "./offline-repository/androidx/lifecycle/lifecycle-common-jvm/2.9.2",
+    "dest-filename": "lifecycle-common-jvm-2.9.2.module"
+  },
+  {
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/material/material-ripple-desktop/1.8.2/material-ripple-desktop-1.8.2.jar",
+  "sha512": "0e55bc9c2f93bde3c1d52b015cbc974116dc0537027ae20833ffa581df1619f720f55c7070769b5b4248a3075c4efbb321e523c76488061fa770b6445dfd10e3",
+  "dest": "./offline-repository/org/jetbrains/compose/material/material-ripple-desktop/1.8.2",
+  "dest-filename": "material-ripple-desktop-1.8.2.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/material/material-ripple-desktop/1.8.2/material-ripple-desktop-1.8.2.pom",
+  "sha512": "66b24caa99527f9b69e88a2c190e28b18ddef08af465e0a4ef73862ec8e15cbbe37267461b6ca8938155c943dc45275dbcae26c6f2fb79c0b7fb6e6df2060e68",
+  "dest": "./offline-repository/org/jetbrains/compose/material/material-ripple-desktop/1.8.2",
+  "dest-filename": "material-ripple-desktop-1.8.2.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio-jvm/3.15.0/okio-jvm-3.15.0.jar",
+  "sha512": "f327600f43ab5f56753934848d9f49c3509cc5d4b871271345aa3a457a55bf9e244ff4d7d4e5c3de5eadb024cd2e13aca24817763005ce1b0ef0dc0a06be93dc",
+  "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.15.0",
+  "dest-filename": "okio-jvm-3.15.0.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio-jvm/3.15.0/okio-jvm-3.15.0.pom",
+  "sha512": "ea6161dace024a24079bdd259e843f9fc3a4fde701565221ac4d8a0743290944e46e87eeacbe4474876022825684922766fe5de36f86fab7a2ae0b1b4ad77f3e",
+  "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.15.0",
+  "dest-filename": "okio-jvm-3.15.0.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core/1.7.3/kotlinx-serialization-core-1.7.3.jar",
+  "sha512": "ae058db7e7c100f5ac6e1c021bae8e060135f2cf4657d1511a9d245ee3c696717c126c1642f521e732a2baa695f48f4ef63a7ffdebb2446a988e3936859a0a70",
+  "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core/1.7.3",
+  "dest-filename": "kotlinx-serialization-core-1.7.3.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core/1.7.3/kotlinx-serialization-core-1.7.3.pom",
+  "sha512": "a6bf65fcf1b3c321c65cd67f98c2f329e61a78dd0923153c9ba16f7715b582891981be9469b11cf78f21a61f71181d3b4d2a484ac8a57b92e2a88466c09d8f02",
+  "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core/1.7.3",
+  "dest-filename": "kotlinx-serialization-core-1.7.3.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-bom/1.7.3/kotlinx-serialization-bom-1.7.3.pom",
+  "sha512": "5132dead1b4cfb4aa4a1431ea1fa4ebafc8f9e34c7ca0f979a82c7aed04ce4644029078eb83332fa066fe6decf85c9ed96b9eb826edf119e11e4e8aca358a809",
+  "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-bom/1.7.3",
+  "dest-filename": "kotlinx-serialization-bom-1.7.3.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.jar",
+  "sha512": "7b89cfd2eb13f75a47a2e6fc08e1731adb4ddf1533192dba467c208f2f467a9461ac019ee616347ec7b5db371322881ebec6cfb3ae8023aca1146cc9eddbef71",
+  "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3",
+  "dest-filename": "kotlinx-serialization-core-jvm-1.7.3.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.pom",
+  "sha512": "ee408d89057e2c4b786c7853dbc944a692e62429e640a709fdfd903ebfa5b5f32a0d7049edfaa1899971609f21823c0f1a2732a1b6f8ef97d08cda121030c40a",
+  "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3",
+  "dest-filename": "kotlinx-serialization-core-jvm-1.7.3.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.module",
+  "sha512": "1815e5f9c2440464e2527a7a703523e079814f3a688af8a7ca2e383c237e8f14b1cee4b18debf3e7a1b870074398efcea380b4c0234d2d054ec607548424c695",
+  "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3",
+  "dest-filename": "kotlinx-serialization-core-jvm-1.7.3.module"
+},
+{
+  "type": "file",
+  "url": "https://repo1.maven.org/maven2/com/formdev/flatlaf/3.6.1/flatlaf-3.6.1.jar",
+  "sha512": "4e70ed4202b3e086dbb4366dd196bee75507991c8023af3b31d5fc6ddc2913d0a6058d96e9b88d8f46dd7cea5e64f1079904a48abca43e2d161a301b9b2f4218",
+  "dest": "./offline-repository/com/formdev/flatlaf/3.6.1",
+  "dest-filename": "flatlaf-3.6.1.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo1.maven.org/maven2/com/formdev/flatlaf/3.6.1/flatlaf-3.6.1.pom",
+  "sha512": "278386479975d5650e5a3202c89c11aa1baacf2b3940e02effadb9d0a2aefe53bc0e8352b220d31e3c5d749a977e7a431456d02daa3700b51ded62e7eba00a7a",
+  "dest": "./offline-repository/com/formdev/flatlaf/3.6.1",
+  "dest-filename": "flatlaf-3.6.1.pom"
+}
 ]
