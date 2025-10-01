@@ -251,6 +251,20 @@
     "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.4.2",
     "dest-filename": "skiko-awt-runtime-linux-arm64-0.9.4.2.pom"
   },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.22.2/skiko-awt-runtime-linux-arm64-0.9.22.2.jar",
+    "sha512": "4bf40404373b1364904c585daab458c49ad048fffd848c3e5910e530d062890586daee470d5e3d851da437ec619007a06f706a61fbb18d4c9037ea4a88457a68",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.22.2",
+    "dest-filename": "skiko-awt-runtime-linux-arm64-0.9.22.2.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.22.2/skiko-awt-runtime-linux-arm64-0.9.22.2.pom",
+    "sha512": "0b90e71423a122810c9578fa18d948b915e285846ddf0775845ace5dfa518b4d0108c68a551cb2971f758f34b0a2ad63172d6f0b3468494bec47bfc610937739",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.22.2",
+    "dest-filename": "skiko-awt-runtime-linux-arm64-0.9.22.2.pom"
+  },
 {
   "type": "file",
   "url": "https://repo1.maven.org/maven2/com/squareup/okio/okio-jvm/3.12.0/okio-jvm-3.12.0.jar",
