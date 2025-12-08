@@ -1175,5 +1175,124 @@
   "sha512": "8a7134a2336ddafa222ddfa3538461f3a6f0258208d6e9a3e7cf413c50e0a7c7485419d50de178e2a3b57c09ff5124b9adddb633d14f81f10eef51b31fbd35d4",
   "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-assignment-compiler-plugin-embeddable/2.2.0",
   "dest-filename": "kotlin-assignment-compiler-plugin-embeddable-2.2.0.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo1.maven.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.3/symbol-processing-aa-embeddable-2.3.3.jar",
+  "sha512": "d92fdfdeb6e0b8307eb0391aef7216816b3c50b86309aa643087f4e356901e9b88f223a177a3ef09af61a1953cf181812e8c217d0bc8d2a73a1b043607fca183",
+  "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.3",
+  "dest-filename": "symbol-processing-aa-embeddable-2.3.3.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo1.maven.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.3/symbol-processing-aa-embeddable-2.3.3.pom",
+  "sha512": "638b612aeb015abd14a639f625d489e9ce2b9d0df83fbbe45dfeeae691473a228ad69f74942fda1b34eb311809330d4dd3625a82e57d9719bca8ae2f08a8b1bb",
+  "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.3",
+  "dest-filename": "symbol-processing-aa-embeddable-2.3.3.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-Beta1/kotlin-stdlib-2.3.0-Beta1.jar",
+  "sha512": "1720f590801cb07dc9b29f9fd0a39457c7b40cb5084a29742f63de71c89a9531e66387ffab944706fcad524ef7ea72366dfeebf22598fc86a4806b8d256697fa",
+  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-Beta1",
+  "dest-filename": "kotlin-stdlib-2.3.0-Beta1.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-Beta1/kotlin-stdlib-2.3.0-Beta1.pom",
+  "sha512": "169cdee7b2a340aea88cb886be47f2ac7b0305ab5fb2da67d42d7c3c12662fd7c520f26910e84a0f45713cc382c027a7e465ecda7fc75176058fc39610913f9b",
+  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-Beta1",
+  "dest-filename": "kotlin-stdlib-2.3.0-Beta1.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-Beta1/kotlin-stdlib-2.3.0-Beta1.module",
+  "sha512": "bf169321a8f4a997321f431543f3ddb1733830853d749ea6c17908e577bc014d8ccd9ac0fd3ebe41ec509715b9025aecbdea8d94c95d2222d69722e3170d1f8d",
+  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-Beta1",
+  "dest-filename": "kotlin-stdlib-2.3.0-Beta1.module"
+},
+{
+  "type": "file",
+  "url": "https://repo1.maven.org/maven2/org/jetbrains/compose/material/material-ripple-desktop/1.9.1/material-ripple-desktop-1.9.1.jar",
+  "sha512": "d9553279f7fdb9f3fe3f2217b9b7576f2d9d13ce4dcf532dfe8e2ecf553327f230dfac1781675f991d5f6aabdee3ecfcf0af1b58ffdaecec7c5343fb28b0505d",
+  "dest": "./offline-repository/org/jetbrains/compose/material/material-ripple-desktop/1.9.1",
+  "dest-filename": "material-ripple-desktop-1.9.1.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo1.maven.org/maven2/org/jetbrains/compose/material/material-ripple-desktop/1.9.1/material-ripple-desktop-1.9.1.pom",
+  "sha512": "2bda3dbc67ebd697d3fc4c08d5529813041c47e9658b5f882d0caf84b68e0ca4fd8af48a7d6d649a882793e6a53be294dce0d7b173783a8cb8b6761cbaa715dd",
+  "dest": "./offline-repository/org/jetbrains/compose/material/material-ripple-desktop/1.9.1",
+  "dest-filename": "material-ripple-desktop-1.9.1.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo1.maven.org/maven2/org/jetbrains/compose/material/material-ripple-desktop/1.9.1/material-ripple-desktop-1.9.1.module",
+  "sha512": "dae1064372ac706dc5928742d3e490cef1a8ace7d578ebb321439d252285c47462d7a086a792d15d91645d741ac7d0c579c16183fb84456f110a95c09fb8761f",
+  "dest": "./offline-repository/org/jetbrains/compose/material/material-ripple-desktop/1.9.1",
+  "dest-filename": "material-ripple-desktop-1.9.1.module"
+},
+{
+  "type": "file",
+  "url": "https://repo1.maven.org/maven2/org/jetbrains/androidx/lifecycle/lifecycle-common/2.9.4/lifecycle-common-2.9.4.jar",
+  "sha512": "89e3933b3a5983b6475bdbbc355f750c0f07c5ee9b889778049d238c3b8bc42b2d2ee89ba217ecd36d2fa9278d59ad4be1a89df2307e566071aec209d9a8c2cb",
+  "dest": "./offline-repository/org/jetbrains/androidx/lifecycle/lifecycle-common/2.9.4",
+  "dest-filename": "lifecycle-common-2.9.4.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo1.maven.org/maven2/org/jetbrains/androidx/lifecycle/lifecycle-common/2.9.4/lifecycle-common-2.9.4.pom",
+  "sha512": "6bfc01b141edff93d31bee6a58600e41014c3e76be126cef01c498ae1a2ae027bfec5bce2120a3716e86ea657bf3b2075035d5076d5c988a5cc2b6019d25f8d2",
+  "dest": "./offline-repository/org/jetbrains/androidx/lifecycle/lifecycle-common/2.9.4",
+  "dest-filename": "lifecycle-common-2.9.4.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo1.maven.org/maven2/org/jetbrains/androidx/lifecycle/lifecycle-common/2.9.4/lifecycle-common-2.9.4.module",
+  "sha512": "74df147d82128e473c74fa3ce4d84a0ed5af658dc78c3fe36c9d96fbd7da95953241fcf8feccb09b76231bbe16186d546526395bd572227497e148fcb17d3d39",
+  "dest": "./offline-repository/org/jetbrains/androidx/lifecycle/lifecycle-common/2.9.4",
+  "dest-filename": "lifecycle-common-2.9.4.module"
+},
+{
+  "type": "file",
+  "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common/2.9.4/lifecycle-common-2.9.4.jar",
+  "sha512": "934d581408ee1a783d4e8ec3a24ffe9da6401ff53e79f4893310acd0063264aa4249d1c512cae9a029ecf1858f9ec9d795ba5bcd87494cbde1ce25a28b9101a0",
+  "dest": "./offline-repository/androidx/lifecycle/lifecycle-common/2.9.4",
+  "dest-filename": "lifecycle-common-2.9.4.jar"
+},
+{
+  "type": "file",
+  "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common/2.9.4/lifecycle-common-2.9.4.pom",
+  "sha512": "355ebba612f3a2bacb14269e3227319fbad4884422c409d948c4536ce1598e320d1756304cb0dc5669b3549323fe37813d4e4e9f43927b394109791501878c94",
+  "dest": "./offline-repository/androidx/lifecycle/lifecycle-common/2.9.4",
+  "dest-filename": "lifecycle-common-2.9.4.pom"
+},
+{
+  "type": "file",
+  "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common/2.9.4/lifecycle-common-2.9.4.module",
+  "sha512": "8b0bca9f2e81c8642b4d85cda0911764cd891768cf8f6c50e82f237d496bce5cbee492a961c3ee3375d91abe47d9036de7fb256ed5f24345db062a78f7366296",
+  "dest": "./offline-repository/androidx/lifecycle/lifecycle-common/2.9.4",
+  "dest-filename": "lifecycle-common-2.9.4.module"
+},
+{
+  "type": "file",
+  "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common-jvm/2.9.4/lifecycle-common-jvm-2.9.4.jar",
+  "sha512": "20b6ce1a985e807206cd0d5b9170908d4c9fe8fe00b457c5495affd9e46d3f3435e535efe5a4a4295ba0567fd863f641739b05229daf5d19a5b872a789d0882f",
+  "dest": "./offline-repository/androidx/lifecycle/lifecycle-common-jvm/2.9.4",
+  "dest-filename": "lifecycle-common-jvm-2.9.4.jar"
+},
+{
+  "type": "file",
+  "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common-jvm/2.9.4/lifecycle-common-jvm-2.9.4.pom",
+  "sha512": "77ad64a48668e04afc9542cf0c04beff033fbc7f9569105ea20dbac40fab379e157612cbeb817c6829404baf4fc9d9c0962a5c58f98ce38908315075cfc3fe3d",
+  "dest": "./offline-repository/androidx/lifecycle/lifecycle-common-jvm/2.9.4",
+  "dest-filename": "lifecycle-common-jvm-2.9.4.pom"
+},
+{
+  "type": "file",
+  "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common-jvm/2.9.4/lifecycle-common-jvm-2.9.4.module",
+  "sha512": "0e10ca357c1cd2e2cb2d90ca05efb55a2ec6ad2a3c8d711749862371fd23e0dd9f07ae983b8e5fec5ca31d3b334ec80cddc30adedcbbabd0f1ed0346b50a13b1",
+  "dest": "./offline-repository/androidx/lifecycle/lifecycle-common-jvm/2.9.4",
+  "dest-filename": "lifecycle-common-jvm-2.9.4.module"
 }
 ]
