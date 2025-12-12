@@ -26,5 +26,229 @@
     "sha512": "0f70dd275e85df87c4be34cf837bf7d20edaf2e5d8488071d162233271b5c923a5e5fcbec603bf5d6931bf3cddc4c62afe32dd494fc7c9b3f598ab6dbdac0d77",
     "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.4.2",
     "dest-filename": "skiko-awt-runtime-linux-arm64-0.9.4.2.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/foundation/foundation/1.9.1/foundation-1.9.1.jar",
+    "sha512": "b889ecf50d538226f968c89eedacfaa4868aee254e2fcf2b4a3521d43334c3da8df0e856a28208afeff730653befff6f2bb29bbb01423dce371ce37dfec255e3",
+    "dest": "./offline-repository/org/jetbrains/compose/foundation/foundation/1.9.1",
+    "dest-filename": "foundation-1.9.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/foundation/foundation/1.9.1/foundation-1.9.1.pom",
+    "sha512": "06ab92303b5a3a19c881c21de6efd968a58bfb9ec74cee48cbc2e1d41dc9b2e2c7957b6dfbfd62708385d6ed2837254f006c7027185508b52711be2e4ceb74b7",
+    "dest": "./offline-repository/org/jetbrains/compose/foundation/foundation/1.9.1",
+    "dest-filename": "foundation-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/foundation/foundation/1.9.1/foundation-1.9.1.module",
+    "sha512": "4fb5482665bb4cc22000283fd557e29b1705a90680c99b989c87b42b95e971fefdac954a02bd12d167d513cecc5ec1cb3e838c390391f25ad34c037de1c31172",
+    "dest": "./offline-repository/org/jetbrains/compose/foundation/foundation/1.9.1",
+    "dest-filename": "foundation-1.9.1.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/foundation/foundation-desktop/1.9.1/foundation-desktop-1.9.1.jar",
+    "sha512": "411d8a9b25fbf67be4201f24ac86f913046cca22ac193896211f5b097e532ffb61dab00f1d3655e88c0691b9a8db1cc5810c9b0652425094de56e2bc24848b9d",
+    "dest": "./offline-repository/org/jetbrains/compose/foundation/foundation-desktop/1.9.1",
+    "dest-filename": "foundation-desktop-1.9.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/foundation/foundation-desktop/1.9.1/foundation-desktop-1.9.1.pom",
+    "sha512": "8dc5da23b5e9903d75a51675d16a89d9d54458af20fb32cc85b1c4e677fb5fdd726866203ad1064f703804ef211a96726f2ac23d0ff3ee8cf5c367d39005ced4",
+    "dest": "./offline-repository/org/jetbrains/compose/foundation/foundation-desktop/1.9.1",
+    "dest-filename": "foundation-desktop-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/foundation/foundation-desktop/1.9.1/foundation-desktop-1.9.1.module",
+    "sha512": "03fbc52a5a331e62ced9a1d11f31303872ab6d6905e9701b135c4a20990f0fd6e165b74fc231f68555e55010fdab6f16fe5afff57e81822fba65ccb9c923b2d8",
+    "dest": "./offline-repository/org/jetbrains/compose/foundation/foundation-desktop/1.9.1",
+    "dest-filename": "foundation-desktop-1.9.1.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-graphics/1.9.1/ui-graphics-1.9.1.jar",
+    "sha512": "3baf1f919f94815a98f4ae74689e5391f0f64afa9b296cb5ae06424e1473722b45737037535848a5e72555d98761546be15ec72ba735f6e01b2521eeacc3d1fc",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-graphics/1.9.1",
+    "dest-filename": "ui-graphics-1.9.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-graphics/1.9.1/ui-graphics-1.9.1.pom",
+    "sha512": "93229bf370c11ec2109d80bf3b5830c05183801c8036e9ddd60783df8e52302a99166a82e7e3e6ad9af41de6270a01a4f018b072715e07e423acea0712f42de0",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-graphics/1.9.1",
+    "dest-filename": "ui-graphics-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-graphics/1.9.1/ui-graphics-1.9.1.module",
+    "sha512": "1c79f82c51174e091460070ba38d9b0ea63eecfcc822153c4209526abcbf11e0d0586b53b6996ac82207cb8453e6b568a8d824b2f486b7803ca45c15baa16183",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-graphics/1.9.1",
+    "dest-filename": "ui-graphics-1.9.1.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-graphics-desktop/1.9.1/ui-graphics-desktop-1.9.1.jar",
+    "sha512": "7bb47535ee9b00f44c28353defcae56d147b77cc6af48c40a2c5359175fdb9a960f508d1427861d5a961a34425bfd2de62d51dc4b4c6c3546ad236999bb3c7a2",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-graphics-desktop/1.9.1",
+    "dest-filename": "ui-graphics-desktop-1.9.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-graphics-desktop/1.9.1/ui-graphics-desktop-1.9.1.pom",
+    "sha512": "8dd874b2e7d415c5b8594db588d37a55710614f18e59a3ef100e128ac9a12c1b2756d60a2f80cc28b8386a555ffbf60d7c2d7d6a43a5f8f95927e534526790d7",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-graphics-desktop/1.9.1",
+    "dest-filename": "ui-graphics-desktop-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-graphics-desktop/1.9.1/ui-graphics-desktop-1.9.1.module",
+    "sha512": "7976509c1903785974be5e24d3e43ba8eedab4d8c25e41e7acb917a91558b85884ba62ba89ba359100ede2fda3404a59de6d47229af287f84819c097d66d3ccb",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-graphics-desktop/1.9.1",
+    "dest-filename": "ui-graphics-desktop-1.9.1.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-text/1.9.1/ui-text-1.9.1.jar",
+    "sha512": "d0de5430ad1650cb8c082b46bf451f7e1b67213e4ab8d1cca3092e5fe7f04539d21aad09e4c5f3e4035615616f31fe8a61830dcb6049478dcdf634f90335dc9e",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-text/1.9.1",
+    "dest-filename": "ui-text-1.9.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-text/1.9.1/ui-text-1.9.1.pom",
+    "sha512": "70b4a176322c92c83279c9fd46a1b7a629f1b377d1bfcd11ed08b30468ceff2215491d444a6c96529ca9c8fd29ed0f36bf3d1d6ae3e640ffea65806baad3b721",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-text/1.9.1",
+    "dest-filename": "ui-text-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-text/1.9.1/ui-text-1.9.1.module",
+    "sha512": "93681cee82c64c207335607ad1dcbdb1d65030d4608f8a5c697d7ef74d5e45a58d5bb8f9bc2caf00ab6d31562bc0f64965cf145fe4648fc7449632ce80263a9d",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-text/1.9.1",
+    "dest-filename": "ui-text-1.9.1.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-text-desktop/1.9.1/ui-text-desktop-1.9.1.jar",
+    "sha512": "cadd5621be8539cf2e4e3fc609625cbe26f351ed07ac96a64ed2c3f647ce27b45af9de0a6788595b04854ec7911280a4983adb373f61d1a924d53ece9a279a03",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-text-desktop/1.9.1",
+    "dest-filename": "ui-text-desktop-1.9.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-text-desktop/1.9.1/ui-text-desktop-1.9.1.pom",
+    "sha512": "88fd033e98d20787733e252997e547574d2b58a9d34f8a146c05aaf19c960df84f02a21879bf17d9d3dd7b46aaa5a900ae6966a3d083d4e763bdaa4fda63691d",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-text-desktop/1.9.1",
+    "dest-filename": "ui-text-desktop-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-text-desktop/1.9.1/ui-text-desktop-1.9.1.module",
+    "sha512": "16cfdc6de4376a3b0e49e12c7fc79fec3fea0564f9cce25447397bc9f9c4ba56af15ce7679b6c12275e9edeabd9d50f81d2932f5a662f13d63525f8927f122b3",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-text-desktop/1.9.1",
+    "dest-filename": "ui-text-desktop-1.9.1.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui/1.9.1/ui-1.9.1.jar",
+    "sha512": "776ea5bb58738f6643d68003f53bc7f01e981bc473ead1f145b47db619d191625c685b53fea9b9f3db7c691ec9e1837ab2a143c48b9efdc382e4e28678d7477b",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui/1.9.1",
+    "dest-filename": "ui-1.9.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui/1.9.1/ui-1.9.1.pom",
+    "sha512": "5402f82d193bdbfdf2d02b7d009d5ecd974dc9c3e3fde17fb1aba87f4892f031444ec2cbd1621240ee252db8f9ee0e1abee525735ead8636738c348726d32cb3",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui/1.9.1",
+    "dest-filename": "ui-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui/1.9.1/ui-1.9.1.module",
+    "sha512": "c3a9883b9f62430c32dab88840baab11d93ef10e7f5beb48b700d70a0ce443c78b68febe781cc58b2e3327019661035cb60a363e47cecc3478943cb1c5646d8f",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui/1.9.1",
+    "dest-filename": "ui-1.9.1.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-desktop/1.9.1/ui-desktop-1.9.1.jar",
+    "sha512": "458ce334630a1667ea560196d5fb3c578e50208a7df417e48e1e65d1f99f9772df72cafb5e6952529fad2374c7689975aceb461eb0fd8d4d694ce528aadbc302",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-desktop/1.9.1",
+    "dest-filename": "ui-desktop-1.9.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-desktop/1.9.1/ui-desktop-1.9.1.pom",
+    "sha512": "46e34c949a8d909f3d46628bb34cbac64c9b829c5198387bdba439e847a4eb32785c60ba6a87bc9acf3c276414548e6af6a52e2f35e53cef60f2827172c8c499",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-desktop/1.9.1",
+    "dest-filename": "ui-desktop-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-desktop/1.9.1/ui-desktop-1.9.1.module",
+    "sha512": "135cc817a48c39afd49ffc80ace6be7c6e6b445ead77d616a63295321d60c48238856d6318ea4b46b348bb23aaec345087280797cb3cd387f41ed2f62fad5891",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-desktop/1.9.1",
+    "dest-filename": "ui-desktop-1.9.1.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-unit/1.9.1/ui-unit-1.9.1.jar",
+    "sha512": "50f2f868cb565ffc6ed0650ed8c004088e635db895ebc3cf8159e290d25816d2511c0937bbdf5b445353dce6834ba5ea089e11f0a1a5b22e7972bc3c175454c0",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-unit/1.9.1",
+    "dest-filename": "ui-unit-1.9.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-unit/1.9.1/ui-unit-1.9.1.pom",
+    "sha512": "62c6f2a62bf55532791b9ba5d20669f078a0e397e950c1055d8fadbcd461efcf5e2d115ba325c7542b7a8a946278229a7e6d41d1930b0ccf2fb0f2ebf6a76159",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-unit/1.9.1",
+    "dest-filename": "ui-unit-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-unit/1.9.1/ui-unit-1.9.1.module",
+    "sha512": "dd1bd115a5f6d0283757e10854afa4ce8da8920ebdc780206c849431a5d6b37ec553da4acbbbf75169e1858517267dda67865a0da696cc746e6c40f571294cfb",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-unit/1.9.1",
+    "dest-filename": "ui-unit-1.9.1.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-unit-desktop/1.9.1/ui-unit-desktop-1.9.1.jar",
+    "sha512": "6a00b042eb629fff864e9628e325f8359c7fa1f659ebff7613d975376425afa8e9d9f02750f65f85eef1da387fa1bb7e0e094ab5533ac598b28194ae9bbf2645",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-unit-desktop/1.9.1",
+    "dest-filename": "ui-unit-desktop-1.9.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-unit-desktop/1.9.1/ui-unit-desktop-1.9.1.pom",
+    "sha512": "e598992c29c88b134ea7e205927da372e67063c1d894a2e8ac68233c70d7daec249592e527f125ce76ff8f274eb7399a522a6d8d91252676c9f2859f6187f620",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-unit-desktop/1.9.1",
+    "dest-filename": "ui-unit-desktop-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-unit-desktop/1.9.1/ui-unit-desktop-1.9.1.module",
+    "sha512": "3aa94f01211de2452dc9b10618cf8c1b5deae81eee4cf3036cdf53ef2ee574d8a089b6871d9d3c52b45ab501b78a5e05f91af8aabbb5927f32b085fdc9a59d5e",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-unit-desktop/1.9.1",
+    "dest-filename": "ui-unit-desktop-1.9.1.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko/0.9.4.2/skiko-0.9.4.2.jar",
+    "sha512": "e861ade3d89f3306e9eabba6dc5d52a77aeaf3de5048199620edf989dcc8a86c7811338aa3ae7d3fc2dfd7ca019158f2bf00b60f062ed1ee55cb5af453684f7e",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko/0.9.4.2",
+    "dest-filename": "skiko-0.9.4.2.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko/0.9.4.2/skiko-0.9.4.2.pom",
+    "sha512": "ad7b221fe202fb6f56f32702ce6ec9c50472c35f39ca17683d8a8851fe88b2dca6538d7ccb0ee60c8c2dffd4aab6b23e2905f67a42524e29ea068f10c48a6c2c",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko/0.9.4.2",
+    "dest-filename": "skiko-0.9.4.2.pom"
   }
 ]
