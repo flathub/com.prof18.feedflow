@@ -46,3 +46,4 @@ modules:
       - flatpak-sources-convention.json
       - flatpak-sources-manual.json
       - flatpak-sources-root.json
+      - flatpak-sources-manual2.json
