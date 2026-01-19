@@ -243,5 +243,355 @@
     "sha512": "ad7b221fe202fb6f56f32702ce6ec9c50472c35f39ca17683d8a8851fe88b2dca6538d7ccb0ee60c8c2dffd4aab6b23e2905f67a42524e29ea068f10c48a6c2c",
     "dest": "./offline-repository/org/jetbrains/skiko/skiko/0.9.4.2",
     "dest-filename": "skiko-0.9.4.2.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/de/halfbit/csv/1.3/csv-1.3.jar",
+    "sha512": "91b86800fd6a5424dd810516921106ab8e226a78b4e7de096d2062598ef898453d93ff9939ab3011459c732f1e0664ce61066a093b1c50d6bcea9c4dba47304a",
+    "dest": "./offline-repository/de/halfbit/csv/1.3",
+    "dest-filename": "csv-1.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/de/halfbit/csv/1.3/csv-1.3.pom",
+    "sha512": "ab8db70df0002740805834fae6bef0add3e52051310a35ff2125d53f6072966e7a054e88e5b435c42b5c03418565e3326344ebe01f47d54ddb921cf375e5e9f2",
+    "dest": "./offline-repository/de/halfbit/csv/1.3",
+    "dest-filename": "csv-1.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio/3.6.0/okio-3.6.0.jar",
+    "sha512": "1c3e2933a386af47266229824744245799a9f77f7f3d3bb44428eb81f02d5df6993e864c8fa794caf08a98fd81a89d5d670037226345a570905d8229c1e55c3b",
+    "dest": "./offline-repository/com/squareup/okio/okio/3.6.0",
+    "dest-filename": "okio-3.6.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio/3.6.0/okio-3.6.0.pom",
+    "sha512": "b28fab6b6ec5b72759815673e6ee9e8dfff3e9940a016588e671f4ef4e2f936117c7cef31c38459a5d702b217e57c47f91bea693a9b9072b3422b84515133fe6",
+    "dest": "./offline-repository/com/squareup/okio/okio/3.6.0",
+    "dest-filename": "okio-3.6.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio/3.6.0/okio-3.6.0.module",
+    "sha512": "2942511ac0f204af6261b9b254adeefc432518e8ad123957875f8ff95c9994c2564a019f3edebc3499a8404700e031d8d95eb8c084bee58c535ff9ccc383f19e",
+    "dest": "./offline-repository/com/squareup/okio/okio/3.6.0",
+    "dest-filename": "okio-3.6.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio-jvm/3.6.0/okio-jvm-3.6.0.jar",
+    "sha512": "a592e93651fb5e335212bb25c1cf474c1b1076eda68d53cbdc82c383cbdd60114a62b698ca92a3b4b5e416d637a70f2ddabbf8a05551c62d59a240c3e3c3d2c6",
+    "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.6.0",
+    "dest-filename": "okio-jvm-3.6.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio-jvm/3.6.0/okio-jvm-3.6.0.pom",
+    "sha512": "e723f3262137f7a892a6f6fe277272b0e457b48aa035651b52d9f598d9f98ca285217c74356a90dcf8a34800797fe458f6e1c461dbf69f9c8d8fe4e66dbdfdfb",
+    "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.6.0",
+    "dest-filename": "okio-jvm-3.6.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio-jvm/3.6.0/okio-jvm-3.6.0.module",
+    "sha512": "3c5a57a33fb90618710b298e233ae81cdcdbeed204328e9dc55fe0aaf63eb3fa24e58f4d489f5dde48e2ff716b16e0c47882d8be61bd3bd579b3e23ee3034ce3",
+    "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.6.0",
+    "dest-filename": "okio-jvm-3.6.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.4/symbol-processing-aa-embeddable-2.3.4.jar",
+    "sha512": "db36df1db2943b6db655a0f7aa7d85e06e5824ea35b304362d965a385c5b5dfeb10bb47c4373a8a14515c2931c982de849b8edf77cc6311544de4ff0dcd8b15f",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.4",
+    "dest-filename": "symbol-processing-aa-embeddable-2.3.4.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.4/symbol-processing-aa-embeddable-2.3.4.pom",
+    "sha512": "ae97051a0158e402d365370699651955582bfe1e21b17d1c79c0292d69bcbb81829ac9950a584265d523cedf8785c9ee04ea78002b3b3efb8bb0aa77ae6c9a0c",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.4",
+    "dest-filename": "symbol-processing-aa-embeddable-2.3.4.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-RC/kotlin-stdlib-2.3.0-RC.jar",
+    "sha512": "cfd9a7bb995c04cf5fcb2c028600da02e4901f603d9e40a6b8420707c9b3e9731f727eec61819549217e49a600299f5dacda6ffe4d00ab1ae9a6186801b2d21c",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-RC",
+    "dest-filename": "kotlin-stdlib-2.3.0-RC.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-RC/kotlin-stdlib-2.3.0-RC.pom",
+    "sha512": "e6478755621ad9ef595749d6c675e67ba851c9a869ca58802b8d65135a86ecf5dced9e79b52818e6528e714124f7c20f78aaeb9950352defe580c27263e95fc9",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-RC",
+    "dest-filename": "kotlin-stdlib-2.3.0-RC.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-RC/kotlin-stdlib-2.3.0-RC.module",
+    "sha512": "8d15bf5bcb2e563260e0b2724f91dd2daaa1a8daf1ad0f27fe46355c411c706fff77c0e1103e64cf380955828edf3949f4549d2d0ceeaee69d131629f114980f",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-RC",
+    "dest-filename": "kotlin-stdlib-2.3.0-RC.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/api-client/google-api-client/2.8.1/google-api-client-2.8.1.jar",
+    "sha512": "af54078405c2b85e1ed34a5be7f04957f63daf2849cda9ab4f7f80729047e782ced98620a120770d75cb1bc1867ef262a1e9d7fa64a40e14de3363cd1da27ec7",
+    "dest": "./offline-repository/com/google/api-client/google-api-client/2.8.1",
+    "dest-filename": "google-api-client-2.8.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/api-client/google-api-client/2.8.1/google-api-client-2.8.1.pom",
+    "sha512": "db27cd61a870d6c20f282a41b1bf02c40d33894f14f145260528a7f20055ca2b175a1f706bcb87019f095acf224e5d88dd9cf36674999b97de3cf7ff08208f4e",
+    "dest": "./offline-repository/com/google/api-client/google-api-client/2.8.1",
+    "dest-filename": "google-api-client-2.8.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client-jetty/1.39.0/google-oauth-client-jetty-1.39.0.jar",
+    "sha512": "a227ef0b4a5430fbd42f0243fa3b1bbc9d624ab14e68270ee5c5bbf9c6a0ad7cc791644811dc19fe800048f61589ab9e31effbff78328f12a0e7419b48ba8645",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client-jetty/1.39.0",
+    "dest-filename": "google-oauth-client-jetty-1.39.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client-jetty/1.39.0/google-oauth-client-jetty-1.39.0.pom",
+    "sha512": "d5a630936f32cec52a9f10029e56e7cf9669018f8531e17ae44346b9239cbd907d1a6fcaaebc6d7dd6d3542c25eb1d77acacd812b2cca6a8812de3c0d1055489",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client-jetty/1.39.0",
+    "dest-filename": "google-oauth-client-jetty-1.39.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/apis/google-api-services-drive/v3-rev20251210-2.0.0/google-api-services-drive-v3-rev20251210-2.0.0.jar",
+    "sha512": "5416a4578a06c57430033fe99c646b46306a088c7c4055e2dc8262fccebcfa1c9c11949825695b1c1ece347cc8330e307526c8fa783338cd7b00ea80dec25db1",
+    "dest": "./offline-repository/com/google/apis/google-api-services-drive/v3-rev20251210-2.0.0",
+    "dest-filename": "google-api-services-drive-v3-rev20251210-2.0.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/apis/google-api-services-drive/v3-rev20251210-2.0.0/google-api-services-drive-v3-rev20251210-2.0.0.pom",
+    "sha512": "a6ad7f055a448c00fcbd3786be117dd4e22c1df0a992089a1021f26e2b2e6faabfd9392819c05619761591f74727eb0fca6c38932becd5fd84a7aa092fe07a50",
+    "dest": "./offline-repository/com/google/apis/google-api-services-drive/v3-rev20251210-2.0.0",
+    "dest-filename": "google-api-services-drive-v3-rev20251210-2.0.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/api-client/google-api-client-parent/2.8.1/google-api-client-parent-2.8.1.pom",
+    "sha512": "f4950ecd48a16d458becac7f41ab6f86472ad1c4cc0d8776da3a81b0ab9abf409971c327f0d30da72fd050b72988ffa6113bfb9ee39d60a5b77d7bb3b154c364",
+    "dest": "./offline-repository/com/google/api-client/google-api-client-parent/2.8.1",
+    "dest-filename": "google-api-client-parent-2.8.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-bom/2.0.0/google-http-client-bom-2.0.0.pom",
+    "sha512": "189ada116c5de52d53061ec4ad63f4c5bdcb8cab8823e424735638418c759bf49832bf4590ff9a771574c01cece744c05c863e41cbcadd9d2a667c307b5188c3",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-bom/2.0.0",
+    "dest-filename": "google-http-client-bom-2.0.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client-parent/1.39.0/google-oauth-client-parent-1.39.0.pom",
+    "sha512": "2967027c54bc70d30e85763ec8ee44c3606d0608e1d3aade36505bfe15722e37a74f52c44d04dfe0e3b6174595e0cf107f047c9d575b6272fcc26962be21b45b",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client-parent/1.39.0",
+    "dest-filename": "google-oauth-client-parent-1.39.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-bom/1.43.3/google-http-client-bom-1.43.3.pom",
+    "sha512": "52cfcf4011de81af7865001c9b1b2d2e78a0d639bdaf2ac85e2014e7e1617c400245d8e86a46e6722a3a76cfb03eb72f30aeb149b40a1ceb10fad5d8849e4916",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-bom/1.43.3",
+    "dest-filename": "google-http-client-bom-1.43.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client-bom/1.36.0/google-oauth-client-bom-1.36.0.pom",
+    "sha512": "6b747029e8ecbce424dfeb89c1c3368f8f23f6e261fcfe5bccd19624652cf2f06addeaf46cf05919dca099b673ffb792c111ab3add08530aeeda3e8355bf91f6",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client-bom/1.36.0",
+    "dest-filename": "google-oauth-client-bom-1.36.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client/1.43.3/google-http-client-1.43.3.jar",
+    "sha512": "8fd64f4f5220f11a56d86ec29feeb79256a1d1c79271547268baba85fec7bd590c132039bf05fd03f2a7935860b2d0f59dd9cb0dccf9c2ccf148224402b87ff0",
+    "dest": "./offline-repository/com/google/http-client/google-http-client/1.43.3",
+    "dest-filename": "google-http-client-1.43.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client/1.43.3/google-http-client-1.43.3.pom",
+    "sha512": "6431e24d06582f851d8afccd5022af7952bd7ec71f3bd8a0dda4908994ffd9cae1486bd617410dc80a0a35449629d6fcd8584ddad45cc0586500396adf5073c3",
+    "dest": "./offline-repository/com/google/http-client/google-http-client/1.43.3",
+    "dest-filename": "google-http-client-1.43.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-gson/1.43.3/google-http-client-gson-1.43.3.jar",
+    "sha512": "c58d428e25212d0da965b770e3ee894bb4fb3e1be95e66dc81e9e16b5e15f29986099eb7d080d294ee64281abb5d29c773f2354c60f97d29a1be9d300641a233",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-gson/1.43.3",
+    "dest-filename": "google-http-client-gson-1.43.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-gson/1.43.3/google-http-client-gson-1.43.3.pom",
+    "sha512": "9c18723b0e2a34d839897bfa590d222aff200b84cf767fa08a2379d15e86440eb376a72fff0ac733cdee618160c903a11d1a0f44d84f42089862076f62c7580a",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-gson/1.43.3",
+    "dest-filename": "google-http-client-gson-1.43.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava/31.1-android/guava-31.1-android.jar",
+    "sha512": "74887c9f0d30875edccf7fde63f405ebc9e37ce84a791ff12ae333a1f4e685acab115f6bdecffd101aabe9ba0cc83498c08f273381621eabcf0279fb8847860b",
+    "dest": "./offline-repository/com/google/guava/guava/31.1-android",
+    "dest-filename": "guava-31.1-android.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava/31.1-android/guava-31.1-android.pom",
+    "sha512": "de2615ecb258cd54d653ba1e9b381dd455d81bcd765549ecebd4ecaa72398087931133037d1b7a8ce3cce67fd38efcfbfa5be89ce2b7b3ef76613e4d021b3bed",
+    "dest": "./offline-repository/com/google/guava/guava/31.1-android",
+    "dest-filename": "guava-31.1-android.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/auth/google-auth-library-bom/1.30.0/google-auth-library-bom-1.30.0.pom",
+    "sha512": "44826924331c792501dad77f3c3996c9584c7ee2116331ed8553fcf8ab30993109af2f7070d74425e6f2347bc0ffb5fbd303583d509e7dc684a493a757a92a70",
+    "dest": "./offline-repository/com/google/auth/google-auth-library-bom/1.30.0",
+    "dest-filename": "google-auth-library-bom-1.30.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-parent/1.43.3/google-http-client-parent-1.43.3.pom",
+    "sha512": "2100f9180922742ecb8d9fd0f66e358a1445ef12e3e464aaa65f1e9290f30bc3a40a74ee9b59054178e8b247ca8fe133e831ecd4d6f44b12462134c62173614b",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-parent/1.43.3",
+    "dest-filename": "google-http-client-parent-1.43.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/31.1-android/guava-parent-31.1-android.pom",
+    "sha512": "a997bb24827651c867ddfa4d6f9c0d3305fbf35a3b471e8b42a9e5f5d28749c76976dabde41976e7a1c73d5ed0c3ea6a2cd2cd8cec61850e5a9e975bb6577a2b",
+    "dest": "./offline-repository/com/google/guava/guava-parent/31.1-android",
+    "dest-filename": "guava-parent-31.1-android.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava/33.4.8-jre/guava-33.4.8-jre.jar",
+    "sha512": "82c43d82fee2b3264e53cd2e9451865f9467ec0baa68d0ddfffa06a1e5465872913150ef96e99ea91daec4387248d832ec9398859f2fa5f08f65caf103306ba3",
+    "dest": "./offline-repository/com/google/guava/guava/33.4.8-jre",
+    "dest-filename": "guava-33.4.8-jre.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava/33.4.8-jre/guava-33.4.8-jre.pom",
+    "sha512": "1660d1b854541d401ffe0fe96c201ee59d5c239c193943940500dd37d59b0ff0f7af862af0d3f689cc29b19d85da4d7c4e0cc76b317d03386e17ab5ec8b151b0",
+    "dest": "./offline-repository/com/google/guava/guava/33.4.8-jre",
+    "dest-filename": "guava-33.4.8-jre.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth/3.3.3/ktor-client-auth-3.3.3.jar",
+    "sha512": "4e28db0eb455edc4e1656443a6a2b6079c657065d9e5be5389801d6ef745a958d4924f694f1d692007d957d1eeab9bd61c3b984b56d72700b9b7439f32a70379",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth/3.3.3",
+    "dest-filename": "ktor-client-auth-3.3.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth/3.3.3/ktor-client-auth-3.3.3.pom",
+    "sha512": "50c0bc2fa60904be07571252eb3255cb706f2f3e8a3a505a6906e57fd71c4ea39b8c4d8acb882b8ed049745637f9ac80ba0fe1f39ef0d7f5a6362f069f4f3725",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth/3.3.3",
+    "dest-filename": "ktor-client-auth-3.3.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth/3.3.3/ktor-client-auth-3.3.3.module",
+    "sha512": "76e14f6c006ad1e1035f2d172989f02891c7eebae73e93d363b71a6badd8e4f782aa611354025914b0e1119e47cd3f8e0c4135d049b480a03e6fe01c3150e8bc",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth/3.3.3",
+    "dest-filename": "ktor-client-auth-3.3.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth-jvm/3.3.3/ktor-client-auth-jvm-3.3.3.jar",
+    "sha512": "30b20709c6ed14f17f75c8b319beedf6fb75d7c86f14fc0a9fbeae78bc7820991f4fb78f2f28fd829c98fd1a31daf53cb2af03e31d0799aad88bcba849f0ac02",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth-jvm/3.3.3",
+    "dest-filename": "ktor-client-auth-jvm-3.3.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth-jvm/3.3.3/ktor-client-auth-jvm-3.3.3.pom",
+    "sha512": "feec6218107055bba61c1d6b8e405e009a19c9b6e1e076e16a349196afdcd44b2d6dabc2fbeb6ff3a20fd38fc6f971e874d1ec5eeb761c552207b11ef00daa34",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth-jvm/3.3.3",
+    "dest-filename": "ktor-client-auth-jvm-3.3.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth-jvm/3.3.3/ktor-client-auth-jvm-3.3.3.module",
+    "sha512": "a1b3cce8c7a0fc186076d6d42cb9c1d19cc1d29d847f7789c84ae2ba765e5f46ed6a1a048fec745aec64832250a5cf49d93680c1fe13cbad94bcbe1f6b53a5f8",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth-jvm/3.3.3",
+    "dest-filename": "ktor-client-auth-jvm-3.3.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/apache/apache/33/apache-33.pom",
+    "sha512": "17ccc60c4670ded2b9b0986c8549c7f7789afb4a194c81d16c9c8de10b514396f241c8b1622150b38a8d3a889f6733af66554685b7b801647b5ddfaccef5537e",
+    "dest": "./offline-repository/org/apache/apache/33",
+    "dest-filename": "apache-33.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/apache/logging/logging-parent/11.3.0/logging-parent-11.3.0.pom",
+    "sha512": "b04e926221d11008535d0fb3c30408ede1cb1f0e0841c2fca0a79081c1730f3c838c7ae824a635a4f07227ca9e7a4e565423399a2e86f22d78c356fab726af02",
+    "dest": "./offline-repository/org/apache/logging/logging-parent/11.3.0",
+    "dest-filename": "logging-parent-11.3.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.24.2/log4j-bom-2.24.2.pom",
+    "sha512": "e99192b83dbbaf063588d46125c36e82543507ef53d6c2df432adf16d8f2e8a04bce786f8aeb3dd5bb08e1552771d2f373ccade7a0607a1291b47511636571ff",
+    "dest": "./offline-repository/org/apache/logging/log4j/log4j-bom/2.24.2",
+    "dest-filename": "log4j-bom-2.24.2.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j/2.24.2/log4j-2.24.2.pom",
+    "sha512": "45f19c4d49bb2d97a25e03450be2d9d7989824fe29ee2ad1e5f2be50034abae6b0013e181f97ce443a2bb07e933e36a115f24c3df637d43b0ff30afc285c51d7",
+    "dest": "./offline-repository/org/apache/logging/log4j/log4j/2.24.2",
+    "dest-filename": "log4j-2.24.2.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.24.2/log4j-api-2.24.2.jar",
+    "sha512": "9665821c14c582dddd0ed181f8d49da3e25857eec11328e0d8978757f1cd2360ae60cf103a4b26b1ad5be47cf0857863a7a3c432a0f71f9eef14f64e8754f35c",
+    "dest": "./offline-repository/org/apache/logging/log4j/log4j-api/2.24.2",
+    "dest-filename": "log4j-api-2.24.2.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.24.2/log4j-api-2.24.2.pom",
+    "sha512": "e74ccf9239be37a42f400e3f7c350bcc41922c5ef4d348a1d546dbf04dc9f34dfa3070cce8c52a098a8423cd1684a58d96449fd9feaf5e472d6f35e7a2f97fcf",
+    "dest": "./offline-repository/org/apache/logging/log4j/log4j-api/2.24.2",
+    "dest-filename": "log4j-api-2.24.2.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.24.2/log4j-core-2.24.2.jar",
+    "sha512": "9a8ab3921a8285d500c3e6ce78254803cd785a18fb196951b2161a2a773043317e7c7a30fcf171948e861c952ff1d14a3baf66e1eba7f3393eb956f1069ac677",
+    "dest": "./offline-repository/org/apache/logging/log4j/log4j-core/2.24.2",
+    "dest-filename": "log4j-core-2.24.2.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.24.2/log4j-core-2.24.2.pom",
+    "sha512": "e77abb0f675fd1e1bc838ff084740690ebeb346fbd077ff75dcb0e85f010a539639f8288789e334a66d9e08dce26f34e4f3d67df3d0c31294051343b109cf6b7",
+    "dest": "./offline-repository/org/apache/logging/log4j/log4j-core/2.24.2",
+    "dest-filename": "log4j-core-2.24.2.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.10.3/junit-bom-5.10.3.pom",
+    "sha512": "51edc3d5a07b98c4ea60fd411db63e948f831e285d40e52b08387abf61d0b39ce90eb28209ef8825f55a3d2e29e501b168bdd0d322f50816bcf78e80862e219e",
+    "dest": "./offline-repository/org/junit/junit-bom/5.10.3",
+    "dest-filename": "junit-bom-5.10.3.pom"
   }
 ]
