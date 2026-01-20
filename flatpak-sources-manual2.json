@@ -596,17 +596,45 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.0/desktop-jvm-linux-arm64-1.10.0.jar",
-    "sha512": "91083a7d6f1ff711c32d516d8c6040280087a91508498555ade6105e930e15360965c273fbe10cd72807a18a384eb3e2daf1f9a37c24744d253bf520dae37d5a",
-    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.0",
-    "dest-filename": "desktop-jvm-linux-arm64-1.10.0.jar"
-  },
-  {
-    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.0/desktop-jvm-linux-arm64-1.10.0.pom",
     "sha512": "3c8fd089f51e00515e0b5a8b1f017897c26d5d2f5893f0ee888be1d4420ca155ebecd0af9da9d76ab1c2975fd51b62d2823ff919652d089ed328223a6fb08c32",
     "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.0",
     "dest-filename": "desktop-jvm-linux-arm64-1.10.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop/1.10.0/desktop-1.10.0.jar",
+    "sha512": "f9c081b46244233787a52aabb776722b019e9521c3a89a6b4e55a669be9cfee3411764e79d1de9563bc03c6e61e4fe541deee4b30affd96a14de6dd2fdca1dc9",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop/1.10.0",
+    "dest-filename": "desktop-1.10.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop/1.10.0/desktop-1.10.0.pom",
+    "sha512": "bd50ab7163e7088f469c4af5a26ae408d3184d14bde29757f3aed9408d8a40227a46233f6dc7e35bfe3c0561431d89032bb3d3a03e55e88b5a30a172480ada7e",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop/1.10.0",
+    "dest-filename": "desktop-1.10.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.37.3/skiko-awt-runtime-linux-arm64-0.9.37.3.jar",
+    "sha512": "ef5d328e42f122f1b541885da57149539074b09b10272f1889c7b57896e167dd254c8d53fd2b092db8e325d8b19bf5670e118aa25520514cbe4c4b62e1ca1da0",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.37.3",
+    "dest-filename": "skiko-awt-runtime-linux-arm64-0.9.37.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.37.3/skiko-awt-runtime-linux-arm64-0.9.37.3.pom",
+    "sha512": "ab2d96d2f91640fba8e96df7b256094f0f55bc339785c3a9cd35dd85f533c0ca480fda6524c75acd5aa82976b9d335a2a7910a81b4eba86e9ceab875ea9fb667",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.37.3",
+    "dest-filename": "skiko-awt-runtime-linux-arm64-0.9.37.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/animation/animation/1.9.1/animation-1.9.1.jar",
+    "sha512": "e3b2f638f226bd2be63a9f957f03323fba6b50b3999760b4d5b01e0ca3edb81da7cbf21afdb31073ab2f63bff3365f3a2be52ac990d29758ce19822468dc0e77",
+    "dest": "./offline-repository/org/jetbrains/compose/animation/animation/1.9.1",
+    "dest-filename": "animation-1.9.1.jar"
   },
   {
     "type": "file",
