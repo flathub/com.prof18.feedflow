@@ -593,5 +593,117 @@
     "sha512": "51edc3d5a07b98c4ea60fd411db63e948f831e285d40e52b08387abf61d0b39ce90eb28209ef8825f55a3d2e29e501b168bdd0d322f50816bcf78e80862e219e",
     "dest": "./offline-repository/org/junit/junit-bom/5.10.3",
     "dest-filename": "junit-bom-5.10.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.0/desktop-jvm-linux-arm64-1.10.0.jar",
+    "sha512": "91083a7d6f1ff711c32d516d8c6040280087a91508498555ade6105e930e15360965c273fbe10cd72807a18a384eb3e2daf1f9a37c24744d253bf520dae37d5a",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.0",
+    "dest-filename": "desktop-jvm-linux-arm64-1.10.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.0/desktop-jvm-linux-arm64-1.10.0.pom",
+    "sha512": "3c8fd089f51e00515e0b5a8b1f017897c26d5d2f5893f0ee888be1d4420ca155ebecd0af9da9d76ab1c2975fd51b62d2823ff919652d089ed328223a6fb08c32",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.0",
+    "dest-filename": "desktop-jvm-linux-arm64-1.10.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/animation/animation/1.9.1/animation-1.9.1.pom",
+    "sha512": "00f5ca4f4ed445bf663935d35b3c5aa4c8247bd366008031145c9c3afe0b75777a3e9d9a669f5e5dcb532a607532264dd20c7772a98eaa8ab0f0f906cd5955c0",
+    "dest": "./offline-repository/org/jetbrains/compose/animation/animation/1.9.1",
+    "dest-filename": "animation-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/animation/animation-desktop/1.9.1/animation-desktop-1.9.1.jar",
+    "sha512": "8d1d32dbd3c45d1c3d2cb2857fd6190524ff611f8e3ad0c952104bf7a068ed32019bfae759cf35e2d512e45beb0ea7ea6bddc9730c0e8420c7e6ce57591e575a",
+    "dest": "./offline-repository/org/jetbrains/compose/animation/animation-desktop/1.9.1",
+    "dest-filename": "animation-desktop-1.9.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/animation/animation-desktop/1.9.1/animation-desktop-1.9.1.pom",
+    "sha512": "a44c7c9954b04c30bd54468fd7d11b1ad0edfcf45e9ce99b718fd397abd8a53e54fb8c4d041f283850da60fb31dcf4e2a0c51cb23f06afbc72db1cf854970a40",
+    "dest": "./offline-repository/org/jetbrains/compose/animation/animation-desktop/1.9.1",
+    "dest-filename": "animation-desktop-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/androidx/lifecycle/lifecycle-common/2.9.5/lifecycle-common-2.9.5.jar",
+    "sha512": "89e3933b3a5983b6475bdbbc355f750c0f07c5ee9b889778049d238c3b8bc42b2d2ee89ba217ecd36d2fa9278d59ad4be1a89df2307e566071aec209d9a8c2cb",
+    "dest": "./offline-repository/org/jetbrains/androidx/lifecycle/lifecycle-common/2.9.5",
+    "dest-filename": "lifecycle-common-2.9.5.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/androidx/lifecycle/lifecycle-common/2.9.5/lifecycle-common-2.9.5.pom",
+    "sha512": "b8e19df580a13d3424db936dd71001623edb3a0d0c162c65d5b3ed140a43a70b962491a84d6125a67f2584b88dfc1a6991c0fdcd8388d544c22a0f41635d3550",
+    "dest": "./offline-repository/org/jetbrains/androidx/lifecycle/lifecycle-common/2.9.5",
+    "dest-filename": "lifecycle-common-2.9.5.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/runtime/runtime-saveable/1.9.1/runtime-saveable-1.9.1.pom",
+    "sha512": "c8058a1572cb8dee64b001ff2abce1a6fd38da19d098527860d7c3ff94ac01df0b7407bea43c8daca977a242ce99018c0b07555d0fd4c294baca5ce51bab3231",
+    "dest": "./offline-repository/org/jetbrains/compose/runtime/runtime-saveable/1.9.1",
+    "dest-filename": "runtime-saveable-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/runtime/runtime-saveable-desktop/1.9.1/runtime-saveable-desktop-1.9.1.jar",
+    "sha512": "9bfa029d2cff9a1d5c0cf01a74ba6ae50da585be27af2f1a63c3b059f7b37ef85bd8dfa21775e87bb4e6dd8654ffd90c8077f826ada81489dd7e3af0ad8519fb",
+    "dest": "./offline-repository/org/jetbrains/compose/runtime/runtime-saveable-desktop/1.9.1",
+    "dest-filename": "runtime-saveable-desktop-1.9.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/runtime/runtime-saveable-desktop/1.9.1/runtime-saveable-desktop-1.9.1.pom",
+    "sha512": "4e06e62f5afa0346e6f5bcbcbdea6758be06426b6a7578dd2788425e4e996cd3c1a00002800a81d783681cf3c393aeeca8846813d5dfd3a86ef2bf82698d35f3",
+    "dest": "./offline-repository/org/jetbrains/compose/runtime/runtime-saveable-desktop/1.9.1",
+    "dest-filename": "runtime-saveable-desktop-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-geometry/1.9.1/ui-geometry-1.9.1.pom",
+    "sha512": "213f44f02bd9dc08eb4b279b296280781785f8f4e442bf4a7c84154ff5e713a846fcd026cbd0ebeed0196eb93d921771c772977edea9363ef08f47a1115aa07b",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-geometry/1.9.1",
+    "dest-filename": "ui-geometry-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-geometry-desktop/1.9.1/ui-geometry-desktop-1.9.1.jar",
+    "sha512": "663c2a97b4fbcc90220b78ac688c88e3a22d65043497fde5e12441fb39ea03564da996b981104b2d4c643a8d7b13603914053641b8562e08186db4a13a4f6f8b",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-geometry-desktop/1.9.1",
+    "dest-filename": "ui-geometry-desktop-1.9.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-geometry-desktop/1.9.1/ui-geometry-desktop-1.9.1.pom",
+    "sha512": "cd18ae0f489cb15c9d1f59049375ec757b795db91287e36c7d91ab7ff8514271e6112c0b20c2702ca994bf4b07624ef61b9eb62b6aa63767415bd12cbff7b7ff",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-geometry-desktop/1.9.1",
+    "dest-filename": "ui-geometry-desktop-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-util/1.9.1/ui-util-1.9.1.pom",
+    "sha512": "a61efe6bf857223e373c07d47363727fb7cc444f02035c59223976cd0b92d7b246a7bc14654bb5603b087fb0fa537f3d3f8ec01f29ce9186efbb78955b030c2e",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-util/1.9.1",
+    "dest-filename": "ui-util-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-util-desktop/1.9.1/ui-util-desktop-1.9.1.jar",
+    "sha512": "c942bbc9dde42cb69eef783d7dedfa9b90b58eb7c559bc76705a6363b62013da566892c5915d4b5e5a3f3aa322fef2d62ef4eff75f8fd5d4019b73b9e2d12729",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-util-desktop/1.9.1",
+    "dest-filename": "ui-util-desktop-1.9.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-util-desktop/1.9.1/ui-util-desktop-1.9.1.pom",
+    "sha512": "cff21cd4c3ef80ac33f323308faec2c598b70c5ba543324f2b767d18356552914107987a7465219f396d524fe374801b07645057c22cfc2a918e68ff9e21cc77",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-util-desktop/1.9.1",
+    "dest-filename": "ui-util-desktop-1.9.1.pom"
   }
 ]
