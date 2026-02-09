@@ -183,73 +183,73 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/com.google.devtools.ksp.gradle.plugin/2.3.4/com.google.devtools.ksp.gradle.plugin-2.3.4.pom",
-    "sha512": "ad62bd0cb38a0b14772218441c7b33210d86b97c9549bbec5f185a2b4f9bd3191d39717fa738deaea480e8e81c31d7f12c2e0ad8644ec4929b1ae4c017b8dd27",
-    "dest": "./offline-repository/com/google/devtools/ksp/com.google.devtools.ksp.gradle.plugin/2.3.4",
-    "dest-filename": "com.google.devtools.ksp.gradle.plugin-2.3.4.pom"
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/com.google.devtools.ksp.gradle.plugin/2.3.5/com.google.devtools.ksp.gradle.plugin-2.3.5.pom",
+    "sha512": "113c90ac4da3a1d6a38942565e8913db13b91c2e6d51144f5843e021ef384f2efa47cf859eb248c42cd8b824ddc1741bf2959c950795619c18566b92bbc4e11b",
+    "dest": "./offline-repository/com/google/devtools/ksp/com.google.devtools.ksp.gradle.plugin/2.3.5",
+    "dest-filename": "com.google.devtools.ksp.gradle.plugin-2.3.5.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-api/2.3.4/symbol-processing-api-2.3.4.jar",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-api/2.3.5/symbol-processing-api-2.3.5.jar",
     "sha512": "c72ae0d465aa7b931b8e778205eb73a05df12c9fc0658ecbf74fee0a5b14f5aa1c0db8ed61a400d21e171898a0aa75540c2e75367e831c30939aa4a2a7999226",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.4",
-    "dest-filename": "symbol-processing-api-2.3.4.jar"
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.5",
+    "dest-filename": "symbol-processing-api-2.3.5.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-api/2.3.4/symbol-processing-api-2.3.4.module",
-    "sha512": "85a74233a1ca68e805dc8edfc3c0e9a66c652b3734ee0768fd27423ec526052a4f84dccd0e77a23d27c770e0a4e0bf3fd1f4f524b81485e33a4a7d11e7e52b50",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.4",
-    "dest-filename": "symbol-processing-api-2.3.4.module"
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-api/2.3.5/symbol-processing-api-2.3.5.module",
+    "sha512": "8d021789a6999a0cb782120276b482167f4c6954902558f13a099f762c65a5c43c2b68b412991fdbc462b427f688e5315c41647c90bbf1f422f01b3b609ec70c",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.5",
+    "dest-filename": "symbol-processing-api-2.3.5.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-api/2.3.4/symbol-processing-api-2.3.4.pom",
-    "sha512": "e5680908daadc44b732ae93b2ea08e8e54dfe518da08ac270fdde98c6bedfb89a2406237bfb16b834c91450baf0ddf66db613b5ef316ad4e94ba1f3ff3dce5fa",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.4",
-    "dest-filename": "symbol-processing-api-2.3.4.pom"
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-api/2.3.5/symbol-processing-api-2.3.5.pom",
+    "sha512": "add5ae3eb926f825ab2897e3e1cc14bbc71ea5907dc73c3701c189a2cd7b4c9afc8f8d9afb88cd6346122975841cd7a5c502042c4ef2f509fc0212b85615f3f8",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.5",
+    "dest-filename": "symbol-processing-api-2.3.5.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.4/symbol-processing-common-deps-2.3.4.jar",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.5/symbol-processing-common-deps-2.3.5.jar",
     "sha512": "d689128336ee69d8361b4c7532c9b6944d99a12ff20c78b86f8270ce9a5973196b1bddab93b8c5ed89dc92211a800f5827adaa3435b8ea1d11b67977a59d4114",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.4",
-    "dest-filename": "symbol-processing-common-deps-2.3.4.jar"
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.5",
+    "dest-filename": "symbol-processing-common-deps-2.3.5.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.4/symbol-processing-common-deps-2.3.4.module",
-    "sha512": "3796c5005a469aa34b3eb377b5fd638e3aabd848aec931a3228eceef8df57fc1039a5467355a875b66850cd23a299b011450ec038b2a8a9644a0ca022ec531f3",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.4",
-    "dest-filename": "symbol-processing-common-deps-2.3.4.module"
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.5/symbol-processing-common-deps-2.3.5.module",
+    "sha512": "78b8df83649dfa077485476cefcc36931e91c4dc61c7047d0918421525cd9e1adabf14cfaf5d17a2cb8c9239e72b835525784e2d142bc8a037fb3568ad465103",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.5",
+    "dest-filename": "symbol-processing-common-deps-2.3.5.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.4/symbol-processing-common-deps-2.3.4.pom",
-    "sha512": "c3568f3cebfb8f94c6c75aa2e625f6e586f16e4874fbb18dd51477068d272c12162348e0176bcbc985a1199bec034491212bea2a575be77119c546b5d1110fb7",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.4",
-    "dest-filename": "symbol-processing-common-deps-2.3.4.pom"
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.5/symbol-processing-common-deps-2.3.5.pom",
+    "sha512": "c05835ab63fd7d34c3cf3066ebfa7da5b5887e35e607dd8ee4d6fb395860bef8bacdadd2ca15c684f769a3da4fdf245b7a55a1943591235b44b7fbfc44f03f1c",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.5",
+    "dest-filename": "symbol-processing-common-deps-2.3.5.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.4/symbol-processing-gradle-plugin-2.3.4.jar",
-    "sha512": "fe57d5f50d0625e055a1e7aed0c9a3cf236dc142598584c568e99126e4a575ed0af2989aafcf3c855b773687632a9290113d9ca3226874e56c74c3da7a0750da",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.4",
-    "dest-filename": "symbol-processing-gradle-plugin-2.3.4.jar"
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.5/symbol-processing-gradle-plugin-2.3.5.jar",
+    "sha512": "e86a80253588a025e6e297e5a5f3c5ee32ea567b99ea997d11e7953f87048fa63edaa950b0f192e3ea2450c14973672fd0ee32779e022308afdf4433a94abeff",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.5",
+    "dest-filename": "symbol-processing-gradle-plugin-2.3.5.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.4/symbol-processing-gradle-plugin-2.3.4.module",
-    "sha512": "ecf2b86d57c33577d97bcfcf30cfe92a9e7cf6282f6e4c756135d4ea966fc89456d3b6afe504d8e250156c38213e8f76f7cee0b436663cf913410a183f0069e9",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.4",
-    "dest-filename": "symbol-processing-gradle-plugin-2.3.4.module"
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.5/symbol-processing-gradle-plugin-2.3.5.module",
+    "sha512": "8b202cdf60d1bbf8b22afac91e1f8987ec2337753e46941b6c8ca0019e56e5c34d3be2baeb70f93ac7c816f7e5f43defb443d2747fdc29f0751e3223c98b38d0",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.5",
+    "dest-filename": "symbol-processing-gradle-plugin-2.3.5.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.4/symbol-processing-gradle-plugin-2.3.4.pom",
-    "sha512": "54910957fafadcf00bc3e75f1f80578e8f6c14f7ad0287b70d463d2c6313bfe34c20421e8fd1d3d0270208d8ac2b6e2b0e712ca00daeaba137e6f20c00c89500",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.4",
-    "dest-filename": "symbol-processing-gradle-plugin-2.3.4.pom"
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.5/symbol-processing-gradle-plugin-2.3.5.pom",
+    "sha512": "b9c4d3211cf76694e3a3e5f44b9ee13fbf9481d8ff26f0a72036a031a4bd9dce5d6e760387a9ca7bce5f58e9dd5d8cb55dcc0d2701e402e8102d432d54a058c8",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.5",
+    "dest-filename": "symbol-processing-gradle-plugin-2.3.5.pom"
   },
   {
     "type": "file",

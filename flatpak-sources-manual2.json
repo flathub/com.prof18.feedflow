@@ -733,5 +733,264 @@
     "sha512": "cff21cd4c3ef80ac33f323308faec2c598b70c5ba543324f2b767d18356552914107987a7465219f396d524fe374801b07645057c22cfc2a918e68ff9e21cc77",
     "dest": "./offline-repository/org/jetbrains/compose/ui/ui-util-desktop/1.9.1",
     "dest-filename": "ui-util-desktop-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/com.google.devtools.ksp.gradle.plugin/2.3.4/com.google.devtools.ksp.gradle.plugin-2.3.4.pom",
+    "sha512": "ad62bd0cb38a0b14772218441c7b33210d86b97c9549bbec5f185a2b4f9bd3191d39717fa738deaea480e8e81c31d7f12c2e0ad8644ec4929b1ae4c017b8dd27",
+    "dest": "./offline-repository/com/google/devtools/ksp/com.google.devtools.ksp.gradle.plugin/2.3.4",
+    "dest-filename": "com.google.devtools.ksp.gradle.plugin-2.3.4.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.4/symbol-processing-gradle-plugin-2.3.4.jar",
+    "sha512": "fe57d5f50d0625e055a1e7aed0c9a3cf236dc142598584c568e99126e4a575ed0af2989aafcf3c855b773687632a9290113d9ca3226874e56c74c3da7a0750da",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.4",
+    "dest-filename": "symbol-processing-gradle-plugin-2.3.4.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.4/symbol-processing-gradle-plugin-2.3.4.pom",
+    "sha512": "54910957fafadcf00bc3e75f1f80578e8f6c14f7ad0287b70d463d2c6313bfe34c20421e8fd1d3d0270208d8ac2b6e2b0e712ca00daeaba137e6f20c00c89500",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.4",
+    "dest-filename": "symbol-processing-gradle-plugin-2.3.4.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.4/symbol-processing-gradle-plugin-2.3.4.module",
+    "sha512": "ecf2b86d57c33577d97bcfcf30cfe92a9e7cf6282f6e4c756135d4ea966fc89456d3b6afe504d8e250156c38213e8f76f7cee0b436663cf913410a183f0069e9",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.4",
+    "dest-filename": "symbol-processing-gradle-plugin-2.3.4.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-api/2.3.4/symbol-processing-api-2.3.4.jar",
+    "sha512": "c72ae0d465aa7b931b8e778205eb73a05df12c9fc0658ecbf74fee0a5b14f5aa1c0db8ed61a400d21e171898a0aa75540c2e75367e831c30939aa4a2a7999226",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.4",
+    "dest-filename": "symbol-processing-api-2.3.4.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-api/2.3.4/symbol-processing-api-2.3.4.pom",
+    "sha512": "e5680908daadc44b732ae93b2ea08e8e54dfe518da08ac270fdde98c6bedfb89a2406237bfb16b834c91450baf0ddf66db613b5ef316ad4e94ba1f3ff3dce5fa",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.4",
+    "dest-filename": "symbol-processing-api-2.3.4.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-api/2.3.4/symbol-processing-api-2.3.4.module",
+    "sha512": "85a74233a1ca68e805dc8edfc3c0e9a66c652b3734ee0768fd27423ec526052a4f84dccd0e77a23d27c770e0a4e0bf3fd1f4f524b81485e33a4a7d11e7e52b50",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.4",
+    "dest-filename": "symbol-processing-api-2.3.4.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.4/symbol-processing-common-deps-2.3.4.jar",
+    "sha512": "d689128336ee69d8361b4c7532c9b6944d99a12ff20c78b86f8270ce9a5973196b1bddab93b8c5ed89dc92211a800f5827adaa3435b8ea1d11b67977a59d4114",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.4",
+    "dest-filename": "symbol-processing-common-deps-2.3.4.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.4/symbol-processing-common-deps-2.3.4.pom",
+    "sha512": "c3568f3cebfb8f94c6c75aa2e625f6e586f16e4874fbb18dd51477068d272c12162348e0176bcbc985a1199bec034491212bea2a575be77119c546b5d1110fb7",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.4",
+    "dest-filename": "symbol-processing-common-deps-2.3.4.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.4/symbol-processing-common-deps-2.3.4.module",
+    "sha512": "3796c5005a469aa34b3eb377b5fd638e3aabd848aec931a3228eceef8df57fc1039a5467355a875b66850cd23a299b011450ec038b2a8a9644a0ca022ec531f3",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.4",
+    "dest-filename": "symbol-processing-common-deps-2.3.4.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core/1.9.0/kotlinx-serialization-core-1.9.0.jar",
+    "sha512": "568773de093d78be9afa19ec0c27d80d43e436be93db0d401a18869c833eb4757cddd42341fe509e5dc2f73d7cc6a265e06bcd134f08a0c2b676241453d2ba8e",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core/1.9.0",
+    "dest-filename": "kotlinx-serialization-core-1.9.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core/1.9.0/kotlinx-serialization-core-1.9.0.pom",
+    "sha512": "44d0860121fc35b62e781e925d0185847673b76a5997f5f34f65349f9685040dcdc6cd400b6c16782c5511fafed37520797bd8aaa008cfcdd594b625f878da9e",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core/1.9.0",
+    "dest-filename": "kotlinx-serialization-core-1.9.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core/1.9.0/kotlinx-serialization-core-1.9.0.module",
+    "sha512": "b363db2d7a795b7404100e4b38fa530a12f5fbc81c8f32b8284606d62226704b17cc75a18b14bd5191699b4b83336d1eefd97dd3523955a7c85c9bf16579c4ba",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core/1.9.0",
+    "dest-filename": "kotlinx-serialization-core-1.9.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core/1.9.0/../../kotlinx-serialization-core-jvm/1.9.0/kotlinx-serialization-core-jvm-1.9.0.module",
+    "sha512": "7b8ca98f9c0d7f38e1e82cdf0e0d8796441bdee2701469220c25c4921e6785856bdef1c5ffc8d8d6b11a3dc14ceb9df35653bae5a35785dace7444d6f968caad",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core/1.9.0/../../kotlinx-serialization-core-jvm/1.9.0",
+    "dest-filename": "kotlinx-serialization-core-jvm-1.9.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.9.0/kotlinx-serialization-core-jvm-1.9.0.jar",
+    "sha512": "39d4fe619ab52edb20b12ea6aea6c046a14f88713c9e367318d5020c86f712bbe17a0a4fa552563693eca21ab478cebe4f394cd8d9cadbc1d9d77885c84ff29f",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.9.0",
+    "dest-filename": "kotlinx-serialization-core-jvm-1.9.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.9.0/kotlinx-serialization-core-jvm-1.9.0.pom",
+    "sha512": "227bc8cdd89656eead46e16737dc47fea6a5370db9530bfb5dc7f94d008e7e5ebf481c086a7919bde82b02bb5269e8dbef8b590333d4099f5e8257c2c9b2e0af",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.9.0",
+    "dest-filename": "kotlinx-serialization-core-jvm-1.9.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.9.0/kotlinx-serialization-core-jvm-1.9.0.module",
+    "sha512": "7b8ca98f9c0d7f38e1e82cdf0e0d8796441bdee2701469220c25c4921e6785856bdef1c5ffc8d8d6b11a3dc14ceb9df35653bae5a35785dace7444d6f968caad",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.9.0",
+    "dest-filename": "kotlinx-serialization-core-jvm-1.9.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-json/1.9.0/kotlinx-serialization-json-1.9.0.jar",
+    "sha512": "45ad0c69d98f2bdb69406e64d058516a42f3bafa77a0b53ce706af36ab460e4392f6547ca0e78ff3d348705c18820f1402764d814c23c1300e617f134891e68c",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-json/1.9.0",
+    "dest-filename": "kotlinx-serialization-json-1.9.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-json/1.9.0/kotlinx-serialization-json-1.9.0.pom",
+    "sha512": "fee046e7aab665b9024548ef73db4fc876cd0eb640f50fd6dd80edad72b7173c84b5af6ebe1fbd97570aa21face8081260a770950a926fdef5f6c353f20309ef",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-json/1.9.0",
+    "dest-filename": "kotlinx-serialization-json-1.9.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-json/1.9.0/kotlinx-serialization-json-1.9.0.module",
+    "sha512": "c52da640763cb754a4d393fc1e0a5b9828815719b0e6f60b1f9e2ffc5724cd0dc00121e2e8a3d5a195bf17453f7906c884cbfed4e294c3753f886b1cdb192d76",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-json/1.9.0",
+    "dest-filename": "kotlinx-serialization-json-1.9.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-json/1.9.0/../../kotlinx-serialization-json-jvm/1.9.0/kotlinx-serialization-json-jvm-1.9.0.module",
+    "sha512": "c2b78a12054fc0dd974e8ba4b62f33c909b7033cf1ec5b408deb5a96e4d919ca6dbb6e726614e16f20e9126fc7201bc67c1235f7840da79ae8a417002dbcbee4",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-json/1.9.0/../../kotlinx-serialization-json-jvm/1.9.0",
+    "dest-filename": "kotlinx-serialization-json-jvm-1.9.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.9.0/kotlinx-serialization-json-jvm-1.9.0.jar",
+    "sha512": "a2abfcf5751c4c5c5cc0f37e9200794f22d0c28daa76a6a8edfed4bebd8375e2e49b263671ef86b4ec2925079970b8424cf3971f47eae03914f5b3cee48459fa",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.9.0",
+    "dest-filename": "kotlinx-serialization-json-jvm-1.9.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.9.0/kotlinx-serialization-json-jvm-1.9.0.pom",
+    "sha512": "87399da85b2ce8f0229f038955adf4a60fb83b27cb33f5dd572426ccae07ba6b4703735827f2d2359b32115dd8ce1ff9434427244bd1f346bb2f23c84a05ac29",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.9.0",
+    "dest-filename": "kotlinx-serialization-json-jvm-1.9.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.9.0/kotlinx-serialization-json-jvm-1.9.0.module",
+    "sha512": "c2b78a12054fc0dd974e8ba4b62f33c909b7033cf1ec5b408deb5a96e4d919ca6dbb6e726614e16f20e9126fc7201bc67c1235f7840da79ae8a417002dbcbee4",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.9.0",
+    "dest-filename": "kotlinx-serialization-json-jvm-1.9.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.5/symbol-processing-aa-embeddable-2.3.5.jar",
+    "sha512": "f28079a49741360b3e12bd8ab8dffb59daf141bdf28d0ac4c61dfe764f643eed8e9f58ee9dba05962dfce36428114f183190f739ffc5a7c4180c4fec5d4f48a6",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.5",
+    "dest-filename": "symbol-processing-aa-embeddable-2.3.5.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.5/symbol-processing-aa-embeddable-2.3.5.pom",
+    "sha512": "d5c354567de5ed2d8adaa3696bca72d8ccab632a636aa3783d7ef06cd34afef51bd9ef2bb24e6934839c074e522a01782f276fa0c439029d8914ca7628d4c49f",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.5",
+    "dest-filename": "symbol-processing-aa-embeddable-2.3.5.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/intellij/deps/kotlinx/kotlinx-coroutines-core-jvm/1.8.0-intellij-14/kotlinx-coroutines-core-jvm-1.8.0-intellij-14.jar",
+    "sha512": "107c3b45de84e4b34bc0a636bac86739fccbbe924f54b1d4819fae925f38dca5942608a32d48e685072c1d8e30c38b8789c36c3757388dccdcbe906fa9680043",
+    "dest": "./offline-repository/org/jetbrains/intellij/deps/kotlinx/kotlinx-coroutines-core-jvm/1.8.0-intellij-14",
+    "dest-filename": "kotlinx-coroutines-core-jvm-1.8.0-intellij-14.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/intellij/deps/kotlinx/kotlinx-coroutines-core-jvm/1.8.0-intellij-14/kotlinx-coroutines-core-jvm-1.8.0-intellij-14.pom",
+    "sha512": "8b7e589c44a80c789c888bb74096a1a9a4af330b69394966f7685dbd29e7285452700e3bb86b68c6b975a686dd592493b64a8eeb3529fd5f4861a6387adf9eaa",
+    "dest": "./offline-repository/org/jetbrains/intellij/deps/kotlinx/kotlinx-coroutines-core-jvm/1.8.0-intellij-14",
+    "dest-filename": "kotlinx-coroutines-core-jvm-1.8.0-intellij-14.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/intellij/deps/kotlinx/kotlinx-coroutines-core-jvm/1.8.0-intellij-14/kotlinx-coroutines-core-jvm-1.8.0-intellij-14.module",
+    "sha512": "0a1fc0e504261e40059d411b657bab76eccb9f2f5ab424027c0db3da9cb14722119c24e33ef8effb84f528a88ecace10ba779c5ca67e37c008842df780a14105",
+    "dest": "./offline-repository/org/jetbrains/intellij/deps/kotlinx/kotlinx-coroutines-core-jvm/1.8.0-intellij-14",
+    "dest-filename": "kotlinx-coroutines-core-jvm-1.8.0-intellij-14.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/intellij/deps/kotlinx/kotlinx-coroutines-bom/1.8.0-intellij-14/kotlinx-coroutines-bom-1.8.0-intellij-14.pom",
+    "sha512": "5e9e884c94fb9b8209d246c2d14ccaaac79b3e560fe5ed8a54a44d9e64cb067e12451fe2016bf3a312d01e489407c2848989c089392eeae41fc3cff319c0ce07",
+    "dest": "./offline-repository/org/jetbrains/intellij/deps/kotlinx/kotlinx-coroutines-bom/1.8.0-intellij-14",
+    "dest-filename": "kotlinx-coroutines-bom-1.8.0-intellij-14.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth/3.4.0/ktor-client-auth-3.4.0.jar",
+    "sha512": "fefa239295dcea6c04f4cadda9b13b0aa65476d6cb7eb0f0d43a4d38ad8fadb37a83cbf838ecd7925656869ded2ab9748794ffbf49e5821d7206fc2dd7bfcd8f",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth/3.4.0",
+    "dest-filename": "ktor-client-auth-3.4.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth/3.4.0/ktor-client-auth-3.4.0.pom",
+    "sha512": "ceeaf8fb80588b26d743c7b5663e5e65fa27b2a1a7668a34ed71d3e884b2038597ad8518aa05785dc5a221348c52e17610d68c83373ff91c03350bb4072284cd",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth/3.4.0",
+    "dest-filename": "ktor-client-auth-3.4.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth/3.4.0/ktor-client-auth-3.4.0.module",
+    "sha512": "015a315c9df50c6b01b09b8ffdc76abfb369f39af1d9d978ac1fb0e025edcc11e7332a41988d0fecce47076195e6e1845d44638f173f7525f12a7c1ee55e464b",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth/3.4.0",
+    "dest-filename": "ktor-client-auth-3.4.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth/3.4.0/../../ktor-client-auth-jvm/3.4.0/ktor-client-auth-jvm-3.4.0.module",
+    "sha512": "eed9ee1545c545ed8dc50e575c57abb2f2de112730aba51b44123d900f90f45a876c4a12fb345d69d651b190b5115fa7cfd5c57f56417e6f012c6eb24b632b45",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth/3.4.0/../../ktor-client-auth-jvm/3.4.0",
+    "dest-filename": "ktor-client-auth-jvm-3.4.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth-jvm/3.4.0/ktor-client-auth-jvm-3.4.0.jar",
+    "sha512": "d3020d1b7ca4acb849ddbe2e3e9b560da91b5711e589c7e8fd61a98448677d594056fa10baa59f2914e9f24370403f295592254acf3f14583ccf9e39943cb505",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth-jvm/3.4.0",
+    "dest-filename": "ktor-client-auth-jvm-3.4.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth-jvm/3.4.0/ktor-client-auth-jvm-3.4.0.pom",
+    "sha512": "8a113d2c2d405e7f629a2ec5cbdb08346080760383a77fe99bc30b943bf5225a9d0b3b517875f3b1e305e7d478948a1af374ae34caa775475580f0e7053b1286",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth-jvm/3.4.0",
+    "dest-filename": "ktor-client-auth-jvm-3.4.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth-jvm/3.4.0/ktor-client-auth-jvm-3.4.0.module",
+    "sha512": "eed9ee1545c545ed8dc50e575c57abb2f2de112730aba51b44123d900f90f45a876c4a12fb345d69d651b190b5115fa7cfd5c57f56417e6f012c6eb24b632b45",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth-jvm/3.4.0",
+    "dest-filename": "ktor-client-auth-jvm-3.4.0.module"
   }
 ]
