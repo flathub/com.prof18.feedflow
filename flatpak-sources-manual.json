@@ -1294,5 +1294,222 @@
   "sha512": "0e10ca357c1cd2e2cb2d90ca05efb55a2ec6ad2a3c8d711749862371fd23e0dd9f07ae983b8e5fec5ca31d3b334ec80cddc30adedcbbabd0f1ed0346b50a13b1",
   "dest": "./offline-repository/androidx/lifecycle/lifecycle-common-jvm/2.9.4",
   "dest-filename": "lifecycle-common-jvm-2.9.4.module"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.jar",
+  "sha512": "d9586162b257386b5871e7e9ae255a38014a9efaeef5148de5e40a3b0200364dad8516bddd554352aa2e5337bec2cc11df88c76c4fdde96a40f3421aa60650d7",
+  "dest": "./offline-repository/commons-codec/commons-codec/1.11",
+  "dest-filename": "commons-codec-1.11.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.pom",
+  "sha512": "1b7a0a986a1bd222c0795972daabee4f16e308498f67d62b99749506b5a71e9811deaa323c080517a8184d6481e8281c91bd012d5614b7d5d2ba14aa96f2596c",
+  "dest": "./offline-repository/commons-codec/commons-codec/1.11",
+  "dest-filename": "commons-codec-1.11.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/42/commons-parent-42.pom",
+  "sha512": "a35d1f7919551adbeada88d9f47a4d6de200380aa43266f91d4b65255120cbf4b11f73bb3f9b98eeb960fd9f1b0793dd48095b46270ed2376ce3b122861a94d6",
+  "dest": "./offline-repository/org/apache/commons/commons-parent/42",
+  "dest-filename": "commons-parent-42.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/apache/apache/18/apache-18.pom",
+  "sha512": "9ef6f99b30fe2603ad8f2c88116072de36bd2dc99590fd9e7eecf153dbf50cbd766694d861e666138d2a26137be69fe98cc38a491f6a2a68e8d421d656731ed1",
+  "dest": "./offline-repository/org/apache/apache/18",
+  "dest-filename": "apache-18.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.3.0/kotlin-stdlib-2.3.0-all.jar",
+  "sha512": "29f1dd0ad8bc7f2183e261f04a5fd1bc34f5ccf893449aad43974633c20e4686f04273cfcdf1a17792d6670c945c2fa1f3447d54f2f1041f2e6004ed5564fc32",
+  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.0",
+  "dest-filename": "kotlin-stdlib-2.3.0-all.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar",
+  "sha512": "ed00dbfabd9ae00efa26dd400983601d076fe36408b7d6520084b447e5d1fa527ce65bd6afdcb58506c3a808323d28e88f26cb99c6f5db9ff64f6525ecdfa557",
+  "dest": "./offline-repository/commons-logging/commons-logging/1.2",
+  "dest-filename": "commons-logging-1.2.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.pom",
+  "sha512": "75bef548eea62ab04569791f2fdeed3d0a61edae0534aa035a905dc1d011988fc0f06f52bde377f44e94e6afd4380197148120b152b7a4d20628fb6236cc7261",
+  "dest": "./offline-repository/commons-logging/commons-logging/1.2",
+  "dest-filename": "commons-logging-1.2.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom",
+  "sha512": "364ede203a23157ec601d28ff141c0c69759fc5c483e44e346fa1592403f343f0722f7763243b2ee7a190c7a744b1cce1f40247f5a6c7b3dbfbf487c505a40bf",
+  "dest": "./offline-repository/org/apache/commons/commons-parent/34",
+  "dest-filename": "commons-parent-34.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/apache/apache/13/apache-13.pom",
+  "sha512": "3b25f9f51a7ee9647fe2e1287e75a67ccdf3f08055bec20c6a60b290876afc691f16b23ab3df7b733695b828411b716a0b3509c22ec6fb0c5dce4f21811ae434",
+  "dest": "./offline-repository/org/apache/apache/13",
+  "dest-filename": "apache-13.pom"
+},
+{
+  "type": "file",
+  "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate-compose/1.3.3/savedstate-compose-1.3.3.jar",
+  "sha512": "73b9d2db21c060ad5b246cbeb24efb8d49da8c9ce8f9224663c12ee477b4d332e0b0eda23ad1e4d4a653893037188503c11fb146d0b283cca799495b91387b19",
+  "dest": "./offline-repository/androidx/savedstate/savedstate-compose/1.3.3",
+  "dest-filename": "savedstate-compose-1.3.3.jar"
+},
+{
+  "type": "file",
+  "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate-compose/1.3.3/savedstate-compose-1.3.3.pom",
+  "sha512": "d3f5b5fd18524d4b2f274a61b98fd197ff933df3a69db8334267f604886cb073d7928fa490f7074ca35892fb46de9f9b904c0d69f48bf4042905a50d13a6d806",
+  "dest": "./offline-repository/androidx/savedstate/savedstate-compose/1.3.3",
+  "dest-filename": "savedstate-compose-1.3.3.pom"
+},
+{
+  "type": "file",
+  "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate/1.3.3/savedstate-1.3.3.jar",
+  "sha512": "1a5a1e10ecdaa48b6704053caaf427e5f23d4e125ba32fc1ee3057c1a986377f3e3fecb3c46b333fda1753322b00060e401e7bd34c1ed53a5d9b58d41af08f7c",
+  "dest": "./offline-repository/androidx/savedstate/savedstate/1.3.3",
+  "dest-filename": "savedstate-1.3.3.jar"
+},
+{
+  "type": "file",
+  "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate/1.3.3/savedstate-1.3.3.pom",
+  "sha512": "ac99417a6595126e2364271485d0a3c5821e62964d889b3b7438893abde3d7a2aa63178ed63ed3a99ff6bb9717ac308af99bfee1b9dbb48755be25cc14102bd0",
+  "dest": "./offline-repository/androidx/savedstate/savedstate/1.3.3",
+  "dest-filename": "savedstate-1.3.3.pom"
+},
+{
+  "type": "file",
+  "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate-compose-android/1.3.3/savedstate-compose-android-1.3.3.aar",
+  "sha512": "2c125d2b3eda7b27222c48913227c2cbc1bbae2e7ae3898e3b235c61bbcde25eb7c1e807f7667ffcdc7e18871817c3c33a694cc29ea0c51d327da89b2b3a40bc",
+  "dest": "./offline-repository/androidx/savedstate/savedstate-compose-android/1.3.3",
+  "dest-filename": "savedstate-compose-android-1.3.3.aar"
+},
+{
+  "type": "file",
+  "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate-compose-android/1.3.3/savedstate-compose-android-1.3.3.pom",
+  "sha512": "4376374070eb5803ec4a4c90942adac1ae3f23afb82fa895916df50c50481e20e4818fba4ecd3813bb845562b8dd1f4280acda08107eddd52c423188579c0495",
+  "dest": "./offline-repository/androidx/savedstate/savedstate-compose-android/1.3.3",
+  "dest-filename": "savedstate-compose-android-1.3.3.pom"
+},
+{
+  "type": "file",
+  "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate-android/1.3.3/savedstate-android-1.3.3.aar",
+  "sha512": "1bce5ce51ffcb6f83dd0850197476d6ae6ffa3a3cc3ef433fd1be71fe1cfe197473c1493b6572757bb43ebc4581c425187fe76cacef2fe4936bbafba8b7a5a12",
+  "dest": "./offline-repository/androidx/savedstate/savedstate-android/1.3.3",
+  "dest-filename": "savedstate-android-1.3.3.aar"
+},
+{
+  "type": "file",
+  "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate-android/1.3.3/savedstate-android-1.3.3.pom",
+  "sha512": "e48e7106ad4d604180f997f07370f2f56fdb41ea86cfb4dda5dd5ee2300b626c6aeccbc1713b90b9c2e072d41175c475dd358904a04e8cba9ebdae29d71639d1",
+  "dest": "./offline-repository/androidx/savedstate/savedstate-android/1.3.3",
+  "dest-filename": "savedstate-android-1.3.3.pom"
+},
+{
+  "type": "file",
+  "url": "https://dl.google.com/dl/android/maven2/androidx/compose/runtime/runtime-android/1.9.0/runtime-android-1.9.0.aar",
+  "sha512": "0e0dec647c9aa816fc6c66e1c8f94d599b84b67fee055c278d862b9fcb9f23c98dad28136cde342a49bab48da0b31c6baa0e2f1bdbedc4cac12ad59b683ff292",
+  "dest": "./offline-repository/androidx/compose/runtime/runtime-android/1.9.0",
+  "dest-filename": "runtime-android-1.9.0.aar"
+},
+{
+  "type": "file",
+  "url": "https://dl.google.com/dl/android/maven2/androidx/compose/runtime/runtime-android/1.9.0/runtime-android-1.9.0.pom",
+  "sha512": "e9ac4dd3a13f6f82dd65bc156105d6b6d62e9686af24d1cedf6f29a2b6df6ce405ba046d7515d67b7ca3927eed9951b65f3fdbeaed6831cafb1d198b384c27c1",
+  "dest": "./offline-repository/androidx/compose/runtime/runtime-android/1.9.0",
+  "dest-filename": "runtime-android-1.9.0.pom"
+},
+{
+  "type": "file",
+  "url": "https://dl.google.com/dl/android/maven2/androidx/compose/runtime/runtime-annotation-android/1.9.0/runtime-annotation-android-1.9.0.aar",
+  "sha512": "44a154bc99b07358ba1ff47fc9fd46a50188b73d9544229583133efbf172b0c36dfbb96c4ba8198f33086611168307eef382d267d4496ed177834e49f45ab449",
+  "dest": "./offline-repository/androidx/compose/runtime/runtime-annotation-android/1.9.0",
+  "dest-filename": "runtime-annotation-android-1.9.0.aar"
+},
+{
+  "type": "file",
+  "url": "https://dl.google.com/dl/android/maven2/androidx/compose/runtime/runtime-annotation-android/1.9.0/runtime-annotation-android-1.9.0.pom",
+  "sha512": "8bda4e281b0e7b536de975a156313c31ffa0995fb0e564802a503059d2dffde12b54bc68d05d66a09ce673df70fb21f85fbf743479952cd8da6dc71355de9824",
+  "dest": "./offline-repository/androidx/compose/runtime/runtime-annotation-android/1.9.0",
+  "dest-filename": "runtime-annotation-android-1.9.0.pom"
+},
+{
+  "type": "file",
+  "url": "https://dl.google.com/dl/android/maven2/androidx/annotation/annotation-experimental/1.4.1/annotation-experimental-1.4.1.aar",
+  "sha512": "44d69a703fde230636b6d61064836d30e09ad651750fd1f2cb68308f2fca522294f8c5d131d0109f8d84fa80bffa18048b19d4ad4bdd75f1b36bd3c719146fc5",
+  "dest": "./offline-repository/androidx/annotation/annotation-experimental/1.4.1",
+  "dest-filename": "annotation-experimental-1.4.1.aar"
+},
+{
+  "type": "file",
+  "url": "https://dl.google.com/dl/android/maven2/androidx/annotation/annotation-experimental/1.4.1/annotation-experimental-1.4.1.pom",
+  "sha512": "884fa65a433f36da8dcef197150e5a7c61605753bf9bff7b6fbc3b29f8e4f18f4ad4ab364870a04cd064e47ccf8e7d78a6fc8907351bddff507e5ddbef6139c6",
+  "dest": "./offline-repository/androidx/annotation/annotation-experimental/1.4.1",
+  "dest-filename": "annotation-experimental-1.4.1.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-android/1.10.2/kotlinx-coroutines-android-1.10.2.jar",
+  "sha512": "b9d59f1ee3eb66d7014f9ae8c60c30bdfd04544a6f0d6b356b9a474402ef4284bec5dc2d51dd80cf4e24a98bfd6504f755ce995b961ff2ba8a18d01e626933f5",
+  "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-android/1.10.2",
+  "dest-filename": "kotlinx-coroutines-android-1.10.2.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-android/1.10.2/kotlinx-coroutines-android-1.10.2.pom",
+  "sha512": "5c607bf7f1f5da9c7991cb9b8075b0acb8f24065c89b1336f1a433361eb56044b9f2100b707d8e8a1dccdd0b0f0c741728a246d6ecf5b14d2f16916e9360725a",
+  "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-android/1.10.2",
+  "dest-filename": "kotlinx-coroutines-android-1.10.2.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/io/insert-koin/koin-core-viewmodel/4.1.1/koin-core-viewmodel-4.1.1.jar",
+  "sha512": "f00cdb29ceb6e01eda79d2867c5481307ed4093517143ad7e378f7f648179059829408d57cd9409a92034ffd0e402d2eb0bb77bf6f835cd7e33eacd62bf8feda",
+  "dest": "./offline-repository/io/insert-koin/koin-core-viewmodel/4.1.1",
+  "dest-filename": "koin-core-viewmodel-4.1.1.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/io/insert-koin/koin-core-viewmodel/4.1.1/koin-core-viewmodel-4.1.1.pom",
+  "sha512": "3ecdb867f5a7e6ba9992b0c16bc462c1c9b7ad0369885ce96496def7e8f636e8e057ae274709501d61646ecb62c9af780b77b88557f30d9d508ce07999759021",
+  "dest": "./offline-repository/io/insert-koin/koin-core-viewmodel/4.1.1",
+  "dest-filename": "koin-core-viewmodel-4.1.1.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel/2.9.3/lifecycle-viewmodel-2.9.3.jar",
+  "sha512": "302fd74b5e295ffddc37874157808886da6979910e184ef54f9c4ee9af0b6a5fd877da48f20a76d6f2ddde396daa2887f05f91bf6220cb88805e3860d316bc6b",
+  "dest": "./offline-repository/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel/2.9.3",
+  "dest-filename": "lifecycle-viewmodel-2.9.3.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel/2.9.3/lifecycle-viewmodel-2.9.3.pom",
+  "sha512": "a002ef819a52d400bb1d6a19ed334833c4e61628960374131494ab02dceda5d06f3f6510f7ce14a5029acbd6f4c7ebc5b3bb59a558a9545b7972dd10d4262084",
+  "dest": "./offline-repository/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel/2.9.3",
+  "dest-filename": "lifecycle-viewmodel-2.9.3.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.9.3/lifecycle-viewmodel-savedstate-2.9.3.jar",
+  "sha512": "fb3563f07a6e7d85f96a917edb9aeff4d08635b598514097a4b65289543089ae936eb8f019a0208e4c155ffa38a4a3f805741348b6688f8ed94a0b2336feaad5",
+  "dest": "./offline-repository/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.9.3",
+  "dest-filename": "lifecycle-viewmodel-savedstate-2.9.3.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.9.3/lifecycle-viewmodel-savedstate-2.9.3.pom",
+  "sha512": "bd1076f4715f2539fe89fd67a4e549d8e0f5a58f82851f709724a8d4bfa53f4f7dfdf5c71c6de5a9e8fb99f39dad4b0000c8fc5f003f6bb0b6dfea23a69f8b44",
+  "dest": "./offline-repository/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.9.3",
+  "dest-filename": "lifecycle-viewmodel-savedstate-2.9.3.pom"
 }
 ]
