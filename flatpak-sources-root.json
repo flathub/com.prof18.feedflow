@@ -659,24 +659,24 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.10.0/compose-gradle-plugin-1.10.0.jar",
-    "sha512": "a458b4fa7ba4a683ca48716b4967b5215e94f77f9b675fa20b5162fd2a103fc4faa68f64b1ce3bc73944ad39e23f23269026c7fa8ca36752fc3ac8a045edb91a",
-    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.10.0",
-    "dest-filename": "compose-gradle-plugin-1.10.0.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.10.2/compose-gradle-plugin-1.10.2.jar",
+    "sha512": "6cd2c7c69936d4e497bdf24d56a61bcf5f85af8bc77707a5134744bc723730f0ee18f99e2d885b99d12020afc1eed28806e6cc6188f5bcb298b1087e2406a95c",
+    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.10.2",
+    "dest-filename": "compose-gradle-plugin-1.10.2.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.10.0/compose-gradle-plugin-1.10.0.module",
-    "sha512": "e2c65e7e0c05c94031609ee717b6b7043e77f889449ae4e82ca09994a24e8cf1a6de69599a74844101306e0e4d286f35c7937f12a462ac7e87003c358f1206b6",
-    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.10.0",
-    "dest-filename": "compose-gradle-plugin-1.10.0.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.10.2/compose-gradle-plugin-1.10.2.module",
+    "sha512": "dcdaeafc94a74efab2b986540fb2d57e991945a2f9a2321f2dbf4a1fefa7f3837ab73608189aad212a98ab460e44608dd628b2ed1d1ef343e552ef3d495c17b7",
+    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.10.2",
+    "dest-filename": "compose-gradle-plugin-1.10.2.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.10.0/compose-gradle-plugin-1.10.0.pom",
-    "sha512": "49d616817cd03be6d5cd866db446b33a14a96389145847f0f96e2d66d0432a11567fc5af465f54dc67b257940a87b54396e172ade2f11f3da4c984d0f6f42d4d",
-    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.10.0",
-    "dest-filename": "compose-gradle-plugin-1.10.0.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.10.2/compose-gradle-plugin-1.10.2.pom",
+    "sha512": "88a2c8f01f4fc7f85854bbe40c350a66fc77d8ad629162f576f54d6b1829df7dee9d415965ad5213a51e01093b9450715a2e1e54279097c181d067584aacebb2",
+    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.10.2",
+    "dest-filename": "compose-gradle-plugin-1.10.2.pom"
   },
   {
     "type": "file",
@@ -701,10 +701,10 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/org.jetbrains.compose.gradle.plugin/1.10.0/org.jetbrains.compose.gradle.plugin-1.10.0.pom",
-    "sha512": "fa77e4603ac6c4bd073e96e000788a219b8e083a651db79f3a370f3328be8b575da28a85ea87035e48c0814b5c1d567abafa2ce7e6b7a7b776c2319bd2d492d1",
-    "dest": "./offline-repository/org/jetbrains/compose/org.jetbrains.compose.gradle.plugin/1.10.0",
-    "dest-filename": "org.jetbrains.compose.gradle.plugin-1.10.0.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/org.jetbrains.compose.gradle.plugin/1.10.2/org.jetbrains.compose.gradle.plugin-1.10.2.pom",
+    "sha512": "88b66b550638e7d467ef813e409ce7b13394ca3d7f0a3d5e85340cd239947e140d286ab5dff4182a93545f901e61943f6360abe9eee4f346746431b185bc4331",
+    "dest": "./offline-repository/org/jetbrains/compose/org.jetbrains.compose.gradle.plugin/1.10.2",
+    "dest-filename": "org.jetbrains.compose.gradle.plugin-1.10.2.pom"
   },
   {
     "type": "file",
