@@ -992,5 +992,54 @@
     "sha512": "eed9ee1545c545ed8dc50e575c57abb2f2de112730aba51b44123d900f90f45a876c4a12fb345d69d651b190b5115fa7cfd5c57f56417e6f012c6eb24b632b45",
     "dest": "./offline-repository/io/ktor/ktor-client-auth-jvm/3.4.0",
     "dest-filename": "ktor-client-auth-jvm-3.4.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.2/desktop-jvm-linux-arm64-1.10.2.pom",
+    "sha512": "177c0a9e4567ca1f59b54830e6e12819a0a1307b9b4194f38b8dcfb339ee5034a621f1a64ee78f779cc0cb21d3feda898a8940b57772f849df8430ee31e9a858",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.2",
+    "dest-filename": "desktop-jvm-linux-arm64-1.10.2.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.0-beta02/desktop-jvm-linux-arm64-1.10.0-beta02.pom",
+    "sha512": "68001c33ba98ad323d8730f375bc97400860d2afe440518febb4d98e97e73ac9d88f75e2bbc0415e3bb99179569158bc6443c1c39e2dc4e932aa3b5b6087a1fc",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.0-beta02",
+    "dest-filename": "desktop-jvm-linux-arm64-1.10.0-beta02.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.0-rc01/desktop-jvm-linux-arm64-1.10.0-rc01.pom",
+    "sha512": "318adb52120c9c47c849015c92bf8cf1cb5136e24eb0870e3a304a550e74de792302c255e8aafbbd12217b0c7a7d3141b145a553d90c1095ec8809fffbf9f13c",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.0-rc01",
+    "dest-filename": "desktop-jvm-linux-arm64-1.10.0-rc01.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.37.4/skiko-awt-runtime-linux-arm64-0.9.37.4.jar",
+    "sha512": "cf422e96364e3813fa0c5289cb1ece690a461d516f0f20f5756adae02937e5bb314d5065f5c1d5776a42618ea01513531cc1a8f10d4d9e1062135006b12523ac",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.37.4",
+    "dest-filename": "skiko-awt-runtime-linux-arm64-0.9.37.4.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.37.4/skiko-awt-runtime-linux-arm64-0.9.37.4.pom",
+    "sha512": "e719b216bb4210f545c902a8fbc55ae8d44e6798263e17ea5088cb823556a4bc6ff0db5f251c8b2cef7920bb6d84f832c0fed718010177a1987db09c756829d7",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.37.4",
+    "dest-filename": "skiko-awt-runtime-linux-arm64-0.9.37.4.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.30/skiko-awt-runtime-linux-arm64-0.9.30.jar",
+    "sha512": "21cf6cda2ba7572c6f19b79a1bac5f0f83afccbac34488208f5259cadd76c8ddc8fcd77836d88c5b29d3439ffcf3cc51aa60ea7811de3900a3d6ea11e7bf0773",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.30",
+    "dest-filename": "skiko-awt-runtime-linux-arm64-0.9.30.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.30/skiko-awt-runtime-linux-arm64-0.9.30.pom",
+    "sha512": "d2212687244e60026a1906edff93bb93668d1b6d7ea5c7863ed12b6b62b36486a08a37d77842c68cea27c2142182fdce9b75e21a1262eb581d4c68fd24d6118d",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.30",
+    "dest-filename": "skiko-awt-runtime-linux-arm64-0.9.30.pom"
   }
 ]
