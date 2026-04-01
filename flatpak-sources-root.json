@@ -134,31 +134,31 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/co/touchlab/skie/co.touchlab.skie.gradle.plugin/0.10.9/co.touchlab.skie.gradle.plugin-0.10.9.pom",
-    "sha512": "b8326281084d5811cb882d8a5b4c9b41a197861fa98298c863640667cb1107ca4771cbbb02bdd02c783e1ba5b473240a3e74f721bdf89c1c4aacdc0fabcf0b75",
-    "dest": "./offline-repository/co/touchlab/skie/co.touchlab.skie.gradle.plugin/0.10.9",
-    "dest-filename": "co.touchlab.skie.gradle.plugin-0.10.9.pom"
+    "url": "https://repo.maven.apache.org/maven2/co/touchlab/skie/co.touchlab.skie.gradle.plugin/0.10.10/co.touchlab.skie.gradle.plugin-0.10.10.pom",
+    "sha512": "5eb1cde2ad9189a68a43fcc0a0dbd5c5e3a3e81549b688876e8569eff649a3a5a8104b6cb70d2733d6b6000678e8a79705cd3410a35a51c72c26f133a2f4cd18",
+    "dest": "./offline-repository/co/touchlab/skie/co.touchlab.skie.gradle.plugin/0.10.10",
+    "dest-filename": "co.touchlab.skie.gradle.plugin-0.10.10.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/co/touchlab/skie/gradle-plugin/0.10.9/gradle-plugin-0.10.9.jar",
-    "sha512": "18f16b24a0c55d02ffe8d331aa6f6420a05411759a3988f450c8c422e548d208a18d3d94baca1f04a9aab956d855292b11461b79fe4925b39a2259420525c6ed",
-    "dest": "./offline-repository/co/touchlab/skie/gradle-plugin/0.10.9",
-    "dest-filename": "gradle-plugin-0.10.9.jar"
+    "url": "https://repo.maven.apache.org/maven2/co/touchlab/skie/gradle-plugin/0.10.10/gradle-plugin-0.10.10.jar",
+    "sha512": "2cb519053bd5a4e3a8264959df3c8edb65533c84472d24e15fa7c4940fdb2d0484d3bbf335a60404dafc2ffd5405dc7f5374ccdd6debcf0056af7249c620a138",
+    "dest": "./offline-repository/co/touchlab/skie/gradle-plugin/0.10.10",
+    "dest-filename": "gradle-plugin-0.10.10.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/co/touchlab/skie/gradle-plugin/0.10.9/gradle-plugin-0.10.9.module",
-    "sha512": "358b57b02c0b833a1cf0384e62d37861a96c015d10c404e4e0acaddaf41a5993193fdec6d1c7346215b10366c7e4be30b5f3fdbaa138b1245155e6ceb7e59170",
-    "dest": "./offline-repository/co/touchlab/skie/gradle-plugin/0.10.9",
-    "dest-filename": "gradle-plugin-0.10.9.module"
+    "url": "https://repo.maven.apache.org/maven2/co/touchlab/skie/gradle-plugin/0.10.10/gradle-plugin-0.10.10.module",
+    "sha512": "ee1ec9b413f2476f6641b9394d4008eb4552cca70648c7de87d69450f5506f44028f4e9b41192c1cfe45a75ee51ab6a3750e15eb17cab23a2ab1ead56f01b166",
+    "dest": "./offline-repository/co/touchlab/skie/gradle-plugin/0.10.10",
+    "dest-filename": "gradle-plugin-0.10.10.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/co/touchlab/skie/gradle-plugin/0.10.9/gradle-plugin-0.10.9.pom",
-    "sha512": "7a96511cc6d108c91d37a70f69463f7ca1aa3acaf7eba59f3bf29685f8aa2983bba0ecf4be974bf15da481a8f42672d1f0d181e6f944afbb29583f5d1ddd20e6",
-    "dest": "./offline-repository/co/touchlab/skie/gradle-plugin/0.10.9",
-    "dest-filename": "gradle-plugin-0.10.9.pom"
+    "url": "https://repo.maven.apache.org/maven2/co/touchlab/skie/gradle-plugin/0.10.10/gradle-plugin-0.10.10.pom",
+    "sha512": "263722651bf34c746f331e50402d4f5d511ee809fc53f82eb8f38064d4e54082c04567b7313962450275e048bc08d628887fbd4f0db34c6563e0b2861696be0a",
+    "dest": "./offline-repository/co/touchlab/skie/gradle-plugin/0.10.10",
+    "dest-filename": "gradle-plugin-0.10.10.pom"
   },
   {
     "type": "file",
@@ -183,73 +183,87 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/com.google.devtools.ksp.gradle.plugin/2.3.5/com.google.devtools.ksp.gradle.plugin-2.3.5.pom",
-    "sha512": "113c90ac4da3a1d6a38942565e8913db13b91c2e6d51144f5843e021ef384f2efa47cf859eb248c42cd8b824ddc1741bf2959c950795619c18566b92bbc4e11b",
-    "dest": "./offline-repository/com/google/devtools/ksp/com.google.devtools.ksp.gradle.plugin/2.3.5",
-    "dest-filename": "com.google.devtools.ksp.gradle.plugin-2.3.5.pom"
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/com.google.devtools.ksp.gradle.plugin/2.3.6/com.google.devtools.ksp.gradle.plugin-2.3.6.pom",
+    "sha512": "49bfe05f9c946f6eae42eba5fdd865ba015a54f500a9d4fe01df39015b50962bc31ca41b1b74c363f68c3824f94eccded1bf23032842ba190ece1118b3771649",
+    "dest": "./offline-repository/com/google/devtools/ksp/com.google.devtools.ksp.gradle.plugin/2.3.6",
+    "dest-filename": "com.google.devtools.ksp.gradle.plugin-2.3.6.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-api/2.3.5/symbol-processing-api-2.3.5.jar",
-    "sha512": "c72ae0d465aa7b931b8e778205eb73a05df12c9fc0658ecbf74fee0a5b14f5aa1c0db8ed61a400d21e171898a0aa75540c2e75367e831c30939aa4a2a7999226",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.5",
-    "dest-filename": "symbol-processing-api-2.3.5.jar"
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-api/2.3.6/symbol-processing-api-2.3.6.jar",
+    "sha512": "60c52dc1ac7c0b1eb28670c77f94d2299baba2459915f6ee73c104c3630e74aed5d9d3c17003b131ed79f25dbbbe3d10224b5a7504da7f5445eb14ff5af22c98",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.6",
+    "dest-filename": "symbol-processing-api-2.3.6.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-api/2.3.5/symbol-processing-api-2.3.5.module",
-    "sha512": "8d021789a6999a0cb782120276b482167f4c6954902558f13a099f762c65a5c43c2b68b412991fdbc462b427f688e5315c41647c90bbf1f422f01b3b609ec70c",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.5",
-    "dest-filename": "symbol-processing-api-2.3.5.module"
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-api/2.3.6/symbol-processing-api-2.3.6.module",
+    "sha512": "491e17625588fb2a10401d71ae4f03bb3a0d99386aef24f70011ba028e1a2a92a664cf6f05f7719aadfe02301e59e06f9194051ddb9f150c9522cdfa34ca1db8",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.6",
+    "dest-filename": "symbol-processing-api-2.3.6.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-api/2.3.5/symbol-processing-api-2.3.5.pom",
-    "sha512": "add5ae3eb926f825ab2897e3e1cc14bbc71ea5907dc73c3701c189a2cd7b4c9afc8f8d9afb88cd6346122975841cd7a5c502042c4ef2f509fc0212b85615f3f8",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.5",
-    "dest-filename": "symbol-processing-api-2.3.5.pom"
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-api/2.3.6/symbol-processing-api-2.3.6.pom",
+    "sha512": "1f1a3c79df0e7cbec9a9a3684a5cb2d9f07703aaf9a90237ca60bc906e1d1e8cd638ab497b3af3349ce1bfa33293df82abcae3ae7a8f9ac6964d2f8b605d5a42",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.6",
+    "dest-filename": "symbol-processing-api-2.3.6.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.5/symbol-processing-common-deps-2.3.5.jar",
-    "sha512": "d689128336ee69d8361b4c7532c9b6944d99a12ff20c78b86f8270ce9a5973196b1bddab93b8c5ed89dc92211a800f5827adaa3435b8ea1d11b67977a59d4114",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.5",
-    "dest-filename": "symbol-processing-common-deps-2.3.5.jar"
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.6/symbol-processing-common-deps-2.3.6.jar",
+    "sha512": "167389600a70a9ccd37841442a3d75afaa3b2ab351705246d0c1d62ff7345c036d6540d6b430ef18f049a6d62d18d82257e29bf798c60a40a3fb0cf27c47fa76",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.6",
+    "dest-filename": "symbol-processing-common-deps-2.3.6.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.5/symbol-processing-common-deps-2.3.5.module",
-    "sha512": "78b8df83649dfa077485476cefcc36931e91c4dc61c7047d0918421525cd9e1adabf14cfaf5d17a2cb8c9239e72b835525784e2d142bc8a037fb3568ad465103",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.5",
-    "dest-filename": "symbol-processing-common-deps-2.3.5.module"
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.6/symbol-processing-common-deps-2.3.6.module",
+    "sha512": "d5a2f51bdfe6a00ee7b3378caad2b146a931e1ff3a04b0d5539183967f765c292edbf5e791b94cfb2391ad9d7c11947d2fead2c444805c6a9d79e4509517c613",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.6",
+    "dest-filename": "symbol-processing-common-deps-2.3.6.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.5/symbol-processing-common-deps-2.3.5.pom",
-    "sha512": "c05835ab63fd7d34c3cf3066ebfa7da5b5887e35e607dd8ee4d6fb395860bef8bacdadd2ca15c684f769a3da4fdf245b7a55a1943591235b44b7fbfc44f03f1c",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.5",
-    "dest-filename": "symbol-processing-common-deps-2.3.5.pom"
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.6/symbol-processing-common-deps-2.3.6.pom",
+    "sha512": "44f152bc12b031527d6f5b94a6f8999670fe8eacf6c480a7cd81bdeaecc650a74845ba0843eb724fc689448fa4ecc35fc99ba46a404f9f4c6f8607e9cc8f13bc",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.6",
+    "dest-filename": "symbol-processing-common-deps-2.3.6.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.5/symbol-processing-gradle-plugin-2.3.5.jar",
-    "sha512": "e86a80253588a025e6e297e5a5f3c5ee32ea567b99ea997d11e7953f87048fa63edaa950b0f192e3ea2450c14973672fd0ee32779e022308afdf4433a94abeff",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.5",
-    "dest-filename": "symbol-processing-gradle-plugin-2.3.5.jar"
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.6/symbol-processing-gradle-plugin-2.3.6.jar",
+    "sha512": "00374a3cf2e349b125dc554e60251185d4d9098293f2bb36f7b097e6ae8945b81a8957c5b760bdb46e4b13c228be5b5ded99593b3f29094d4840963d03e7ded5",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.6",
+    "dest-filename": "symbol-processing-gradle-plugin-2.3.6.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.5/symbol-processing-gradle-plugin-2.3.5.module",
-    "sha512": "8b202cdf60d1bbf8b22afac91e1f8987ec2337753e46941b6c8ca0019e56e5c34d3be2baeb70f93ac7c816f7e5f43defb443d2747fdc29f0751e3223c98b38d0",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.5",
-    "dest-filename": "symbol-processing-gradle-plugin-2.3.5.module"
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.6/symbol-processing-gradle-plugin-2.3.6.module",
+    "sha512": "26183fa56dce277474e81e388832188cc437404b5d5ff7e9346a96d6f92592c1140fa269501bf29fcf652f802c89ea9a39298d9f182ec50a95918b29518094e7",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.6",
+    "dest-filename": "symbol-processing-gradle-plugin-2.3.6.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.5/symbol-processing-gradle-plugin-2.3.5.pom",
-    "sha512": "b9c4d3211cf76694e3a3e5f44b9ee13fbf9481d8ff26f0a72036a031a4bd9dce5d6e760387a9ca7bce5f58e9dd5d8cb55dcc0d2701e402e8102d432d54a058c8",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.5",
-    "dest-filename": "symbol-processing-gradle-plugin-2.3.5.pom"
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.6/symbol-processing-gradle-plugin-2.3.6.pom",
+    "sha512": "57c961e9f704ef6cc78b59704fff0db2ec62b02550e491245d1d969c5c314502dd817948968e900e8fd03e24966c50bbc516a1127ba1d1417704d55e2f2d1c55",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.6",
+    "dest-filename": "symbol-processing-gradle-plugin-2.3.6.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.6/symbol-processing-aa-embeddable-2.3.6.jar",
+    "sha512": "643b0d8cf171bafe861c71cc9e5a21e28bd5d750acbf48f3debc6b8ba60a2abc67190b167c9c0637c0dfc4cc24124b128ecdef85a1f7e45765b2d23182799881",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.6",
+    "dest-filename": "symbol-processing-aa-embeddable-2.3.6.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.6/symbol-processing-aa-embeddable-2.3.6.pom",
+    "sha512": "082073baec2ee2e79bfd8b8ddf95446283b3b91031462896a1906313835f5a698602485705a24dc1a7ea2eebe8eedfcc4d88569ed977bc75a5658b39a9cd958a",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.6",
+    "dest-filename": "symbol-processing-aa-embeddable-2.3.6.pom"
   },
   {
     "type": "file",
@@ -393,31 +407,31 @@
   },
   {
     "type": "file",
-    "url": "https://plugins.gradle.org/m2/io/github/jwharm/flatpak-gradle-generator/io.github.jwharm.flatpak-gradle-generator.gradle.plugin/1.6.0/io.github.jwharm.flatpak-gradle-generator.gradle.plugin-1.6.0.pom",
-    "sha512": "fbe6480fc584f081469ca53936edaae0597f91e973c761b3a51332c3f89486c27c7c37b7c6493846b072ce5b38d78daa7a64c0b2da1da02ef3b43678cd2c74cc",
-    "dest": "./offline-repository/io/github/jwharm/flatpak-gradle-generator/io.github.jwharm.flatpak-gradle-generator.gradle.plugin/1.6.0",
-    "dest-filename": "io.github.jwharm.flatpak-gradle-generator.gradle.plugin-1.6.0.pom"
+    "url": "https://plugins.gradle.org/m2/io/github/jwharm/flatpak-gradle-generator/io.github.jwharm.flatpak-gradle-generator.gradle.plugin/1.7.0/io.github.jwharm.flatpak-gradle-generator.gradle.plugin-1.7.0.pom",
+    "sha512": "fba54b6f68e32382288201b0a360a6ba34f5a24bfc2f6ced503384f1bf67de2ca5c4f417a91616c2da591d185202d0c58acee2ea3a1ed2a8810011cdc1fe5056",
+    "dest": "./offline-repository/io/github/jwharm/flatpak-gradle-generator/io.github.jwharm.flatpak-gradle-generator.gradle.plugin/1.7.0",
+    "dest-filename": "io.github.jwharm.flatpak-gradle-generator.gradle.plugin-1.7.0.pom"
   },
   {
     "type": "file",
-    "url": "https://plugins.gradle.org/m2/io/github/jwharm/flatpak-gradle-generator/plugin/1.6.0/plugin-1.6.0.jar",
-    "sha512": "a3ea69f67a305030a02f5818a5349753522a382fe36bc22140ac7b63998c14bdb211810b43859e91be0203723490a5de2c1f5e968f696019ec5a31e92d42843e",
-    "dest": "./offline-repository/io/github/jwharm/flatpak-gradle-generator/plugin/1.6.0",
-    "dest-filename": "plugin-1.6.0.jar"
+    "url": "https://plugins.gradle.org/m2/io/github/jwharm/flatpak-gradle-generator/plugin/1.7.0/plugin-1.7.0.jar",
+    "sha512": "1fd33596f12f7f2e30e0a59db804cc1a65326b711f5bc8eafccaaf6bee495a33971354d58b17173f5a3f8053f2240e34146ca8e02f230b3319f2d22f5225b8fb",
+    "dest": "./offline-repository/io/github/jwharm/flatpak-gradle-generator/plugin/1.7.0",
+    "dest-filename": "plugin-1.7.0.jar"
   },
   {
     "type": "file",
-    "url": "https://plugins.gradle.org/m2/io/github/jwharm/flatpak-gradle-generator/plugin/1.6.0/plugin-1.6.0.module",
-    "sha512": "aa1756741388b43d5d07bd65934b1cbbb746085bc4df8f98c506f2d5bc367276fd4b0c01e51540d981a5be37715f5ae3d64dcc29b9157b602f59bd929560d1ec",
-    "dest": "./offline-repository/io/github/jwharm/flatpak-gradle-generator/plugin/1.6.0",
-    "dest-filename": "plugin-1.6.0.module"
+    "url": "https://plugins.gradle.org/m2/io/github/jwharm/flatpak-gradle-generator/plugin/1.7.0/plugin-1.7.0.module",
+    "sha512": "4b0865f472199aa42925b39bed7e211e67ca935c4a5e6598d46cc5da313e91a2de6f6d0c775c06b6c79e01d46ab4f44d67ad4d1e5201efd9086d1cccba8e8bad",
+    "dest": "./offline-repository/io/github/jwharm/flatpak-gradle-generator/plugin/1.7.0",
+    "dest-filename": "plugin-1.7.0.module"
   },
   {
     "type": "file",
-    "url": "https://plugins.gradle.org/m2/io/github/jwharm/flatpak-gradle-generator/plugin/1.6.0/plugin-1.6.0.pom",
-    "sha512": "3149ff19058093c6665f5d0d5f36ca174250a5cad22a38710502071cfaa7520645dc00546e3b5190437c496ddb630d13815477934221ac7672e65a5b60ad8f6b",
-    "dest": "./offline-repository/io/github/jwharm/flatpak-gradle-generator/plugin/1.6.0",
-    "dest-filename": "plugin-1.6.0.pom"
+    "url": "https://plugins.gradle.org/m2/io/github/jwharm/flatpak-gradle-generator/plugin/1.7.0/plugin-1.7.0.pom",
+    "sha512": "ecc20ed5e412a877d83ecf394e55376492535831d3237f348566bed8fcd31154641e74e4a4f5e841171069be83ef8f53e18dcddaffef3c8847b8ae2a75dd0a49",
+    "dest": "./offline-repository/io/github/jwharm/flatpak-gradle-generator/plugin/1.7.0",
+    "dest-filename": "plugin-1.7.0.pom"
   },
   {
     "type": "file",
@@ -659,24 +673,24 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.10.2/compose-gradle-plugin-1.10.2.jar",
-    "sha512": "6cd2c7c69936d4e497bdf24d56a61bcf5f85af8bc77707a5134744bc723730f0ee18f99e2d885b99d12020afc1eed28806e6cc6188f5bcb298b1087e2406a95c",
-    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.10.2",
-    "dest-filename": "compose-gradle-plugin-1.10.2.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.10.3/compose-gradle-plugin-1.10.3.jar",
+    "sha512": "31da8a7cc60ae44fa32c6f5903a2b06f96472b41d746402e81d07f9a48712e53adc796c1170a5df16e5b3de797373c8905594cf763cbf33bb6f89471e8c8bb20",
+    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.10.3",
+    "dest-filename": "compose-gradle-plugin-1.10.3.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.10.2/compose-gradle-plugin-1.10.2.module",
-    "sha512": "dcdaeafc94a74efab2b986540fb2d57e991945a2f9a2321f2dbf4a1fefa7f3837ab73608189aad212a98ab460e44608dd628b2ed1d1ef343e552ef3d495c17b7",
-    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.10.2",
-    "dest-filename": "compose-gradle-plugin-1.10.2.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.10.3/compose-gradle-plugin-1.10.3.module",
+    "sha512": "c501ee14bbf86f02562acadc75ce3c0be51497f6db05810e68c50531cc501b4b4140bd5e8d7797f34332b624d6b794d178bdb74ec2f0b78376faa81dbcb5f48d",
+    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.10.3",
+    "dest-filename": "compose-gradle-plugin-1.10.3.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.10.2/compose-gradle-plugin-1.10.2.pom",
-    "sha512": "88a2c8f01f4fc7f85854bbe40c350a66fc77d8ad629162f576f54d6b1829df7dee9d415965ad5213a51e01093b9450715a2e1e54279097c181d067584aacebb2",
-    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.10.2",
-    "dest-filename": "compose-gradle-plugin-1.10.2.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.10.3/compose-gradle-plugin-1.10.3.pom",
+    "sha512": "80ff43c0a17245afbfa2fd43d9dc560471c84b7b3665a130ea1ac6cce042a39c6e67dcb82b9eab658a49ca74104aa28789f7a6a8845c0cd712b7b2671435e6ff",
+    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.10.3",
+    "dest-filename": "compose-gradle-plugin-1.10.3.pom"
   },
   {
     "type": "file",
@@ -701,10 +715,10 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/org.jetbrains.compose.gradle.plugin/1.10.2/org.jetbrains.compose.gradle.plugin-1.10.2.pom",
-    "sha512": "88b66b550638e7d467ef813e409ce7b13394ca3d7f0a3d5e85340cd239947e140d286ab5dff4182a93545f901e61943f6360abe9eee4f346746431b185bc4331",
-    "dest": "./offline-repository/org/jetbrains/compose/org.jetbrains.compose.gradle.plugin/1.10.2",
-    "dest-filename": "org.jetbrains.compose.gradle.plugin-1.10.2.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/org.jetbrains.compose.gradle.plugin/1.10.3/org.jetbrains.compose.gradle.plugin-1.10.3.pom",
+    "sha512": "1786bc5cb70f82bff97a0e1d2c031fa725ce8692503953345c0f6438c0fb847a03c817e10330e387029e25c68c5d8c88255536ae24c2beefd3faeb92b5229922",
+    "dest": "./offline-repository/org/jetbrains/compose/org.jetbrains.compose.gradle.plugin/1.10.3",
+    "dest-filename": "org.jetbrains.compose.gradle.plugin-1.10.3.pom"
   },
   {
     "type": "file",
@@ -1118,6 +1132,69 @@
     "sha512": "8b1f1ffcd1fdc8f71183f80fad469036a6bdfce169c5691484070259fc37d3eab7879e0658ef605e5609469a18c9c16f77f3123de1f0605153feff616985beb0",
     "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.0.21",
     "dest-filename": "kotlin-stdlib-2.0.21.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/2.3.10/kotlin-stdlib-jdk7-2.3.10.jar",
+    "sha512": "6fbb2444648bc8bea583e0a863e0732a045d7ff5fe5d9951b4c3e75182d57929a9aff042197d63aa0ccfebca7ab91c116ef04abaf47d61acaac062a069c73386",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-jdk7/2.3.10",
+    "dest-filename": "kotlin-stdlib-jdk7-2.3.10.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/2.3.10/kotlin-stdlib-jdk7-2.3.10.pom",
+    "sha512": "bf37aa9c95b2f02b743c30efbb56230f3621c216cafa9ac830cdfb59ae6238426abdb577349937d980a72910b68f33964412c867f4ba15e853efeac4262c0233",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-jdk7/2.3.10",
+    "dest-filename": "kotlin-stdlib-jdk7-2.3.10.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/2.3.10/kotlin-stdlib-jdk8-2.3.10.jar",
+    "sha512": "333b0f84a841ff77566b16f1b6cae83a6ff63ebf65196177f44882cadfb75436e750aecc444b4f964a8d9da7834c52037087470b3fa30c9030b79fd6f1d5095c",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-jdk8/2.3.10",
+    "dest-filename": "kotlin-stdlib-jdk8-2.3.10.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/2.3.10/kotlin-stdlib-jdk8-2.3.10.pom",
+    "sha512": "8be2d8294d48a4294da7819ce52c0a06fd536a1b249facf02f95a4672aac002d83a2619a29752affea19c855dfdad9d8ae82037848dad285afd9c74a1a16b244",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-jdk8/2.3.10",
+    "dest-filename": "kotlin-stdlib-jdk8-2.3.10.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/2.3.10/kotlin-stdlib-common-2.3.10.pom",
+    "sha512": "c56478096092e3ce3b59d2c0dc91f39c04edcb84199605484618dd0571dc6e04fbddcde52a979852a1194d5a06327f8e603f04acb6cc2b11658ef61061331590",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-common/2.3.10",
+    "dest-filename": "kotlin-stdlib-common-2.3.10.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/2.3.10/kotlin-stdlib-common-2.3.10.module",
+    "sha512": "72c630752805c438cc2ba7ddc3a1a144903094128cb7116fc57ae94749a228e0b89ef1112849c7054d23e98ac33f3edb141d1db2c77bb2fa037548fabc3b67ed",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-common/2.3.10",
+    "dest-filename": "kotlin-stdlib-common-2.3.10.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.3.10/kotlin-stdlib-2.3.10.jar",
+    "sha512": "8532b9ef9c0ff224aecb521f7fb6251e9ef37537e48a84f8fd09e1466689b96eb5c7b20d0b3f6f3bee36e0e01911fd0d80577725f6f323fa32c856142d4fbebd",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.10",
+    "dest-filename": "kotlin-stdlib-2.3.10.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.3.10/kotlin-stdlib-2.3.10.module",
+    "sha512": "5257ab9b466ff2ed1c9708a80c6fddf140bef07deaf115b03244b78ca4827df25de76d56c0c9df97ac8ba713e45e386e3103e18ecd9b0d1e30dbe8ba3ec49fdb",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.10",
+    "dest-filename": "kotlin-stdlib-2.3.10.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.3.10/kotlin-stdlib-2.3.10.pom",
+    "sha512": "e0ad7ce36f588d24ee21868d61f6b15f90678485558cf283b88855f0154a6d69a7bc8db02781d62be7099343a41ac311921d944159ccfa7e378a48f9fcd902b5",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.10",
+    "dest-filename": "kotlin-stdlib-2.3.10.pom"
   },
   {
     "type": "file",
