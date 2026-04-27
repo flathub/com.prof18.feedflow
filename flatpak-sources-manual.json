@@ -1,248 +1,10 @@
 [
   {
     "type": "file",
-    "url": "https://plugins.gradle.org/m2/org/gradle/toolchains/foojay-resolver/1.0.0/foojay-resolver-1.0.0.jar",
-    "sha512": "b88512eaf3aeda8862ba52b7b1a7cc5d3b232eb09f02bb288521910f018c8ede7acfe56fbceb167ad01a3a4f0092c07f675b5ae7d7906284e04f14414fb643f9",
-    "dest": "./offline-repository/org/gradle/toolchains/foojay-resolver/1.0.0",
-    "dest-filename": "foojay-resolver-1.0.0.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://plugins.gradle.org/m2/org/gradle/toolchains/foojay-resolver/1.0.0/foojay-resolver-1.0.0.pom",
-    "sha512": "998a97ed6e1785fe0d273bd7e67803d386ca0a6c879c1899cff2590a7a9465a4bd92ceab879514c8cc8922422b608eeca81a0a118296c13da0c55e671b7decdc",
-    "dest": "./offline-repository/org/gradle/toolchains/foojay-resolver/1.0.0",
-    "dest-filename": "foojay-resolver-1.0.0.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://plugins.gradle.org/m2/org/gradle/toolchains/foojay-resolver-convention/org.gradle.toolchains.foojay-resolver-convention.gradle.plugin/1.0.0/org.gradle.toolchains.foojay-resolver-convention.gradle.plugin-1.0.0.pom",
-    "sha512": "57b924377d3c62fe9b5758c662f0d51c96bb2790b47551225958888d47abd2b04d1741c8b2d845001b3c5e1442f19c47864de11dbfa89f45bfa961521e696e20",
-    "dest": "./offline-repository/org/gradle/toolchains/foojay-resolver-convention/org.gradle.toolchains.foojay-resolver-convention.gradle.plugin/1.0.0",
-    "dest-filename": "org.gradle.toolchains.foojay-resolver-convention.gradle.plugin-1.0.0.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://plugins.gradle.org/m2/app/cash/sqldelight/compiler-env/2.1.0/compiler-env-2.1.0.jar",
-    "sha512": "5a189443ce46c5ec1f48cdf5b45b414b48e263ee28417dd5618f9ecd9b5614bd1498ac6bc936527aba1539d633370a7d1513c7cb515ce7b5ee11dd89181b29c0",
-    "dest": "./offline-repository/app/cash/sqldelight/compiler-env/2.1.0",
-    "dest-filename": "compiler-env-2.1.0.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://plugins.gradle.org/m2/app/cash/sqldelight/compiler-env/2.1.0/compiler-env-2.1.0.pom",
-    "sha512": "c81507b5a3902812e856c7e4ce858d14f85626087ab9256064d9f174312c68cfa17d8879edcd7d23e6fb8561f341519b44752a86b26bde7d565b93212c005c8b",
-    "dest": "./offline-repository/app/cash/sqldelight/compiler-env/2.1.0",
-    "dest-filename": "compiler-env-2.1.0.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://plugins.gradle.org/m2/app/cash/sqldelight/compiler-env/2.1.0/compiler-env-2.1.0.module",
-    "sha512": "12e493a9db0e98a6f9225f3e0867c4c7a28e550364d0066f3c9c935028f523aaa5a5f02ba9bcbf35a6aff7e838a1483e8a41a59dac682c8c290468f167d6d83c",
-    "dest": "./offline-repository/app/cash/sqldelight/compiler-env/2.1.0",
-    "dest-filename": "compiler-env-2.1.0.module"
-  },
-    {
-    "type": "file",
-    "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-serialization/2.2.0/kotlin-serialization-2.2.0-gradle813.jar",
-    "sha512": "596967347ad4b67173f6615be95c7cf049ffe24290f0d0bd9572b15e2672ca4cab068a6ea933a442064e744bbb91f9e8589d421358e4eef9905c4e8474c6caf8",
-    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-serialization/2.2.0",
-    "dest-filename": "kotlin-serialization-2.2.0-gradle813.jar"
-  },
-    {
-    "type": "file",
-    "url": "https://plugins.gradle.org/m2/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar",
-    "sha512": "cb82eb0aaae88e3283b299929173296e30c7b078105e0fc5ecfbcd4eb230026f9a7cc46680832d036e6c1ff036ad99d4c50dc296d4919d223879081ac1616944",
-    "dest": "./offline-repository/org/jetbrains/annotations/23.0.0",
-    "dest-filename": "annotations-23.0.0.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://plugins.gradle.org/m2/org/jetbrains/annotations/23.0.0/annotations-23.0.0.pom",
-    "sha512": "ae58d75b40e44cb0d8e3bb701c7afefa8cbf96066ae52fc3d57c69b7a7e819fd9b3b01971376da6ea94ee010b9ee59ba05a331b93a65e94c047b095131efd6c0",
-    "dest": "./offline-repository/org/jetbrains/annotations/23.0.0",
-    "dest-filename": "annotations-23.0.0.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.pom",
-    "sha512": "a0031bc41d95c457e2be4ba52dd7af151e5b7519cf01591ea258b7654054666f98f1f82911e4d8282e4d574db3dfffab917031d4e5493acf6df006469f24dbb5",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0",
-    "dest-filename": "kotlinx-coroutines-core-1.9.0.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0/kotlinx-coroutines-core-1.9.0.module",
-    "sha512": "e41d384e7e11561a243f838c49bbdf031354ebf51690cfb23aba2e734c8220729ac1b339938853c4b658f0440272fbe09465e17be46e231e21898a9d4fbdc84c",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-core/1.9.0",
-    "dest-filename": "kotlinx-coroutines-core-1.9.0.module"
-  },
-  {
-    "type": "file",
-    "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.jar",
-    "sha512": "78c77268ec81ee580c9481ae35b667912e186e11576acc669ad4e8c17041506db5ba8adae439b50685a7cedf58755f0df7f2aa82ad1350e499431b13e6752a1a",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0",
-    "dest-filename": "kotlinx-coroutines-core-jvm-1.9.0.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.pom",
-    "sha512": "d04fca8b3b465e781f48b7903ff8d880ca305a66c038e02da51ca87a0ee5c96275f911c673d779a364e82a325e427f4c11f5f83ed3c815cd75f6291fb96c0625",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0",
-    "dest-filename": "kotlinx-coroutines-core-jvm-1.9.0.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0/kotlinx-coroutines-core-jvm-1.9.0.module",
-    "sha512": "2a2ddb002d60f0a4bc757b8deacd2a89b1a86c6601bd52911af701728cc0b796e3ae743b4f2b847036eeb8ce58141a0f438ee600ba198cd55e95031af7081e4e",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.9.0",
-    "dest-filename": "kotlinx-coroutines-core-jvm-1.9.0.module"
-  },
-  {
-    "type": "file",
-    "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.9.0/kotlinx-coroutines-bom-1.9.0.pom",
-    "sha512": "6d7f6ee873c622ac45c12266c1b2dc7086cb7273a77215ef9c51ce3b8cc1ac3415229b193792d1900d0ed9fba3f464eaa380741e813ed4ed364a6bc21de17671",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.9.0",
-    "dest-filename": "kotlinx-coroutines-bom-1.9.0.pom"
-  },
-   {
-    "type": "file",
-    "url": "https://jitpack.io/com/github/prof18/lyricist/e305b936c3/lyricist-e305b936c3.jar",
-    "sha512": "e1f91e0033396a2a0c5d98d731c7aaadeea45dfc2fcea8d6574df9cb733441ecdd83b0244bd0b325cadc17212dacdbd13cf0c8c79b3fb5a0cd1fe4fb7d8a493d",
-    "dest": "./offline-repository/com/github/prof18/lyricist/e305b936c3",
-    "dest-filename": "lyricist-e305b936c3.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://jitpack.io/com/github/prof18/lyricist/e305b936c3/lyricist-e305b936c3.pom",
-    "sha512": "06ff124fc2e0d8d6363ee61669414ec506bd983946251f1b85f551b4f0ca69998e924274f0cd8f7a94683f01d90901c025609835754cc1ab6b94e2c2355c1d80",
-    "dest": "./offline-repository/com/github/prof18/lyricist/e305b936c3",
-    "dest-filename": "lyricist-e305b936c3.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://jitpack.io/com/github/prof18/lyricist/e305b936c3/lyricist-e305b936c3.module",
-    "sha512": "542fe8a93391273775ed059db6a8a87f76b2ff2bc95f1f93047d52561272299a148a5ee990110c703f9f7dc83fb978bfbb1b1ac34036644ce2b1c13bf9cfe11e",
-    "dest": "./offline-repository/com/github/prof18/lyricist/e305b936c3",
-    "dest-filename": "lyricist-e305b936c3.module"
-  },
-    {
-    "type": "file",
-    "url": "https://jitpack.io/com/github/Dansoftowner/jSystemThemeDetector/3.9.1/jSystemThemeDetector-3.9.1.jar",
-    "sha512": "86553acbe63a1691d2130561a3995825f82d0561423bf6a71082c2fb5e8545ca5fe62f650d121cd62230969cbe151415530c9f25259302e5027a6f3f05de0232",
-    "dest": "./offline-repository/com/github/Dansoftowner/jSystemThemeDetector/3.9.1",
-    "dest-filename": "jSystemThemeDetector-3.9.1.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://jitpack.io/com/github/Dansoftowner/jSystemThemeDetector/3.9.1/jSystemThemeDetector-3.9.1.pom",
-    "sha512": "f95677aeee5ecfc8fb8051e43f36945c6a7a61ad4f5e03bb3a3cc4a211c11061cf6cdd54d6e72509e907273f9aa82ca1e64fa6ec43be733e9a905ddfc59365dc",
-    "dest": "./offline-repository/com/github/Dansoftowner/jSystemThemeDetector/3.9.1",
-    "dest-filename": "jSystemThemeDetector-3.9.1.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://jitpack.io/com/github/Dansoftowner/jSystemThemeDetector/3.9.1/jSystemThemeDetector-3.9.1.module",
-    "sha512": "897a58f515305f2cd6f4c2157490b3b01b451fc5325deb5241b24c0967e1445da0b7c68df92c930c69bbf6446c0dc355a1274338f51263cd27c478a170e02bb8",
-    "dest": "./offline-repository/com/github/Dansoftowner/jSystemThemeDetector/3.9.1",
-    "dest-filename": "jSystemThemeDetector-3.9.1.module"
-  },
-  {
-    "type": "file",
-    "url": "https://maven.google.com/androidx/lifecycle/lifecycle-common/2.8.5/lifecycle-common-2.8.5.jar",
-    "sha512": "8b69aa707b97a1496bb1bf0b2586d981dff59f7e05fec12537c897ce454929504f3555e8af35a5a1cd69b441884d8d88384532d55b8b6762adff63ddbdccaf32",
-    "dest": "./offline-repository/androidx/lifecycle/lifecycle-common/2.8.5",
-    "dest-filename": "lifecycle-common-2.8.5.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://maven.google.com/androidx/lifecycle/lifecycle-common/2.8.5/lifecycle-common-2.8.5.pom",
-    "sha512": "9f4b6d27d626fb94ed997071dcb3d280609946121ee30aefb0dbed9a37710019b5aefc9975132ab2fcf84daf514a75a439409a233ccbb5428ba250297025a409",
-    "dest": "./offline-repository/androidx/lifecycle/lifecycle-common/2.8.5",
-    "dest-filename": "lifecycle-common-2.8.5.pom"
-  },
-    {
-    "type": "file",
-    "url": "https://maven.google.com/androidx/lifecycle/lifecycle-common-jvm/2.8.5/lifecycle-common-jvm-2.8.5.jar",
-    "sha512": "2cd19cfd6be392b8d6c97c18c5b7502522ff8e018a7aeeda83534185d508168ddd96236a3386ec9b0b9f1f74b879f5e48fd77c34ceff5edc811293e93898c802",
-    "dest": "./offline-repository/androidx/lifecycle/lifecycle-common-jvm/2.8.5",
-    "dest-filename": "lifecycle-common-jvm-2.8.5.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://maven.google.com/androidx/lifecycle/lifecycle-common-jvm/2.8.5/lifecycle-common-jvm-2.8.5.pom",
-    "sha512": "f045bd07abf9cb7484d111d68147c35490feef6783ca606758567c11a6e1ec8f3809f84662100c81636112be1a0b166111d92181f19b62419154e8946b238b7b",
-    "dest": "./offline-repository/androidx/lifecycle/lifecycle-common-jvm/2.8.5",
-    "dest-filename": "lifecycle-common-jvm-2.8.5.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://maven.google.com/androidx/lifecycle/lifecycle-common-jvm/2.8.5/lifecycle-common-jvm-2.8.5.module",
-    "sha512": "2a427282b242c8af98600d0d57d400fd314a1b72d97d4492ef571cfb1594dd5da97910dbb3e62798d945d86803ab5870d8ae03cfd847a9a55eabbbabf5924746",
-    "dest": "./offline-repository/androidx/lifecycle/lifecycle-common-jvm/2.8.5",
-    "dest-filename": "lifecycle-common-jvm-2.8.5.module"
-  },
-  {
-    "type": "file",
-    "url": "https://repo1.maven.org/maven2/org/jetbrains/compose/annotation-internal/annotation/1.6.11/annotation-1.6.11.jar",
-    "sha512": "ba136da0dc800d2c0c8e9b517ffe3b11f05e8c5758e5ab1e3194ca6633752b6a9ce7a8e93e2be679bbc37c2008d54d671443994c2c1ab8e57ba0427546e5dd67",
-    "dest": "./offline-repository/org/jetbrains/compose/annotation-internal/annotation/1.6.11",
-    "dest-filename": "annotation-1.6.11.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://repo1.maven.org/maven2/org/jetbrains/compose/annotation-internal/annotation/1.6.11/annotation-1.6.11.pom",
-    "sha512": "7faf670cc3c19ba3b28352a4d9a1b1f0df9c489c860f5ba5e5486246b06a30e1363a99dba871e5dfd514a20836f3057248be7138335c25a92ac49a4067d31cae",
-    "dest": "./offline-repository/org/jetbrains/compose/annotation-internal/annotation/1.6.11",
-    "dest-filename": "annotation-1.6.11.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo1.maven.org/maven2/org/jetbrains/compose/annotation-internal/annotation/1.6.11/annotation-1.6.11.module",
-    "sha512": "a98c005d8fcd18d6ead801d0fa93fbaad53e1d823eb6766a51b288995c0a11778a386ce094e18215fece03c993e793d3eddc470cb25a197e7c3b4fd8117979fb",
-    "dest": "./offline-repository/org/jetbrains/compose/annotation-internal/annotation/1.6.11",
-    "dest-filename": "annotation-1.6.11.module"
-  },
-  {
-    "type": "file",
-    "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.1.0/kotlin-stdlib-2.1.0.jar",
-    "sha512": "185049d31e826b71a2f135e19e3e8fbb22bc30032bfa015f16f0e27f40961fb0f6b1867090c6c898513f491ed03f014a8e15c07adab80aa7a5719e98da7846a5",
-    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.1.0",
-    "dest-filename": "kotlin-stdlib-2.1.0.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.1.0/kotlin-stdlib-2.1.0.pom",
-    "sha512": "3e89f8e956c481b2a16e7789aa90a90d03077cc92cc69c17143c827e49b7da2e96ad88a2edefbfad02559d8e9070e0087ccc3182ff341395a0d8c120f992b949",
-    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.1.0",
-    "dest-filename": "kotlin-stdlib-2.1.0.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/2.1.0/kotlin-stdlib-common-2.1.0.pom",
-    "sha512": "ea74285bcfa471d6c7b8c74da653fbc92ca5b741a8309ad0f6f0dc4b993b552c2296b5b93cdfd53ed8529bde3e33128e8d515e1267605301c74bc36a98c020af",
-    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-common/2.1.0",
-    "dest-filename": "kotlin-stdlib-common-2.1.0.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.8.2/desktop-jvm-linux-arm64-1.8.2.pom",
-    "sha512": "2b253d4679d72d7e53552f4b4188ebee3b23f346d3107d832afdadf5b3a3ebf3bf0b153f6c274525aecf17b47ebdf3e242875c01c16648015bc697826d2068a5",
-    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.8.2",
-    "dest-filename": "desktop-jvm-linux-arm64-1.8.2.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.9.0/desktop-jvm-linux-arm64-1.9.0.pom",
-    "sha512": "1f0ba0671dd525999a462160a74461864026e6e69e498cf8f4eabf64c144be0cc3137ec3ca611d8f19060329138d3e301fb7bd278782ae09a2f0126a18befcac",
-    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.9.0",
-    "dest-filename": "desktop-jvm-linux-arm64-1.9.0.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo1.maven.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.9.1/desktop-jvm-linux-arm64-1.9.1.pom",
-    "sha512": "2e8e617156e0c16e32ba952b3124c06f2d20d0ee1f038bb8000b4371f63f6daf4584a961e120a212a85d1a99780787b308d7840c0af4e8d2b04192009d023407",
-    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.9.1",
-    "dest-filename": "desktop-jvm-linux-arm64-1.9.1.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.9.3/desktop-jvm-linux-arm64-1.9.3.pom",
+    "sha512": "0603289548641cdbeb872671df34f1da197c03b1b622308fa066433b808775a31f0ae817afe76b4ac8d7b7d6a8d72c07ad4716b6582a6f0d1f76da90084a6f09",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.9.3",
+    "dest-filename": "desktop-jvm-linux-arm64-1.9.3.pom"
   },
   {
     "type": "file",
@@ -260,166 +22,544 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.22.2/skiko-awt-runtime-linux-arm64-0.9.22.2.jar",
-    "sha512": "4bf40404373b1364904c585daab458c49ad048fffd848c3e5910e530d062890586daee470d5e3d851da437ec619007a06f706a61fbb18d4c9037ea4a88457a68",
-    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.22.2",
-    "dest-filename": "skiko-awt-runtime-linux-arm64-0.9.22.2.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/foundation/foundation/1.9.1/foundation-1.9.1.jar",
+    "sha512": "b889ecf50d538226f968c89eedacfaa4868aee254e2fcf2b4a3521d43334c3da8df0e856a28208afeff730653befff6f2bb29bbb01423dce371ce37dfec255e3",
+    "dest": "./offline-repository/org/jetbrains/compose/foundation/foundation/1.9.1",
+    "dest-filename": "foundation-1.9.1.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.22.2/skiko-awt-runtime-linux-arm64-0.9.22.2.pom",
-    "sha512": "0b90e71423a122810c9578fa18d948b915e285846ddf0775845ace5dfa518b4d0108c68a551cb2971f758f34b0a2ad63172d6f0b3468494bec47bfc610937739",
-    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.22.2",
-    "dest-filename": "skiko-awt-runtime-linux-arm64-0.9.22.2.pom"
-  },
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/com/squareup/okio/okio-jvm/3.12.0/okio-jvm-3.12.0.jar",
-  "sha512": "3a05e84ef0424cc5b811451d247ca325097d3bb38ecf791d03baed60c2d730f5511ad2354506f899d6a180ee3d4b50d4f2b5b5fe4577eaeb2c35594212fb368f",
-  "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.12.0",
-  "dest-filename": "okio-jvm-3.12.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/com/squareup/okio/okio-jvm/3.12.0/okio-jvm-3.12.0.pom",
-  "sha512": "383dbb46c379131eb58d8c72107f3187db3a164b3563a50eaa073918d06150c0f20fd8155453837e59a69a6b46a4fad4c2dd99b7cf5a5dd880f1f6bd8ae03b31",
-  "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.12.0",
-  "dest-filename": "okio-jvm-3.12.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/com/squareup/okio/okio-jvm/3.12.0/okio-jvm-3.12.0.module",
-  "sha512": "a93ef4680973f9d4bc44a7ae12bf89042ed60155bc07428388cd4ded70caac61c482faf91194f16333a4bd3bbed8fc35edb0f521ff5dfb01292dccd7a8df4b7b",
-  "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.12.0",
-  "dest-filename": "okio-jvm-3.12.0.module"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/com/squareup/okio/okio/3.12.0/okio-3.12.0.pom",
-  "sha512": "a96c4d03886fcf8c107246856451aa4cb1b58ab04564dc0741e27a76a35bb37b5f3d0cd926b7d9a320e9f3ed4bd93ee074c1b60c348f4fe65e9b9e211991b539",
-  "dest": "./offline-repository/com/squareup/okio/okio/3.12.0",
-  "dest-filename": "okio-3.12.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/com/squareup/okio/okio/3.12.0/okio-3.12.0.module",
-  "sha512": "743880c8865bb0a53111bfe7cf3543011ea1cafffa649416b3c8858d6871fa9236b07309e596a9704199802c3ee08712a82b80bb4611b8cf531664241be785d8",
-  "dest": "./offline-repository/com/squareup/okio/okio/3.12.0",
-  "dest-filename": "okio-3.12.0.module"
-},
-{
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/guardsquare/proguard-base/7.7.0/proguard-base-7.7.0.jar",
-    "sha512": "8d4dffc91c7710101e7b08becca484c10396a680918aea68a84929f77f037d58e717174f306a48421d051eb1559c2e40d77751b8efe7bc13472d32769f99c705",
-    "dest": "./offline-repository/com/guardsquare/proguard-base/7.7.0",
-    "dest-filename": "proguard-base-7.7.0.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/foundation/foundation/1.9.1/foundation-1.9.1.pom",
+    "sha512": "06ab92303b5a3a19c881c21de6efd968a58bfb9ec74cee48cbc2e1d41dc9b2e2c7957b6dfbfd62708385d6ed2837254f006c7027185508b52711be2e4ceb74b7",
+    "dest": "./offline-repository/org/jetbrains/compose/foundation/foundation/1.9.1",
+    "dest-filename": "foundation-1.9.1.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/guardsquare/proguard-base/7.7.0/proguard-base-7.7.0.module",
-    "sha512": "a342332657ad87320634e23c7ac7f2f3f85bd5d2991c06a310fa6d8addde67d298e74c37af508021f820aa4c25001345eacce50397e192b75af22b1055503e0a",
-    "dest": "./offline-repository/com/guardsquare/proguard-base/7.7.0",
-    "dest-filename": "proguard-base-7.7.0.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/foundation/foundation/1.9.1/foundation-1.9.1.module",
+    "sha512": "4fb5482665bb4cc22000283fd557e29b1705a90680c99b989c87b42b95e971fefdac954a02bd12d167d513cecc5ec1cb3e838c390391f25ad34c037de1c31172",
+    "dest": "./offline-repository/org/jetbrains/compose/foundation/foundation/1.9.1",
+    "dest-filename": "foundation-1.9.1.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/guardsquare/proguard-base/7.7.0/proguard-base-7.7.0.pom",
-    "sha512": "1264cedc829c98aab8e7bb8afb0623b37cedd8fc37534a05c2c2fee0a04fb76f0aa80129d405864578235d5bec9f886f84a1a455cbf2de8ed6edf5fd19abe686",
-    "dest": "./offline-repository/com/guardsquare/proguard-base/7.7.0",
-    "dest-filename": "proguard-base-7.7.0.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/foundation/foundation-desktop/1.9.1/foundation-desktop-1.9.1.jar",
+    "sha512": "411d8a9b25fbf67be4201f24ac86f913046cca22ac193896211f5b097e532ffb61dab00f1d3655e88c0691b9a8db1cc5810c9b0652425094de56e2bc24848b9d",
+    "dest": "./offline-repository/org/jetbrains/compose/foundation/foundation-desktop/1.9.1",
+    "dest-filename": "foundation-desktop-1.9.1.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/guardsquare/proguard-core/9.1.10/proguard-core-9.1.10.jar",
-    "sha512": "45b3e9170e56b7beebb81e74160292556a2d6adb22f315287a288cccfa56868ca59d82a8eb0960c26fec369fd37971b761f3655a1b8ad38b77d6b66a776c8fc0",
-    "dest": "./offline-repository/com/guardsquare/proguard-core/9.1.10",
-    "dest-filename": "proguard-core-9.1.10.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/foundation/foundation-desktop/1.9.1/foundation-desktop-1.9.1.pom",
+    "sha512": "8dc5da23b5e9903d75a51675d16a89d9d54458af20fb32cc85b1c4e677fb5fdd726866203ad1064f703804ef211a96726f2ac23d0ff3ee8cf5c367d39005ced4",
+    "dest": "./offline-repository/org/jetbrains/compose/foundation/foundation-desktop/1.9.1",
+    "dest-filename": "foundation-desktop-1.9.1.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/guardsquare/proguard-core/9.1.10/proguard-core-9.1.10.module",
-    "sha512": "b707ab31afecce224b3aab73be6874db51731cfe087100de0700ddf1f85bca3b7920f59b98c7363bf0f162af67a6345bca778f340c8d87693e2452a3518c8e73",
-    "dest": "./offline-repository/com/guardsquare/proguard-core/9.1.10",
-    "dest-filename": "proguard-core-9.1.10.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/foundation/foundation-desktop/1.9.1/foundation-desktop-1.9.1.module",
+    "sha512": "03fbc52a5a331e62ced9a1d11f31303872ab6d6905e9701b135c4a20990f0fd6e165b74fc231f68555e55010fdab6f16fe5afff57e81822fba65ccb9c923b2d8",
+    "dest": "./offline-repository/org/jetbrains/compose/foundation/foundation-desktop/1.9.1",
+    "dest-filename": "foundation-desktop-1.9.1.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/guardsquare/proguard-core/9.1.10/proguard-core-9.1.10.pom",
-    "sha512": "e196fb5943e12b4b46de53c61608f1aa82075bdf0c6357cbab03c9c3754e0b09b889f09614aa8c35c83b5dc7eb372db6a52dcda7c490e289262260e37d099c5b",
-    "dest": "./offline-repository/com/guardsquare/proguard-core/9.1.10",
-    "dest-filename": "proguard-core-9.1.10.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-graphics/1.9.1/ui-graphics-1.9.1.jar",
+    "sha512": "3baf1f919f94815a98f4ae74689e5391f0f64afa9b296cb5ae06424e1473722b45737037535848a5e72555d98761546be15ec72ba735f6e01b2521eeacc3d1fc",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-graphics/1.9.1",
+    "dest-filename": "ui-graphics-1.9.1.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/guardsquare/proguard-gradle/7.7.0/proguard-gradle-7.7.0.jar",
-    "sha512": "67068226381917152fa8ada4a5201bf647a2a42ecf666095c888e05c93c29c3d021fc5817c6817eece5a0363cb30cc8a3ee713e480a1211fd30ce68862da1715",
-    "dest": "./offline-repository/com/guardsquare/proguard-gradle/7.7.0",
-    "dest-filename": "proguard-gradle-7.7.0.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-graphics/1.9.1/ui-graphics-1.9.1.pom",
+    "sha512": "93229bf370c11ec2109d80bf3b5830c05183801c8036e9ddd60783df8e52302a99166a82e7e3e6ad9af41de6270a01a4f018b072715e07e423acea0712f42de0",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-graphics/1.9.1",
+    "dest-filename": "ui-graphics-1.9.1.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/guardsquare/proguard-gradle/7.7.0/proguard-gradle-7.7.0.module",
-    "sha512": "af01e03ebeb32d8f0e67f6396df97add39710063ffaaddd8c073f6f6ecec8ccb7ccc3709cb023a57f51e0d7cb77c679f4a39b97011f28bf23988bc1fe6f798ab",
-    "dest": "./offline-repository/com/guardsquare/proguard-gradle/7.7.0",
-    "dest-filename": "proguard-gradle-7.7.0.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-graphics/1.9.1/ui-graphics-1.9.1.module",
+    "sha512": "1c79f82c51174e091460070ba38d9b0ea63eecfcc822153c4209526abcbf11e0d0586b53b6996ac82207cb8453e6b568a8d824b2f486b7803ca45c15baa16183",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-graphics/1.9.1",
+    "dest-filename": "ui-graphics-1.9.1.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/guardsquare/proguard-gradle/7.7.0/proguard-gradle-7.7.0.pom",
-    "sha512": "55cf5845c767e0d382b9a7fe46a535955f55cc88e3b94653a4094d53a92799b2dbcceb47409e4c49e18485f6b46e19f780605695d0a63d658be5e61de2c47c1e",
-    "dest": "./offline-repository/com/guardsquare/proguard-gradle/7.7.0",
-    "dest-filename": "proguard-gradle-7.7.0.pom"
-  },
-    {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/github/zafarkhaja/java-semver/0.10.2/java-semver-0.10.2.jar",
-    "sha512": "0094bc768dad12dc0a7722e4deaaed5521fb76a929828b79cee5fe8e6dbf3eb7a90073f42bec6e33f39698daf9dd27e8f7fa90a4deec91278b8d12fa3899bcce",
-    "dest": "./offline-repository/com/github/zafarkhaja/java-semver/0.10.2",
-    "dest-filename": "java-semver-0.10.2.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-graphics-desktop/1.9.1/ui-graphics-desktop-1.9.1.jar",
+    "sha512": "7bb47535ee9b00f44c28353defcae56d147b77cc6af48c40a2c5359175fdb9a960f508d1427861d5a961a34425bfd2de62d51dc4b4c6c3546ad236999bb3c7a2",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-graphics-desktop/1.9.1",
+    "dest-filename": "ui-graphics-desktop-1.9.1.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/github/zafarkhaja/java-semver/0.10.2/java-semver-0.10.2.pom",
-    "sha512": "183ce72d3a100f65cf28ba62ea575bdce916289d4a685404b23e01df8c189b907fc51e6536407309cede1fbe8c7f2e9e8c9c9ec5534f4b05d8cd1dc0e9fae757",
-    "dest": "./offline-repository/com/github/zafarkhaja/java-semver/0.10.2",
-    "dest-filename": "java-semver-0.10.2.pom"
-  },
-    {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.11.0/gson-parent-2.11.0.pom",
-    "sha512": "d0dc74350cb3266b77d69d17da7473cfddd73d7d824d14c40c0774b454123087e4a35bf7c3db0b5df27f75b3a89d61777e018bb948d2a5eeafecb94a0f37a5cb",
-    "dest": "./offline-repository/com/google/code/gson/gson-parent/2.11.0",
-    "dest-filename": "gson-parent-2.11.0.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-graphics-desktop/1.9.1/ui-graphics-desktop-1.9.1.pom",
+    "sha512": "8dd874b2e7d415c5b8594db588d37a55710614f18e59a3ef100e128ac9a12c1b2756d60a2f80cc28b8386a555ffbf60d7c2d7d6a43a5f8f95927e534526790d7",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-graphics-desktop/1.9.1",
+    "dest-filename": "ui-graphics-desktop-1.9.1.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar",
-    "sha512": "b8c91426a8275b42ea5c55b104308ffbe656ae3354bc661f62173352e53a4818a009e4dd82bc6cf518c77fda5a4d2eab0d3ad832581a8f0d87966ef04e6c025a",
-    "dest": "./offline-repository/com/google/code/gson/gson/2.11.0",
-    "dest-filename": "gson-2.11.0.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-graphics-desktop/1.9.1/ui-graphics-desktop-1.9.1.module",
+    "sha512": "7976509c1903785974be5e24d3e43ba8eedab4d8c25e41e7acb917a91558b85884ba62ba89ba359100ede2fda3404a59de6d47229af287f84819c097d66d3ccb",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-graphics-desktop/1.9.1",
+    "dest-filename": "ui-graphics-desktop-1.9.1.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.11.0/gson-2.11.0.pom",
-    "sha512": "239e09568793adf46ee24c5fa28d01a98e8034eb17928b9a9d22f070081785a681215d120c933f5c561354ba91ecac1464b4000956f698fe7ddabd3475a465ca",
-    "dest": "./offline-repository/com/google/code/gson/gson/2.11.0",
-    "dest-filename": "gson-2.11.0.pom"
-  },
-    {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-metadata-jvm/2.1.0/kotlin-metadata-jvm-2.1.0.jar",
-    "sha512": "e63fd0d5e48ea4b86e4be2e8d29c08db56c7d2d351a9159e365a645760dfa362ddd0c731b5360761289b7c7f6bee82102a5665785ce194fdbee9a006f5bba3e2",
-    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-metadata-jvm/2.1.0",
-    "dest-filename": "kotlin-metadata-jvm-2.1.0.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-text/1.9.1/ui-text-1.9.1.jar",
+    "sha512": "d0de5430ad1650cb8c082b46bf451f7e1b67213e4ab8d1cca3092e5fe7f04539d21aad09e4c5f3e4035615616f31fe8a61830dcb6049478dcdf634f90335dc9e",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-text/1.9.1",
+    "dest-filename": "ui-text-1.9.1.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-metadata-jvm/2.1.0/kotlin-metadata-jvm-2.1.0.pom",
-    "sha512": "75df8ced732ddc0b2a40f367c96c6accc0d749a95d58c21d4d952bedd07ec8cc41d4b003a6d2f7c4af48d17579c6585deacb08919835e97827a1c36f6d56ac47",
-    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-metadata-jvm/2.1.0",
-    "dest-filename": "kotlin-metadata-jvm-2.1.0.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-text/1.9.1/ui-text-1.9.1.pom",
+    "sha512": "70b4a176322c92c83279c9fd46a1b7a629f1b377d1bfcd11ed08b30468ceff2215491d444a6c96529ca9c8fd29ed0f36bf3d1d6ae3e640ffea65806baad3b721",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-text/1.9.1",
+    "dest-filename": "ui-text-1.9.1.pom"
   },
-    {
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-text/1.9.1/ui-text-1.9.1.module",
+    "sha512": "93681cee82c64c207335607ad1dcbdb1d65030d4608f8a5c697d7ef74d5e45a58d5bb8f9bc2caf00ab6d31562bc0f64965cf145fe4648fc7449632ce80263a9d",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-text/1.9.1",
+    "dest-filename": "ui-text-1.9.1.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-text-desktop/1.9.1/ui-text-desktop-1.9.1.jar",
+    "sha512": "cadd5621be8539cf2e4e3fc609625cbe26f351ed07ac96a64ed2c3f647ce27b45af9de0a6788595b04854ec7911280a4983adb373f61d1a924d53ece9a279a03",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-text-desktop/1.9.1",
+    "dest-filename": "ui-text-desktop-1.9.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-text-desktop/1.9.1/ui-text-desktop-1.9.1.pom",
+    "sha512": "88fd033e98d20787733e252997e547574d2b58a9d34f8a146c05aaf19c960df84f02a21879bf17d9d3dd7b46aaa5a900ae6966a3d083d4e763bdaa4fda63691d",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-text-desktop/1.9.1",
+    "dest-filename": "ui-text-desktop-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-text-desktop/1.9.1/ui-text-desktop-1.9.1.module",
+    "sha512": "16cfdc6de4376a3b0e49e12c7fc79fec3fea0564f9cce25447397bc9f9c4ba56af15ce7679b6c12275e9edeabd9d50f81d2932f5a662f13d63525f8927f122b3",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-text-desktop/1.9.1",
+    "dest-filename": "ui-text-desktop-1.9.1.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui/1.9.1/ui-1.9.1.jar",
+    "sha512": "776ea5bb58738f6643d68003f53bc7f01e981bc473ead1f145b47db619d191625c685b53fea9b9f3db7c691ec9e1837ab2a143c48b9efdc382e4e28678d7477b",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui/1.9.1",
+    "dest-filename": "ui-1.9.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui/1.9.1/ui-1.9.1.pom",
+    "sha512": "5402f82d193bdbfdf2d02b7d009d5ecd974dc9c3e3fde17fb1aba87f4892f031444ec2cbd1621240ee252db8f9ee0e1abee525735ead8636738c348726d32cb3",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui/1.9.1",
+    "dest-filename": "ui-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui/1.9.1/ui-1.9.1.module",
+    "sha512": "c3a9883b9f62430c32dab88840baab11d93ef10e7f5beb48b700d70a0ce443c78b68febe781cc58b2e3327019661035cb60a363e47cecc3478943cb1c5646d8f",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui/1.9.1",
+    "dest-filename": "ui-1.9.1.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-desktop/1.9.1/ui-desktop-1.9.1.jar",
+    "sha512": "458ce334630a1667ea560196d5fb3c578e50208a7df417e48e1e65d1f99f9772df72cafb5e6952529fad2374c7689975aceb461eb0fd8d4d694ce528aadbc302",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-desktop/1.9.1",
+    "dest-filename": "ui-desktop-1.9.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-desktop/1.9.1/ui-desktop-1.9.1.pom",
+    "sha512": "46e34c949a8d909f3d46628bb34cbac64c9b829c5198387bdba439e847a4eb32785c60ba6a87bc9acf3c276414548e6af6a52e2f35e53cef60f2827172c8c499",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-desktop/1.9.1",
+    "dest-filename": "ui-desktop-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-desktop/1.9.1/ui-desktop-1.9.1.module",
+    "sha512": "135cc817a48c39afd49ffc80ace6be7c6e6b445ead77d616a63295321d60c48238856d6318ea4b46b348bb23aaec345087280797cb3cd387f41ed2f62fad5891",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-desktop/1.9.1",
+    "dest-filename": "ui-desktop-1.9.1.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-unit/1.9.1/ui-unit-1.9.1.jar",
+    "sha512": "50f2f868cb565ffc6ed0650ed8c004088e635db895ebc3cf8159e290d25816d2511c0937bbdf5b445353dce6834ba5ea089e11f0a1a5b22e7972bc3c175454c0",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-unit/1.9.1",
+    "dest-filename": "ui-unit-1.9.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-unit/1.9.1/ui-unit-1.9.1.pom",
+    "sha512": "62c6f2a62bf55532791b9ba5d20669f078a0e397e950c1055d8fadbcd461efcf5e2d115ba325c7542b7a8a946278229a7e6d41d1930b0ccf2fb0f2ebf6a76159",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-unit/1.9.1",
+    "dest-filename": "ui-unit-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-unit/1.9.1/ui-unit-1.9.1.module",
+    "sha512": "dd1bd115a5f6d0283757e10854afa4ce8da8920ebdc780206c849431a5d6b37ec553da4acbbbf75169e1858517267dda67865a0da696cc746e6c40f571294cfb",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-unit/1.9.1",
+    "dest-filename": "ui-unit-1.9.1.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-unit-desktop/1.9.1/ui-unit-desktop-1.9.1.jar",
+    "sha512": "6a00b042eb629fff864e9628e325f8359c7fa1f659ebff7613d975376425afa8e9d9f02750f65f85eef1da387fa1bb7e0e094ab5533ac598b28194ae9bbf2645",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-unit-desktop/1.9.1",
+    "dest-filename": "ui-unit-desktop-1.9.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-unit-desktop/1.9.1/ui-unit-desktop-1.9.1.pom",
+    "sha512": "e598992c29c88b134ea7e205927da372e67063c1d894a2e8ac68233c70d7daec249592e527f125ce76ff8f274eb7399a522a6d8d91252676c9f2859f6187f620",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-unit-desktop/1.9.1",
+    "dest-filename": "ui-unit-desktop-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-unit-desktop/1.9.1/ui-unit-desktop-1.9.1.module",
+    "sha512": "3aa94f01211de2452dc9b10618cf8c1b5deae81eee4cf3036cdf53ef2ee574d8a089b6871d9d3c52b45ab501b78a5e05f91af8aabbb5927f32b085fdc9a59d5e",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-unit-desktop/1.9.1",
+    "dest-filename": "ui-unit-desktop-1.9.1.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko/0.9.4.2/skiko-0.9.4.2.jar",
+    "sha512": "e861ade3d89f3306e9eabba6dc5d52a77aeaf3de5048199620edf989dcc8a86c7811338aa3ae7d3fc2dfd7ca019158f2bf00b60f062ed1ee55cb5af453684f7e",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko/0.9.4.2",
+    "dest-filename": "skiko-0.9.4.2.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko/0.9.4.2/skiko-0.9.4.2.pom",
+    "sha512": "ad7b221fe202fb6f56f32702ce6ec9c50472c35f39ca17683d8a8851fe88b2dca6538d7ccb0ee60c8c2dffd4aab6b23e2905f67a42524e29ea068f10c48a6c2c",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko/0.9.4.2",
+    "dest-filename": "skiko-0.9.4.2.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/de/halfbit/csv/1.3/csv-1.3.jar",
+    "sha512": "91b86800fd6a5424dd810516921106ab8e226a78b4e7de096d2062598ef898453d93ff9939ab3011459c732f1e0664ce61066a093b1c50d6bcea9c4dba47304a",
+    "dest": "./offline-repository/de/halfbit/csv/1.3",
+    "dest-filename": "csv-1.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/de/halfbit/csv/1.3/csv-1.3.pom",
+    "sha512": "ab8db70df0002740805834fae6bef0add3e52051310a35ff2125d53f6072966e7a054e88e5b435c42b5c03418565e3326344ebe01f47d54ddb921cf375e5e9f2",
+    "dest": "./offline-repository/de/halfbit/csv/1.3",
+    "dest-filename": "csv-1.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio/3.6.0/okio-3.6.0.jar",
+    "sha512": "1c3e2933a386af47266229824744245799a9f77f7f3d3bb44428eb81f02d5df6993e864c8fa794caf08a98fd81a89d5d670037226345a570905d8229c1e55c3b",
+    "dest": "./offline-repository/com/squareup/okio/okio/3.6.0",
+    "dest-filename": "okio-3.6.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio/3.6.0/okio-3.6.0.pom",
+    "sha512": "b28fab6b6ec5b72759815673e6ee9e8dfff3e9940a016588e671f4ef4e2f936117c7cef31c38459a5d702b217e57c47f91bea693a9b9072b3422b84515133fe6",
+    "dest": "./offline-repository/com/squareup/okio/okio/3.6.0",
+    "dest-filename": "okio-3.6.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio/3.6.0/okio-3.6.0.module",
+    "sha512": "2942511ac0f204af6261b9b254adeefc432518e8ad123957875f8ff95c9994c2564a019f3edebc3499a8404700e031d8d95eb8c084bee58c535ff9ccc383f19e",
+    "dest": "./offline-repository/com/squareup/okio/okio/3.6.0",
+    "dest-filename": "okio-3.6.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio-jvm/3.6.0/okio-jvm-3.6.0.jar",
+    "sha512": "a592e93651fb5e335212bb25c1cf474c1b1076eda68d53cbdc82c383cbdd60114a62b698ca92a3b4b5e416d637a70f2ddabbf8a05551c62d59a240c3e3c3d2c6",
+    "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.6.0",
+    "dest-filename": "okio-jvm-3.6.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio-jvm/3.6.0/okio-jvm-3.6.0.pom",
+    "sha512": "e723f3262137f7a892a6f6fe277272b0e457b48aa035651b52d9f598d9f98ca285217c74356a90dcf8a34800797fe458f6e1c461dbf69f9c8d8fe4e66dbdfdfb",
+    "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.6.0",
+    "dest-filename": "okio-jvm-3.6.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio-jvm/3.6.0/okio-jvm-3.6.0.module",
+    "sha512": "3c5a57a33fb90618710b298e233ae81cdcdbeed204328e9dc55fe0aaf63eb3fa24e58f4d489f5dde48e2ff716b16e0c47882d8be61bd3bd579b3e23ee3034ce3",
+    "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.6.0",
+    "dest-filename": "okio-jvm-3.6.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.4/symbol-processing-aa-embeddable-2.3.4.jar",
+    "sha512": "db36df1db2943b6db655a0f7aa7d85e06e5824ea35b304362d965a385c5b5dfeb10bb47c4373a8a14515c2931c982de849b8edf77cc6311544de4ff0dcd8b15f",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.4",
+    "dest-filename": "symbol-processing-aa-embeddable-2.3.4.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.4/symbol-processing-aa-embeddable-2.3.4.pom",
+    "sha512": "ae97051a0158e402d365370699651955582bfe1e21b17d1c79c0292d69bcbb81829ac9950a584265d523cedf8785c9ee04ea78002b3b3efb8bb0aa77ae6c9a0c",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.4",
+    "dest-filename": "symbol-processing-aa-embeddable-2.3.4.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-RC/kotlin-stdlib-2.3.0-RC.jar",
+    "sha512": "cfd9a7bb995c04cf5fcb2c028600da02e4901f603d9e40a6b8420707c9b3e9731f727eec61819549217e49a600299f5dacda6ffe4d00ab1ae9a6186801b2d21c",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-RC",
+    "dest-filename": "kotlin-stdlib-2.3.0-RC.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-RC/kotlin-stdlib-2.3.0-RC.pom",
+    "sha512": "e6478755621ad9ef595749d6c675e67ba851c9a869ca58802b8d65135a86ecf5dced9e79b52818e6528e714124f7c20f78aaeb9950352defe580c27263e95fc9",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-RC",
+    "dest-filename": "kotlin-stdlib-2.3.0-RC.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-RC/kotlin-stdlib-2.3.0-RC.module",
+    "sha512": "8d15bf5bcb2e563260e0b2724f91dd2daaa1a8daf1ad0f27fe46355c411c706fff77c0e1103e64cf380955828edf3949f4549d2d0ceeaee69d131629f114980f",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-RC",
+    "dest-filename": "kotlin-stdlib-2.3.0-RC.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/api-client/google-api-client/2.8.1/google-api-client-2.8.1.jar",
+    "sha512": "af54078405c2b85e1ed34a5be7f04957f63daf2849cda9ab4f7f80729047e782ced98620a120770d75cb1bc1867ef262a1e9d7fa64a40e14de3363cd1da27ec7",
+    "dest": "./offline-repository/com/google/api-client/google-api-client/2.8.1",
+    "dest-filename": "google-api-client-2.8.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/api-client/google-api-client/2.8.1/google-api-client-2.8.1.pom",
+    "sha512": "db27cd61a870d6c20f282a41b1bf02c40d33894f14f145260528a7f20055ca2b175a1f706bcb87019f095acf224e5d88dd9cf36674999b97de3cf7ff08208f4e",
+    "dest": "./offline-repository/com/google/api-client/google-api-client/2.8.1",
+    "dest-filename": "google-api-client-2.8.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client-jetty/1.39.0/google-oauth-client-jetty-1.39.0.jar",
+    "sha512": "a227ef0b4a5430fbd42f0243fa3b1bbc9d624ab14e68270ee5c5bbf9c6a0ad7cc791644811dc19fe800048f61589ab9e31effbff78328f12a0e7419b48ba8645",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client-jetty/1.39.0",
+    "dest-filename": "google-oauth-client-jetty-1.39.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client-jetty/1.39.0/google-oauth-client-jetty-1.39.0.pom",
+    "sha512": "d5a630936f32cec52a9f10029e56e7cf9669018f8531e17ae44346b9239cbd907d1a6fcaaebc6d7dd6d3542c25eb1d77acacd812b2cca6a8812de3c0d1055489",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client-jetty/1.39.0",
+    "dest-filename": "google-oauth-client-jetty-1.39.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/apis/google-api-services-drive/v3-rev20251210-2.0.0/google-api-services-drive-v3-rev20251210-2.0.0.jar",
+    "sha512": "5416a4578a06c57430033fe99c646b46306a088c7c4055e2dc8262fccebcfa1c9c11949825695b1c1ece347cc8330e307526c8fa783338cd7b00ea80dec25db1",
+    "dest": "./offline-repository/com/google/apis/google-api-services-drive/v3-rev20251210-2.0.0",
+    "dest-filename": "google-api-services-drive-v3-rev20251210-2.0.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/apis/google-api-services-drive/v3-rev20251210-2.0.0/google-api-services-drive-v3-rev20251210-2.0.0.pom",
+    "sha512": "a6ad7f055a448c00fcbd3786be117dd4e22c1df0a992089a1021f26e2b2e6faabfd9392819c05619761591f74727eb0fca6c38932becd5fd84a7aa092fe07a50",
+    "dest": "./offline-repository/com/google/apis/google-api-services-drive/v3-rev20251210-2.0.0",
+    "dest-filename": "google-api-services-drive-v3-rev20251210-2.0.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/api-client/google-api-client-parent/2.8.1/google-api-client-parent-2.8.1.pom",
+    "sha512": "f4950ecd48a16d458becac7f41ab6f86472ad1c4cc0d8776da3a81b0ab9abf409971c327f0d30da72fd050b72988ffa6113bfb9ee39d60a5b77d7bb3b154c364",
+    "dest": "./offline-repository/com/google/api-client/google-api-client-parent/2.8.1",
+    "dest-filename": "google-api-client-parent-2.8.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-bom/2.0.0/google-http-client-bom-2.0.0.pom",
+    "sha512": "189ada116c5de52d53061ec4ad63f4c5bdcb8cab8823e424735638418c759bf49832bf4590ff9a771574c01cece744c05c863e41cbcadd9d2a667c307b5188c3",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-bom/2.0.0",
+    "dest-filename": "google-http-client-bom-2.0.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client-parent/1.39.0/google-oauth-client-parent-1.39.0.pom",
+    "sha512": "2967027c54bc70d30e85763ec8ee44c3606d0608e1d3aade36505bfe15722e37a74f52c44d04dfe0e3b6174595e0cf107f047c9d575b6272fcc26962be21b45b",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client-parent/1.39.0",
+    "dest-filename": "google-oauth-client-parent-1.39.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-bom/1.43.3/google-http-client-bom-1.43.3.pom",
+    "sha512": "52cfcf4011de81af7865001c9b1b2d2e78a0d639bdaf2ac85e2014e7e1617c400245d8e86a46e6722a3a76cfb03eb72f30aeb149b40a1ceb10fad5d8849e4916",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-bom/1.43.3",
+    "dest-filename": "google-http-client-bom-1.43.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/oauth-client/google-oauth-client-bom/1.36.0/google-oauth-client-bom-1.36.0.pom",
+    "sha512": "6b747029e8ecbce424dfeb89c1c3368f8f23f6e261fcfe5bccd19624652cf2f06addeaf46cf05919dca099b673ffb792c111ab3add08530aeeda3e8355bf91f6",
+    "dest": "./offline-repository/com/google/oauth-client/google-oauth-client-bom/1.36.0",
+    "dest-filename": "google-oauth-client-bom-1.36.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client/1.43.3/google-http-client-1.43.3.jar",
+    "sha512": "8fd64f4f5220f11a56d86ec29feeb79256a1d1c79271547268baba85fec7bd590c132039bf05fd03f2a7935860b2d0f59dd9cb0dccf9c2ccf148224402b87ff0",
+    "dest": "./offline-repository/com/google/http-client/google-http-client/1.43.3",
+    "dest-filename": "google-http-client-1.43.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client/1.43.3/google-http-client-1.43.3.pom",
+    "sha512": "6431e24d06582f851d8afccd5022af7952bd7ec71f3bd8a0dda4908994ffd9cae1486bd617410dc80a0a35449629d6fcd8584ddad45cc0586500396adf5073c3",
+    "dest": "./offline-repository/com/google/http-client/google-http-client/1.43.3",
+    "dest-filename": "google-http-client-1.43.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-gson/1.43.3/google-http-client-gson-1.43.3.jar",
+    "sha512": "c58d428e25212d0da965b770e3ee894bb4fb3e1be95e66dc81e9e16b5e15f29986099eb7d080d294ee64281abb5d29c773f2354c60f97d29a1be9d300641a233",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-gson/1.43.3",
+    "dest-filename": "google-http-client-gson-1.43.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-gson/1.43.3/google-http-client-gson-1.43.3.pom",
+    "sha512": "9c18723b0e2a34d839897bfa590d222aff200b84cf767fa08a2379d15e86440eb376a72fff0ac733cdee618160c903a11d1a0f44d84f42089862076f62c7580a",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-gson/1.43.3",
+    "dest-filename": "google-http-client-gson-1.43.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava/31.1-android/guava-31.1-android.jar",
+    "sha512": "74887c9f0d30875edccf7fde63f405ebc9e37ce84a791ff12ae333a1f4e685acab115f6bdecffd101aabe9ba0cc83498c08f273381621eabcf0279fb8847860b",
+    "dest": "./offline-repository/com/google/guava/guava/31.1-android",
+    "dest-filename": "guava-31.1-android.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava/31.1-android/guava-31.1-android.pom",
+    "sha512": "de2615ecb258cd54d653ba1e9b381dd455d81bcd765549ecebd4ecaa72398087931133037d1b7a8ce3cce67fd38efcfbfa5be89ce2b7b3ef76613e4d021b3bed",
+    "dest": "./offline-repository/com/google/guava/guava/31.1-android",
+    "dest-filename": "guava-31.1-android.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/auth/google-auth-library-bom/1.30.0/google-auth-library-bom-1.30.0.pom",
+    "sha512": "44826924331c792501dad77f3c3996c9584c7ee2116331ed8553fcf8ab30993109af2f7070d74425e6f2347bc0ffb5fbd303583d509e7dc684a493a757a92a70",
+    "dest": "./offline-repository/com/google/auth/google-auth-library-bom/1.30.0",
+    "dest-filename": "google-auth-library-bom-1.30.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/http-client/google-http-client-parent/1.43.3/google-http-client-parent-1.43.3.pom",
+    "sha512": "2100f9180922742ecb8d9fd0f66e358a1445ef12e3e464aaa65f1e9290f30bc3a40a74ee9b59054178e8b247ca8fe133e831ecd4d6f44b12462134c62173614b",
+    "dest": "./offline-repository/com/google/http-client/google-http-client-parent/1.43.3",
+    "dest-filename": "google-http-client-parent-1.43.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/31.1-android/guava-parent-31.1-android.pom",
+    "sha512": "a997bb24827651c867ddfa4d6f9c0d3305fbf35a3b471e8b42a9e5f5d28749c76976dabde41976e7a1c73d5ed0c3ea6a2cd2cd8cec61850e5a9e975bb6577a2b",
+    "dest": "./offline-repository/com/google/guava/guava-parent/31.1-android",
+    "dest-filename": "guava-parent-31.1-android.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava/33.4.8-jre/guava-33.4.8-jre.jar",
+    "sha512": "82c43d82fee2b3264e53cd2e9451865f9467ec0baa68d0ddfffa06a1e5465872913150ef96e99ea91daec4387248d832ec9398859f2fa5f08f65caf103306ba3",
+    "dest": "./offline-repository/com/google/guava/guava/33.4.8-jre",
+    "dest-filename": "guava-33.4.8-jre.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava/33.4.8-jre/guava-33.4.8-jre.pom",
+    "sha512": "1660d1b854541d401ffe0fe96c201ee59d5c239c193943940500dd37d59b0ff0f7af862af0d3f689cc29b19d85da4d7c4e0cc76b317d03386e17ab5ec8b151b0",
+    "dest": "./offline-repository/com/google/guava/guava/33.4.8-jre",
+    "dest-filename": "guava-33.4.8-jre.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth/3.3.3/ktor-client-auth-3.3.3.jar",
+    "sha512": "4e28db0eb455edc4e1656443a6a2b6079c657065d9e5be5389801d6ef745a958d4924f694f1d692007d957d1eeab9bd61c3b984b56d72700b9b7439f32a70379",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth/3.3.3",
+    "dest-filename": "ktor-client-auth-3.3.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth/3.3.3/ktor-client-auth-3.3.3.pom",
+    "sha512": "50c0bc2fa60904be07571252eb3255cb706f2f3e8a3a505a6906e57fd71c4ea39b8c4d8acb882b8ed049745637f9ac80ba0fe1f39ef0d7f5a6362f069f4f3725",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth/3.3.3",
+    "dest-filename": "ktor-client-auth-3.3.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth/3.3.3/ktor-client-auth-3.3.3.module",
+    "sha512": "76e14f6c006ad1e1035f2d172989f02891c7eebae73e93d363b71a6badd8e4f782aa611354025914b0e1119e47cd3f8e0c4135d049b480a03e6fe01c3150e8bc",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth/3.3.3",
+    "dest-filename": "ktor-client-auth-3.3.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth-jvm/3.3.3/ktor-client-auth-jvm-3.3.3.jar",
+    "sha512": "30b20709c6ed14f17f75c8b319beedf6fb75d7c86f14fc0a9fbeae78bc7820991f4fb78f2f28fd829c98fd1a31daf53cb2af03e31d0799aad88bcba849f0ac02",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth-jvm/3.3.3",
+    "dest-filename": "ktor-client-auth-jvm-3.3.3.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth-jvm/3.3.3/ktor-client-auth-jvm-3.3.3.pom",
+    "sha512": "feec6218107055bba61c1d6b8e405e009a19c9b6e1e076e16a349196afdcd44b2d6dabc2fbeb6ff3a20fd38fc6f971e874d1ec5eeb761c552207b11ef00daa34",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth-jvm/3.3.3",
+    "dest-filename": "ktor-client-auth-jvm-3.3.3.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth-jvm/3.3.3/ktor-client-auth-jvm-3.3.3.module",
+    "sha512": "a1b3cce8c7a0fc186076d6d42cb9c1d19cc1d29d847f7789c84ae2ba765e5f46ed6a1a048fec745aec64832250a5cf49d93680c1fe13cbad94bcbe1f6b53a5f8",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth-jvm/3.3.3",
+    "dest-filename": "ktor-client-auth-jvm-3.3.3.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/apache/apache/33/apache-33.pom",
+    "sha512": "17ccc60c4670ded2b9b0986c8549c7f7789afb4a194c81d16c9c8de10b514396f241c8b1622150b38a8d3a889f6733af66554685b7b801647b5ddfaccef5537e",
+    "dest": "./offline-repository/org/apache/apache/33",
+    "dest-filename": "apache-33.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/apache/logging/logging-parent/11.3.0/logging-parent-11.3.0.pom",
+    "sha512": "b04e926221d11008535d0fb3c30408ede1cb1f0e0841c2fca0a79081c1730f3c838c7ae824a635a4f07227ca9e7a4e565423399a2e86f22d78c356fab726af02",
+    "dest": "./offline-repository/org/apache/logging/logging-parent/11.3.0",
+    "dest-filename": "logging-parent-11.3.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.24.2/log4j-bom-2.24.2.pom",
+    "sha512": "e99192b83dbbaf063588d46125c36e82543507ef53d6c2df432adf16d8f2e8a04bce786f8aeb3dd5bb08e1552771d2f373ccade7a0607a1291b47511636571ff",
+    "dest": "./offline-repository/org/apache/logging/log4j/log4j-bom/2.24.2",
+    "dest-filename": "log4j-bom-2.24.2.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j/2.24.2/log4j-2.24.2.pom",
+    "sha512": "45f19c4d49bb2d97a25e03450be2d9d7989824fe29ee2ad1e5f2be50034abae6b0013e181f97ce443a2bb07e933e36a115f24c3df637d43b0ff30afc285c51d7",
+    "dest": "./offline-repository/org/apache/logging/log4j/log4j/2.24.2",
+    "dest-filename": "log4j-2.24.2.pom"
+  },
+  {
     "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.24.2/log4j-api-2.24.2.jar",
     "sha512": "9665821c14c582dddd0ed181f8d49da3e25857eec11328e0d8978757f1cd2360ae60cf103a4b26b1ad5be47cf0857863a7a3c432a0f71f9eef14f64e8754f35c",
@@ -432,48 +572,6 @@
     "sha512": "e74ccf9239be37a42f400e3f7c350bcc41922c5ef4d348a1d546dbf04dc9f34dfa3070cce8c52a098a8423cd1684a58d96449fd9feaf5e472d6f35e7a2f97fcf",
     "dest": "./offline-repository/org/apache/logging/log4j/log4j-api/2.24.2",
     "dest-filename": "log4j-api-2.24.2.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo1.maven.org/maven2/org/eclipse/ee4j/project/1.0.7/project-1.0.7.pom",
-    "sha512": "b33f5cf3404c4f9f5cbb69a43dcde2d6f06d6cb3d00444dbce879a1bf14f0be4e3093f21be1aa85104cf45ae86ba69374949e35ed567f82f6ede5812140628de",
-    "dest": "./offline-repository/org/eclipse/ee4j/project/1.0.7",
-    "dest-filename": "project-1.0.7.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo1.maven.org/maven2/jakarta/platform/jakartaee-api-parent/9.1.0/jakartaee-api-parent-9.1.0.pom",
-    "sha512": "358a9b92ae14c9c8b2480a1d90675efacc7a9abb3ebde5fa15f2a114d860b7be9842dd70798721383158d6633e75e3b5c37f9555a58be5b6e4ecdf57838cbd43",
-    "dest": "./offline-repository/jakarta/platform/jakartaee-api-parent/9.1.0",
-    "dest-filename": "jakartaee-api-parent-9.1.0.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo1.maven.org/maven2/jakarta/platform/jakarta.jakartaee-bom/9.1.0/jakarta.jakartaee-bom-9.1.0.pom",
-    "sha512": "7938ebe765028f8f231df08fa1e52550034d0b9278760c3b374b5ca21740fe90e2c8ff889c08a091575fe088d8f516d7510484359ea94c3e9ed23f5586567f5b",
-    "dest": "./offline-repository/jakarta/platform/jakarta.jakartaee-bom/9.1.0",
-    "dest-filename": "jakarta.jakartaee-bom-9.1.0.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo1.maven.org/maven2/org/mockito/mockito-bom/4.11.0/mockito-bom-4.11.0.pom",
-    "sha512": "6bdf2809a5a479f73975ddb87cb102db88dac702904b89e8dcd9b9057dbbce67abb85d9cfbefda79c152d928346122eced122d2af17617772abeae0c383cc16a",
-    "dest": "./offline-repository/org/mockito/mockito-bom/4.11.0",
-    "dest-filename": "mockito-bom-4.11.0.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo1.maven.org/maven2/org/springframework/spring-framework-bom/5.3.39/spring-framework-bom-5.3.39.pom",
-    "sha512": "3cdfeab209e770d9b555bb759c958f816a4313413f8deb4060954aa72a2170de5f2e90e6b076cd185e853cdc02f5bd7356720084c90a3cbe5847bd6d04e5017c",
-    "dest": "./offline-repository/org/springframework/spring-framework-bom/5.3.39",
-    "dest-filename": "spring-framework-bom-5.3.39.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.24.2/log4j-bom-2.24.2.pom",
-    "sha512": "e99192b83dbbaf063588d46125c36e82543507ef53d6c2df432adf16d8f2e8a04bce786f8aeb3dd5bb08e1552771d2f373ccade7a0607a1291b47511636571ff",
-    "dest": "./offline-repository/org/apache/logging/log4j/log4j-bom/2.24.2",
-    "dest-filename": "log4j-bom-2.24.2.pom"
   },
   {
     "type": "file",
@@ -491,1025 +589,457 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j/2.24.2/log4j-2.24.2.pom",
-    "sha512": "45f19c4d49bb2d97a25e03450be2d9d7989824fe29ee2ad1e5f2be50034abae6b0013e181f97ce443a2bb07e933e36a115f24c3df637d43b0ff30afc285c51d7",
-    "dest": "./offline-repository/org/apache/logging/log4j/log4j/2.24.2",
-    "dest-filename": "log4j-2.24.2.pom"
-  },
-    {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/annotations/26.0.1/annotations-26.0.1.jar",
-    "sha512": "c7be38957318874b837d029dc7b2a1f8b009feaa5362a56cba4f4c8a7d502993b3c900ee338eb9c9ee9494d7fd946bd280403eee28b244d213edb0b145a9ebfd",
-    "dest": "./offline-repository/org/jetbrains/annotations/26.0.1",
-    "dest-filename": "annotations-26.0.1.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.10.3/junit-bom-5.10.3.pom",
+    "sha512": "51edc3d5a07b98c4ea60fd411db63e948f831e285d40e52b08387abf61d0b39ce90eb28209ef8825f55a3d2e29e501b168bdd0d322f50816bcf78e80862e219e",
+    "dest": "./offline-repository/org/junit/junit-bom/5.10.3",
+    "dest-filename": "junit-bom-5.10.3.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/annotations/26.0.1/annotations-26.0.1.module",
-    "sha512": "b8a4fe90a50b442c7afa2a79f39daead9608abea9fd33f3838db2232df58a6c2907bee97c51c79b7de08878f71e61f9453c69134006263da50498b90867234be",
-    "dest": "./offline-repository/org/jetbrains/annotations/26.0.1",
-    "dest-filename": "annotations-26.0.1.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.0/desktop-jvm-linux-arm64-1.10.0.pom",
+    "sha512": "3c8fd089f51e00515e0b5a8b1f017897c26d5d2f5893f0ee888be1d4420ca155ebecd0af9da9d76ab1c2975fd51b62d2823ff919652d089ed328223a6fb08c32",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.0",
+    "dest-filename": "desktop-jvm-linux-arm64-1.10.0.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/annotations/26.0.1/annotations-26.0.1.pom",
-    "sha512": "056a21eac9f2e61d49ddf9034f96f053f86605e75075e56a0ab4c389e8d10d983b01e2a8f4b61aa8e3b9e538dac1b1039ef4c1a1df112d2f86843c616e1e2f19",
-    "dest": "./offline-repository/org/jetbrains/annotations/26.0.1",
-    "dest-filename": "annotations-26.0.1.pom"
-  },
-    {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/apache/logging/logging-parent/11.3.0/logging-parent-11.3.0.pom",
-    "sha512": "b04e926221d11008535d0fb3c30408ede1cb1f0e0841c2fca0a79081c1730f3c838c7ae824a635a4f07227ca9e7a4e565423399a2e86f22d78c356fab726af02",
-    "dest": "./offline-repository/org/apache/logging/logging-parent/11.3.0",
-    "dest-filename": "logging-parent-11.3.0.pom"
-  },
-    {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/json/json/20231013/json-20231013.jar",
-    "sha512": "a5cdd1ed984448d6538746429f2d1a0ec8f64f93af0e84870ce898a9f07a81d11bf27d2ee081471975772efc8a0d3d5e05541197a532066e9edb09ad032d31a3",
-    "dest": "./offline-repository/org/json/json/20231013",
-    "dest-filename": "json-20231013.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop/1.10.0/desktop-1.10.0.jar",
+    "sha512": "f9c081b46244233787a52aabb776722b019e9521c3a89a6b4e55a669be9cfee3411764e79d1de9563bc03c6e61e4fe541deee4b30affd96a14de6dd2fdca1dc9",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop/1.10.0",
+    "dest-filename": "desktop-1.10.0.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/json/json/20231013/json-20231013.pom",
-    "sha512": "ac5ca3626107bb4e5328934501b2b4a021560423f4d4296f4c1a2dce0cf1d74afae98ba8d2c5be47d07e7b12bc76d28d385178a30681198dd1743e240751384b",
-    "dest": "./offline-repository/org/json/json/20231013",
-    "dest-filename": "json-20231013.pom"
-  },
-    {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.jar",
-    "sha512": "479f3c5e25a7ccd90adf70a9b1a71bae18205681ce966618b2ba28aea1b10c087b10ca7172e7b34384901b5e8d2dd009f1cdcbcd2a01be55082d276245de0a35",
-    "dest": "./offline-repository/com/google/errorprone/error_prone_annotations/2.27.0",
-    "dest-filename": "error_prone_annotations-2.27.0.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop/1.10.0/desktop-1.10.0.pom",
+    "sha512": "bd50ab7163e7088f469c4af5a26ae408d3184d14bde29757f3aed9408d8a40227a46233f6dc7e35bfe3c0561431d89032bb3d3a03e55e88b5a30a172480ada7e",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop/1.10.0",
+    "dest-filename": "desktop-1.10.0.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.pom",
-    "sha512": "874edb27edf4ad32332f591bb594908afbd5fe01f420b91eb392e9577c4d0648fa7aedbb927a9349eefd483ee41688e0079c64ffada6187ce3627203b842c6d8",
-    "dest": "./offline-repository/com/google/errorprone/error_prone_annotations/2.27.0",
-    "dest-filename": "error_prone_annotations-2.27.0.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.37.3/skiko-awt-runtime-linux-arm64-0.9.37.3.jar",
+    "sha512": "ef5d328e42f122f1b541885da57149539074b09b10272f1889c7b57896e167dd254c8d53fd2b092db8e325d8b19bf5670e118aa25520514cbe4c4b62e1ca1da0",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.37.3",
+    "dest-filename": "skiko-awt-runtime-linux-arm64-0.9.37.3.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_parent/2.27.0/error_prone_parent-2.27.0.pom",
-    "sha512": "7b96228ab69845b1bd9b5dc2bb61b7da2b76d157b6e2ce1b3b052c35cdbacce2acf21a09cd1cf24721ac3129519088d8ddd72b60caf082af48eac30c0ff53601",
-    "dest": "./offline-repository/com/google/errorprone/error_prone_parent/2.27.0",
-    "dest-filename": "error_prone_parent-2.27.0.pom"
-  },
-    {
-    "type": "file",
-    "url": "https://plugins.gradle.org/m2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom",
-    "sha512": "63b0951f793ee9d25239ee44760e4d51de3b8503e438e567862306f2d175019d8617eb854bc4ee2374c39f385e0a1094c3c7097f899b2074e4acda14fe6030fb",
-    "dest": "./offline-repository/org/sonatype/oss/oss-parent/7",
-    "dest-filename": "oss-parent-7.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.37.3/skiko-awt-runtime-linux-arm64-0.9.37.3.pom",
+    "sha512": "ab2d96d2f91640fba8e96df7b256094f0f55bc339785c3a9cd35dd85f533c0ca480fda6524c75acd5aa82976b9d335a2a7910a81b4eba86e9ceab875ea9fb667",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.37.3",
+    "dest-filename": "skiko-awt-runtime-linux-arm64-0.9.37.3.pom"
   },
   {
     "type": "file",
-    "url": "https://plugins.gradle.org/m2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom",
-    "sha512": "1c4f18cacd3a9f99a168bd20845d12d94824e66b5caebe57c164b6ac3dc89803508f60e35c4d1da81d3f3866c89ed407826f0d108f1e624c2d8a258e01e1064a",
-    "dest": "./offline-repository/org/sonatype/oss/oss-parent/9",
-    "dest-filename": "oss-parent-9.pom"
-  },
-  {
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/apache/groovy/groovy-bom/4.0.22/groovy-bom-4.0.22.pom",
-  "sha512": "9b0213d96a2d5b13f21313cf7233131563832985ba99bc5b23eaa57562eb00ed5798c7b8ed0361d95e723605276a9e744e5b4d99c93eb5415559ca6240f054dd",
-  "dest": "./offline-repository/org/apache/groovy/groovy-bom/4.0.22",
-  "dest-filename": "groovy-bom-4.0.22.pom"
-},
-  {
-    "type": "file",
-    "url": "https://repo1.maven.org/maven2/com/fasterxml/oss-parent/58/oss-parent-58.pom",
-    "sha512": "8b56185b2d67a26d95e913a1a613083cd0499ea03b4036796542ea7a8beabb6f5182f83596856425deb6b16826bb3d1672b4d4204fb9f351c01e3ef8e5e9d39b",
-    "dest": "./offline-repository/com/fasterxml/oss-parent/58",
-    "dest-filename": "oss-parent-58.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/animation/animation/1.9.1/animation-1.9.1.jar",
+    "sha512": "e3b2f638f226bd2be63a9f957f03323fba6b50b3999760b4d5b01e0ca3edb81da7cbf21afdb31073ab2f63bff3365f3a2be52ac990d29758ce19822468dc0e77",
+    "dest": "./offline-repository/org/jetbrains/compose/animation/animation/1.9.1",
+    "dest-filename": "animation-1.9.1.jar"
   },
   {
     "type": "file",
-    "url": "https://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-parent/2.17/jackson-parent-2.17.pom",
-    "sha512": "889bce47f091857fa87083867de570a4fb4e2f20e0a409aee77fa6ae962d15239287edcabed19488459cb5cedd7e3a5d817634085ead9b75e0cc367809d2e9f9",
-    "dest": "./offline-repository/com/fasterxml/jackson/jackson-parent/2.17",
-    "dest-filename": "jackson-parent-2.17.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/animation/animation/1.9.1/animation-1.9.1.pom",
+    "sha512": "00f5ca4f4ed445bf663935d35b3c5aa4c8247bd366008031145c9c3afe0b75777a3e9d9a669f5e5dcb532a607532264dd20c7772a98eaa8ab0f0f906cd5955c0",
+    "dest": "./offline-repository/org/jetbrains/compose/animation/animation/1.9.1",
+    "dest-filename": "animation-1.9.1.pom"
   },
   {
     "type": "file",
-    "url": "https://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-bom/2.17.2/jackson-bom-2.17.2.pom",
-    "sha512": "f05a8b021a85f86e760ec291eacd3bc1b76dbc0aadeecaa32394c689a21660c26a0fb72eeaca3c982e04306e3b962aec0bcad3e282ab51b12ed7bd33030f3e10",
-    "dest": "./offline-repository/com/fasterxml/jackson/jackson-bom/2.17.2",
-    "dest-filename": "jackson-bom-2.17.2.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/animation/animation-desktop/1.9.1/animation-desktop-1.9.1.jar",
+    "sha512": "8d1d32dbd3c45d1c3d2cb2857fd6190524ff611f8e3ad0c952104bf7a068ed32019bfae759cf35e2d512e45beb0ea7ea6bddc9730c0e8420c7e6ce57591e575a",
+    "dest": "./offline-repository/org/jetbrains/compose/animation/animation-desktop/1.9.1",
+    "dest-filename": "animation-desktop-1.9.1.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.15.0/jackson-core-2.15.0.jar",
-    "sha512": "8cff3de29dfd4a4869b4fcf018771f11313845ed67dfd08518dd668f2a818bbff6532a1737dd10a5a20b1f27fd4705a0b9ee32adad06c7087ca0ab2b81f2164b",
-    "dest": "./offline-repository/com/fasterxml/jackson/core/jackson-core/2.15.0",
-    "dest-filename": "jackson-core-2.15.0.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/animation/animation-desktop/1.9.1/animation-desktop-1.9.1.pom",
+    "sha512": "a44c7c9954b04c30bd54468fd7d11b1ad0edfcf45e9ce99b718fd397abd8a53e54fb8c4d041f283850da60fb31dcf4e2a0c51cb23f06afbc72db1cf854970a40",
+    "dest": "./offline-repository/org/jetbrains/compose/animation/animation-desktop/1.9.1",
+    "dest-filename": "animation-desktop-1.9.1.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.15.0/jackson-core-2.15.0.module",
-    "sha512": "b31dd7ec1f9adb20e378e7982c53a1dcc3f05a056c765dd9f01edcc4ee4e310489236a0828a5c790f9df6dda84fb655844c68d37082492f56d54c82ae9764df7",
-    "dest": "./offline-repository/com/fasterxml/jackson/core/jackson-core/2.15.0",
-    "dest-filename": "jackson-core-2.15.0.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/androidx/lifecycle/lifecycle-common/2.9.5/lifecycle-common-2.9.5.jar",
+    "sha512": "89e3933b3a5983b6475bdbbc355f750c0f07c5ee9b889778049d238c3b8bc42b2d2ee89ba217ecd36d2fa9278d59ad4be1a89df2307e566071aec209d9a8c2cb",
+    "dest": "./offline-repository/org/jetbrains/androidx/lifecycle/lifecycle-common/2.9.5",
+    "dest-filename": "lifecycle-common-2.9.5.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.15.0/jackson-core-2.15.0.pom",
-    "sha512": "ef7769e7278dd46d28e49372957ad59f9af2f4d97d4c0b674fc6d9a9b99dd7b610ff9a191314a25e77439dbf84e8c3869d2d2f9ffed26bdf2f9784faa64905b2",
-    "dest": "./offline-repository/com/fasterxml/jackson/core/jackson-core/2.15.0",
-    "dest-filename": "jackson-core-2.15.0.pom"
-  },
-  {
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/io/sentry/sentry/8.22.0/sentry-8.22.0.jar",
-  "sha512": "96002501eaf20d65c5bc6f7c148fe295d622c48857e91d18c17827dabf99d96983f1f581b0b154ffbc7d0650d62c0b75872da62f5f47a8d082a45bc4bc77a7ca",
-  "dest": "./offline-repository/io/sentry/sentry/8.22.0",
-  "dest-filename": "sentry-8.22.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/io/sentry/sentry/8.22.0/sentry-8.22.0.pom",
-  "sha512": "e395ee78ea512883d8cc6a4f86bb32c5be5386bada201081c137b4ba1246b5fba5ef487b280abbb4e99ebbb5fa2908b31b9350166b2736fbb2a430ccb3a503ed",
-  "dest": "./offline-repository/io/sentry/sentry/8.22.0",
-  "dest-filename": "sentry-8.22.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.2.10/kotlin-stdlib-2.2.10.jar",
-  "sha512": "4bfdea9c22f5d73691c74e602acc04d5c1552e38c09b7dbbd31909c0c557c7720106c6802678ba92563a72d3560fdea0f32fa5639d99bdf752ddd303c30c2fd5",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.2.10",
-  "dest-filename": "kotlin-stdlib-2.2.10.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.2.10/kotlin-stdlib-2.2.10-all.jar",
-  "sha512": "ddad3e61c6adabdcbe71492a2ab922dce4557f7ece1c83b8cbdbe8cfc004c370bce6431c63faa35900bc0cd0fc0e7d38c81e5afe834493b948427b46e174ec0a",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.2.10",
-  "dest-filename": "kotlin-stdlib-2.2.10-all.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/material/material-ripple-desktop/1.8.2/material-ripple-desktop-1.8.2.jar",
-  "sha512": "0e55bc9c2f93bde3c1d52b015cbc974116dc0537027ae20833ffa581df1619f720f55c7070769b5b4248a3075c4efbb321e523c76488061fa770b6445dfd10e3",
-  "dest": "./offline-repository/org/jetbrains/compose/material/material-ripple-desktop/1.8.2",
-  "dest-filename": "material-ripple-desktop-1.8.2.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio-jvm/3.15.0/okio-jvm-3.15.0.jar",
-  "sha512": "f327600f43ab5f56753934848d9f49c3509cc5d4b871271345aa3a457a55bf9e244ff4d7d4e5c3de5eadb024cd2e13aca24817763005ce1b0ef0dc0a06be93dc",
-  "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.15.0",
-  "dest-filename": "okio-jvm-3.15.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core/1.7.3/kotlinx-serialization-core-1.7.3.jar",
-  "sha512": "ae058db7e7c100f5ac6e1c021bae8e060135f2cf4657d1511a9d245ee3c696717c126c1642f521e732a2baa695f48f4ef63a7ffdebb2446a988e3936859a0a70",
-  "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core/1.7.3",
-  "dest-filename": "kotlinx-serialization-core-1.7.3.jar"
-},
-  {
-    "type": "file",
-    "url": "https://maven.google.com/androidx/lifecycle/lifecycle-common/2.9.2/lifecycle-common-2.9.2.jar",
-    "sha512": "934d581408ee1a783d4e8ec3a24ffe9da6401ff53e79f4893310acd0063264aa4249d1c512cae9a029ecf1858f9ec9d795ba5bcd87494cbde1ce25a28b9101a0",
-    "dest": "./offline-repository/androidx/lifecycle/lifecycle-common/2.9.2",
-    "dest-filename": "lifecycle-common-2.9.2.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/androidx/lifecycle/lifecycle-common/2.9.5/lifecycle-common-2.9.5.pom",
+    "sha512": "b8e19df580a13d3424db936dd71001623edb3a0d0c162c65d5b3ed140a43a70b962491a84d6125a67f2584b88dfc1a6991c0fdcd8388d544c22a0f41635d3550",
+    "dest": "./offline-repository/org/jetbrains/androidx/lifecycle/lifecycle-common/2.9.5",
+    "dest-filename": "lifecycle-common-2.9.5.pom"
   },
   {
     "type": "file",
-    "url": "https://maven.google.com/androidx/lifecycle/lifecycle-common/2.9.2/lifecycle-common-2.9.2.pom",
-    "sha512": "faab40655af9d1af61f198927635d4cbfdea4c332ef7958647efc98596fceadd89b375aa311328853fd5da040fb43ccb41cc1dc327096be62ea053110b2910e5",
-    "dest": "./offline-repository/androidx/lifecycle/lifecycle-common/2.9.2",
-    "dest-filename": "lifecycle-common-2.9.2.pom"
-  },
-    {
-    "type": "file",
-    "url": "https://maven.google.com/androidx/lifecycle/lifecycle-common-jvm/2.9.2/lifecycle-common-jvm-2.9.2.jar",
-    "sha512": "20b6ce1a985e807206cd0d5b9170908d4c9fe8fe00b457c5495affd9e46d3f3435e535efe5a4a4295ba0567fd863f641739b05229daf5d19a5b872a789d0882f",
-    "dest": "./offline-repository/androidx/lifecycle/lifecycle-common-jvm/2.9.2",
-    "dest-filename": "lifecycle-common-jvm-2.9.2.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/runtime/runtime-saveable/1.9.1/runtime-saveable-1.9.1.pom",
+    "sha512": "c8058a1572cb8dee64b001ff2abce1a6fd38da19d098527860d7c3ff94ac01df0b7407bea43c8daca977a242ce99018c0b07555d0fd4c294baca5ce51bab3231",
+    "dest": "./offline-repository/org/jetbrains/compose/runtime/runtime-saveable/1.9.1",
+    "dest-filename": "runtime-saveable-1.9.1.pom"
   },
   {
     "type": "file",
-    "url": "https://maven.google.com/androidx/lifecycle/lifecycle-common-jvm/2.9.2/lifecycle-common-jvm-2.9.2.pom",
-    "sha512": "a5f7fd4934fb48d8ff8e8cee89afbcc47414e8a337f0e5fb0d2aa754b8531bd199506b0c9e68a502d07a5fb435082c9088d5869f848582e0a3a5d2c556bcd375",
-    "dest": "./offline-repository/androidx/lifecycle/lifecycle-common-jvm/2.9.2",
-    "dest-filename": "lifecycle-common-jvm-2.9.2.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/runtime/runtime-saveable-desktop/1.9.1/runtime-saveable-desktop-1.9.1.jar",
+    "sha512": "9bfa029d2cff9a1d5c0cf01a74ba6ae50da585be27af2f1a63c3b059f7b37ef85bd8dfa21775e87bb4e6dd8654ffd90c8077f826ada81489dd7e3af0ad8519fb",
+    "dest": "./offline-repository/org/jetbrains/compose/runtime/runtime-saveable-desktop/1.9.1",
+    "dest-filename": "runtime-saveable-desktop-1.9.1.jar"
   },
   {
     "type": "file",
-    "url": "https://maven.google.com/androidx/lifecycle/lifecycle-common-jvm/2.9.2/lifecycle-common-jvm-2.9.2.module",
-    "sha512": "cf4129377e0a515f1f33cafb12c84de22d38fd487ac02587e8a44b5be69564242aea22b5ff96f164e5a43e2305623d34d613b95fc175bc8f160c7e48588ddd3d",
-    "dest": "./offline-repository/androidx/lifecycle/lifecycle-common-jvm/2.9.2",
-    "dest-filename": "lifecycle-common-jvm-2.9.2.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/runtime/runtime-saveable-desktop/1.9.1/runtime-saveable-desktop-1.9.1.pom",
+    "sha512": "4e06e62f5afa0346e6f5bcbcbdea6758be06426b6a7578dd2788425e4e996cd3c1a00002800a81d783681cf3c393aeeca8846813d5dfd3a86ef2bf82698d35f3",
+    "dest": "./offline-repository/org/jetbrains/compose/runtime/runtime-saveable-desktop/1.9.1",
+    "dest-filename": "runtime-saveable-desktop-1.9.1.pom"
   },
   {
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/material/material-ripple-desktop/1.8.2/material-ripple-desktop-1.8.2.jar",
-  "sha512": "0e55bc9c2f93bde3c1d52b015cbc974116dc0537027ae20833ffa581df1619f720f55c7070769b5b4248a3075c4efbb321e523c76488061fa770b6445dfd10e3",
-  "dest": "./offline-repository/org/jetbrains/compose/material/material-ripple-desktop/1.8.2",
-  "dest-filename": "material-ripple-desktop-1.8.2.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/material/material-ripple-desktop/1.8.2/material-ripple-desktop-1.8.2.pom",
-  "sha512": "66b24caa99527f9b69e88a2c190e28b18ddef08af465e0a4ef73862ec8e15cbbe37267461b6ca8938155c943dc45275dbcae26c6f2fb79c0b7fb6e6df2060e68",
-  "dest": "./offline-repository/org/jetbrains/compose/material/material-ripple-desktop/1.8.2",
-  "dest-filename": "material-ripple-desktop-1.8.2.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio-jvm/3.15.0/okio-jvm-3.15.0.jar",
-  "sha512": "f327600f43ab5f56753934848d9f49c3509cc5d4b871271345aa3a457a55bf9e244ff4d7d4e5c3de5eadb024cd2e13aca24817763005ce1b0ef0dc0a06be93dc",
-  "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.15.0",
-  "dest-filename": "okio-jvm-3.15.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/com/squareup/okio/okio-jvm/3.15.0/okio-jvm-3.15.0.pom",
-  "sha512": "ea6161dace024a24079bdd259e843f9fc3a4fde701565221ac4d8a0743290944e46e87eeacbe4474876022825684922766fe5de36f86fab7a2ae0b1b4ad77f3e",
-  "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.15.0",
-  "dest-filename": "okio-jvm-3.15.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core/1.7.3/kotlinx-serialization-core-1.7.3.jar",
-  "sha512": "ae058db7e7c100f5ac6e1c021bae8e060135f2cf4657d1511a9d245ee3c696717c126c1642f521e732a2baa695f48f4ef63a7ffdebb2446a988e3936859a0a70",
-  "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core/1.7.3",
-  "dest-filename": "kotlinx-serialization-core-1.7.3.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core/1.7.3/kotlinx-serialization-core-1.7.3.pom",
-  "sha512": "a6bf65fcf1b3c321c65cd67f98c2f329e61a78dd0923153c9ba16f7715b582891981be9469b11cf78f21a61f71181d3b4d2a484ac8a57b92e2a88466c09d8f02",
-  "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core/1.7.3",
-  "dest-filename": "kotlinx-serialization-core-1.7.3.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-bom/1.7.3/kotlinx-serialization-bom-1.7.3.pom",
-  "sha512": "5132dead1b4cfb4aa4a1431ea1fa4ebafc8f9e34c7ca0f979a82c7aed04ce4644029078eb83332fa066fe6decf85c9ed96b9eb826edf119e11e4e8aca358a809",
-  "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-bom/1.7.3",
-  "dest-filename": "kotlinx-serialization-bom-1.7.3.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.jar",
-  "sha512": "7b89cfd2eb13f75a47a2e6fc08e1731adb4ddf1533192dba467c208f2f467a9461ac019ee616347ec7b5db371322881ebec6cfb3ae8023aca1146cc9eddbef71",
-  "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3",
-  "dest-filename": "kotlinx-serialization-core-jvm-1.7.3.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.pom",
-  "sha512": "ee408d89057e2c4b786c7853dbc944a692e62429e640a709fdfd903ebfa5b5f32a0d7049edfaa1899971609f21823c0f1a2732a1b6f8ef97d08cda121030c40a",
-  "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3",
-  "dest-filename": "kotlinx-serialization-core-jvm-1.7.3.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3/kotlinx-serialization-core-jvm-1.7.3.module",
-  "sha512": "1815e5f9c2440464e2527a7a703523e079814f3a688af8a7ca2e383c237e8f14b1cee4b18debf3e7a1b870074398efcea380b4c0234d2d054ec607548424c695",
-  "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.7.3",
-  "dest-filename": "kotlinx-serialization-core-jvm-1.7.3.module"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/com/formdev/flatlaf/3.6.1/flatlaf-3.6.1.jar",
-  "sha512": "4e70ed4202b3e086dbb4366dd196bee75507991c8023af3b31d5fc6ddc2913d0a6058d96e9b88d8f46dd7cea5e64f1079904a48abca43e2d161a301b9b2f4218",
-  "dest": "./offline-repository/com/formdev/flatlaf/3.6.1",
-  "dest-filename": "flatlaf-3.6.1.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/com/formdev/flatlaf/3.6.1/flatlaf-3.6.1.pom",
-  "sha512": "278386479975d5650e5a3202c89c11aa1baacf2b3940e02effadb9d0a2aefe53bc0e8352b220d31e3c5d749a977e7a431456d02daa3700b51ded62e7eba00a7a",
-  "dest": "./offline-repository/com/formdev/flatlaf/3.6.1",
-  "dest-filename": "flatlaf-3.6.1.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/com/formdev/flatlaf/3.6.2/flatlaf-3.6.2.jar",
-  "sha512": "590a18e6e6edf2d35f777e3a51a8bfe56896436e4472c982c42297e0248b65c64cfabffd93dab69e21f24b49d53076b00ea380e7d64ae860980db67e7f5f2d9f",
-  "dest": "./offline-repository/com/formdev/flatlaf/3.6.2",
-  "dest-filename": "flatlaf-3.6.2.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/com/formdev/flatlaf/3.6.2/flatlaf-3.6.2.pom",
-  "sha512": "09439206ac4fba1a281b21ec8dde5bbe1b96048a9dff79f2f800b584975c9a58dddd080764eea461c2be3aa6e0ba78b8c745064893006897b714e804144b3b1b",
-  "dest": "./offline-repository/com/formdev/flatlaf/3.6.2",
-  "dest-filename": "flatlaf-3.6.2.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/com/formdev/flatlaf/3.6.2/flatlaf-3.6.2.module",
-  "sha512": "9cb427fe53b1761883a978412e22efa497a1bda281f2cf47c82df6225d5ee2a84e1902b728e08584bd973a9e9faa3f093f5ad44df5ff186d3bc13c4da10d02e5",
-  "dest": "./offline-repository/com/formdev/flatlaf/3.6.2",
-  "dest-filename": "flatlaf-3.6.2.module"
-},
-{
-  "type": "file",
-  "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/kotlin-dsl/org.gradle.kotlin.kotlin-dsl.gradle.plugin/6.2.0/org.gradle.kotlin.kotlin-dsl.gradle.plugin-6.2.0.pom",
-  "sha512": "27fd45f0279312bcb0b1591c0d5c5f230a01f87f9d8b862e9db2a6b856f0e91dd82d5843d087d414d4db5b1a7ea04a42339720f3732ccea0afea52bf4efbca0c",
-  "dest": "./offline-repository/org/gradle/kotlin/kotlin-dsl/org.gradle.kotlin.kotlin-dsl.gradle.plugin/6.2.0",
-  "dest-filename": "org.gradle.kotlin.kotlin-dsl.gradle.plugin-6.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/gradle-kotlin-dsl-plugins/6.2.0/gradle-kotlin-dsl-plugins-6.2.0.pom",
-  "sha512": "173aad62ddfb66105ad3ea8b9af8ad850dbd48b05210f5f5262a5642941a55cd0ec3dfed189c00933df734fe1a0475e1a47d37e88bed7ffcb3d328a9e2eed5d0",
-  "dest": "./offline-repository/org/gradle/kotlin/gradle-kotlin-dsl-plugins/6.2.0",
-  "dest-filename": "gradle-kotlin-dsl-plugins-6.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/gradle-kotlin-dsl-plugins/6.2.0/gradle-kotlin-dsl-plugins-6.2.0.jar",
-  "sha512": "880c2251b48daba184ea91bd7553bf34a6fcb7f986b008718bb9dcea8b95c3039d128d9c6857141cb4b12f4d58e798761b5cded1a28b1d5bdfc1b3153c04d7cb",
-  "dest": "./offline-repository/org/gradle/kotlin/gradle-kotlin-dsl-plugins/6.2.0",
-  "dest-filename": "gradle-kotlin-dsl-plugins-6.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/gradle-kotlin-dsl-plugins/6.2.0/gradle-kotlin-dsl-plugins-6.2.0.module",
-  "sha512": "03d7d75f19c43ed35ba9e11b7b92047069e13978f80b58029ffce0a29824e0dfba566f1c3a6e291c5fe018b9dbdab533f1c18b80b101d5b44d38d90f2c4f7df5",
-  "dest": "./offline-repository/org/gradle/kotlin/gradle-kotlin-dsl-plugins/6.2.0",
-  "dest-filename": "gradle-kotlin-dsl-plugins-6.2.0.module"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-gradle-plugin-idea/2.2.0/kotlin-gradle-plugin-idea-2.2.0.jar",
-  "sha512": "45755dd353c1a129657dfd9b42b9f9b647efc48db9b562cb9c0eade463bf4826efb28211762f84b0e503cc5960541a230dd06b452080a55de1894cece4c9026c",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-gradle-plugin-idea/2.2.0",
-  "dest-filename": "kotlin-gradle-plugin-idea-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-gradle-plugin-idea/2.2.0/kotlin-gradle-plugin-idea-2.2.0.pom",
-  "sha512": "00f6117534817bc9ae6337e070684f15e55a38562751112f97be4f5d2ff82bdc0b26681972dd1983587e346964902b2ed8e0fc3bb0d9e4362abb0fd585773de4",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-gradle-plugin-idea/2.2.0",
-  "dest-filename": "kotlin-gradle-plugin-idea-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-gradle-plugin-idea/2.2.0/kotlin-gradle-plugin-idea-2.2.0.module",
-  "sha512": "e2d760190b98b0a7f1ae4c18958716260363792f355a39b99c25be3c09a03c38a8e05b0aebaed80ad08995a0a6df33cfe68e8882fd33c1011a8ac02ca37be471",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-gradle-plugin-idea/2.2.0",
-  "dest-filename": "kotlin-gradle-plugin-idea-2.2.0.module"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-gradle-plugin-idea-proto/2.2.0/kotlin-gradle-plugin-idea-proto-2.2.0.jar",
-  "sha512": "da3aeaa18f9971bfe759884fef1ec219385f033e83eb047ec4c53e59e94960699c8402e04fbfe442c2fbd1cca1d7f73fe534ca61266faa60c43f0edaa8c34feb",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-gradle-plugin-idea-proto/2.2.0",
-  "dest-filename": "kotlin-gradle-plugin-idea-proto-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-gradle-plugin-idea-proto/2.2.0/kotlin-gradle-plugin-idea-proto-2.2.0.pom",
-  "sha512": "08ac49c01e3684bea15cc3f446e8cdd506709d03c81cd578a4b0c6237ad269d8f002c371090346cb8ae47509ed56e643835f751e915cd95ce1150799f89b1567",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-gradle-plugin-idea-proto/2.2.0",
-  "dest-filename": "kotlin-gradle-plugin-idea-proto-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-klib-commonizer-api/2.2.0/kotlin-klib-commonizer-api-2.2.0.jar",
-  "sha512": "c307588ef2d8e9b71e14a473f1acc1d0ef814e4c5127a6c30d4b6069e8fc4fe71d4a4fc0a8f0244d7437c3bd73c3c89d15a3014223f21443ec7a29af04c73d83",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-klib-commonizer-api/2.2.0",
-  "dest-filename": "kotlin-klib-commonizer-api-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-klib-commonizer-api/2.2.0/kotlin-klib-commonizer-api-2.2.0.pom",
-  "sha512": "adb6e4833a7a0e04c7e276ef2e1684457c7ddc4b6b75761d384fd968c569f2b5547020e3ceda1e55637b54fea311528ce8bdcfd6056686cd43020db29f7d6f89",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-klib-commonizer-api/2.2.0",
-  "dest-filename": "kotlin-klib-commonizer-api-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-build-statistics/2.2.0/kotlin-build-statistics-2.2.0.jar",
-  "sha512": "830a813dbb763a0011709dc3568adc7094f736a71ead23f7356f3930e201e81849e9bc44b9bde820575507b9e5d409d9a5579212666a5c2446e38516b70bcb0d",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-build-statistics/2.2.0",
-  "dest-filename": "kotlin-build-statistics-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-build-statistics/2.2.0/kotlin-build-statistics-2.2.0.pom",
-  "sha512": "a567e0bf42fa4fb8419931bd130dcb626c3a6c60a787137658e6d4f49cc359a046eae5c32c0523a8c5820b6eca9bdbb481feda207c8859072986d6a4794f72f5",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-build-statistics/2.2.0",
-  "dest-filename": "kotlin-build-statistics-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-util-klib-metadata/2.2.0/kotlin-util-klib-metadata-2.2.0.jar",
-  "sha512": "155fc819a2d5900060abaf08ab08d279be2d03ba6c119ffaa597d2973365f7f4a92847686e917546bbf9c811d7f23b0377114c2642a4fd509091dc2a0a054f80",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-util-klib-metadata/2.2.0",
-  "dest-filename": "kotlin-util-klib-metadata-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-util-klib-metadata/2.2.0/kotlin-util-klib-metadata-2.2.0.pom",
-  "sha512": "a0fb2ec9781ec072e2dfcf7c27662585cb8a07a92a2181740aad2f1d65b44d4be9fd782d90f4b3953bde1c0d1cf312297905fe7c09a457febd1623dea290dfaf",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-util-klib-metadata/2.2.0",
-  "dest-filename": "kotlin-util-klib-metadata-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/abi-tools-api/2.2.0/abi-tools-api-2.2.0.jar",
-  "sha512": "e374ce2304ece97622f4da0ab6ef47ceb3055dbce400bc7200b33004dd94a29ae29d539a380cce8078c4c49060385a1bb1a7defa476a2a0fba232318f4bc0a95",
-  "dest": "./offline-repository/org/jetbrains/kotlin/abi-tools-api/2.2.0",
-  "dest-filename": "abi-tools-api-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/abi-tools-api/2.2.0/abi-tools-api-2.2.0.pom",
-  "sha512": "b4178a4a7357ff76abc8eecb9c8aa49afa4b4365f15ae849635695c948edd8cf239cb8b29178fcaf53a3c3c9c18fd1d15acf887b1ec92327af2e3a5320860547",
-  "dest": "./offline-repository/org/jetbrains/kotlin/abi-tools-api/2.2.0",
-  "dest-filename": "abi-tools-api-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-compiler-runner/2.2.0/kotlin-compiler-runner-2.2.0.jar",
-  "sha512": "838d9afee8d8ad909cabe1471acc8450f98f2981f78f4f3cdf9ad09c1fba248ea6db671a9b893e2f1853eb4825a9a81d92ebe50b8084c0fe51bf12e820e7d15f",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-compiler-runner/2.2.0",
-  "dest-filename": "kotlin-compiler-runner-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-compiler-runner/2.2.0/kotlin-compiler-runner-2.2.0.pom",
-  "sha512": "3d0d753af321d306f94cd095dcdbe0da1056adc7bd84ec02ab0bd20d1c83d1b28ea87006b3712d3cbd645f65c0f99f9e787a1727a4d39ca2261a203055186555",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-compiler-runner/2.2.0",
-  "dest-filename": "kotlin-compiler-runner-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-util-klib/2.2.0/kotlin-util-klib-2.2.0.jar",
-  "sha512": "989d06abf6d87491ef29f77ac89114e62a2c5b1acdf4a70b43a9da7653ab33ec8a46b33cb1f542e615768a36f011f77bd539c93e918f5bd088fb41d2c4169122",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-util-klib/2.2.0",
-  "dest-filename": "kotlin-util-klib-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-util-klib/2.2.0/kotlin-util-klib-2.2.0.pom",
-  "sha512": "e219f0c0ba9accab0f441f74b4c0d3e51c35527fc294b5e9c78bdc669bf8b2b2f79b7223f683c821bde7bb9fb9a7e82708d2c735c9c39ff49d7683e403d75af7",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-util-klib/2.2.0",
-  "dest-filename": "kotlin-util-klib-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-daemon-client/2.2.0/kotlin-daemon-client-2.2.0.jar",
-  "sha512": "16ab0b81de37082e96d9192764caacdd057c9f86eb7faa7bdb6d4367b45f090267353db48c14a26fc25f4fcf1b1d5bcf384283db91d831354f58a0556a32d3d8",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-daemon-client/2.2.0",
-  "dest-filename": "kotlin-daemon-client-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-daemon-client/2.2.0/kotlin-daemon-client-2.2.0.pom",
-  "sha512": "b2289a6b53d1ba5cd5ad4414fd852896f0a4877b6ce4e229c3e4fa9f58a37e6cbbe688bd0ddee214e13c989a6902240d9e6201e54711864ee87eaa9c4c0d5eb9",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-daemon-client/2.2.0",
-  "dest-filename": "kotlin-daemon-client-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.2.0/kotlin-stdlib-2.2.0.jar",
-  "sha512": "1514caef0f4eab6b7608ca6188c89c27955e4b4e3ff06ab0f2a6f9944ca84ff9172e2a37e17146f92e3b6beee0bd761c6c6720700304de191cdd81de113c39ee",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.2.0",
-  "dest-filename": "kotlin-stdlib-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.2.0/kotlin-stdlib-2.2.0.pom",
-  "sha512": "5fe4a7035bddc50fa79f02dd26138097cbf2b9c7cbb1ca48259ef89e3f57eff8d35220e4549fe44a0b079ab8b8953ebc4cec9ba363667efaf2314be274a2eb44",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.2.0",
-  "dest-filename": "kotlin-stdlib-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.2.0/kotlin-stdlib-2.2.0.module",
-  "sha512": "c8e9d4a5f01834c3e1b56e6790854b9601fd23ddaa8ece1ff48360289a59b10b55d3b250b81446a2a0f1c0621b7898b5e4faf60b8aa5c27282387efbc9aa6b2c",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.2.0",
-  "dest-filename": "kotlin-stdlib-2.2.0.module"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-sam-with-receiver/2.2.0/kotlin-sam-with-receiver-2.2.0.jar",
-  "sha512": "b9eadea47d5c5c76e44d8fd15e401b03abbe76e80dd034a811fcbf9b9a1d6cd4042acf8998c3c8841e820a9d6f961e7b4da1fc7f324aa4b611df025ded25aed9",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-sam-with-receiver/2.2.0",
-  "dest-filename": "kotlin-sam-with-receiver-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-sam-with-receiver/2.2.0/kotlin-sam-with-receiver-2.2.0.pom",
-  "sha512": "0287641728b8c5c20b86f23872d7a5eed42a4491aae21a38bf3498320309372cab30f05dbf8e86e5a4226389638a4cc13b63b79366b5aedabef159c98f57557a",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-sam-with-receiver/2.2.0",
-  "dest-filename": "kotlin-sam-with-receiver-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-assignment/2.2.0/kotlin-assignment-2.2.0.jar",
-  "sha512": "79ae399f0e3e3fb9be104ba40041bba65faa23e79129e4fe85d9e04e2705b3c2288784bed98471eca3e5a7a83071e0331667e11c4ba8d6c4519e2f8b1d0aab8e",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-assignment/2.2.0",
-  "dest-filename": "kotlin-assignment-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-assignment/2.2.0/kotlin-assignment-2.2.0.pom",
-  "sha512": "40cee9fbf501573c7a5659dc4857f43272b7bbd8e7452170c298853380df43ec9b75fd2dd3eace4508f5af0adf306c84ef497de4ee20cc213755beaa3257b679",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-assignment/2.2.0",
-  "dest-filename": "kotlin-assignment-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-reflect/2.2.0/kotlin-reflect-2.2.0.jar",
-  "sha512": "1046994e26b6224661fe6c46021f8d09387dabf38545301ca19dd7bfe8486869a04eaffdb9f1ce89e5f0f9b0bdbcdfceb6328c1f36f6e5a44d2c80fb4c70680f",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-reflect/2.2.0",
-  "dest-filename": "kotlin-reflect-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-reflect/2.2.0/kotlin-reflect-2.2.0.pom",
-  "sha512": "84e24368f63f46f53a3376a94618a319096112342586543484d4eb2fe588c188b7010b65e56aa6ae8ee5571cb7bcaa973870ed01af82b71bef548274ac54ae7c",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-reflect/2.2.0",
-  "dest-filename": "kotlin-reflect-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-build-tools-impl/2.2.0/kotlin-build-tools-impl-2.2.0.jar",
-  "sha512": "39a8a99a16901489aa7f489a965a8fa5ffc93a21d29bd13454e6e7cc27b63fec1cc05eb460b1bbb9e33015d797796f0b5225c296774768a35403ffa2480891d5",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-build-tools-impl/2.2.0",
-  "dest-filename": "kotlin-build-tools-impl-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-build-tools-impl/2.2.0/kotlin-build-tools-impl-2.2.0.pom",
-  "sha512": "7f14d4b8ef615df8487ac5f919514df5208e3f8e48df93330d945beffb53e4bf7eaedf671978ba6ee25f550a50350194c88d14ff84c592b629f1e3ad2d3a556d",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-build-tools-impl/2.2.0",
-  "dest-filename": "kotlin-build-tools-impl-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-compiler-embeddable/2.2.0/kotlin-compiler-embeddable-2.2.0.jar",
-  "sha512": "2f2faddb7ba2e8cf37bb0e0eab0aacb52e8c58e84bcea63dc25502fa5c6bac996481f13e4da4d8de0540b85f46f09c22ede69b0bfa2bdccdb38ca68a5d0236aa",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-compiler-embeddable/2.2.0",
-  "dest-filename": "kotlin-compiler-embeddable-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-compiler-embeddable/2.2.0/kotlin-compiler-embeddable-2.2.0.pom",
-  "sha512": "b867930e7c58f4a7c2d8d0c31d73732c303bacffc65656083a79ff313d61a2690e818958b350ba55255ab747b25bdc34928c44834785f48bf1a540d543525ab8",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-compiler-embeddable/2.2.0",
-  "dest-filename": "kotlin-compiler-embeddable-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-scripting-compiler-embeddable/2.2.0/kotlin-scripting-compiler-embeddable-2.2.0.jar",
-  "sha512": "d66a4c660f8a61bfed67629ec94da5c1a1c2b4a546073fb73ed5a2f390803c2f5425fc002b5c63fd7e5ab123bb156f5804c01c0d7600cb61eb6367c9ed83de52",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-scripting-compiler-embeddable/2.2.0",
-  "dest-filename": "kotlin-scripting-compiler-embeddable-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-scripting-compiler-embeddable/2.2.0/kotlin-scripting-compiler-embeddable-2.2.0.pom",
-  "sha512": "9625ccf0a0e3914f8ecb090ce0e53431b8d41b126defb3db316726842ca03bcadb94c1a7ada79ff9cf6876d838ff1ae84093b768f43bed1616ec20fc7e7c55e7",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-scripting-compiler-embeddable/2.2.0",
-  "dest-filename": "kotlin-scripting-compiler-embeddable-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-scripting-compiler-impl-embeddable/2.2.0/kotlin-scripting-compiler-impl-embeddable-2.2.0.jar",
-  "sha512": "f2c6e6f778d92182477009b56536b8e14ced0ec303f697a3c842fa66a18d92e5319eadfe3a3c71fb399793bf32741a1fecc4bf6386811ab8138b84273510f472",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-scripting-compiler-impl-embeddable/2.2.0",
-  "dest-filename": "kotlin-scripting-compiler-impl-embeddable-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-scripting-compiler-impl-embeddable/2.2.0/kotlin-scripting-compiler-impl-embeddable-2.2.0.pom",
-  "sha512": "aee33592db04320baa343901356fbafeaf229a1d54e17a8ac925b3d1b66d0e90d97404a7589d8460f93c9dad0be3997a204535bfb4c89dea44341d1dd698af63",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-scripting-compiler-impl-embeddable/2.2.0",
-  "dest-filename": "kotlin-scripting-compiler-impl-embeddable-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-script-runtime/2.2.0/kotlin-script-runtime-2.2.0.jar",
-  "sha512": "eafa9c5737938ae343296487f73ac55f23faeddf4df9ff63562a80fe6cc39df5aab11c952d78f73287ee1c720cbc0a1e2b1d9632ef4c31ef9956a69d5afb54f2",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-script-runtime/2.2.0",
-  "dest-filename": "kotlin-script-runtime-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-script-runtime/2.2.0/kotlin-script-runtime-2.2.0.pom",
-  "sha512": "7401a434ccbfdf8a35b08d45c7dad45abffebbf8ec5863709483d213a96bf8c1f73457ec566a00becba29a45c066ce3424b75f7d83a142d0e51825235b1901bc",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-script-runtime/2.2.0",
-  "dest-filename": "kotlin-script-runtime-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-daemon-embeddable/2.2.0/kotlin-daemon-embeddable-2.2.0.jar",
-  "sha512": "e52771cc1722e62a1044be4cc93c75de29b4c1758a9ee520cec0c62b06c904a8988f0e652e2130342e8299e11f1a88a251a63e6f172fc30810c8bbb47e56ba29",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-daemon-embeddable/2.2.0",
-  "dest-filename": "kotlin-daemon-embeddable-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-daemon-embeddable/2.2.0/kotlin-daemon-embeddable-2.2.0.pom",
-  "sha512": "2f6b5d0dd7ff4afa2e36efc0adffe9ce13e06dacc2447f06d04d030d1ab49866100377d5fa7f98f8bb4c68519755050629a5ac55aa039f7deb1f504e322e6f12",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-daemon-embeddable/2.2.0",
-  "dest-filename": "kotlin-daemon-embeddable-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-scripting-common/2.2.0/kotlin-scripting-common-2.2.0.jar",
-  "sha512": "e2502b110dea551059d2b12f49a8f257fd9587ad1271dd428e82f4bbc1070249f120858e836a9ea24c46c3cecfaf07d79cc4eafa4ccbf6adf8829aee4da3e7ee",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-scripting-common/2.2.0",
-  "dest-filename": "kotlin-scripting-common-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-scripting-common/2.2.0/kotlin-scripting-common-2.2.0.pom",
-  "sha512": "969ae7eb763a94dd2eb6b8c885e00f85a732defd1d903289113d1411ad96e5f07f424d66bf937963c793c646d139f9078c9ae576a79505c08265bcd08e0a6389",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-scripting-common/2.2.0",
-  "dest-filename": "kotlin-scripting-common-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-scripting-jvm/2.2.0/kotlin-scripting-jvm-2.2.0.jar",
-  "sha512": "7194193193a4a314cb38d4354d6b4b1f54b5c6755f608de65f65dc9f0eca6de1b444510ea33c63e376e5f76a4c604f7e0c7ba3100d7a5d8d009321954fd5ce21",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-scripting-jvm/2.2.0",
-  "dest-filename": "kotlin-scripting-jvm-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-scripting-jvm/2.2.0/kotlin-scripting-jvm-2.2.0.pom",
-  "sha512": "0fc78fe7961b23e2bf987eb535532d91d3b7daafc74f3e8bd9ab0f3197d25aa41a4415403a8cf2afae6876a4367a476aa8f8b9c4741b1c3dff6f2c692d2f53af",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-scripting-jvm/2.2.0",
-  "dest-filename": "kotlin-scripting-jvm-2.2.0.pom"
-}
-,
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-sam-with-receiver-compiler-plugin-embeddable/2.2.0/kotlin-sam-with-receiver-compiler-plugin-embeddable-2.2.0.jar",
-  "sha512": "5dbd73994315aa6fa55b3b5b2ccb90d7e790cf4f81e704a3a356c005ceaeb36bd0fb38721e7527ccc622ba94a38d5059f1a1093d374d56220cea26cf6a27d47f",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-sam-with-receiver-compiler-plugin-embeddable/2.2.0",
-  "dest-filename": "kotlin-sam-with-receiver-compiler-plugin-embeddable-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-sam-with-receiver-compiler-plugin-embeddable/2.2.0/kotlin-sam-with-receiver-compiler-plugin-embeddable-2.2.0.pom",
-  "sha512": "5f24252995bf08a6f3620aaa6ca1f117ef643fc48f1d2df0d3e7d4b3bc521b4f41eb7821fa719f658cd6179a155f56a584ac10e83692b2f89335bd2c5fbae364",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-sam-with-receiver-compiler-plugin-embeddable/2.2.0",
-  "dest-filename": "kotlin-sam-with-receiver-compiler-plugin-embeddable-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-assignment-compiler-plugin-embeddable/2.2.0/kotlin-assignment-compiler-plugin-embeddable-2.2.0.jar",
-  "sha512": "f90f9bdb92422f4ae4443df6204e2d22a07c1a3cbd99918a3c4da73ac73890c143323743f7e6d3b47e89e80cc52e57d2b32d38a658932aca51cbdcf1ef513459",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-assignment-compiler-plugin-embeddable/2.2.0",
-  "dest-filename": "kotlin-assignment-compiler-plugin-embeddable-2.2.0.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-assignment-compiler-plugin-embeddable/2.2.0/kotlin-assignment-compiler-plugin-embeddable-2.2.0.pom",
-  "sha512": "8a7134a2336ddafa222ddfa3538461f3a6f0258208d6e9a3e7cf413c50e0a7c7485419d50de178e2a3b57c09ff5124b9adddb633d14f81f10eef51b31fbd35d4",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-assignment-compiler-plugin-embeddable/2.2.0",
-  "dest-filename": "kotlin-assignment-compiler-plugin-embeddable-2.2.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.3/symbol-processing-aa-embeddable-2.3.3.jar",
-  "sha512": "d92fdfdeb6e0b8307eb0391aef7216816b3c50b86309aa643087f4e356901e9b88f223a177a3ef09af61a1953cf181812e8c217d0bc8d2a73a1b043607fca183",
-  "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.3",
-  "dest-filename": "symbol-processing-aa-embeddable-2.3.3.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.3/symbol-processing-aa-embeddable-2.3.3.pom",
-  "sha512": "638b612aeb015abd14a639f625d489e9ce2b9d0df83fbbe45dfeeae691473a228ad69f74942fda1b34eb311809330d4dd3625a82e57d9719bca8ae2f08a8b1bb",
-  "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.3",
-  "dest-filename": "symbol-processing-aa-embeddable-2.3.3.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-Beta1/kotlin-stdlib-2.3.0-Beta1.jar",
-  "sha512": "1720f590801cb07dc9b29f9fd0a39457c7b40cb5084a29742f63de71c89a9531e66387ffab944706fcad524ef7ea72366dfeebf22598fc86a4806b8d256697fa",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-Beta1",
-  "dest-filename": "kotlin-stdlib-2.3.0-Beta1.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-Beta1/kotlin-stdlib-2.3.0-Beta1.pom",
-  "sha512": "169cdee7b2a340aea88cb886be47f2ac7b0305ab5fb2da67d42d7c3c12662fd7c520f26910e84a0f45713cc382c027a7e465ecda7fc75176058fc39610913f9b",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-Beta1",
-  "dest-filename": "kotlin-stdlib-2.3.0-Beta1.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-Beta1/kotlin-stdlib-2.3.0-Beta1.module",
-  "sha512": "bf169321a8f4a997321f431543f3ddb1733830853d749ea6c17908e577bc014d8ccd9ac0fd3ebe41ec509715b9025aecbdea8d94c95d2222d69722e3170d1f8d",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.0-Beta1",
-  "dest-filename": "kotlin-stdlib-2.3.0-Beta1.module"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/compose/material/material-ripple-desktop/1.9.1/material-ripple-desktop-1.9.1.jar",
-  "sha512": "d9553279f7fdb9f3fe3f2217b9b7576f2d9d13ce4dcf532dfe8e2ecf553327f230dfac1781675f991d5f6aabdee3ecfcf0af1b58ffdaecec7c5343fb28b0505d",
-  "dest": "./offline-repository/org/jetbrains/compose/material/material-ripple-desktop/1.9.1",
-  "dest-filename": "material-ripple-desktop-1.9.1.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/compose/material/material-ripple-desktop/1.9.1/material-ripple-desktop-1.9.1.pom",
-  "sha512": "2bda3dbc67ebd697d3fc4c08d5529813041c47e9658b5f882d0caf84b68e0ca4fd8af48a7d6d649a882793e6a53be294dce0d7b173783a8cb8b6761cbaa715dd",
-  "dest": "./offline-repository/org/jetbrains/compose/material/material-ripple-desktop/1.9.1",
-  "dest-filename": "material-ripple-desktop-1.9.1.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/compose/material/material-ripple-desktop/1.9.1/material-ripple-desktop-1.9.1.module",
-  "sha512": "dae1064372ac706dc5928742d3e490cef1a8ace7d578ebb321439d252285c47462d7a086a792d15d91645d741ac7d0c579c16183fb84456f110a95c09fb8761f",
-  "dest": "./offline-repository/org/jetbrains/compose/material/material-ripple-desktop/1.9.1",
-  "dest-filename": "material-ripple-desktop-1.9.1.module"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/androidx/lifecycle/lifecycle-common/2.9.4/lifecycle-common-2.9.4.jar",
-  "sha512": "89e3933b3a5983b6475bdbbc355f750c0f07c5ee9b889778049d238c3b8bc42b2d2ee89ba217ecd36d2fa9278d59ad4be1a89df2307e566071aec209d9a8c2cb",
-  "dest": "./offline-repository/org/jetbrains/androidx/lifecycle/lifecycle-common/2.9.4",
-  "dest-filename": "lifecycle-common-2.9.4.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/androidx/lifecycle/lifecycle-common/2.9.4/lifecycle-common-2.9.4.pom",
-  "sha512": "6bfc01b141edff93d31bee6a58600e41014c3e76be126cef01c498ae1a2ae027bfec5bce2120a3716e86ea657bf3b2075035d5076d5c988a5cc2b6019d25f8d2",
-  "dest": "./offline-repository/org/jetbrains/androidx/lifecycle/lifecycle-common/2.9.4",
-  "dest-filename": "lifecycle-common-2.9.4.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo1.maven.org/maven2/org/jetbrains/androidx/lifecycle/lifecycle-common/2.9.4/lifecycle-common-2.9.4.module",
-  "sha512": "74df147d82128e473c74fa3ce4d84a0ed5af658dc78c3fe36c9d96fbd7da95953241fcf8feccb09b76231bbe16186d546526395bd572227497e148fcb17d3d39",
-  "dest": "./offline-repository/org/jetbrains/androidx/lifecycle/lifecycle-common/2.9.4",
-  "dest-filename": "lifecycle-common-2.9.4.module"
-},
-{
-  "type": "file",
-  "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common/2.9.4/lifecycle-common-2.9.4.jar",
-  "sha512": "934d581408ee1a783d4e8ec3a24ffe9da6401ff53e79f4893310acd0063264aa4249d1c512cae9a029ecf1858f9ec9d795ba5bcd87494cbde1ce25a28b9101a0",
-  "dest": "./offline-repository/androidx/lifecycle/lifecycle-common/2.9.4",
-  "dest-filename": "lifecycle-common-2.9.4.jar"
-},
-{
-  "type": "file",
-  "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common/2.9.4/lifecycle-common-2.9.4.pom",
-  "sha512": "355ebba612f3a2bacb14269e3227319fbad4884422c409d948c4536ce1598e320d1756304cb0dc5669b3549323fe37813d4e4e9f43927b394109791501878c94",
-  "dest": "./offline-repository/androidx/lifecycle/lifecycle-common/2.9.4",
-  "dest-filename": "lifecycle-common-2.9.4.pom"
-},
-{
-  "type": "file",
-  "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common/2.9.4/lifecycle-common-2.9.4.module",
-  "sha512": "8b0bca9f2e81c8642b4d85cda0911764cd891768cf8f6c50e82f237d496bce5cbee492a961c3ee3375d91abe47d9036de7fb256ed5f24345db062a78f7366296",
-  "dest": "./offline-repository/androidx/lifecycle/lifecycle-common/2.9.4",
-  "dest-filename": "lifecycle-common-2.9.4.module"
-},
-{
-  "type": "file",
-  "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common-jvm/2.9.4/lifecycle-common-jvm-2.9.4.jar",
-  "sha512": "20b6ce1a985e807206cd0d5b9170908d4c9fe8fe00b457c5495affd9e46d3f3435e535efe5a4a4295ba0567fd863f641739b05229daf5d19a5b872a789d0882f",
-  "dest": "./offline-repository/androidx/lifecycle/lifecycle-common-jvm/2.9.4",
-  "dest-filename": "lifecycle-common-jvm-2.9.4.jar"
-},
-{
-  "type": "file",
-  "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common-jvm/2.9.4/lifecycle-common-jvm-2.9.4.pom",
-  "sha512": "77ad64a48668e04afc9542cf0c04beff033fbc7f9569105ea20dbac40fab379e157612cbeb817c6829404baf4fc9d9c0962a5c58f98ce38908315075cfc3fe3d",
-  "dest": "./offline-repository/androidx/lifecycle/lifecycle-common-jvm/2.9.4",
-  "dest-filename": "lifecycle-common-jvm-2.9.4.pom"
-},
-{
-  "type": "file",
-  "url": "https://dl.google.com/dl/android/maven2/androidx/lifecycle/lifecycle-common-jvm/2.9.4/lifecycle-common-jvm-2.9.4.module",
-  "sha512": "0e10ca357c1cd2e2cb2d90ca05efb55a2ec6ad2a3c8d711749862371fd23e0dd9f07ae983b8e5fec5ca31d3b334ec80cddc30adedcbbabd0f1ed0346b50a13b1",
-  "dest": "./offline-repository/androidx/lifecycle/lifecycle-common-jvm/2.9.4",
-  "dest-filename": "lifecycle-common-jvm-2.9.4.module"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.jar",
-  "sha512": "d9586162b257386b5871e7e9ae255a38014a9efaeef5148de5e40a3b0200364dad8516bddd554352aa2e5337bec2cc11df88c76c4fdde96a40f3421aa60650d7",
-  "dest": "./offline-repository/commons-codec/commons-codec/1.11",
-  "dest-filename": "commons-codec-1.11.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11.pom",
-  "sha512": "1b7a0a986a1bd222c0795972daabee4f16e308498f67d62b99749506b5a71e9811deaa323c080517a8184d6481e8281c91bd012d5614b7d5d2ba14aa96f2596c",
-  "dest": "./offline-repository/commons-codec/commons-codec/1.11",
-  "dest-filename": "commons-codec-1.11.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/42/commons-parent-42.pom",
-  "sha512": "a35d1f7919551adbeada88d9f47a4d6de200380aa43266f91d4b65255120cbf4b11f73bb3f9b98eeb960fd9f1b0793dd48095b46270ed2376ce3b122861a94d6",
-  "dest": "./offline-repository/org/apache/commons/commons-parent/42",
-  "dest-filename": "commons-parent-42.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/apache/apache/18/apache-18.pom",
-  "sha512": "9ef6f99b30fe2603ad8f2c88116072de36bd2dc99590fd9e7eecf153dbf50cbd766694d861e666138d2a26137be69fe98cc38a491f6a2a68e8d421d656731ed1",
-  "dest": "./offline-repository/org/apache/apache/18",
-  "dest-filename": "apache-18.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.3.0/kotlin-stdlib-2.3.0-all.jar",
-  "sha512": "29f1dd0ad8bc7f2183e261f04a5fd1bc34f5ccf893449aad43974633c20e4686f04273cfcdf1a17792d6670c945c2fa1f3447d54f2f1041f2e6004ed5564fc32",
-  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.0",
-  "dest-filename": "kotlin-stdlib-2.3.0-all.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar",
-  "sha512": "ed00dbfabd9ae00efa26dd400983601d076fe36408b7d6520084b447e5d1fa527ce65bd6afdcb58506c3a808323d28e88f26cb99c6f5db9ff64f6525ecdfa557",
-  "dest": "./offline-repository/commons-logging/commons-logging/1.2",
-  "dest-filename": "commons-logging-1.2.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.pom",
-  "sha512": "75bef548eea62ab04569791f2fdeed3d0a61edae0534aa035a905dc1d011988fc0f06f52bde377f44e94e6afd4380197148120b152b7a4d20628fb6236cc7261",
-  "dest": "./offline-repository/commons-logging/commons-logging/1.2",
-  "dest-filename": "commons-logging-1.2.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom",
-  "sha512": "364ede203a23157ec601d28ff141c0c69759fc5c483e44e346fa1592403f343f0722f7763243b2ee7a190c7a744b1cce1f40247f5a6c7b3dbfbf487c505a40bf",
-  "dest": "./offline-repository/org/apache/commons/commons-parent/34",
-  "dest-filename": "commons-parent-34.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/apache/apache/13/apache-13.pom",
-  "sha512": "3b25f9f51a7ee9647fe2e1287e75a67ccdf3f08055bec20c6a60b290876afc691f16b23ab3df7b733695b828411b716a0b3509c22ec6fb0c5dce4f21811ae434",
-  "dest": "./offline-repository/org/apache/apache/13",
-  "dest-filename": "apache-13.pom"
-},
-{
-  "type": "file",
-  "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate-compose/1.3.3/savedstate-compose-1.3.3.jar",
-  "sha512": "73b9d2db21c060ad5b246cbeb24efb8d49da8c9ce8f9224663c12ee477b4d332e0b0eda23ad1e4d4a653893037188503c11fb146d0b283cca799495b91387b19",
-  "dest": "./offline-repository/androidx/savedstate/savedstate-compose/1.3.3",
-  "dest-filename": "savedstate-compose-1.3.3.jar"
-},
-{
-  "type": "file",
-  "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate-compose/1.3.3/savedstate-compose-1.3.3.pom",
-  "sha512": "d3f5b5fd18524d4b2f274a61b98fd197ff933df3a69db8334267f604886cb073d7928fa490f7074ca35892fb46de9f9b904c0d69f48bf4042905a50d13a6d806",
-  "dest": "./offline-repository/androidx/savedstate/savedstate-compose/1.3.3",
-  "dest-filename": "savedstate-compose-1.3.3.pom"
-},
-{
-  "type": "file",
-  "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate/1.3.3/savedstate-1.3.3.jar",
-  "sha512": "1a5a1e10ecdaa48b6704053caaf427e5f23d4e125ba32fc1ee3057c1a986377f3e3fecb3c46b333fda1753322b00060e401e7bd34c1ed53a5d9b58d41af08f7c",
-  "dest": "./offline-repository/androidx/savedstate/savedstate/1.3.3",
-  "dest-filename": "savedstate-1.3.3.jar"
-},
-{
-  "type": "file",
-  "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate/1.3.3/savedstate-1.3.3.pom",
-  "sha512": "ac99417a6595126e2364271485d0a3c5821e62964d889b3b7438893abde3d7a2aa63178ed63ed3a99ff6bb9717ac308af99bfee1b9dbb48755be25cc14102bd0",
-  "dest": "./offline-repository/androidx/savedstate/savedstate/1.3.3",
-  "dest-filename": "savedstate-1.3.3.pom"
-},
-{
-  "type": "file",
-  "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate-compose-android/1.3.3/savedstate-compose-android-1.3.3.aar",
-  "sha512": "2c125d2b3eda7b27222c48913227c2cbc1bbae2e7ae3898e3b235c61bbcde25eb7c1e807f7667ffcdc7e18871817c3c33a694cc29ea0c51d327da89b2b3a40bc",
-  "dest": "./offline-repository/androidx/savedstate/savedstate-compose-android/1.3.3",
-  "dest-filename": "savedstate-compose-android-1.3.3.aar"
-},
-{
-  "type": "file",
-  "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate-compose-android/1.3.3/savedstate-compose-android-1.3.3.pom",
-  "sha512": "4376374070eb5803ec4a4c90942adac1ae3f23afb82fa895916df50c50481e20e4818fba4ecd3813bb845562b8dd1f4280acda08107eddd52c423188579c0495",
-  "dest": "./offline-repository/androidx/savedstate/savedstate-compose-android/1.3.3",
-  "dest-filename": "savedstate-compose-android-1.3.3.pom"
-},
-{
-  "type": "file",
-  "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate-android/1.3.3/savedstate-android-1.3.3.aar",
-  "sha512": "1bce5ce51ffcb6f83dd0850197476d6ae6ffa3a3cc3ef433fd1be71fe1cfe197473c1493b6572757bb43ebc4581c425187fe76cacef2fe4936bbafba8b7a5a12",
-  "dest": "./offline-repository/androidx/savedstate/savedstate-android/1.3.3",
-  "dest-filename": "savedstate-android-1.3.3.aar"
-},
-{
-  "type": "file",
-  "url": "https://dl.google.com/dl/android/maven2/androidx/savedstate/savedstate-android/1.3.3/savedstate-android-1.3.3.pom",
-  "sha512": "e48e7106ad4d604180f997f07370f2f56fdb41ea86cfb4dda5dd5ee2300b626c6aeccbc1713b90b9c2e072d41175c475dd358904a04e8cba9ebdae29d71639d1",
-  "dest": "./offline-repository/androidx/savedstate/savedstate-android/1.3.3",
-  "dest-filename": "savedstate-android-1.3.3.pom"
-},
-{
-  "type": "file",
-  "url": "https://dl.google.com/dl/android/maven2/androidx/compose/runtime/runtime-android/1.9.0/runtime-android-1.9.0.aar",
-  "sha512": "0e0dec647c9aa816fc6c66e1c8f94d599b84b67fee055c278d862b9fcb9f23c98dad28136cde342a49bab48da0b31c6baa0e2f1bdbedc4cac12ad59b683ff292",
-  "dest": "./offline-repository/androidx/compose/runtime/runtime-android/1.9.0",
-  "dest-filename": "runtime-android-1.9.0.aar"
-},
-{
-  "type": "file",
-  "url": "https://dl.google.com/dl/android/maven2/androidx/compose/runtime/runtime-android/1.9.0/runtime-android-1.9.0.pom",
-  "sha512": "e9ac4dd3a13f6f82dd65bc156105d6b6d62e9686af24d1cedf6f29a2b6df6ce405ba046d7515d67b7ca3927eed9951b65f3fdbeaed6831cafb1d198b384c27c1",
-  "dest": "./offline-repository/androidx/compose/runtime/runtime-android/1.9.0",
-  "dest-filename": "runtime-android-1.9.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://dl.google.com/dl/android/maven2/androidx/compose/runtime/runtime-annotation-android/1.9.0/runtime-annotation-android-1.9.0.aar",
-  "sha512": "44a154bc99b07358ba1ff47fc9fd46a50188b73d9544229583133efbf172b0c36dfbb96c4ba8198f33086611168307eef382d267d4496ed177834e49f45ab449",
-  "dest": "./offline-repository/androidx/compose/runtime/runtime-annotation-android/1.9.0",
-  "dest-filename": "runtime-annotation-android-1.9.0.aar"
-},
-{
-  "type": "file",
-  "url": "https://dl.google.com/dl/android/maven2/androidx/compose/runtime/runtime-annotation-android/1.9.0/runtime-annotation-android-1.9.0.pom",
-  "sha512": "8bda4e281b0e7b536de975a156313c31ffa0995fb0e564802a503059d2dffde12b54bc68d05d66a09ce673df70fb21f85fbf743479952cd8da6dc71355de9824",
-  "dest": "./offline-repository/androidx/compose/runtime/runtime-annotation-android/1.9.0",
-  "dest-filename": "runtime-annotation-android-1.9.0.pom"
-},
-{
-  "type": "file",
-  "url": "https://dl.google.com/dl/android/maven2/androidx/annotation/annotation-experimental/1.4.1/annotation-experimental-1.4.1.aar",
-  "sha512": "44d69a703fde230636b6d61064836d30e09ad651750fd1f2cb68308f2fca522294f8c5d131d0109f8d84fa80bffa18048b19d4ad4bdd75f1b36bd3c719146fc5",
-  "dest": "./offline-repository/androidx/annotation/annotation-experimental/1.4.1",
-  "dest-filename": "annotation-experimental-1.4.1.aar"
-},
-{
-  "type": "file",
-  "url": "https://dl.google.com/dl/android/maven2/androidx/annotation/annotation-experimental/1.4.1/annotation-experimental-1.4.1.pom",
-  "sha512": "884fa65a433f36da8dcef197150e5a7c61605753bf9bff7b6fbc3b29f8e4f18f4ad4ab364870a04cd064e47ccf8e7d78a6fc8907351bddff507e5ddbef6139c6",
-  "dest": "./offline-repository/androidx/annotation/annotation-experimental/1.4.1",
-  "dest-filename": "annotation-experimental-1.4.1.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-android/1.10.2/kotlinx-coroutines-android-1.10.2.jar",
-  "sha512": "b9d59f1ee3eb66d7014f9ae8c60c30bdfd04544a6f0d6b356b9a474402ef4284bec5dc2d51dd80cf4e24a98bfd6504f755ce995b961ff2ba8a18d01e626933f5",
-  "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-android/1.10.2",
-  "dest-filename": "kotlinx-coroutines-android-1.10.2.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-android/1.10.2/kotlinx-coroutines-android-1.10.2.pom",
-  "sha512": "5c607bf7f1f5da9c7991cb9b8075b0acb8f24065c89b1336f1a433361eb56044b9f2100b707d8e8a1dccdd0b0f0c741728a246d6ecf5b14d2f16916e9360725a",
-  "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-android/1.10.2",
-  "dest-filename": "kotlinx-coroutines-android-1.10.2.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/io/insert-koin/koin-core-viewmodel/4.1.1/koin-core-viewmodel-4.1.1.jar",
-  "sha512": "f00cdb29ceb6e01eda79d2867c5481307ed4093517143ad7e378f7f648179059829408d57cd9409a92034ffd0e402d2eb0bb77bf6f835cd7e33eacd62bf8feda",
-  "dest": "./offline-repository/io/insert-koin/koin-core-viewmodel/4.1.1",
-  "dest-filename": "koin-core-viewmodel-4.1.1.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/io/insert-koin/koin-core-viewmodel/4.1.1/koin-core-viewmodel-4.1.1.pom",
-  "sha512": "3ecdb867f5a7e6ba9992b0c16bc462c1c9b7ad0369885ce96496def7e8f636e8e057ae274709501d61646ecb62c9af780b77b88557f30d9d508ce07999759021",
-  "dest": "./offline-repository/io/insert-koin/koin-core-viewmodel/4.1.1",
-  "dest-filename": "koin-core-viewmodel-4.1.1.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel/2.9.3/lifecycle-viewmodel-2.9.3.jar",
-  "sha512": "302fd74b5e295ffddc37874157808886da6979910e184ef54f9c4ee9af0b6a5fd877da48f20a76d6f2ddde396daa2887f05f91bf6220cb88805e3860d316bc6b",
-  "dest": "./offline-repository/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel/2.9.3",
-  "dest-filename": "lifecycle-viewmodel-2.9.3.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel/2.9.3/lifecycle-viewmodel-2.9.3.pom",
-  "sha512": "a002ef819a52d400bb1d6a19ed334833c4e61628960374131494ab02dceda5d06f3f6510f7ce14a5029acbd6f4c7ebc5b3bb59a558a9545b7972dd10d4262084",
-  "dest": "./offline-repository/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel/2.9.3",
-  "dest-filename": "lifecycle-viewmodel-2.9.3.pom"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.9.3/lifecycle-viewmodel-savedstate-2.9.3.jar",
-  "sha512": "fb3563f07a6e7d85f96a917edb9aeff4d08635b598514097a4b65289543089ae936eb8f019a0208e4c155ffa38a4a3f805741348b6688f8ed94a0b2336feaad5",
-  "dest": "./offline-repository/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.9.3",
-  "dest-filename": "lifecycle-viewmodel-savedstate-2.9.3.jar"
-},
-{
-  "type": "file",
-  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.9.3/lifecycle-viewmodel-savedstate-2.9.3.pom",
-  "sha512": "bd1076f4715f2539fe89fd67a4e549d8e0f5a58f82851f709724a8d4bfa53f4f7dfdf5c71c6de5a9e8fb99f39dad4b0000c8fc5f003f6bb0b6dfea23a69f8b44",
-  "dest": "./offline-repository/org/jetbrains/androidx/lifecycle/lifecycle-viewmodel-savedstate/2.9.3",
-  "dest-filename": "lifecycle-viewmodel-savedstate-2.9.3.pom"
-}
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-geometry/1.9.1/ui-geometry-1.9.1.pom",
+    "sha512": "213f44f02bd9dc08eb4b279b296280781785f8f4e442bf4a7c84154ff5e713a846fcd026cbd0ebeed0196eb93d921771c772977edea9363ef08f47a1115aa07b",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-geometry/1.9.1",
+    "dest-filename": "ui-geometry-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-geometry-desktop/1.9.1/ui-geometry-desktop-1.9.1.jar",
+    "sha512": "663c2a97b4fbcc90220b78ac688c88e3a22d65043497fde5e12441fb39ea03564da996b981104b2d4c643a8d7b13603914053641b8562e08186db4a13a4f6f8b",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-geometry-desktop/1.9.1",
+    "dest-filename": "ui-geometry-desktop-1.9.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-geometry-desktop/1.9.1/ui-geometry-desktop-1.9.1.pom",
+    "sha512": "cd18ae0f489cb15c9d1f59049375ec757b795db91287e36c7d91ab7ff8514271e6112c0b20c2702ca994bf4b07624ef61b9eb62b6aa63767415bd12cbff7b7ff",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-geometry-desktop/1.9.1",
+    "dest-filename": "ui-geometry-desktop-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-util/1.9.1/ui-util-1.9.1.pom",
+    "sha512": "a61efe6bf857223e373c07d47363727fb7cc444f02035c59223976cd0b92d7b246a7bc14654bb5603b087fb0fa537f3d3f8ec01f29ce9186efbb78955b030c2e",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-util/1.9.1",
+    "dest-filename": "ui-util-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-util-desktop/1.9.1/ui-util-desktop-1.9.1.jar",
+    "sha512": "c942bbc9dde42cb69eef783d7dedfa9b90b58eb7c559bc76705a6363b62013da566892c5915d4b5e5a3f3aa322fef2d62ef4eff75f8fd5d4019b73b9e2d12729",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-util-desktop/1.9.1",
+    "dest-filename": "ui-util-desktop-1.9.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/ui/ui-util-desktop/1.9.1/ui-util-desktop-1.9.1.pom",
+    "sha512": "cff21cd4c3ef80ac33f323308faec2c598b70c5ba543324f2b767d18356552914107987a7465219f396d524fe374801b07645057c22cfc2a918e68ff9e21cc77",
+    "dest": "./offline-repository/org/jetbrains/compose/ui/ui-util-desktop/1.9.1",
+    "dest-filename": "ui-util-desktop-1.9.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/com.google.devtools.ksp.gradle.plugin/2.3.4/com.google.devtools.ksp.gradle.plugin-2.3.4.pom",
+    "sha512": "ad62bd0cb38a0b14772218441c7b33210d86b97c9549bbec5f185a2b4f9bd3191d39717fa738deaea480e8e81c31d7f12c2e0ad8644ec4929b1ae4c017b8dd27",
+    "dest": "./offline-repository/com/google/devtools/ksp/com.google.devtools.ksp.gradle.plugin/2.3.4",
+    "dest-filename": "com.google.devtools.ksp.gradle.plugin-2.3.4.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.4/symbol-processing-gradle-plugin-2.3.4.jar",
+    "sha512": "fe57d5f50d0625e055a1e7aed0c9a3cf236dc142598584c568e99126e4a575ed0af2989aafcf3c855b773687632a9290113d9ca3226874e56c74c3da7a0750da",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.4",
+    "dest-filename": "symbol-processing-gradle-plugin-2.3.4.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.4/symbol-processing-gradle-plugin-2.3.4.pom",
+    "sha512": "54910957fafadcf00bc3e75f1f80578e8f6c14f7ad0287b70d463d2c6313bfe34c20421e8fd1d3d0270208d8ac2b6e2b0e712ca00daeaba137e6f20c00c89500",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.4",
+    "dest-filename": "symbol-processing-gradle-plugin-2.3.4.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.4/symbol-processing-gradle-plugin-2.3.4.module",
+    "sha512": "ecf2b86d57c33577d97bcfcf30cfe92a9e7cf6282f6e4c756135d4ea966fc89456d3b6afe504d8e250156c38213e8f76f7cee0b436663cf913410a183f0069e9",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.4",
+    "dest-filename": "symbol-processing-gradle-plugin-2.3.4.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-api/2.3.4/symbol-processing-api-2.3.4.jar",
+    "sha512": "c72ae0d465aa7b931b8e778205eb73a05df12c9fc0658ecbf74fee0a5b14f5aa1c0db8ed61a400d21e171898a0aa75540c2e75367e831c30939aa4a2a7999226",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.4",
+    "dest-filename": "symbol-processing-api-2.3.4.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-api/2.3.4/symbol-processing-api-2.3.4.pom",
+    "sha512": "e5680908daadc44b732ae93b2ea08e8e54dfe518da08ac270fdde98c6bedfb89a2406237bfb16b834c91450baf0ddf66db613b5ef316ad4e94ba1f3ff3dce5fa",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.4",
+    "dest-filename": "symbol-processing-api-2.3.4.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-api/2.3.4/symbol-processing-api-2.3.4.module",
+    "sha512": "85a74233a1ca68e805dc8edfc3c0e9a66c652b3734ee0768fd27423ec526052a4f84dccd0e77a23d27c770e0a4e0bf3fd1f4f524b81485e33a4a7d11e7e52b50",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.4",
+    "dest-filename": "symbol-processing-api-2.3.4.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.4/symbol-processing-common-deps-2.3.4.jar",
+    "sha512": "d689128336ee69d8361b4c7532c9b6944d99a12ff20c78b86f8270ce9a5973196b1bddab93b8c5ed89dc92211a800f5827adaa3435b8ea1d11b67977a59d4114",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.4",
+    "dest-filename": "symbol-processing-common-deps-2.3.4.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.4/symbol-processing-common-deps-2.3.4.pom",
+    "sha512": "c3568f3cebfb8f94c6c75aa2e625f6e586f16e4874fbb18dd51477068d272c12162348e0176bcbc985a1199bec034491212bea2a575be77119c546b5d1110fb7",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.4",
+    "dest-filename": "symbol-processing-common-deps-2.3.4.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.4/symbol-processing-common-deps-2.3.4.module",
+    "sha512": "3796c5005a469aa34b3eb377b5fd638e3aabd848aec931a3228eceef8df57fc1039a5467355a875b66850cd23a299b011450ec038b2a8a9644a0ca022ec531f3",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.4",
+    "dest-filename": "symbol-processing-common-deps-2.3.4.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core/1.9.0/kotlinx-serialization-core-1.9.0.jar",
+    "sha512": "568773de093d78be9afa19ec0c27d80d43e436be93db0d401a18869c833eb4757cddd42341fe509e5dc2f73d7cc6a265e06bcd134f08a0c2b676241453d2ba8e",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core/1.9.0",
+    "dest-filename": "kotlinx-serialization-core-1.9.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core/1.9.0/kotlinx-serialization-core-1.9.0.pom",
+    "sha512": "44d0860121fc35b62e781e925d0185847673b76a5997f5f34f65349f9685040dcdc6cd400b6c16782c5511fafed37520797bd8aaa008cfcdd594b625f878da9e",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core/1.9.0",
+    "dest-filename": "kotlinx-serialization-core-1.9.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core/1.9.0/kotlinx-serialization-core-1.9.0.module",
+    "sha512": "b363db2d7a795b7404100e4b38fa530a12f5fbc81c8f32b8284606d62226704b17cc75a18b14bd5191699b4b83336d1eefd97dd3523955a7c85c9bf16579c4ba",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core/1.9.0",
+    "dest-filename": "kotlinx-serialization-core-1.9.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core/1.9.0/../../kotlinx-serialization-core-jvm/1.9.0/kotlinx-serialization-core-jvm-1.9.0.module",
+    "sha512": "7b8ca98f9c0d7f38e1e82cdf0e0d8796441bdee2701469220c25c4921e6785856bdef1c5ffc8d8d6b11a3dc14ceb9df35653bae5a35785dace7444d6f968caad",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core/1.9.0/../../kotlinx-serialization-core-jvm/1.9.0",
+    "dest-filename": "kotlinx-serialization-core-jvm-1.9.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.9.0/kotlinx-serialization-core-jvm-1.9.0.jar",
+    "sha512": "39d4fe619ab52edb20b12ea6aea6c046a14f88713c9e367318d5020c86f712bbe17a0a4fa552563693eca21ab478cebe4f394cd8d9cadbc1d9d77885c84ff29f",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.9.0",
+    "dest-filename": "kotlinx-serialization-core-jvm-1.9.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.9.0/kotlinx-serialization-core-jvm-1.9.0.pom",
+    "sha512": "227bc8cdd89656eead46e16737dc47fea6a5370db9530bfb5dc7f94d008e7e5ebf481c086a7919bde82b02bb5269e8dbef8b590333d4099f5e8257c2c9b2e0af",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.9.0",
+    "dest-filename": "kotlinx-serialization-core-jvm-1.9.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.9.0/kotlinx-serialization-core-jvm-1.9.0.module",
+    "sha512": "7b8ca98f9c0d7f38e1e82cdf0e0d8796441bdee2701469220c25c4921e6785856bdef1c5ffc8d8d6b11a3dc14ceb9df35653bae5a35785dace7444d6f968caad",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-core-jvm/1.9.0",
+    "dest-filename": "kotlinx-serialization-core-jvm-1.9.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-json/1.9.0/kotlinx-serialization-json-1.9.0.jar",
+    "sha512": "45ad0c69d98f2bdb69406e64d058516a42f3bafa77a0b53ce706af36ab460e4392f6547ca0e78ff3d348705c18820f1402764d814c23c1300e617f134891e68c",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-json/1.9.0",
+    "dest-filename": "kotlinx-serialization-json-1.9.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-json/1.9.0/kotlinx-serialization-json-1.9.0.pom",
+    "sha512": "fee046e7aab665b9024548ef73db4fc876cd0eb640f50fd6dd80edad72b7173c84b5af6ebe1fbd97570aa21face8081260a770950a926fdef5f6c353f20309ef",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-json/1.9.0",
+    "dest-filename": "kotlinx-serialization-json-1.9.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-json/1.9.0/kotlinx-serialization-json-1.9.0.module",
+    "sha512": "c52da640763cb754a4d393fc1e0a5b9828815719b0e6f60b1f9e2ffc5724cd0dc00121e2e8a3d5a195bf17453f7906c884cbfed4e294c3753f886b1cdb192d76",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-json/1.9.0",
+    "dest-filename": "kotlinx-serialization-json-1.9.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-json/1.9.0/../../kotlinx-serialization-json-jvm/1.9.0/kotlinx-serialization-json-jvm-1.9.0.module",
+    "sha512": "c2b78a12054fc0dd974e8ba4b62f33c909b7033cf1ec5b408deb5a96e4d919ca6dbb6e726614e16f20e9126fc7201bc67c1235f7840da79ae8a417002dbcbee4",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-json/1.9.0/../../kotlinx-serialization-json-jvm/1.9.0",
+    "dest-filename": "kotlinx-serialization-json-jvm-1.9.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.9.0/kotlinx-serialization-json-jvm-1.9.0.jar",
+    "sha512": "a2abfcf5751c4c5c5cc0f37e9200794f22d0c28daa76a6a8edfed4bebd8375e2e49b263671ef86b4ec2925079970b8424cf3971f47eae03914f5b3cee48459fa",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.9.0",
+    "dest-filename": "kotlinx-serialization-json-jvm-1.9.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.9.0/kotlinx-serialization-json-jvm-1.9.0.pom",
+    "sha512": "87399da85b2ce8f0229f038955adf4a60fb83b27cb33f5dd572426ccae07ba6b4703735827f2d2359b32115dd8ce1ff9434427244bd1f346bb2f23c84a05ac29",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.9.0",
+    "dest-filename": "kotlinx-serialization-json-jvm-1.9.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.9.0/kotlinx-serialization-json-jvm-1.9.0.module",
+    "sha512": "c2b78a12054fc0dd974e8ba4b62f33c909b7033cf1ec5b408deb5a96e4d919ca6dbb6e726614e16f20e9126fc7201bc67c1235f7840da79ae8a417002dbcbee4",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-serialization-json-jvm/1.9.0",
+    "dest-filename": "kotlinx-serialization-json-jvm-1.9.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.5/symbol-processing-aa-embeddable-2.3.5.jar",
+    "sha512": "f28079a49741360b3e12bd8ab8dffb59daf141bdf28d0ac4c61dfe764f643eed8e9f58ee9dba05962dfce36428114f183190f739ffc5a7c4180c4fec5d4f48a6",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.5",
+    "dest-filename": "symbol-processing-aa-embeddable-2.3.5.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.5/symbol-processing-aa-embeddable-2.3.5.pom",
+    "sha512": "d5c354567de5ed2d8adaa3696bca72d8ccab632a636aa3783d7ef06cd34afef51bd9ef2bb24e6934839c074e522a01782f276fa0c439029d8914ca7628d4c49f",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.5",
+    "dest-filename": "symbol-processing-aa-embeddable-2.3.5.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/intellij/deps/kotlinx/kotlinx-coroutines-core-jvm/1.8.0-intellij-14/kotlinx-coroutines-core-jvm-1.8.0-intellij-14.jar",
+    "sha512": "107c3b45de84e4b34bc0a636bac86739fccbbe924f54b1d4819fae925f38dca5942608a32d48e685072c1d8e30c38b8789c36c3757388dccdcbe906fa9680043",
+    "dest": "./offline-repository/org/jetbrains/intellij/deps/kotlinx/kotlinx-coroutines-core-jvm/1.8.0-intellij-14",
+    "dest-filename": "kotlinx-coroutines-core-jvm-1.8.0-intellij-14.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/intellij/deps/kotlinx/kotlinx-coroutines-core-jvm/1.8.0-intellij-14/kotlinx-coroutines-core-jvm-1.8.0-intellij-14.pom",
+    "sha512": "8b7e589c44a80c789c888bb74096a1a9a4af330b69394966f7685dbd29e7285452700e3bb86b68c6b975a686dd592493b64a8eeb3529fd5f4861a6387adf9eaa",
+    "dest": "./offline-repository/org/jetbrains/intellij/deps/kotlinx/kotlinx-coroutines-core-jvm/1.8.0-intellij-14",
+    "dest-filename": "kotlinx-coroutines-core-jvm-1.8.0-intellij-14.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/intellij/deps/kotlinx/kotlinx-coroutines-core-jvm/1.8.0-intellij-14/kotlinx-coroutines-core-jvm-1.8.0-intellij-14.module",
+    "sha512": "0a1fc0e504261e40059d411b657bab76eccb9f2f5ab424027c0db3da9cb14722119c24e33ef8effb84f528a88ecace10ba779c5ca67e37c008842df780a14105",
+    "dest": "./offline-repository/org/jetbrains/intellij/deps/kotlinx/kotlinx-coroutines-core-jvm/1.8.0-intellij-14",
+    "dest-filename": "kotlinx-coroutines-core-jvm-1.8.0-intellij-14.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/intellij/deps/kotlinx/kotlinx-coroutines-bom/1.8.0-intellij-14/kotlinx-coroutines-bom-1.8.0-intellij-14.pom",
+    "sha512": "5e9e884c94fb9b8209d246c2d14ccaaac79b3e560fe5ed8a54a44d9e64cb067e12451fe2016bf3a312d01e489407c2848989c089392eeae41fc3cff319c0ce07",
+    "dest": "./offline-repository/org/jetbrains/intellij/deps/kotlinx/kotlinx-coroutines-bom/1.8.0-intellij-14",
+    "dest-filename": "kotlinx-coroutines-bom-1.8.0-intellij-14.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth/3.4.0/ktor-client-auth-3.4.0.jar",
+    "sha512": "fefa239295dcea6c04f4cadda9b13b0aa65476d6cb7eb0f0d43a4d38ad8fadb37a83cbf838ecd7925656869ded2ab9748794ffbf49e5821d7206fc2dd7bfcd8f",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth/3.4.0",
+    "dest-filename": "ktor-client-auth-3.4.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth/3.4.0/ktor-client-auth-3.4.0.pom",
+    "sha512": "ceeaf8fb80588b26d743c7b5663e5e65fa27b2a1a7668a34ed71d3e884b2038597ad8518aa05785dc5a221348c52e17610d68c83373ff91c03350bb4072284cd",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth/3.4.0",
+    "dest-filename": "ktor-client-auth-3.4.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth/3.4.0/ktor-client-auth-3.4.0.module",
+    "sha512": "015a315c9df50c6b01b09b8ffdc76abfb369f39af1d9d978ac1fb0e025edcc11e7332a41988d0fecce47076195e6e1845d44638f173f7525f12a7c1ee55e464b",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth/3.4.0",
+    "dest-filename": "ktor-client-auth-3.4.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth/3.4.0/../../ktor-client-auth-jvm/3.4.0/ktor-client-auth-jvm-3.4.0.module",
+    "sha512": "eed9ee1545c545ed8dc50e575c57abb2f2de112730aba51b44123d900f90f45a876c4a12fb345d69d651b190b5115fa7cfd5c57f56417e6f012c6eb24b632b45",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth/3.4.0/../../ktor-client-auth-jvm/3.4.0",
+    "dest-filename": "ktor-client-auth-jvm-3.4.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth-jvm/3.4.0/ktor-client-auth-jvm-3.4.0.jar",
+    "sha512": "d3020d1b7ca4acb849ddbe2e3e9b560da91b5711e589c7e8fd61a98448677d594056fa10baa59f2914e9f24370403f295592254acf3f14583ccf9e39943cb505",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth-jvm/3.4.0",
+    "dest-filename": "ktor-client-auth-jvm-3.4.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth-jvm/3.4.0/ktor-client-auth-jvm-3.4.0.pom",
+    "sha512": "8a113d2c2d405e7f629a2ec5cbdb08346080760383a77fe99bc30b943bf5225a9d0b3b517875f3b1e305e7d478948a1af374ae34caa775475580f0e7053b1286",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth-jvm/3.4.0",
+    "dest-filename": "ktor-client-auth-jvm-3.4.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-auth-jvm/3.4.0/ktor-client-auth-jvm-3.4.0.module",
+    "sha512": "eed9ee1545c545ed8dc50e575c57abb2f2de112730aba51b44123d900f90f45a876c4a12fb345d69d651b190b5115fa7cfd5c57f56417e6f012c6eb24b632b45",
+    "dest": "./offline-repository/io/ktor/ktor-client-auth-jvm/3.4.0",
+    "dest-filename": "ktor-client-auth-jvm-3.4.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.2/desktop-jvm-linux-arm64-1.10.2.pom",
+    "sha512": "177c0a9e4567ca1f59b54830e6e12819a0a1307b9b4194f38b8dcfb339ee5034a621f1a64ee78f779cc0cb21d3feda898a8940b57772f849df8430ee31e9a858",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.2",
+    "dest-filename": "desktop-jvm-linux-arm64-1.10.2.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.0-beta02/desktop-jvm-linux-arm64-1.10.0-beta02.pom",
+    "sha512": "68001c33ba98ad323d8730f375bc97400860d2afe440518febb4d98e97e73ac9d88f75e2bbc0415e3bb99179569158bc6443c1c39e2dc4e932aa3b5b6087a1fc",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.0-beta02",
+    "dest-filename": "desktop-jvm-linux-arm64-1.10.0-beta02.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.0-rc01/desktop-jvm-linux-arm64-1.10.0-rc01.pom",
+    "sha512": "318adb52120c9c47c849015c92bf8cf1cb5136e24eb0870e3a304a550e74de792302c255e8aafbbd12217b0c7a7d3141b145a553d90c1095ec8809fffbf9f13c",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.10.0-rc01",
+    "dest-filename": "desktop-jvm-linux-arm64-1.10.0-rc01.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.37.4/skiko-awt-runtime-linux-arm64-0.9.37.4.jar",
+    "sha512": "cf422e96364e3813fa0c5289cb1ece690a461d516f0f20f5756adae02937e5bb314d5065f5c1d5776a42618ea01513531cc1a8f10d4d9e1062135006b12523ac",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.37.4",
+    "dest-filename": "skiko-awt-runtime-linux-arm64-0.9.37.4.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.37.4/skiko-awt-runtime-linux-arm64-0.9.37.4.pom",
+    "sha512": "e719b216bb4210f545c902a8fbc55ae8d44e6798263e17ea5088cb823556a4bc6ff0db5f251c8b2cef7920bb6d84f832c0fed718010177a1987db09c756829d7",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.37.4",
+    "dest-filename": "skiko-awt-runtime-linux-arm64-0.9.37.4.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.30/skiko-awt-runtime-linux-arm64-0.9.30.jar",
+    "sha512": "21cf6cda2ba7572c6f19b79a1bac5f0f83afccbac34488208f5259cadd76c8ddc8fcd77836d88c5b29d3439ffcf3cc51aa60ea7811de3900a3d6ea11e7bf0773",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.30",
+    "dest-filename": "skiko-awt-runtime-linux-arm64-0.9.30.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.30/skiko-awt-runtime-linux-arm64-0.9.30.pom",
+    "sha512": "d2212687244e60026a1906edff93bb93668d1b6d7ea5c7863ed12b6b62b36486a08a37d77842c68cea27c2142182fdce9b75e21a1262eb581d4c68fd24d6118d",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.30",
+    "dest-filename": "skiko-awt-runtime-linux-arm64-0.9.30.pom"
+  }
 ]
