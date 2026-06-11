@@ -1041,5 +1041,166 @@
     "sha512": "d2212687244e60026a1906edff93bb93668d1b6d7ea5c7863ed12b6b62b36486a08a37d77842c68cea27c2142182fdce9b75e21a1262eb581d4c68fd24d6118d",
     "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.9.30",
     "dest-filename": "skiko-awt-runtime-linux-arm64-0.9.30.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.11.0/desktop-jvm-linux-arm64-1.11.0.pom",
+    "sha512": "9e7d1fca05ee065f5af4740227ffae0aec7e194b7f2bd13eff9f0c28880cf1ff1e34e0481d563968a0dbdc0cb09dab99a883c40dce7788b1d8f10110e1d653fc",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.11.0",
+    "dest-filename": "desktop-jvm-linux-arm64-1.11.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop/1.11.0/desktop-1.11.0.jar",
+    "sha512": "abc1674a29b913a41bc175769124784955f323143480b2e9cd682ef41dcdb98195ad44ac82c929bd50e86b0d53417de34a134afc2a1c1f51f3e66dd97539592f",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop/1.11.0",
+    "dest-filename": "desktop-1.11.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop/1.11.0/desktop-1.11.0.pom",
+    "sha512": "4f5f0052748532f37f5537f3ae2051ada17dd182ad7307752453720e6e7aa5c14586cd9eb671ec617d875c8e35ecef0e88ab108a0ef7e28e9b3db0d69776c257",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop/1.11.0",
+    "dest-filename": "desktop-1.11.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.144.6/skiko-awt-runtime-linux-arm64-0.144.6.jar",
+    "sha512": "c5dd1d3733690a765ea252457f4bdb78cf08fad9e02e86fe030a01cc256df5e3b0cdcf4bb985c3085609a3666300015b9b0e2b1bc0b0dabac20f4d92c799e741",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.144.6",
+    "dest-filename": "skiko-awt-runtime-linux-arm64-0.144.6.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.144.6/skiko-awt-runtime-linux-arm64-0.144.6.pom",
+    "sha512": "488c12bac4c74ba301952d789851b64a2c25db200a4cfaa6d8f5fd9f93aaf3832d9b5039e8094b63bafa41e88cd6ecceb6c4fb8aa6a848710d9ce18580f2797f",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.144.6",
+    "dest-filename": "skiko-awt-runtime-linux-arm64-0.144.6.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/foundation/foundation/1.11.0-beta03/foundation-1.11.0-beta03.jar",
+    "sha512": "d25b4b6d0163e295af5e19a9f195200e8271f8145a422dd6add2cabdee77528a9ba6b7d286c6e62ca77bd2648e0261549f1ef4f75630404745d60ce9e9cf4cae",
+    "dest": "./offline-repository/org/jetbrains/compose/foundation/foundation/1.11.0-beta03",
+    "dest-filename": "foundation-1.11.0-beta03.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/foundation/foundation/1.11.0-beta03/foundation-1.11.0-beta03.pom",
+    "sha512": "ad1957e0ce03e57e392965fc734e3292287cac585b85afdb7f1cf71c257f27dcb695c8d24c233edeea6962d8c66aef06ea61f617319240e7ca8540651a992cf2",
+    "dest": "./offline-repository/org/jetbrains/compose/foundation/foundation/1.11.0-beta03",
+    "dest-filename": "foundation-1.11.0-beta03.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/foundation/foundation/1.11.0-beta03/foundation-1.11.0-beta03.module",
+    "sha512": "e2c4fc15867d399beede831a7d999afa0ee275c3ef3a873662232eb4beb24217bdd7bafa70bb372df05f326af27d9addb9d7def1d4c3d7d64b2ae49e287f0bdb",
+    "dest": "./offline-repository/org/jetbrains/compose/foundation/foundation/1.11.0-beta03",
+    "dest-filename": "foundation-1.11.0-beta03.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/foundation/foundation-desktop/1.11.0-beta03/foundation-desktop-1.11.0-beta03.jar",
+    "sha512": "76302413b544ccc900130f7d2fab5cdf031b3a253c071c962289b90176137a766b4d1af4e1fdc60d3f39599bf48fb3917cf07c58da25a7b67687751aebc9e963",
+    "dest": "./offline-repository/org/jetbrains/compose/foundation/foundation-desktop/1.11.0-beta03",
+    "dest-filename": "foundation-desktop-1.11.0-beta03.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/foundation/foundation-desktop/1.11.0-beta03/foundation-desktop-1.11.0-beta03.pom",
+    "sha512": "2c65b06636ee075835041dc2998ccc063b7755faf39b5dbe627f1f4588df01d350453375e63017137fa5caa4b2b1df348ade48278b0da170ec0a600db502188c",
+    "dest": "./offline-repository/org/jetbrains/compose/foundation/foundation-desktop/1.11.0-beta03",
+    "dest-filename": "foundation-desktop-1.11.0-beta03.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/foundation/foundation-desktop/1.11.0-beta03/foundation-desktop-1.11.0-beta03.module",
+    "sha512": "1813e7a052ead5643bd31c573196c2eeba061e3f4fc64b01e0d21e14853a60dc8c18f80b96cb1bbf6a86fb9e56bd6c46037ce438a5dae7d9a4a4aa0146474522",
+    "dest": "./offline-repository/org/jetbrains/compose/foundation/foundation-desktop/1.11.0-beta03",
+    "dest-filename": "foundation-desktop-1.11.0-beta03.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/animation/animation/1.10.0/animation-1.10.0.jar",
+    "sha512": "0176902d5369c64ce3a8bab778fed19a5a8c3002f0f1e618df4976d5c4fb6cd0500c0b605f0db12d66d74910d09c614dc92da4b94c12cfeaa98a8b533f3f543b",
+    "dest": "./offline-repository/org/jetbrains/compose/animation/animation/1.10.0",
+    "dest-filename": "animation-1.10.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/animation/animation/1.10.0/animation-1.10.0.pom",
+    "sha512": "301d2b5906f6569fe7789b487cd3d69c8e8d9062e374fcb531127a9c459e4bdc034daeb6b287f2d0ed79976a75112a37d48b7f07bbfdd6a411c05288b3303025",
+    "dest": "./offline-repository/org/jetbrains/compose/animation/animation/1.10.0",
+    "dest-filename": "animation-1.10.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/animation/animation/1.10.0/animation-1.10.0.module",
+    "sha512": "e879dfdbde7711dd4c8120ce2f5ad854dd1c67de555f416fd914670bc3e6e2aeaff6e515eb2cbade36eea1db02556a38a9e5035cbd1621e0c8360c0d91f916f6",
+    "dest": "./offline-repository/org/jetbrains/compose/animation/animation/1.10.0",
+    "dest-filename": "animation-1.10.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/animation/animation-desktop/1.10.0/animation-desktop-1.10.0.jar",
+    "sha512": "b3524a8f5e1f3a85324633f7b0a76195e83b7de3745827a1e3f98d9611c92729d86924ddc1e777e56286e180331511250ea36254ec0ca39aadcf95de34bf1294",
+    "dest": "./offline-repository/org/jetbrains/compose/animation/animation-desktop/1.10.0",
+    "dest-filename": "animation-desktop-1.10.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/animation/animation-desktop/1.10.0/animation-desktop-1.10.0.pom",
+    "sha512": "2f3743538c85ef3a66b794677622daea0aef321fb4a5ed96793bfdde61b343e96fc098cd0a1a3cb6b1e8492efaf57fed14870ed1762077b2b2367400d86333b8",
+    "dest": "./offline-repository/org/jetbrains/compose/animation/animation-desktop/1.10.0",
+    "dest-filename": "animation-desktop-1.10.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/animation/animation-desktop/1.10.0/animation-desktop-1.10.0.module",
+    "sha512": "fd4fa3cbb096dd58cbadb6ff99f468a0d89c5e81cf237f8170794490999b4d08d9ee7e610ba1ca77eecd600518e876631d31143be23cfcedd49fdc758605c551",
+    "dest": "./offline-repository/org/jetbrains/compose/animation/animation-desktop/1.10.0",
+    "dest-filename": "animation-desktop-1.10.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/animation/animation-core/1.10.0/animation-core-1.10.0.jar",
+    "sha512": "97d03b2b0f1f13529bdefac67ff3737c56dfa111629e6e0272344b070c2c23618b990f3e1edb75c929f01701356c5b08b48d57823b86b7e5480fe91df7493783",
+    "dest": "./offline-repository/org/jetbrains/compose/animation/animation-core/1.10.0",
+    "dest-filename": "animation-core-1.10.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/animation/animation-core/1.10.0/animation-core-1.10.0.pom",
+    "sha512": "16253a98ede7cbc3aaf835311bd7c46c6b08dce10853583663d3b05196ae9daa424529a7c3ca6fe36eeb1d58d4b1e36b7972c1b44c27043bf1a1e58f86259000",
+    "dest": "./offline-repository/org/jetbrains/compose/animation/animation-core/1.10.0",
+    "dest-filename": "animation-core-1.10.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/animation/animation-core/1.10.0/animation-core-1.10.0.module",
+    "sha512": "9c203da86adc513d63bfc5b9a107b88f38ff9d111c88aac5008ab4ae2cce9f915a007d0ba1f590fbdbd7cfaa5cfc2dfe2e69e05a317b4828f15b9b38be515cbb",
+    "dest": "./offline-repository/org/jetbrains/compose/animation/animation-core/1.10.0",
+    "dest-filename": "animation-core-1.10.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/animation/animation-core-desktop/1.10.0/animation-core-desktop-1.10.0.jar",
+    "sha512": "da7b26c9f354c46c8f352c49cf4bdab0248baa2378372460aaf19e235b223a724e402e886aced6ae9a4f4a1390654850d6a05f2e4a94afee9018fccd7f10e848",
+    "dest": "./offline-repository/org/jetbrains/compose/animation/animation-core-desktop/1.10.0",
+    "dest-filename": "animation-core-desktop-1.10.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/animation/animation-core-desktop/1.10.0/animation-core-desktop-1.10.0.pom",
+    "sha512": "f228a8d62a48c97b923d8d58a4a2e86c6c70158eabbf63612e6a992a8c45129165fd742130df9ac0f2238b384829e6616fe4349fef641367dd0255960c199c99",
+    "dest": "./offline-repository/org/jetbrains/compose/animation/animation-core-desktop/1.10.0",
+    "dest-filename": "animation-core-desktop-1.10.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/animation/animation-core-desktop/1.10.0/animation-core-desktop-1.10.0.module",
+    "sha512": "c2951ce125a33b0424884a14a75837a6811bf56860775178f24aa0859eb3624da9bbbe73253a277c191488869f418f8e97bcd7198afbb2351685783c24ea74ae",
+    "dest": "./offline-repository/org/jetbrains/compose/animation/animation-core-desktop/1.10.0",
+    "dest-filename": "animation-core-desktop-1.10.0.module"
   }
 ]
