@@ -1577,6 +1577,20 @@
 },
 {
   "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.9/symbol-processing-aa-embeddable-2.3.9.jar",
+  "sha512": "473b1adc83e438394c58dbeab196de4c113afe8c6882f60ac9f4445642c77b73a31837a07e0ab81a9a3b42b16301b997a0b2424135e76ee125bb8e811193d76f",
+  "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.9",
+  "dest-filename": "symbol-processing-aa-embeddable-2.3.9.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.9/symbol-processing-aa-embeddable-2.3.9.pom",
+  "sha512": "8a34995d175ec02dd8eee1be49c160e8068e0e7b6a5b2b2271bfcdf8989483ee3519c7daadc5ec56abd05ec123247c582bc50d59c84b36153ca21c60b97af78d",
+  "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.9",
+  "dest-filename": "symbol-processing-aa-embeddable-2.3.9.pom"
+},
+{
+  "type": "file",
   "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.10.2/kotlinx-coroutines-core-jvm-1.10.2.jar",
   "sha512": "238fd451f80e222480c880dd8bcfd76e9203b6833a0306a55483b3f9eb0b25651242a3e7beaf7510d5e39922f1d3d987fca79468d945eb35b0f07156a7887ba0",
   "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.10.2",
@@ -1707,5 +1721,75 @@
   "sha512": "3d29a37b387ce5809b06cdc619056f2849379c144e39987f45076b1f214dc4c0d5714d75f6ccf81ea97fe26876de4730da7d52066a12691fc3c4697d4e6366bc",
   "dest": "./offline-repository/androidx/lifecycle/lifecycle-runtime-desktop/2.9.4",
   "dest-filename": "lifecycle-runtime-desktop-2.9.4.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/4.12.0/okhttp-4.12.0.pom",
+  "sha512": "bef467d5298848782c944facac82e3f1b043675acfd3b62912a89de3a82778c0d0fe7dc623e4f324a90c5d4b390ed66bb18e2d71739e1dac99acdb9a848449fc",
+  "dest": "./offline-repository/com/squareup/okhttp3/okhttp/4.12.0",
+  "dest-filename": "okhttp-4.12.0.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/4.12.0/okhttp-4.12.0.module",
+  "sha512": "650297e5804bfbd9878179cfd3e3538bb4e1fc0cc3f9b4690b36853d6c8942b27c429cf67d076c26c4757c22203bd891576d4343760dc0898276ef0b9d3192a0",
+  "dest": "./offline-repository/com/squareup/okhttp3/okhttp/4.12.0",
+  "dest-filename": "okhttp-4.12.0.module"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/4.12.0/okhttp-4.12.0.jar",
+  "sha512": "da63f77c1cae377b40f6fd00cfbbe8177e760e4e622ae2c66860fffd3bbbdf605c8e8e415762e9263445b2289ee834100237c63949f2e01c30b6704315dd8f7b",
+  "dest": "./offline-repository/com/squareup/okhttp3/okhttp/4.12.0",
+  "dest-filename": "okhttp-4.12.0.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.21/kotlin-stdlib-jdk8-1.8.21.pom",
+  "sha512": "24d9dc63355bee04f6f69d68c27ff5aa1a0b6864cb9280d32824d19092e160750880d0405a156d31c38427ff5cd04265b30d646dfbfae503691f04eb9d9a0358",
+  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.21",
+  "dest-filename": "kotlin-stdlib-jdk8-1.8.21.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.21/kotlin-stdlib-jdk8-1.8.21.jar",
+  "sha512": "b1a38d6a9d1d7c4cb18ddeba63201cb3a5de101e5a32fd32edcafc3f0350813ee97fd13d3f81bb61a4c1eefe0c02b0349bd07301d682f342ca5caed17f709f34",
+  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.21",
+  "dest-filename": "kotlin-stdlib-jdk8-1.8.21.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.21/kotlin-stdlib-jdk7-1.8.21.pom",
+  "sha512": "adfcb397c23e9ed89f272a2321de51689d86ce359b54d822dd5983ad5efc57216606f472e4868727e0038d061d0934cb27bd8210b94cca944b541a97976852b8",
+  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.21",
+  "dest-filename": "kotlin-stdlib-jdk7-1.8.21.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.21/kotlin-stdlib-jdk7-1.8.21.jar",
+  "sha512": "0ff5d13438c179cfd3a658ae3f6e2535d11651ecf4e89d809882704d111c91af859de9d99eaa3c4b45103524b052614c0a084223aa8bd70ff88b43d503fbdfe3",
+  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.21",
+  "dest-filename": "kotlin-stdlib-jdk7-1.8.21.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.8.21/kotlin-stdlib-1.8.21.pom",
+  "sha512": "0402a31788abc52c5c6177cad96069a6ffde20fda0d4d53c707eb28a552a016aa23752602bd37c3665e9039b543859757fbbf420fc64be6c6c65c1fbbabade00",
+  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/1.8.21",
+  "dest-filename": "kotlin-stdlib-1.8.21.pom"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.8.21/kotlin-stdlib-1.8.21.jar",
+  "sha512": "ddbe9eedc5600235ab98428dbfda31ce9c907aa2570a74845421d3340518ab90655f9064348f4a45deebc54ef46923aa633058a77f13d5547db58d7d9594c37c",
+  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/1.8.21",
+  "dest-filename": "kotlin-stdlib-1.8.21.jar"
+},
+{
+  "type": "file",
+  "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.21/kotlin-stdlib-common-1.8.21.pom",
+  "sha512": "ca554a1f84884bd19f5818168fe51b2c1622a0fa4d9a1013b9861407aac313e42ebabe48733e63352e1ab5dad24fbc9f73ecbfb29512362ac43dd484f20458da",
+  "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.21",
+  "dest-filename": "kotlin-stdlib-common-1.8.21.pom"
 }
 ]
