@@ -3354,52 +3354,52 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/prof18/rssparser/rssparser-jvm/6.1.6/rssparser-jvm-6.1.6.jar",
+    "url": "https://repo.maven.apache.org/maven2/com/prof18/rssparser/rssparser-jvm/6.1.7/rssparser-jvm-6.1.7.jar",
     "sha512": "d88973d3df26c00a71a5ae99a69f7b3c7ecdd5e0c153d1cbeca8570c3375607992b72c2bd0a25413afef97474e82c5663fe4ff5a313d0f4e9e247b1de28e875f",
-    "dest": "./offline-repository/com/prof18/rssparser/rssparser-jvm/6.1.6",
-    "dest-filename": "rssparser-jvm-6.1.6.jar"
+    "dest": "./offline-repository/com/prof18/rssparser/rssparser-jvm/6.1.7",
+    "dest-filename": "rssparser-jvm-6.1.7.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/prof18/rssparser/rssparser-jvm/6.1.6/rssparser-jvm-6.1.6.module",
-    "sha512": "818d9c9fb99742fe54a5bbe437176400ea72241954d42d7f14380a56eace453c26225483cd3df8209c42571a3299a5b81d209e1b1eba2718327976b91870e2b8",
-    "dest": "./offline-repository/com/prof18/rssparser/rssparser-jvm/6.1.6",
-    "dest-filename": "rssparser-jvm-6.1.6.module"
+    "url": "https://repo.maven.apache.org/maven2/com/prof18/rssparser/rssparser-jvm/6.1.7/rssparser-jvm-6.1.7.module",
+    "sha512": "b556e1511c33f33929552e7006da7da48db3734f5644f2cb7b455c5ac652b7784a11d041c305e7b9f6efa1ce0b5df847881bee734d818f5ce02b39e4bc0d4d5b",
+    "dest": "./offline-repository/com/prof18/rssparser/rssparser-jvm/6.1.7",
+    "dest-filename": "rssparser-jvm-6.1.7.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/prof18/rssparser/rssparser-jvm/6.1.6/rssparser-jvm-6.1.6.pom",
-    "sha512": "5232ff3fc371229792fd075b10b178ae7480d364450be7a301612f56c56632b9ba17949450235d955eb8df4523ca36b5571f0c295be67d7e4e1111ee5f749596",
-    "dest": "./offline-repository/com/prof18/rssparser/rssparser-jvm/6.1.6",
-    "dest-filename": "rssparser-jvm-6.1.6.pom"
+    "url": "https://repo.maven.apache.org/maven2/com/prof18/rssparser/rssparser-jvm/6.1.7/rssparser-jvm-6.1.7.pom",
+    "sha512": "24a17b90e3ac3fd7998c9a4307989e1f665a8a7c30ad61b7d7ecb6847ed99a56555fb5c0d8e6c124e008c80b18bab26a5c838e5f51087ce2b7c1d6de5522100b",
+    "dest": "./offline-repository/com/prof18/rssparser/rssparser-jvm/6.1.7",
+    "dest-filename": "rssparser-jvm-6.1.7.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/prof18/rssparser/rssparser/6.1.6/../../rssparser-jvm/6.1.6/rssparser-jvm-6.1.6.module",
-    "sha512": "818d9c9fb99742fe54a5bbe437176400ea72241954d42d7f14380a56eace453c26225483cd3df8209c42571a3299a5b81d209e1b1eba2718327976b91870e2b8",
-    "dest": "./offline-repository/com/prof18/rssparser/rssparser/6.1.6/../../rssparser-jvm/6.1.6",
-    "dest-filename": "rssparser-jvm-6.1.6.module"
+    "url": "https://repo.maven.apache.org/maven2/com/prof18/rssparser/rssparser/6.1.7/../../rssparser-jvm/6.1.7/rssparser-jvm-6.1.7.module",
+    "sha512": "b556e1511c33f33929552e7006da7da48db3734f5644f2cb7b455c5ac652b7784a11d041c305e7b9f6efa1ce0b5df847881bee734d818f5ce02b39e4bc0d4d5b",
+    "dest": "./offline-repository/com/prof18/rssparser/rssparser/6.1.7/../../rssparser-jvm/6.1.7",
+    "dest-filename": "rssparser-jvm-6.1.7.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/prof18/rssparser/rssparser/6.1.6/rssparser-6.1.6.jar",
+    "url": "https://repo.maven.apache.org/maven2/com/prof18/rssparser/rssparser/6.1.7/rssparser-6.1.7.jar",
     "sha512": "6b9a216ac0552f1d7d8998e86c863fd86db82cc030ff0b56c6ff157ddaec12be684545c553ce83505614489369c8b4074db7a7aa9748d22a2eac1db8bd63dc60",
-    "dest": "./offline-repository/com/prof18/rssparser/rssparser/6.1.6",
-    "dest-filename": "rssparser-6.1.6.jar"
+    "dest": "./offline-repository/com/prof18/rssparser/rssparser/6.1.7",
+    "dest-filename": "rssparser-6.1.7.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/prof18/rssparser/rssparser/6.1.6/rssparser-6.1.6.module",
-    "sha512": "13be0362b2e47d0b0d4bb9b2a38fc75cfe67e098fb75d4196621e7227c5b819291c4212c5fcd774df39c4539a48c88442d46f7c9a912f6400eb1de4e2c4c628c",
-    "dest": "./offline-repository/com/prof18/rssparser/rssparser/6.1.6",
-    "dest-filename": "rssparser-6.1.6.module"
+    "url": "https://repo.maven.apache.org/maven2/com/prof18/rssparser/rssparser/6.1.7/rssparser-6.1.7.module",
+    "sha512": "c9f50ba065c55cc9911e677b15078a1c6ab9939b60c603d605dfd66c49247b8e96d2cb2ebb1c5148952d84cd9f13fbe02b408596198d7fd0c89d1119f4e21a65",
+    "dest": "./offline-repository/com/prof18/rssparser/rssparser/6.1.7",
+    "dest-filename": "rssparser-6.1.7.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/prof18/rssparser/rssparser/6.1.6/rssparser-6.1.6.pom",
-    "sha512": "f2b1f2d2193267493b7f69e8951a7693b62ffa3a890d8f47ad16f8aa226692c704659a6be04d9010105fcf787080f0fe30bb7369f95ea219efdbd17d99cf0c40",
-    "dest": "./offline-repository/com/prof18/rssparser/rssparser/6.1.6",
-    "dest-filename": "rssparser-6.1.6.pom"
+    "url": "https://repo.maven.apache.org/maven2/com/prof18/rssparser/rssparser/6.1.7/rssparser-6.1.7.pom",
+    "sha512": "bf44d3577d7351e740c45138dd9ca17be00fccc835cf67d2ad668a675dfaeea159d1ba1a5b0e80b7bc5b5bfed70944b71ee2e1ee1a28b70e924223e072d6055d",
+    "dest": "./offline-repository/com/prof18/rssparser/rssparser/6.1.7",
+    "dest-filename": "rssparser-6.1.7.pom"
   },
   {
     "type": "file",
@@ -3561,55 +3561,6 @@
     "sha512": "5220ef8e24591e20e382e8fe76eb8b362e884c4c6eee8e60d690090217435f4c1397f10f0cfbeec02b4c2728994f037eda443760186f2c314730c63d994bef46",
     "dest": "./offline-repository/com/squareup/okhttp3/okhttp/5.4.0",
     "dest-filename": "okhttp-5.4.0.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp-jvm/5.3.2/okhttp-jvm-5.3.2.jar",
-    "sha512": "302cba8ec649ecb20512b4878b9f347645cdeada2001e7469363b21ca251bbb05c00e48e426449a88780f0ec25c672f214112b101d8dfd059b5275999ab48768",
-    "dest": "./offline-repository/com/squareup/okhttp3/okhttp-jvm/5.3.2",
-    "dest-filename": "okhttp-jvm-5.3.2.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp-jvm/5.3.2/okhttp-jvm-5.3.2.module",
-    "sha512": "0bb7d00f352601fd5bd01acaf2a74d37858595b81c52fc7977ad088d88277365dbbd53f62520850828eccde4f16b627cfd781e209980c46e4e8da15cc80ab7b6",
-    "dest": "./offline-repository/com/squareup/okhttp3/okhttp-jvm/5.3.2",
-    "dest-filename": "okhttp-jvm-5.3.2.module"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp-jvm/5.3.2/okhttp-jvm-5.3.2.pom",
-    "sha512": "b09777007ece1072dfc10650f973e50a7c7a397e3e49ab9c7a8f11a8c67cb45c50c349ba850c12dc6e2561ca2aa3246877feea42672b62c898feda5ef2787fb7",
-    "dest": "./offline-repository/com/squareup/okhttp3/okhttp-jvm/5.3.2",
-    "dest-filename": "okhttp-jvm-5.3.2.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/5.3.2/../../okhttp-jvm/5.3.2/okhttp-jvm-5.3.2.module",
-    "sha512": "0bb7d00f352601fd5bd01acaf2a74d37858595b81c52fc7977ad088d88277365dbbd53f62520850828eccde4f16b627cfd781e209980c46e4e8da15cc80ab7b6",
-    "dest": "./offline-repository/com/squareup/okhttp3/okhttp/5.3.2/../../okhttp-jvm/5.3.2",
-    "dest-filename": "okhttp-jvm-5.3.2.module"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/5.3.2/okhttp-5.3.2.jar",
-    "sha512": "165c65503bded11490b09c46935864aa71ee8b9fc4ea1c01e1cb91b209a64af97e92d5d8fd9b4bc78209a8949a79f37ff49edd992171d25ba6f7e0d968cee87c",
-    "dest": "./offline-repository/com/squareup/okhttp3/okhttp/5.3.2",
-    "dest-filename": "okhttp-5.3.2.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/5.3.2/okhttp-5.3.2.module",
-    "sha512": "29687db6fd131f80c6148b39592746ddc16911ae672fbafe3c9f2f5ff9e46868ef1285c7e65c54f14e1a2df88949dc75bbf2e7e523ccc5268155345ae8b8a7a8",
-    "dest": "./offline-repository/com/squareup/okhttp3/okhttp/5.3.2",
-    "dest-filename": "okhttp-5.3.2.module"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/squareup/okhttp3/okhttp/5.3.2/okhttp-5.3.2.pom",
-    "sha512": "192ea2c8d859f750e1634b230f3f442c89a27db670df3763db3e4e10e8c2bb1e68b2e86f72a53ebaa5394c22c104b0f16da39dff9fefcaea37ddf285a525841b",
-    "dest": "./offline-repository/com/squareup/okhttp3/okhttp/5.3.2",
-    "dest-filename": "okhttp-5.3.2.pom"
   },
   {
     "type": "file",
@@ -6658,24 +6609,24 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/io/sentry/sentry/8.46.0/sentry-8.46.0.jar",
-    "sha512": "3155efb8160b146600835b0db48755b32b59375726f6d1b120710bef9eaf0e91cabb897689b685b99f0837d9f3ce1b324e1aa173e97f41ac2d9501a2e6d4a4f9",
-    "dest": "./offline-repository/io/sentry/sentry/8.46.0",
-    "dest-filename": "sentry-8.46.0.jar"
+    "url": "https://repo.maven.apache.org/maven2/io/sentry/sentry/8.47.0/sentry-8.47.0.jar",
+    "sha512": "af0ad494683981ffcda77d5fcb5bcfd0d97699a5a6f66a81ab0954a9dd8999dd74dd29508038d4e2c23d947b173977c407ea7a0d8783cd3405bc3f1d2b9be8bf",
+    "dest": "./offline-repository/io/sentry/sentry/8.47.0",
+    "dest-filename": "sentry-8.47.0.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/io/sentry/sentry/8.46.0/sentry-8.46.0.module",
-    "sha512": "31123be54bf75293c451c0d0938217ecab80ab0e1015f53b59b3ba869a0184ae30dbb99c3cdc246d68996119c7e584e143b51d2ad341fe2dd745c3e6c89abc38",
-    "dest": "./offline-repository/io/sentry/sentry/8.46.0",
-    "dest-filename": "sentry-8.46.0.module"
+    "url": "https://repo.maven.apache.org/maven2/io/sentry/sentry/8.47.0/sentry-8.47.0.module",
+    "sha512": "8d5cc752fb0925f69686957c0dde480a76e79ec1b2b4b36ee4558bb9011206e59edf3adfe30281b0034ad5187046d31f70e678344d662da36b59d13183ea6b83",
+    "dest": "./offline-repository/io/sentry/sentry/8.47.0",
+    "dest-filename": "sentry-8.47.0.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/io/sentry/sentry/8.46.0/sentry-8.46.0.pom",
-    "sha512": "ea4e58a83229f5718c18fb17719cb5492862c1afbf5f09ec1b3b47dae132bf07baa0682f7b59b84f98d9915a40d5fe03baa820f2ad415cc2671ac8117ef69475",
-    "dest": "./offline-repository/io/sentry/sentry/8.46.0",
-    "dest-filename": "sentry-8.46.0.pom"
+    "url": "https://repo.maven.apache.org/maven2/io/sentry/sentry/8.47.0/sentry-8.47.0.pom",
+    "sha512": "2e05b6aba7fe01593acce272944b28747fd77bd3a8ccc83923438bc0c80e22fe9cd2df21249534df0f41eab8467492dc53c28fd8d97579d49e3f8a4512b7a144",
+    "dest": "./offline-repository/io/sentry/sentry/8.47.0",
+    "dest-filename": "sentry-8.47.0.pom"
   },
   {
     "type": "file",
@@ -7999,13 +7950,6 @@
     "sha512": "0418fa884cc387a1a4f35687f8a494edb3d5b013dce971d705d3d7f0052b7b05c0d585ef3005cb519131716a31f4c053a7edbe31d56423856cc89f9d6edd9ce4",
     "dest": "./offline-repository/org/jetbrains/compose/foundation/foundation-desktop/1.11.1",
     "dest-filename": "foundation-desktop-1.11.1.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/foundation/foundation-layout-desktop/1.11.1/foundation-layout-desktop-1.11.1.jar",
-    "sha512": "78c1070c0ebbe9a6c58db51c3eb6a07b68e5101b86c277ee36a609016493a746aa62536ea0b587bd3aff252d36833dfc1aacc70a5413c79f25be9693347ab325",
-    "dest": "./offline-repository/org/jetbrains/compose/foundation/foundation-layout-desktop/1.11.1",
-    "dest-filename": "foundation-layout-desktop-1.11.1.jar"
   },
   {
     "type": "file",
@@ -10109,24 +10053,24 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable-jvm/0.5.0/kotlinx-collections-immutable-jvm-0.5.0.jar",
-    "sha512": "f114a43b6558fc8f1e2532049c8d5cbc6f4923bca6c56e93fbe163c01f1751714d21581f89de62a251705e377e24f63aa8d2dae9ab695a2f385eaf08895de9f2",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable-jvm/0.5.0",
-    "dest-filename": "kotlinx-collections-immutable-jvm-0.5.0.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable-jvm/0.5.1/kotlinx-collections-immutable-jvm-0.5.1.jar",
+    "sha512": "724667ef6e2bf117c84f5e059770348d7ce0da58a6978f9004120f325975e0aa7bce3ed4211f6cb5a707a0774b2702b35d67645b59785e68651185e485f7e254",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable-jvm/0.5.1",
+    "dest-filename": "kotlinx-collections-immutable-jvm-0.5.1.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable-jvm/0.5.0/kotlinx-collections-immutable-jvm-0.5.0.module",
-    "sha512": "a9dd9f01bb434c2ba9ba04aa617326d8258d0caadeff3bc00e3201c1bc02ee1af02a6e17676fc4b1f5ef18c4e416ebb377f1588b4620116928f123cfbfd4a7de",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable-jvm/0.5.0",
-    "dest-filename": "kotlinx-collections-immutable-jvm-0.5.0.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable-jvm/0.5.1/kotlinx-collections-immutable-jvm-0.5.1.module",
+    "sha512": "0c58128e7fb75c62ab1e025f1282990a0a034c1cb497a0d3d926f5cd182b30cfe42d20d1a90770cc31c8e48cfc74ccf9e2271dc5396092d82fa3687fffb98169",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable-jvm/0.5.1",
+    "dest-filename": "kotlinx-collections-immutable-jvm-0.5.1.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable-jvm/0.5.0/kotlinx-collections-immutable-jvm-0.5.0.pom",
-    "sha512": "cb461dbe11169c6c85a1bea5825110a3e086e4b631c93a7d2253ab0aba98027b38d6b375eb47ba2b1aa0a6d1ddc032f8bcdfb1a4bc54a258fc382afe58ea7db5",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable-jvm/0.5.0",
-    "dest-filename": "kotlinx-collections-immutable-jvm-0.5.0.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable-jvm/0.5.1/kotlinx-collections-immutable-jvm-0.5.1.pom",
+    "sha512": "1b795d571bae1d9e9c365e3dd13571a6cf2ae097f6b513eabdf47b24fd4015e4a3d0b693879675efa6202f868ff7990dbb00a21fcbcf47f4abbd47b756b4806f",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable-jvm/0.5.1",
+    "dest-filename": "kotlinx-collections-immutable-jvm-0.5.1.pom"
   },
   {
     "type": "file",
@@ -10151,31 +10095,31 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.5.0/../../kotlinx-collections-immutable-jvm/0.5.0/kotlinx-collections-immutable-jvm-0.5.0.module",
-    "sha512": "a9dd9f01bb434c2ba9ba04aa617326d8258d0caadeff3bc00e3201c1bc02ee1af02a6e17676fc4b1f5ef18c4e416ebb377f1588b4620116928f123cfbfd4a7de",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.5.0/../../kotlinx-collections-immutable-jvm/0.5.0",
-    "dest-filename": "kotlinx-collections-immutable-jvm-0.5.0.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.5.1/../../kotlinx-collections-immutable-jvm/0.5.1/kotlinx-collections-immutable-jvm-0.5.1.module",
+    "sha512": "0c58128e7fb75c62ab1e025f1282990a0a034c1cb497a0d3d926f5cd182b30cfe42d20d1a90770cc31c8e48cfc74ccf9e2271dc5396092d82fa3687fffb98169",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.5.1/../../kotlinx-collections-immutable-jvm/0.5.1",
+    "dest-filename": "kotlinx-collections-immutable-jvm-0.5.1.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.5.0/kotlinx-collections-immutable-0.5.0.jar",
-    "sha512": "8f650f0e84c1cbef893639f79b3e26c0550e4df992388a23a269cc56efa3d8f94108eab199e608067dae8d5d0e4740a1e4cf9dd7c97c6bed4f1d2e5042299fbc",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.5.0",
-    "dest-filename": "kotlinx-collections-immutable-0.5.0.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.5.1/kotlinx-collections-immutable-0.5.1.jar",
+    "sha512": "d74e860018f93ef157105537f346606c1d1641cc8b5518bf0e7f33197431b9be8c042928300925ec453b0008801baab510cd2d7e0f3068ea4574afd24844692e",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.5.1",
+    "dest-filename": "kotlinx-collections-immutable-0.5.1.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.5.0/kotlinx-collections-immutable-0.5.0.module",
-    "sha512": "c0fb1b40165797ce5be861677c3dd7131a72ba0e5d0323ec265fac0ca49db779bbd84797da49536844d2dd8f87dbcc2f1eb3849663dba0fbc6883c71b48759e3",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.5.0",
-    "dest-filename": "kotlinx-collections-immutable-0.5.0.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.5.1/kotlinx-collections-immutable-0.5.1.module",
+    "sha512": "6ed32e720213f155e9bf478b1d6d629836486e72ab62be202907b0352118c662addc036620b49cd0224dfdf9990e739422e3fed692ee580b061852da030e3c2a",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.5.1",
+    "dest-filename": "kotlinx-collections-immutable-0.5.1.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.5.0/kotlinx-collections-immutable-0.5.0.pom",
-    "sha512": "37791c4b1bec7744b767e4ab0c2eea367024bc7369b69c9fcb86c775be756dbc57a0220fca63117550f7ee043d11c98cb627dbb5e821eda8e571737b661f5dd2",
-    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.5.0",
-    "dest-filename": "kotlinx-collections-immutable-0.5.0.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.5.1/kotlinx-collections-immutable-0.5.1.pom",
+    "sha512": "227575a4e99ece04944eb9e59b1ec42e10300c122f0f4691d9e46b131c4375168e98e9802d8e7905d6d6af48d5462b56422f9aa0fd690e50604b4ea6a36d0428",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/kotlinx-collections-immutable/0.5.1",
+    "dest-filename": "kotlinx-collections-immutable-0.5.1.pom"
   },
   {
     "type": "file",
