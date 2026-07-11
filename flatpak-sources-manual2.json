@@ -1051,6 +1051,13 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.11.1/desktop-jvm-linux-arm64-1.11.1.pom",
+    "sha512": "3509e8fa0ec7763cfb66db2214b71a3f941bf4f8406dddf7cb44bd7b68f46831455097ed867ba7f1d564274c991eb33f281927b31602a0220a08b4a90f3098fe",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.11.1",
+    "dest-filename": "desktop-jvm-linux-arm64-1.11.1.pom"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop/1.11.0/desktop-1.11.0.jar",
     "sha512": "abc1674a29b913a41bc175769124784955f323143480b2e9cd682ef41dcdb98195ad44ac82c929bd50e86b0d53417de34a134afc2a1c1f51f3e66dd97539592f",
     "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop/1.11.0",
