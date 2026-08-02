@@ -1965,5 +1965,138 @@
     "sha512": "78c1070c0ebbe9a6c58db51c3eb6a07b68e5101b86c277ee36a609016493a746aa62536ea0b587bd3aff252d36833dfc1aacc70a5413c79f25be9693347ab325",
     "dest": "./offline-repository/org/jetbrains/compose/foundation/foundation-layout-desktop/1.11.1",
     "dest-filename": "foundation-layout-desktop-1.11.1.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://dl.google.com/dl/android/maven2/androidx/baselineprofile/androidx.baselineprofile.gradle.plugin/1.5.0-beta01/androidx.baselineprofile.gradle.plugin-1.5.0-beta01.pom",
+    "sha512": "1acaa6abc28d4624286ba942d2e012af2a100d3ab37190a909155c18e7bb594ca9c391b0e3596176696e4527c471e4be4dc0c46e93879a27538328d7b579c5b6",
+    "dest": "./offline-repository/androidx/baselineprofile/androidx.baselineprofile.gradle.plugin/1.5.0-beta01",
+    "dest-filename": "androidx.baselineprofile.gradle.plugin-1.5.0-beta01.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://dl.google.com/dl/android/maven2/androidx/benchmark/benchmark-baseline-profile-gradle-plugin/1.5.0-beta01/benchmark-baseline-profile-gradle-plugin-1.5.0-beta01.jar",
+    "sha512": "b0bafbed424c452f8b42a4c882253debaea42d362fed7bcb3432326ed7b7a507e00d742bce438577632b732c62e60e2f88257d5ba00cfd0d8443ab0c80ef5c83",
+    "dest": "./offline-repository/androidx/benchmark/benchmark-baseline-profile-gradle-plugin/1.5.0-beta01",
+    "dest-filename": "benchmark-baseline-profile-gradle-plugin-1.5.0-beta01.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://dl.google.com/dl/android/maven2/androidx/benchmark/benchmark-baseline-profile-gradle-plugin/1.5.0-beta01/benchmark-baseline-profile-gradle-plugin-1.5.0-beta01.pom",
+    "sha512": "89a117276aeae28d75c93c933c3017ef87b41044e56afbd8b066383983c5a0bda1ca84187a452cf91fd3626e60bd1281b4302b48b0a5c60e5347e1eb8ce674fd",
+    "dest": "./offline-repository/androidx/benchmark/benchmark-baseline-profile-gradle-plugin/1.5.0-beta01",
+    "dest-filename": "benchmark-baseline-profile-gradle-plugin-1.5.0-beta01.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://dl.google.com/dl/android/maven2/androidx/benchmark/benchmark-baseline-profile-gradle-plugin/1.5.0-beta01/benchmark-baseline-profile-gradle-plugin-1.5.0-beta01.module",
+    "sha512": "6ebe640c16d95c073912754d1721ae03ce8019c2d8479d86eefb905f93f80ab5e5106eab9b003f98fa7acd1345ad17d4f54317143dd8e635eb1d2f4096860dcd",
+    "dest": "./offline-repository/androidx/benchmark/benchmark-baseline-profile-gradle-plugin/1.5.0-beta01",
+    "dest-filename": "benchmark-baseline-profile-gradle-plugin-1.5.0-beta01.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.25.5/protobuf-java-3.25.5.jar",
+    "sha512": "432d8a9359e614d38fe416b7a4564aed3e358fd5f3c2c4f22caf97945a0f3e5cbd2220b690d6b822504e7bcbbd67458eb12d232232dd113f804683a172f8eb71",
+    "dest": "./offline-repository/com/google/protobuf/protobuf-java/3.25.5",
+    "dest-filename": "protobuf-java-3.25.5.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.25.5/protobuf-java-3.25.5.pom",
+    "sha512": "2e9ea8539bf92bf9ab89e08614fdccd4a663db1f2cf5b4e35f59ec7276a34d9e83e57da51bcd7ef5959016072768a9ba105f78d6c1334dbc9e61f90b37103810",
+    "dest": "./offline-repository/com/google/protobuf/protobuf-java/3.25.5",
+    "dest-filename": "protobuf-java-3.25.5.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.25.5/protobuf-parent-3.25.5.pom",
+    "sha512": "7470211ceeff2ee79ac892d9f1ed22e698a0f9e07ac1546943bd5abd20e0133de075ec00a5bb230d16ffe900995ef028ff950c7395887ba3108c59ecf1074456",
+    "dest": "./offline-repository/com/google/protobuf/protobuf-parent/3.25.5",
+    "dest-filename": "protobuf-parent-3.25.5.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://dl.google.com/dl/android/maven2/com/google/testing/platform/core-proto/0.0.8-alpha08/core-proto-0.0.8-alpha08.jar",
+    "sha512": "c70aa24fe3caeef96eccf1ef32c28699abb8b244f1918354c09e1b696acc80d22e915b0ca1f8f39a25f366c7d61efd1665561dfcebf32aed99f3eb140ea052e9",
+    "dest": "./offline-repository/com/google/testing/platform/core-proto/0.0.8-alpha08",
+    "dest-filename": "core-proto-0.0.8-alpha08.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://dl.google.com/dl/android/maven2/com/google/testing/platform/core-proto/0.0.8-alpha08/core-proto-0.0.8-alpha08.pom",
+    "sha512": "d39c17685b22083aaaa332475e7ffb9b2126a3e1e873c9d5249290a17cf3d591b230a1dad14358b8462903daedf0d91e7df4f7bc1940e0cb8b8bc9ce6c1799b4",
+    "dest": "./offline-repository/com/google/testing/platform/core-proto/0.0.8-alpha08",
+    "dest-filename": "core-proto-0.0.8-alpha08.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.25.5/protobuf-bom-3.25.5.pom",
+    "sha512": "b900a81cfd33a1e85c903ef0eeea375a1e5d85cc6ccb3470b7bbbcceaf928e9e8670405a546aafe2cd0e7e9ed565628eb0990bcb1ae643e0c394f2745cd84007",
+    "dest": "./offline-repository/com/google/protobuf/protobuf-bom/3.25.5",
+    "dest-filename": "protobuf-bom-3.25.5.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.10/symbol-processing-aa-embeddable-2.3.10.jar",
+    "sha512": "2b04e39ee39e3e24001494924223d6cd3985bb2fd4e7dcdb9640d585a8138a0480b11554df73e64dd8688683beac3c124b1e50bc3e4279bd9675ba9d6993ac43",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.10",
+    "dest-filename": "symbol-processing-aa-embeddable-2.3.10.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.10/symbol-processing-aa-embeddable-2.3.10.pom",
+    "sha512": "f7faa150a977bb415225d3874b1fa12a76b1d6478a4323c7107bc30e2adb80d125b99d49237d2fa95d92e258e00653608aaaa6d6991f0c2f1291f5934eeb3b4e",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.10",
+    "dest-filename": "symbol-processing-aa-embeddable-2.3.10.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/androidx/lifecycle/lifecycle-runtime-compose-desktop/2.9.6/lifecycle-runtime-compose-desktop-2.9.6.jar",
+    "sha512": "b068d6f9311bf7c25e1ef85039a4fe53b9bff57257375a5465d158681ad4e084e6b6784f2a983b4825ead4ff310c8eff91e140083e0917c10bd1fb438c7125fc",
+    "dest": "./offline-repository/org/jetbrains/androidx/lifecycle/lifecycle-runtime-compose-desktop/2.9.6",
+    "dest-filename": "lifecycle-runtime-compose-desktop-2.9.6.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/androidx/lifecycle/lifecycle-runtime-compose-desktop/2.9.6/lifecycle-runtime-compose-desktop-2.9.6.pom",
+    "sha512": "27cd5765abff751ae2949bb0fc5415b1322e5a3ca20b252bfb97bed3a79318d14f3d31ac4ddb3b630d2bf229335ea9a9cc843731baf5a3c66a54da18db8a3cc2",
+    "dest": "./offline-repository/org/jetbrains/androidx/lifecycle/lifecycle-runtime-compose-desktop/2.9.6",
+    "dest-filename": "lifecycle-runtime-compose-desktop-2.9.6.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/androidx/lifecycle/lifecycle-runtime-compose-desktop/2.9.6/lifecycle-runtime-compose-desktop-2.9.6.module",
+    "sha512": "58cbc447a96b7c23b158e39a04af9bdaddd24687a095f3090f2028f19b7eed0eff76c1a413dba88d639ac100fc4dbff0933d78e0305dd5afafa3898a8c05c2ba",
+    "dest": "./offline-repository/org/jetbrains/androidx/lifecycle/lifecycle-runtime-compose-desktop/2.9.6",
+    "dest-filename": "lifecycle-runtime-compose-desktop-2.9.6.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/androidx/savedstate/savedstate-compose-desktop/1.3.6/savedstate-compose-desktop-1.3.6.jar",
+    "sha512": "e524b9c20fed8bfa71177b69955e6cd9526a25cc8e07e61a75a839aa3e997e461d8ec0e0e0144ba193562de4a1fb96da2d734f258bae9e8ffb75fae6be1ee34c",
+    "dest": "./offline-repository/org/jetbrains/androidx/savedstate/savedstate-compose-desktop/1.3.6",
+    "dest-filename": "savedstate-compose-desktop-1.3.6.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/androidx/savedstate/savedstate-compose-desktop/1.3.6/savedstate-compose-desktop-1.3.6.pom",
+    "sha512": "925186c1c2cfb4f96981890518005cb8522242c7c057c9e852f251660c67fdd4bd6b0f2b8108331d03a2744cbb1235b1004cde11c2bac1ec067b350b18106540",
+    "dest": "./offline-repository/org/jetbrains/androidx/savedstate/savedstate-compose-desktop/1.3.6",
+    "dest-filename": "savedstate-compose-desktop-1.3.6.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/androidx/savedstate/savedstate-compose-desktop/1.3.6/savedstate-compose-desktop-1.3.6.module",
+    "sha512": "4b0749d8471083d1b0fde90da2acfab8c17bcded7ba342c0d989286c5a37504aed07cef50d95f9c71d240c10f884391c5eb140a68fbbcdaf81488f27a2364ec3",
+    "dest": "./offline-repository/org/jetbrains/androidx/savedstate/savedstate-compose-desktop/1.3.6",
+    "dest-filename": "savedstate-compose-desktop-1.3.6.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.11.1/desktop-jvm-linux-arm64-1.11.1.pom",
+    "sha512": "3509e8fa0ec7763cfb66db2214b71a3f941bf4f8406dddf7cb44bd7b68f46831455097ed867ba7f1d564274c991eb33f281927b31602a0220a08b4a90f3098fe",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.11.1",
+    "dest-filename": "desktop-jvm-linux-arm64-1.11.1.pom"
   }
 ]
