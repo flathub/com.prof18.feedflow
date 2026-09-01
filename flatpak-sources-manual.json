@@ -2098,5 +2098,250 @@
     "sha512": "3509e8fa0ec7763cfb66db2214b71a3f941bf4f8406dddf7cb44bd7b68f46831455097ed867ba7f1d564274c991eb33f281927b31602a0220a08b4a90f3098fe",
     "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.11.1",
     "dest-filename": "desktop-jvm-linux-arm64-1.11.1.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/prof18/klead/0.0.1-alpha05/klead-0.0.1-alpha05.pom",
+    "sha512": "bdaafebe5e07bf13f3e7aedb16357ef8ff0f09a7229238b4f28718dcdda075abc26c336ee6f8226430edbe84bb1140d5c0feae12bba6b7e6370af08020c85286",
+    "dest": "./offline-repository/com/prof18/klead/0.0.1-alpha05",
+    "dest-filename": "klead-0.0.1-alpha05.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/prof18/klead/0.0.1-alpha05/klead-0.0.1-alpha05.module",
+    "sha512": "141ac18facaecd5094c488b19c558f36fa854b6132bc615ef2bdef97a59e80b9ee0209e005d7f3be82bd04286d9783d2ec12ee44f25aac213180115e196af16d",
+    "dest": "./offline-repository/com/prof18/klead/0.0.1-alpha05",
+    "dest-filename": "klead-0.0.1-alpha05.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/prof18/klead/0.0.1-alpha05/klead-0.0.1-alpha05.jar",
+    "sha512": "4334f5b633eb406fcb68e872d4f0b6741580da9dc4b45916c668c8290d0e754244516e3da88e65a6c02c359772c98eea7d1607b7207e9165f65d0fcf67aea7ed",
+    "dest": "./offline-repository/com/prof18/klead/0.0.1-alpha05",
+    "dest-filename": "klead-0.0.1-alpha05.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/prof18/klead-jvm/0.0.1-alpha05/klead-jvm-0.0.1-alpha05.pom",
+    "sha512": "da0db54c46a4958d888417a38ca922d4a0d05b05160e6185bfc9d2f65794d4be8b2de36b82ec3a5b8df8eec667bdb37ee2960cd7992f8fc76333b29628a2c3ca",
+    "dest": "./offline-repository/com/prof18/klead-jvm/0.0.1-alpha05",
+    "dest-filename": "klead-jvm-0.0.1-alpha05.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/prof18/klead-jvm/0.0.1-alpha05/klead-jvm-0.0.1-alpha05.module",
+    "sha512": "b8ebe8c8c7f5eaf967d3a67603764ba7679aa90a3a3d363ca4cf7fd6fa9c8fbf311783978284f3e83f2dee07e9c62bfa93bd372ce1945f7c7f87a9c3c9255a29",
+    "dest": "./offline-repository/com/prof18/klead-jvm/0.0.1-alpha05",
+    "dest-filename": "klead-jvm-0.0.1-alpha05.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/prof18/klead-jvm/0.0.1-alpha05/klead-jvm-0.0.1-alpha05.jar",
+    "sha512": "2f2a6432f5bebe3e0a4d01241eccf7f8f32cba9a3f747c045060f463fff32a18e7fd6bfa1d4207ac012069679b436bf66c6c3147f494c70160cd685f98cb1b16",
+    "dest": "./offline-repository/com/prof18/klead-jvm/0.0.1-alpha05",
+    "dest-filename": "klead-jvm-0.0.1-alpha05.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/fleeksoft/ksoup/ksoup/0.2.6/ksoup-0.2.6.pom",
+    "sha512": "499f629e428c7c3f99a5fedbd0dd3d3d1b1c2f4e3a97ad9d4ff83a01e6b904d4c85bd9d3e6a0267a32d1ec089c5c314f070a745dd9e6e8cf3fe5d003bd0865ff",
+    "dest": "./offline-repository/com/fleeksoft/ksoup/ksoup/0.2.6",
+    "dest-filename": "ksoup-0.2.6.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/fleeksoft/ksoup/ksoup/0.2.6/ksoup-0.2.6.module",
+    "sha512": "e0721672891220c55d0b656eb4a3186a0b6bac05183b484eb77338f570655f20447aa3326c93a472cc1f8e3fac67810d3ba94a2bd23cb75a4bb9f3472cb37eee",
+    "dest": "./offline-repository/com/fleeksoft/ksoup/ksoup/0.2.6",
+    "dest-filename": "ksoup-0.2.6.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/fleeksoft/ksoup/ksoup/0.2.6/ksoup-0.2.6.jar",
+    "sha512": "18cf7fc36b7ed02e181a1861c476c23543a12960dc4d5b4ddfa6a2932967bf2f413038365452accf838c502650dc9dd1ef0d2e5add2a0a66b4bd031d8ffb1cf4",
+    "dest": "./offline-repository/com/fleeksoft/ksoup/ksoup/0.2.6",
+    "dest-filename": "ksoup-0.2.6.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/atomicfu/0.33.0/atomicfu-0.33.0.pom",
+    "sha512": "d0cdb54bc063739183ac881182347b7fcd363a13ba613d2087a0d6b4d8d003297e9b95b697b7c4e678aeba56b5ca6df62e203dd91a0e037876c88f29444283ba",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/atomicfu/0.33.0",
+    "dest-filename": "atomicfu-0.33.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/atomicfu/0.33.0/atomicfu-0.33.0.module",
+    "sha512": "48c8f844f2a5733dbd93d177a00e870ca279a55277555a31d79506cb76686a4ec43f7452eac2f65a563ff60dca7f6d941611bad1ada8ca1b3f210fde8becb65e",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/atomicfu/0.33.0",
+    "dest-filename": "atomicfu-0.33.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/atomicfu/0.33.0/atomicfu-0.33.0.jar",
+    "sha512": "59f009f5cacd72bfeae7e3edafa41da0ee9a960d14e83d2ae191a2cec4dafe35f3670efc9e79886205c813f5b4e4b963356b012aa9dd03487844758d7a471c75",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/atomicfu/0.33.0",
+    "dest-filename": "atomicfu-0.33.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/fleeksoft/ksoup/ksoup-jvm/0.2.6/ksoup-jvm-0.2.6.pom",
+    "sha512": "2999a4450ad8d8ddc5e4f5778728a4bb3723c338146478032e319cf9ca5f4c505aebde04da831392751a39cc8566b51fa884a9ddad5eca4aaee06f8ea5d424e4",
+    "dest": "./offline-repository/com/fleeksoft/ksoup/ksoup-jvm/0.2.6",
+    "dest-filename": "ksoup-jvm-0.2.6.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/fleeksoft/ksoup/ksoup-jvm/0.2.6/ksoup-jvm-0.2.6.module",
+    "sha512": "bfecc24e0dc1f8a32044e5701666ad920c08f09d644b1ce3b605819c291a2915575aa375732d5f79af1d8cece7e9f197662a81742a7c95a94fcf8e2257df9604",
+    "dest": "./offline-repository/com/fleeksoft/ksoup/ksoup-jvm/0.2.6",
+    "dest-filename": "ksoup-jvm-0.2.6.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/fleeksoft/ksoup/ksoup-jvm/0.2.6/ksoup-jvm-0.2.6.jar",
+    "sha512": "da288805f32ff41205d2b2a02189ad4e932095371ad2b674bdba352e56a77df2cfa5cfeff901f44a00fc997093794cb3e114549dbfed74dae0d4d9bb413ef32f",
+    "dest": "./offline-repository/com/fleeksoft/ksoup/ksoup-jvm/0.2.6",
+    "dest-filename": "ksoup-jvm-0.2.6.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/atomicfu-jvm/0.33.0/atomicfu-jvm-0.33.0.pom",
+    "sha512": "c401acf82b054dcfec3ca426cfd202794cbeb4aaaceee66514c3a9fd2a2386a4eeb7187d3a33cd7d6c282862a3b930e2f6895851e4eec357a5a45982b337a6de",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/atomicfu-jvm/0.33.0",
+    "dest-filename": "atomicfu-jvm-0.33.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/atomicfu-jvm/0.33.0/atomicfu-jvm-0.33.0.module",
+    "sha512": "3ffe292b153c98f92d22503c9d1b3d195828b9a80eee69d97e487568433372e2873577e077758735ce6d8e940ee237c6cd4d6451094babfc38a8c9d9f7cbe09a",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/atomicfu-jvm/0.33.0",
+    "dest-filename": "atomicfu-jvm-0.33.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/atomicfu-jvm/0.33.0/atomicfu-jvm-0.33.0.jar",
+    "sha512": "7a41603bcb0eaf6d8e4fc7531f70860f1d0cc719a0abb34b65d8bfd1bc2e14cf7ed810c11a1f1709407520121972769744a108aab64ea9995e03f9cb544b8f2f",
+    "dest": "./offline-repository/org/jetbrains/kotlinx/atomicfu-jvm/0.33.0",
+    "dest-filename": "atomicfu-jvm-0.33.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/fleeksoft/io/io-core/0.0.8/io-core-0.0.8.pom",
+    "sha512": "cb0d83c4ce9616cee1d022985517ddec97225cc748e4879d42bdbfc9a6623d602b42ae92c0bd3c0c9b7f1856e81726893bbc37afdad826cd01c5f340c67151ea",
+    "dest": "./offline-repository/com/fleeksoft/io/io-core/0.0.8",
+    "dest-filename": "io-core-0.0.8.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/fleeksoft/io/io-core/0.0.8/io-core-0.0.8.module",
+    "sha512": "feac65656b3bc49ea2ab349c8a25f5b2a9749b0ce47ec195cce96520c1dafbb60fd59289efb3c47556437daa66e98dd58cc422da5aa8713da656ee067ce7a78c",
+    "dest": "./offline-repository/com/fleeksoft/io/io-core/0.0.8",
+    "dest-filename": "io-core-0.0.8.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/fleeksoft/io/io-core/0.0.8/io-core-0.0.8.jar",
+    "sha512": "a990f7aea589b9668b887813c02adee8b7eff19c6e7b124c9f81f2eadfb1794dc48afe47b7e833482eaff5da2fe68adb0297a5c9b29ca22aba731e54911ee1eb",
+    "dest": "./offline-repository/com/fleeksoft/io/io-core/0.0.8",
+    "dest-filename": "io-core-0.0.8.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/fleeksoft/charset/charset/0.0.8/charset-0.0.8.pom",
+    "sha512": "6ad91690954d01f60372c93117b35bacef7e673e5c5c42554db08670edce343a87a65a1347f278ed36be9aaf7e4b720461a51efe9294070c14165242484935e4",
+    "dest": "./offline-repository/com/fleeksoft/charset/charset/0.0.8",
+    "dest-filename": "charset-0.0.8.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/fleeksoft/charset/charset/0.0.8/charset-0.0.8.module",
+    "sha512": "52a2ee771a1f41ca83f6452bac4b7cc320ded9e6eb80d4c768e2cc7328d6e17c34c38f74d5daaf60f376666941bc0dcbe6a68a291e40f6e435925fe379a0122e",
+    "dest": "./offline-repository/com/fleeksoft/charset/charset/0.0.8",
+    "dest-filename": "charset-0.0.8.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/fleeksoft/charset/charset/0.0.8/charset-0.0.8.jar",
+    "sha512": "b94808b8fce5ba123af86b6090c20fff17f03b1b2fbeba1b0107860e408e742901de9baa2b6e69217a35aa19d18c31d2148fc207bf4d884b513fe109af64baf6",
+    "dest": "./offline-repository/com/fleeksoft/charset/charset/0.0.8",
+    "dest-filename": "charset-0.0.8.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/fleeksoft/io/io-core-jvm/0.0.8/io-core-jvm-0.0.8.pom",
+    "sha512": "460803b46bab24c52d45160c9302d6fc2601be765170d32a9ba993313f47df7ffaf7d3ef482ef248ab823e760b7d8d0431840f6138359608cbbe998f7ce23b31",
+    "dest": "./offline-repository/com/fleeksoft/io/io-core-jvm/0.0.8",
+    "dest-filename": "io-core-jvm-0.0.8.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/fleeksoft/io/io-core-jvm/0.0.8/io-core-jvm-0.0.8.module",
+    "sha512": "5b2002de00339243fddd312577c73abf1e066abbc763dbb830247c01d8c94ecee890eb9606474cc346666d7ca52b2f4acde297ca490d051ac9d059438f5b9d3e",
+    "dest": "./offline-repository/com/fleeksoft/io/io-core-jvm/0.0.8",
+    "dest-filename": "io-core-jvm-0.0.8.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/fleeksoft/io/io-core-jvm/0.0.8/io-core-jvm-0.0.8.jar",
+    "sha512": "42894585d8800be8eaceb2216a2ad700609994ce35646ef57ef52ee09a827e841fe1e8b3133fa320e8dc873de349bed3de9357df43b36e139b3f8b7f7d599857",
+    "dest": "./offline-repository/com/fleeksoft/io/io-core-jvm/0.0.8",
+    "dest-filename": "io-core-jvm-0.0.8.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/fleeksoft/charset/charset-jvm/0.0.8/charset-jvm-0.0.8.pom",
+    "sha512": "20de0e893eae44e7203c1648c49e1b8dec9eccfd6deb4dc22deb2b1c157d774879d53e624e9e369c8db418e6b4662f5edc3314decbd1ab1a421cbcacd676e3c9",
+    "dest": "./offline-repository/com/fleeksoft/charset/charset-jvm/0.0.8",
+    "dest-filename": "charset-jvm-0.0.8.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/fleeksoft/charset/charset-jvm/0.0.8/charset-jvm-0.0.8.module",
+    "sha512": "2d6d1f08e6c99548e6b9031160cafda5c6a6fcc14dd88608396e2afe4cc0aee814b259e996d3061f624f7b7348580bbb27332911757dbffea776676ade3bdd40",
+    "dest": "./offline-repository/com/fleeksoft/charset/charset-jvm/0.0.8",
+    "dest-filename": "charset-jvm-0.0.8.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/fleeksoft/charset/charset-jvm/0.0.8/charset-jvm-0.0.8.jar",
+    "sha512": "e20e8df8e2c0a9d65852eb5637de9301b9c688c49644d1b433849758f5e408c6aa75a5ed880ab3a19d03ca1a211278d980741707e8e24d1965eff261ea5ed2ab",
+    "dest": "./offline-repository/com/fleeksoft/charset/charset-jvm/0.0.8",
+    "dest-filename": "charset-jvm-0.0.8.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.2.21/kotlin-stdlib-2.2.21.pom",
+    "sha512": "713bba2f5a0e0c320ae5e8446ede182212151f283f66355333c5f427829a655a22d8f3139b86094aed23f1cf5aecfab36a02da780785ad42a31236eef191fae0",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.2.21",
+    "dest-filename": "kotlin-stdlib-2.2.21.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.2.21/kotlin-stdlib-2.2.21.module",
+    "sha512": "4c44e2226dc8baf91685545d49db558de088241c87ac54d0f4a83af9b641d7d8c1f3ece654e41f3953690b81274e75fd57baffc51f74cd6da4787219ecfeaa99",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.2.21",
+    "dest-filename": "kotlin-stdlib-2.2.21.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/2.2.21/kotlin-stdlib-2.2.21.jar",
+    "sha512": "cb7f62e2eb4c13f7a9873876f19d9dcb69c33d5e963c7cd87178f3789d65f29d2b6cf697573c04758428d2da6e26f2fdd3f0af46dedd8d04ad81d331e95859d7",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.2.21",
+    "dest-filename": "kotlin-stdlib-2.2.21.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/2.2.21/kotlin-stdlib-common-2.2.21.pom",
+    "sha512": "5f7c50736d5f73554941d3b66861fd903b9acf82e4519cafc3148b59626141d6d04834fa3fb1b3804efe69fc8e4429b2172fba123fa906b6a071cbb9a881511e",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-common/2.2.21",
+    "dest-filename": "kotlin-stdlib-common-2.2.21.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/2.2.21/kotlin-stdlib-common-2.2.21.module",
+    "sha512": "54943241172e99f70903e3f71a2167237a0851418b0c0afc3e86803516923b9469799f9f7cc5de7be9a595b620398103724fc9c0ee8d65cc4823b990eacbfdbd",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-common/2.2.21",
+    "dest-filename": "kotlin-stdlib-common-2.2.21.module"
   }
 ]
