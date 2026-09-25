@@ -1,136 +1,94 @@
 [
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/app/cash/sql-psi/core/0.7.3/core-0.7.3.jar",
-    "sha512": "12a8d6ff82b0f743827b71ac7f3d0efb7ac7faa76e9fdba80100ba87b7cc5a223bc88a2cc834b68ccb3b9556a4dbda283a5f87bb1546126b403f5c5f61b81456",
-    "dest": "./offline-repository/app/cash/sql-psi/core/0.7.3",
-    "dest-filename": "core-0.7.3.jar"
+    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/app.cash.sqldelight.gradle.plugin/2.4.0/app.cash.sqldelight.gradle.plugin-2.4.0.pom",
+    "sha512": "aa90c9e211cb05fe498d7158c9ae77918b288f45e90508ea942c2946297068138ab41bcdca3a455962fb2848f2e1234029ef862cbc38562d59973c1bb90ebaf5",
+    "dest": "./offline-repository/app/cash/sqldelight/app.cash.sqldelight.gradle.plugin/2.4.0",
+    "dest-filename": "app.cash.sqldelight.gradle.plugin-2.4.0.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/app/cash/sql-psi/core/0.7.3/core-0.7.3.module",
-    "sha512": "7b8a9454779f931a3fcb2e90c74d24f71a9ee8e890fa02540f82aaf71ee7262cf02e93f678c4f66a2ddfea1f91fffaf1fd13d6073160ae1314fe9dd48cd66f1d",
-    "dest": "./offline-repository/app/cash/sql-psi/core/0.7.3",
-    "dest-filename": "core-0.7.3.module"
+    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/core/2.4.0/core-2.4.0.jar",
+    "sha512": "0ecc7c74d45f3854a58f466cde1ed6a1ec0a585a9309a6d677a1a8cf1607a8e5f2c9997bb029313c0d4bfe0a120ac12bfa2ba08fdaad7eb4708078cdbfdff32a",
+    "dest": "./offline-repository/app/cash/sqldelight/core/2.4.0",
+    "dest-filename": "core-2.4.0.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/app/cash/sql-psi/core/0.7.3/core-0.7.3.pom",
-    "sha512": "255f19ac5f12c0eba0f666c46b82e2e2469c5a186ca78d2a6a199d105881764fbb685e10e8f81de195fed12a384e74038ac61c2dbd205ad23f5dbda21c03f79b",
-    "dest": "./offline-repository/app/cash/sql-psi/core/0.7.3",
-    "dest-filename": "core-0.7.3.pom"
+    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/core/2.4.0/core-2.4.0.module",
+    "sha512": "28387515a42b47cda03db526ecef125469d10b9584923e24d8ff91b67c80c134e9e68d0bacb793b9224b09be2422a4159ac20f4be52ff8f5b7323ddf9115c84a",
+    "dest": "./offline-repository/app/cash/sqldelight/core/2.4.0",
+    "dest-filename": "core-2.4.0.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/app/cash/sql-psi/environment/0.7.3/environment-0.7.3.jar",
-    "sha512": "1ea9f6f8f8aeaa495e4e6186cf1adcefaa7cbfb7106806c63377f1e0e2fabc02451183362668504b0c07fa9b112231efab316759d5cd791071c6c67df4fac01b",
-    "dest": "./offline-repository/app/cash/sql-psi/environment/0.7.3",
-    "dest-filename": "environment-0.7.3.jar"
+    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/core/2.4.0/core-2.4.0.pom",
+    "sha512": "15f4801c2e74421a8dbcbae26ee77dac576088aa646180a614b4020a236dcceb5009e2a19cbace3bb1c2fe78659faa7e6455c672d6c29cacaf6f69c44ef3af14",
+    "dest": "./offline-repository/app/cash/sqldelight/core/2.4.0",
+    "dest-filename": "core-2.4.0.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/app/cash/sql-psi/environment/0.7.3/environment-0.7.3.module",
-    "sha512": "0b6c314f090aab79dfccbf7e2ed7f6c79a0dccf4fb7f24597320328466fc97caf31a0f2cd3cfd67fad38a54ed69ab4d8efd2dc9440ff4e980c740eb6ebac4e66",
-    "dest": "./offline-repository/app/cash/sql-psi/environment/0.7.3",
-    "dest-filename": "environment-0.7.3.module"
+    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/dialect-api/2.4.0/dialect-api-2.4.0.jar",
+    "sha512": "6d28e82381ead8a7d84f54880a62f2d68f8e3f5abf3387fe3672c345e475db014d1aad5aec82c292a11bf938019235d526b360be37651893c098f8704fa9598d",
+    "dest": "./offline-repository/app/cash/sqldelight/dialect-api/2.4.0",
+    "dest-filename": "dialect-api-2.4.0.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/app/cash/sql-psi/environment/0.7.3/environment-0.7.3.pom",
-    "sha512": "0c2532106693dba16159a84b722f5ebc1226df247e321410675e1dc999864241d6a03d6a5a8af0fdcf8428688611f39ee29e4dd7528c77fd8a39efff65d083ee",
-    "dest": "./offline-repository/app/cash/sql-psi/environment/0.7.3",
-    "dest-filename": "environment-0.7.3.pom"
+    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/dialect-api/2.4.0/dialect-api-2.4.0.module",
+    "sha512": "02bc9343931e41aa3ea09d575d5fa0542a65676b6116b882ab225b536747e010a5db49c06880b29c34c1a87b6f06984680ec40b89344ab8223dd357919541686",
+    "dest": "./offline-repository/app/cash/sqldelight/dialect-api/2.4.0",
+    "dest-filename": "dialect-api-2.4.0.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/app.cash.sqldelight.gradle.plugin/2.3.2/app.cash.sqldelight.gradle.plugin-2.3.2.pom",
-    "sha512": "98f99d239639ee7e39e9cc1afb1f2287285e8132485d51fbad23e565bec78995c6e0099575a7e36a39dad968bf87ac91f4f40574cd5587df90a27057c932c0d0",
-    "dest": "./offline-repository/app/cash/sqldelight/app.cash.sqldelight.gradle.plugin/2.3.2",
-    "dest-filename": "app.cash.sqldelight.gradle.plugin-2.3.2.pom"
+    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/dialect-api/2.4.0/dialect-api-2.4.0.pom",
+    "sha512": "52cfa8207f800f462c5265a96d0c99fa028cbdb060e0ab1068b532a67fe2b14ccedd0b3ed7f553ce73359cee6f25ac4b29bae566a9883dc84a9ced308d5570a5",
+    "dest": "./offline-repository/app/cash/sqldelight/dialect-api/2.4.0",
+    "dest-filename": "dialect-api-2.4.0.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/core/2.3.2/core-2.3.2.jar",
-    "sha512": "9bb0f4bcd92908509ca1fd8c474c02c2928b943d96f40e7ba84addaa320089c520b82f1dec5917fb7e7b9ad8ed04c0775dd8c3454e23aadc7ff4adafa74f02e1",
-    "dest": "./offline-repository/app/cash/sqldelight/core/2.3.2",
-    "dest-filename": "core-2.3.2.jar"
+    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/gradle-plugin/2.4.0/gradle-plugin-2.4.0.jar",
+    "sha512": "d5df7c59b85dd413cf32b4b14636989ca4b9ee049db1ae14b934752ffa86d0657b1a25b79035cb0fe6662aab5d90ffc78deb29e7ca6f7b8fe930e8020ebdf820",
+    "dest": "./offline-repository/app/cash/sqldelight/gradle-plugin/2.4.0",
+    "dest-filename": "gradle-plugin-2.4.0.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/core/2.3.2/core-2.3.2.module",
-    "sha512": "4e6d855b7bd1ffe10fd3a1c657850ebd5d6902bd787faa06b97a78197108aab1b9311e791675373a96ce58ab55af77a6bfa0aeff90d0c9a22b2acfb6ee6851b1",
-    "dest": "./offline-repository/app/cash/sqldelight/core/2.3.2",
-    "dest-filename": "core-2.3.2.module"
+    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/gradle-plugin/2.4.0/gradle-plugin-2.4.0.module",
+    "sha512": "40b751ea7ec2819b5abe37e3831147d7f1b35c78ebde2d63a201c5cf5b6df20a3bee69781b3ce1fb6863e61bbd5c0ae706d20114961e09a70bcf56178dce181c",
+    "dest": "./offline-repository/app/cash/sqldelight/gradle-plugin/2.4.0",
+    "dest-filename": "gradle-plugin-2.4.0.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/core/2.3.2/core-2.3.2.pom",
-    "sha512": "43ec8afbf7fe3a4858a76fd4b5c81ce20c049f06288b36dbaa307207efa07b71a3113074a23d12ed0f84b60a795f39ae2dcff00626adedd5d37e66c5a21671dc",
-    "dest": "./offline-repository/app/cash/sqldelight/core/2.3.2",
-    "dest-filename": "core-2.3.2.pom"
+    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/gradle-plugin/2.4.0/gradle-plugin-2.4.0.pom",
+    "sha512": "01f862979547fab15db02fd3113bb97baed645f14b3c931d0384b2060930590952170c5c9f5c6b64d7e49c4edeecd88cfd0eb0dd76b09a91968aae55a7feddc8",
+    "dest": "./offline-repository/app/cash/sqldelight/gradle-plugin/2.4.0",
+    "dest-filename": "gradle-plugin-2.4.0.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/dialect-api/2.3.2/dialect-api-2.3.2.jar",
-    "sha512": "9a71f6a30be9381f74611eee9eef26e1e31eb93f47a389b4a2daf279d2edaa4cdb23846dd1a72f5027526c5548a74c870eb9097b2e8c8788ab8cb397e475c8bc",
-    "dest": "./offline-repository/app/cash/sqldelight/dialect-api/2.3.2",
-    "dest-filename": "dialect-api-2.3.2.jar"
+    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/migrations/2.4.0/migrations-2.4.0.jar",
+    "sha512": "4e9d6d94ff9de80802da67bbc6d68c2063f0a7208312b907bfeecb160d5990c221d5e04768f41b45f803a13e3d35c44c111c1e7f093da6b8bb5aa81284fd269d",
+    "dest": "./offline-repository/app/cash/sqldelight/migrations/2.4.0",
+    "dest-filename": "migrations-2.4.0.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/dialect-api/2.3.2/dialect-api-2.3.2.module",
-    "sha512": "4a60527beb12771d371afcdcb4b189605f4fc6ff8f4ae3395613f40bf4fa09d60bfe7f96c44b64a76dfbe7a8bd792e56d1e751fcf7308cd596bd70c935034f20",
-    "dest": "./offline-repository/app/cash/sqldelight/dialect-api/2.3.2",
-    "dest-filename": "dialect-api-2.3.2.module"
+    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/migrations/2.4.0/migrations-2.4.0.module",
+    "sha512": "5463e38aea3b5a7d8feaf4a8c28b4d6136c71f069c1200eaa3ea6ba5bb4608cb1a0cf64a5f07f8decaf79cdb2de374757f8b29842a626621bc8f0a9889554a1b",
+    "dest": "./offline-repository/app/cash/sqldelight/migrations/2.4.0",
+    "dest-filename": "migrations-2.4.0.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/dialect-api/2.3.2/dialect-api-2.3.2.pom",
-    "sha512": "0111167107d39b956836dfaa5fe7a4b34c85bb5596cf565a35c225641f61c442c26355763eaf4115e646adab7b1433b9d9200f74e8aeb1a6d938e66d11189d4b",
-    "dest": "./offline-repository/app/cash/sqldelight/dialect-api/2.3.2",
-    "dest-filename": "dialect-api-2.3.2.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/gradle-plugin/2.3.2/gradle-plugin-2.3.2.jar",
-    "sha512": "31e6236c9f75f3792f6df6e9a2df6cb39d8b23796def7c49af1df130963003c9c203fd0d05435672f6cac7bfcfc9ce20d1af3088dd37e8be42707df681d9b9ca",
-    "dest": "./offline-repository/app/cash/sqldelight/gradle-plugin/2.3.2",
-    "dest-filename": "gradle-plugin-2.3.2.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/gradle-plugin/2.3.2/gradle-plugin-2.3.2.module",
-    "sha512": "39cf295fdfeef0f6401bfc065ed51b25d8b82d1a9d3d013dc349622b1059f598c984607c9bba2b6443a8931cef232e47979a9caf4514727e500f55dd9156b939",
-    "dest": "./offline-repository/app/cash/sqldelight/gradle-plugin/2.3.2",
-    "dest-filename": "gradle-plugin-2.3.2.module"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/gradle-plugin/2.3.2/gradle-plugin-2.3.2.pom",
-    "sha512": "a31104e5162bf990925d35260871a1be751d50c0da8df6de8874ca8c52caf5f7714128fff04dcd40c1e5b8eb8b97c9138fa29647e59f95959a19323331b9397b",
-    "dest": "./offline-repository/app/cash/sqldelight/gradle-plugin/2.3.2",
-    "dest-filename": "gradle-plugin-2.3.2.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/migrations/2.3.2/migrations-2.3.2.jar",
-    "sha512": "3a70c6978afd6861a4bc843be43c96c7ff3be9586fc492f4f0807455d781aaf84bd2d3c5c292093b5d4f26eca6f160ceeba31c85a0291b915610b8c9cf9ca9cc",
-    "dest": "./offline-repository/app/cash/sqldelight/migrations/2.3.2",
-    "dest-filename": "migrations-2.3.2.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/migrations/2.3.2/migrations-2.3.2.module",
-    "sha512": "bedf3e5edd90ae530d603a2dd613d299b315eb5fb25fd04cb8015142ff1147b1645999242f5f56542702709dfe760efd9a239a8d951c763293c09464bf18ee09",
-    "dest": "./offline-repository/app/cash/sqldelight/migrations/2.3.2",
-    "dest-filename": "migrations-2.3.2.module"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/migrations/2.3.2/migrations-2.3.2.pom",
-    "sha512": "f318d5da5b3845c20248a448f31bf476830a969b7df8ceed4915da477a09430eca790f6ce28c0873c6c4875bc37162b61bdbeaa7576a6459310ba5d997239af1",
-    "dest": "./offline-repository/app/cash/sqldelight/migrations/2.3.2",
-    "dest-filename": "migrations-2.3.2.pom"
+    "url": "https://repo.maven.apache.org/maven2/app/cash/sqldelight/migrations/2.4.0/migrations-2.4.0.pom",
+    "sha512": "243b22f69bc5d69e55480bcb0085e69407873fe92a25e7e5594257b11e13c323e367f4655858fe03213cedd3be0abd1dd7e5fda3f7ccab856e5e9c252f072ad0",
+    "dest": "./offline-repository/app/cash/sqldelight/migrations/2.4.0",
+    "dest-filename": "migrations-2.4.0.pom"
   },
   {
     "type": "file",
@@ -274,122 +232,164 @@
   },
   {
     "type": "file",
-    "url": "https://dl.google.com/dl/android/maven2/com/google/firebase/crashlytics/com.google.firebase.crashlytics.gradle.plugin/3.0.7/com.google.firebase.crashlytics.gradle.plugin-3.0.7.pom",
-    "sha512": "e2d592bc6e0498b994a84e7747e5ee43fad3db57bff60edf2677568bd8c3981e2afdec16131f589451a581249c9726fdc791d4f8b3070c514255ae8fcd2d58c9",
-    "dest": "./offline-repository/com/google/firebase/crashlytics/com.google.firebase.crashlytics.gradle.plugin/3.0.7",
-    "dest-filename": "com.google.firebase.crashlytics.gradle.plugin-3.0.7.pom"
+    "url": "https://dl.google.com/dl/android/maven2/com/google/firebase/crashlytics/com.google.firebase.crashlytics.gradle.plugin/3.0.8/com.google.firebase.crashlytics.gradle.plugin-3.0.8.pom",
+    "sha512": "52b1d0d403dc94d71eeb8c058909ee5fa81b4c279ad0267f5345606def2682d77fd0a8440cd1a3308fb4a5c829f40ef00361e49c4b83c274960530f5e9623b35",
+    "dest": "./offline-repository/com/google/firebase/crashlytics/com.google.firebase.crashlytics.gradle.plugin/3.0.8",
+    "dest-filename": "com.google.firebase.crashlytics.gradle.plugin-3.0.8.pom"
   },
   {
     "type": "file",
-    "url": "https://dl.google.com/dl/android/maven2/com/google/firebase/firebase-crashlytics-buildtools/3.0.7/firebase-crashlytics-buildtools-3.0.7.jar",
-    "sha512": "c5621768a7175ba79bdb06f0f9dc210fee94d3163f80f32e875bbab5a07e4977b342f3da7a87c867b1ebdb5e85614633102bee624d71b3393fd76744332dbd5a",
-    "dest": "./offline-repository/com/google/firebase/firebase-crashlytics-buildtools/3.0.7",
-    "dest-filename": "firebase-crashlytics-buildtools-3.0.7.jar"
+    "url": "https://dl.google.com/dl/android/maven2/com/google/firebase/firebase-crashlytics-buildtools/3.0.8/firebase-crashlytics-buildtools-3.0.8.jar",
+    "sha512": "5589ebdc5ea9447406c1f681de5ea35f1fd22f4ed95aaea6a3ce56aeeabf97f7bfade601b1c7298f8c24d5ffb9e69991604b3424854f36708fb131dae8d98bdd",
+    "dest": "./offline-repository/com/google/firebase/firebase-crashlytics-buildtools/3.0.8",
+    "dest-filename": "firebase-crashlytics-buildtools-3.0.8.jar"
   },
   {
     "type": "file",
-    "url": "https://dl.google.com/dl/android/maven2/com/google/firebase/firebase-crashlytics-buildtools/3.0.7/firebase-crashlytics-buildtools-3.0.7.module",
-    "sha512": "d90eea762d1057791d0321d6ada0cc745f5e312d2a56cdb5c4202ad93e592dca3bf96b29e36ca04c80c9df6d895d1da0e0c1b9d01c9d509b05adf267e7d72217",
-    "dest": "./offline-repository/com/google/firebase/firebase-crashlytics-buildtools/3.0.7",
-    "dest-filename": "firebase-crashlytics-buildtools-3.0.7.module"
+    "url": "https://dl.google.com/dl/android/maven2/com/google/firebase/firebase-crashlytics-buildtools/3.0.8/firebase-crashlytics-buildtools-3.0.8.module",
+    "sha512": "89c9a5db4568ef89e46c221b913afeb28c9061bb32a22c57f54f5e143e0c0fa64f1998083699bba83f2c591010ae274ada8d74e308296b81b4c02495ea5bdcca",
+    "dest": "./offline-repository/com/google/firebase/firebase-crashlytics-buildtools/3.0.8",
+    "dest-filename": "firebase-crashlytics-buildtools-3.0.8.module"
   },
   {
     "type": "file",
-    "url": "https://dl.google.com/dl/android/maven2/com/google/firebase/firebase-crashlytics-buildtools/3.0.7/firebase-crashlytics-buildtools-3.0.7.pom",
-    "sha512": "ea1f319ed7c7cd43147610c517bb9f2a23b61e2a68d0ca5000c424bb35193195438c8859e0929085ac9dae1b23f3d8bc82d282194fe314e2cbed99b6b3596050",
-    "dest": "./offline-repository/com/google/firebase/firebase-crashlytics-buildtools/3.0.7",
-    "dest-filename": "firebase-crashlytics-buildtools-3.0.7.pom"
+    "url": "https://dl.google.com/dl/android/maven2/com/google/firebase/firebase-crashlytics-buildtools/3.0.8/firebase-crashlytics-buildtools-3.0.8.pom",
+    "sha512": "148155c9c5ac7175251966269b2c6d96f07e9d1030d798d55a0fbaf14230cd2230f8775882748343a560a7db42741822a59f1fe93d4886712ffcb4a2f7dd69c8",
+    "dest": "./offline-repository/com/google/firebase/firebase-crashlytics-buildtools/3.0.8",
+    "dest-filename": "firebase-crashlytics-buildtools-3.0.8.pom"
   },
   {
     "type": "file",
-    "url": "https://dl.google.com/dl/android/maven2/com/google/firebase/firebase-crashlytics-gradle/3.0.7/firebase-crashlytics-gradle-3.0.7.jar",
-    "sha512": "5f98da24b53c44115a31760bbad8584778d5565818843ca20746d510932a15ab8994928583e805c7b6316fd96f000da437ff660a623a72920816276d61229651",
-    "dest": "./offline-repository/com/google/firebase/firebase-crashlytics-gradle/3.0.7",
-    "dest-filename": "firebase-crashlytics-gradle-3.0.7.jar"
+    "url": "https://dl.google.com/dl/android/maven2/com/google/firebase/firebase-crashlytics-gradle/3.0.8/firebase-crashlytics-gradle-3.0.8.jar",
+    "sha512": "c918709208bd48bb71adb8cfd1b1e28275948fad8e55783cbf03f34d58cb19497ea9de393a089a63d5878b2c3f52aaf18fbc378e645e883993e000d60732894c",
+    "dest": "./offline-repository/com/google/firebase/firebase-crashlytics-gradle/3.0.8",
+    "dest-filename": "firebase-crashlytics-gradle-3.0.8.jar"
   },
   {
     "type": "file",
-    "url": "https://dl.google.com/dl/android/maven2/com/google/firebase/firebase-crashlytics-gradle/3.0.7/firebase-crashlytics-gradle-3.0.7.module",
-    "sha512": "18bca6cec64ea50cc4a01b75681a7f766f9372fcaf7935067639bbdb8f14429f01bf0621f7367e2049d00080a830fdf826869f1ab0a1eb78111e46f642ac22dc",
-    "dest": "./offline-repository/com/google/firebase/firebase-crashlytics-gradle/3.0.7",
-    "dest-filename": "firebase-crashlytics-gradle-3.0.7.module"
+    "url": "https://dl.google.com/dl/android/maven2/com/google/firebase/firebase-crashlytics-gradle/3.0.8/firebase-crashlytics-gradle-3.0.8.module",
+    "sha512": "970cadb327f3ba562dcc7f8cc424603792be4a2d1593992f7357cdcefcfd1a2166c71c795cf41833d0c441d54b0bb19adbb6fdf3ce29425bc2a9ceea806d7a78",
+    "dest": "./offline-repository/com/google/firebase/firebase-crashlytics-gradle/3.0.8",
+    "dest-filename": "firebase-crashlytics-gradle-3.0.8.module"
   },
   {
     "type": "file",
-    "url": "https://dl.google.com/dl/android/maven2/com/google/firebase/firebase-crashlytics-gradle/3.0.7/firebase-crashlytics-gradle-3.0.7.pom",
-    "sha512": "0923a23cadd1c8ecae9418ede8a79306b8177589c82725d3c6d45f241f902bad31450c0af1b403b11a982f7fe940b37a4f5f62a83dd7ee194e1090ee3a3b49e5",
-    "dest": "./offline-repository/com/google/firebase/firebase-crashlytics-gradle/3.0.7",
-    "dest-filename": "firebase-crashlytics-gradle-3.0.7.pom"
+    "url": "https://dl.google.com/dl/android/maven2/com/google/firebase/firebase-crashlytics-gradle/3.0.8/firebase-crashlytics-gradle-3.0.8.pom",
+    "sha512": "4c4cb8ebce32090259795b4fb07cc337d7e5dd9e1764366ad0cd7a42a6e76a63113ba432345f9f6ea99b401c792e02c0c72020e8c014e1c6cda24ad116433cff",
+    "dest": "./offline-repository/com/google/firebase/firebase-crashlytics-gradle/3.0.8",
+    "dest-filename": "firebase-crashlytics-gradle-3.0.8.pom"
   },
   {
     "type": "file",
-    "url": "https://plugins.gradle.org/m2/com/mikepenz/aboutlibraries/plugin/aboutlibraries-plugin/15.0.4/aboutlibraries-plugin-15.0.4.jar",
-    "sha512": "be5e8e3b3e535449589602bc29b98a1fa0da4717f98c52a8c78cefa9ef674def305e79832ab05084948abcddbc0cc1e2bb0d9bd66a1b3f19b9a1fee8022f1a6b",
-    "dest": "./offline-repository/com/mikepenz/aboutlibraries/plugin/aboutlibraries-plugin/15.0.4",
-    "dest-filename": "aboutlibraries-plugin-15.0.4.jar"
+    "url": "https://plugins.gradle.org/m2/com/mikepenz/aboutlibraries/plugin/aboutlibraries-plugin/15.2.0/aboutlibraries-plugin-15.2.0.jar",
+    "sha512": "dfe823353bbe3f93619cf4f72a18bb08eb8e12423f0f3f7e9b0ba49f0136ea37f39420ff4759677606c1c944ea1ad4e79cc6e1e0b2174c16793c4bc6491981e7",
+    "dest": "./offline-repository/com/mikepenz/aboutlibraries/plugin/aboutlibraries-plugin/15.2.0",
+    "dest-filename": "aboutlibraries-plugin-15.2.0.jar"
   },
   {
     "type": "file",
-    "url": "https://plugins.gradle.org/m2/com/mikepenz/aboutlibraries/plugin/aboutlibraries-plugin/15.0.4/aboutlibraries-plugin-15.0.4.module",
-    "sha512": "42407f81829940b3009f1cca7943a9835f7e08426233c6aefce1f47f274d706dc4833f945405c1fcf3f372af1eab8301aba4415b751955208d643f9372334c0f",
-    "dest": "./offline-repository/com/mikepenz/aboutlibraries/plugin/aboutlibraries-plugin/15.0.4",
-    "dest-filename": "aboutlibraries-plugin-15.0.4.module"
+    "url": "https://plugins.gradle.org/m2/com/mikepenz/aboutlibraries/plugin/aboutlibraries-plugin/15.2.0/aboutlibraries-plugin-15.2.0.module",
+    "sha512": "965e61b39070e6e427540e01500b64878e9051ffb03b10af984ab2bfc01430a254fe9796e76208916aa8bc36544851e3c727f02a6d6c0eb0c5d588f8b33e4efa",
+    "dest": "./offline-repository/com/mikepenz/aboutlibraries/plugin/aboutlibraries-plugin/15.2.0",
+    "dest-filename": "aboutlibraries-plugin-15.2.0.module"
   },
   {
     "type": "file",
-    "url": "https://plugins.gradle.org/m2/com/mikepenz/aboutlibraries/plugin/aboutlibraries-plugin/15.0.4/aboutlibraries-plugin-15.0.4.pom",
-    "sha512": "829861a2c62c0e825bf36d2c008d58f200416b1c1ff26ce1df1441a97303b9775c739fd491968d8816c488c7f31d1fe9b2b6096020310c54e88e37462a83d47d",
-    "dest": "./offline-repository/com/mikepenz/aboutlibraries/plugin/aboutlibraries-plugin/15.0.4",
-    "dest-filename": "aboutlibraries-plugin-15.0.4.pom"
+    "url": "https://plugins.gradle.org/m2/com/mikepenz/aboutlibraries/plugin/aboutlibraries-plugin/15.2.0/aboutlibraries-plugin-15.2.0.pom",
+    "sha512": "613833b00409c811a7a243a9f3ed36e02212b9429a3b4be247265b1bb5bb4cd6f716d9babc0279e2d19cab52c532027934839f43f829949ab48015615c645afa",
+    "dest": "./offline-repository/com/mikepenz/aboutlibraries/plugin/aboutlibraries-plugin/15.2.0",
+    "dest-filename": "aboutlibraries-plugin-15.2.0.pom"
   },
   {
     "type": "file",
-    "url": "https://plugins.gradle.org/m2/com/mikepenz/aboutlibraries/plugin/com.mikepenz.aboutlibraries.plugin.gradle.plugin/15.0.4/com.mikepenz.aboutlibraries.plugin.gradle.plugin-15.0.4.pom",
-    "sha512": "15b486cf69ef9caf1addad29f7b1599e4f8bbfeff5d42f22d191dd6e1ba61c8a02618d342913e405b071b5e396c64f49baee1d10869985e6dc087c978f5a8659",
-    "dest": "./offline-repository/com/mikepenz/aboutlibraries/plugin/com.mikepenz.aboutlibraries.plugin.gradle.plugin/15.0.4",
-    "dest-filename": "com.mikepenz.aboutlibraries.plugin.gradle.plugin-15.0.4.pom"
+    "url": "https://plugins.gradle.org/m2/com/mikepenz/aboutlibraries/plugin/com.mikepenz.aboutlibraries.plugin.gradle.plugin/15.2.0/com.mikepenz.aboutlibraries.plugin.gradle.plugin-15.2.0.pom",
+    "sha512": "6263a3b33ea956582e94f1ba690d5d7d93093252bbfc3959413f08b7600636e8bba2724d8798f0b1edbe1be6f537664330d4aaec368b4e378acc6bad8a2884d5",
+    "dest": "./offline-repository/com/mikepenz/aboutlibraries/plugin/com.mikepenz.aboutlibraries.plugin.gradle.plugin/15.2.0",
+    "dest-filename": "com.mikepenz.aboutlibraries.plugin.gradle.plugin-15.2.0.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/squareup/kotlinpoet-jvm/2.2.0/kotlinpoet-jvm-2.2.0.jar",
-    "sha512": "e6c9a6eb46b0f290cd412aced209f5d9d0ecd439eed06d48c82e5a537a58af4cf7e25bd6eee1d8079cf65dc2ca4a21954285b53902d721ef967cb73ff8b9f7ab",
-    "dest": "./offline-repository/com/squareup/kotlinpoet-jvm/2.2.0",
-    "dest-filename": "kotlinpoet-jvm-2.2.0.jar"
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/kotlinpoet-jvm/2.4.0/kotlinpoet-jvm-2.4.0.jar",
+    "sha512": "f27b845b13e75b069daa831f297c46f8222a99a35045be29b6a149b540aff8aa0fd1d6401d62dff88e81194488ef541f91f5aab67562d8db537e0be827a06db9",
+    "dest": "./offline-repository/com/squareup/kotlinpoet-jvm/2.4.0",
+    "dest-filename": "kotlinpoet-jvm-2.4.0.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/squareup/kotlinpoet-jvm/2.2.0/kotlinpoet-jvm-2.2.0.module",
-    "sha512": "575f410b67f27922897337a65cce98de157e6f554e4c2b08eb4b22c5a5bf3c8b7896250e07c4c3d5b9345df5a4ed4309a7f4c2a560802755de660a4469b1ac13",
-    "dest": "./offline-repository/com/squareup/kotlinpoet-jvm/2.2.0",
-    "dest-filename": "kotlinpoet-jvm-2.2.0.module"
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/kotlinpoet-jvm/2.4.0/kotlinpoet-jvm-2.4.0.module",
+    "sha512": "3c5233fa9a692a226a6ac5badf331001088de69ed8fa244e6b235d726c992525074004832d0c12b1c51e75ed573a378afb9b7513e762b5b050aff3c2bb7a7d49",
+    "dest": "./offline-repository/com/squareup/kotlinpoet-jvm/2.4.0",
+    "dest-filename": "kotlinpoet-jvm-2.4.0.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/squareup/kotlinpoet-jvm/2.2.0/kotlinpoet-jvm-2.2.0.pom",
-    "sha512": "8af1c560ba3c552308b38946c82149a91ee52fd6a125b0f3cd33ecfbfb1b918ee1b60e31fdd4f1c5705ed87a199d1992e3cbd5c6e4d4486ba1f32682b57442f7",
-    "dest": "./offline-repository/com/squareup/kotlinpoet-jvm/2.2.0",
-    "dest-filename": "kotlinpoet-jvm-2.2.0.pom"
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/kotlinpoet-jvm/2.4.0/kotlinpoet-jvm-2.4.0.pom",
+    "sha512": "4a37db4bcf4cfd2ce2c57976f8b573530da475bae0ff76e109aa20a1e112f23e721926ae90bf80811352721c937844e9d5c701601d44762dbb703978b0cf2c4d",
+    "dest": "./offline-repository/com/squareup/kotlinpoet-jvm/2.4.0",
+    "dest-filename": "kotlinpoet-jvm-2.4.0.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/squareup/kotlinpoet/2.2.0/../../kotlinpoet-jvm/2.2.0/kotlinpoet-jvm-2.2.0.module",
-    "sha512": "575f410b67f27922897337a65cce98de157e6f554e4c2b08eb4b22c5a5bf3c8b7896250e07c4c3d5b9345df5a4ed4309a7f4c2a560802755de660a4469b1ac13",
-    "dest": "./offline-repository/com/squareup/kotlinpoet/2.2.0/../../kotlinpoet-jvm/2.2.0",
-    "dest-filename": "kotlinpoet-jvm-2.2.0.module"
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/kotlinpoet/2.4.0/../../kotlinpoet-jvm/2.4.0/kotlinpoet-jvm-2.4.0.module",
+    "sha512": "3c5233fa9a692a226a6ac5badf331001088de69ed8fa244e6b235d726c992525074004832d0c12b1c51e75ed573a378afb9b7513e762b5b050aff3c2bb7a7d49",
+    "dest": "./offline-repository/com/squareup/kotlinpoet/2.4.0/../../kotlinpoet-jvm/2.4.0",
+    "dest-filename": "kotlinpoet-jvm-2.4.0.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/squareup/kotlinpoet/2.2.0/kotlinpoet-2.2.0.module",
-    "sha512": "db99d6a283e2b9d795ec6fa1c9ffeb901e18bd9fa486c06b80f87378cd5104ed6bb9e4db8d3e70fa653e1ac15402124ba664bce3f70895e42c5587002f49c487",
-    "dest": "./offline-repository/com/squareup/kotlinpoet/2.2.0",
-    "dest-filename": "kotlinpoet-2.2.0.module"
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/kotlinpoet/2.4.0/kotlinpoet-2.4.0.module",
+    "sha512": "af61aad81697efb579d8aa8396ef6e82191a38a4b44840de6f6eb1f4b5549b1ae2231c97a9ea042278905a99016fcbea6309f7b7867814d940264c512b143395",
+    "dest": "./offline-repository/com/squareup/kotlinpoet/2.4.0",
+    "dest-filename": "kotlinpoet-2.4.0.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/squareup/kotlinpoet/2.2.0/kotlinpoet-2.2.0.pom",
-    "sha512": "c73ec6753346271c1b6ee48835a4f864bf2158264e5382ace5f0de840358e01afe840341056dd0cb6037eff580aff8ef8c93155711606523cf7080767db947bd",
-    "dest": "./offline-repository/com/squareup/kotlinpoet/2.2.0",
-    "dest-filename": "kotlinpoet-2.2.0.pom"
+    "url": "https://repo.maven.apache.org/maven2/com/squareup/kotlinpoet/2.4.0/kotlinpoet-2.4.0.pom",
+    "sha512": "d792fc7616dffb6471e72f89402ebc85e90437f32d54f3f1c0cffad68237939109eaa546967d33f622b087c7aedefc6b74764777cebb0df75cd5aa90be5a9987",
+    "dest": "./offline-repository/com/squareup/kotlinpoet/2.4.0",
+    "dest-filename": "kotlinpoet-2.4.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/dev/lysine/sql-psi/core/0.8.0/core-0.8.0.jar",
+    "sha512": "bd1abc6fec6b1248502216106661c226f4d58ef9725508cc1b5334be7aac0463eb99a26b74fa0151df3fd1322de6b8ed958f8ee0122dd6a65db42a849d01d3a7",
+    "dest": "./offline-repository/dev/lysine/sql-psi/core/0.8.0",
+    "dest-filename": "core-0.8.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/dev/lysine/sql-psi/core/0.8.0/core-0.8.0.module",
+    "sha512": "953260ea99b909ea657fd7b8fc0dde5737658aa97e0a6af7917f2086f2255287339b4a810fc80b4b42d459cb3dc66a7e3b82c83c6df1407846917046529bef92",
+    "dest": "./offline-repository/dev/lysine/sql-psi/core/0.8.0",
+    "dest-filename": "core-0.8.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/dev/lysine/sql-psi/core/0.8.0/core-0.8.0.pom",
+    "sha512": "6b815fdbdef9069671939efa7bf4f2b5c91c5e18bd09d512640d28b9853011a8c6add7db9bfc3696263350dbe824db88e18c8b8279f892db5bee70f8243f95f4",
+    "dest": "./offline-repository/dev/lysine/sql-psi/core/0.8.0",
+    "dest-filename": "core-0.8.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/dev/lysine/sql-psi/environment/0.8.0/environment-0.8.0.jar",
+    "sha512": "c34740680b035110e04be66d7edcf244f287e7745a081246ccf6478f89d1e1147326591e791c40ec111c9429cd36a3948ad26599685514eefd7463d7795a9507",
+    "dest": "./offline-repository/dev/lysine/sql-psi/environment/0.8.0",
+    "dest-filename": "environment-0.8.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/dev/lysine/sql-psi/environment/0.8.0/environment-0.8.0.module",
+    "sha512": "421e42f21837bbca2840dade85c12eb30f014e8e278c03f37b8a6d6b5bfeab89c64eb5edc97e2bc5d66d520a15fad3e319925e06ea5e536d0e302f98675bce8d",
+    "dest": "./offline-repository/dev/lysine/sql-psi/environment/0.8.0",
+    "dest-filename": "environment-0.8.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/dev/lysine/sql-psi/environment/0.8.0/environment-0.8.0.pom",
+    "sha512": "c5a5755fc54c28a56e2963c8d1d8b6aaae0880ebf21e2cf7ef3ff61b7da6710fecd756459968419c3baf1981296470811d4628c226585dbc79f335ed080ff56e",
+    "dest": "./offline-repository/dev/lysine/sql-psi/environment/0.8.0",
+    "dest-filename": "environment-0.8.0.pom"
   },
   {
     "type": "file",
@@ -477,17 +477,17 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/apache/ivy/ivy/2.5.3/ivy-2.5.3.jar",
-    "sha512": "be291ddf612703fd3657a72820199430d053a8e06f7631e78477b428ba343631bc36b16bde8c25df544b64b420be84568d3898921f8db63fe676fb590586355b",
-    "dest": "./offline-repository/org/apache/ivy/ivy/2.5.3",
-    "dest-filename": "ivy-2.5.3.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/apache/ivy/ivy/2.6.0/ivy-2.6.0.jar",
+    "sha512": "0e66c0908287112b8a63e468a572ea265767225422bfb17ff3ec9deaa647d2aafbf79b0fa18d021fc3a3e0f8cabc7c07e7c4e613f1d49a538987c49df836dd29",
+    "dest": "./offline-repository/org/apache/ivy/ivy/2.6.0",
+    "dest-filename": "ivy-2.6.0.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/apache/ivy/ivy/2.5.3/ivy-2.5.3.pom",
-    "sha512": "9e255e24ae8d451373f8a19f732e610370b953035b01fe03d67a3bf0ee33dfde0155aad91c28eeabb8a0349b9883cd56118a497a5d7e81e222074e9ef88714c0",
-    "dest": "./offline-repository/org/apache/ivy/ivy/2.5.3",
-    "dest-filename": "ivy-2.5.3.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/apache/ivy/ivy/2.6.0/ivy-2.6.0.pom",
+    "sha512": "277726cafb3b01a691dbd1e8fdb061d269c50716be6f8c1572225f35ae4880afaa6428f4db4bd5a6a5f2e0f12c6544ab127f08397f9ffb676ec69d79f28dc91d",
+    "dest": "./offline-repository/org/apache/ivy/ivy/2.6.0",
+    "dest-filename": "ivy-2.6.0.pom"
   },
   {
     "type": "file",
@@ -561,24 +561,24 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/apfloat/apfloat-parent/1.10.1/apfloat-parent-1.10.1.pom",
-    "sha512": "575746c77f315f0230d56ae021a2487a1ec30a19f4a4597834af066dc4403ac96d8bd120d6e3fdc4d3b8797be15ad9cb2c09cd3f084bc82af942936243210e03",
-    "dest": "./offline-repository/org/apfloat/apfloat-parent/1.10.1",
-    "dest-filename": "apfloat-parent-1.10.1.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/apfloat/apfloat-parent/1.14.0/apfloat-parent-1.14.0.pom",
+    "sha512": "38df0db3ac185f9ef641fcb5c2c37ecaada95be023116d2a287359f8e1b2f3993cb980446c758346f93b992056dc6a5717faa2e9d69ceb0e33a70e78e8aba0ee",
+    "dest": "./offline-repository/org/apfloat/apfloat-parent/1.14.0",
+    "dest-filename": "apfloat-parent-1.14.0.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/apfloat/apfloat/1.10.1/apfloat-1.10.1.jar",
-    "sha512": "63424d8721330d8367c6a60b67babf98764c05ea30a2538ef8c4a7110a1fb546627b3249e2039a2f1a2c05858b37274d8c361e8473695eab5a59bc6704bde0dd",
-    "dest": "./offline-repository/org/apfloat/apfloat/1.10.1",
-    "dest-filename": "apfloat-1.10.1.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/apfloat/apfloat/1.14.0/apfloat-1.14.0.jar",
+    "sha512": "c86beadb515b842353e0b235cc1a6b36cdc1bc3a58338f78f634c8844d652fd5e69a10d19b3c02568341df6fdc27aefccdc3542448760355e30dcf302a674581",
+    "dest": "./offline-repository/org/apfloat/apfloat/1.14.0",
+    "dest-filename": "apfloat-1.14.0.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/apfloat/apfloat/1.10.1/apfloat-1.10.1.pom",
-    "sha512": "df1a8e04757bb2ed597e87654ad4eff05c19da0ecce84a3bcb893ff154961dde62bde745e6d5f0ce7569cb2b905347d11656e0956d3d6219c78937cb722368b6",
-    "dest": "./offline-repository/org/apfloat/apfloat/1.10.1",
-    "dest-filename": "apfloat-1.10.1.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/apfloat/apfloat/1.14.0/apfloat-1.14.0.pom",
+    "sha512": "e8875229c7f81d9b10510aab9c5dbf96e05fc98349f91d242e3d71f6f850bfc688da60274b5dd9173fcbf680510c8b296264d23ab37875395e7b1d16bf897ea5",
+    "dest": "./offline-repository/org/apfloat/apfloat/1.14.0",
+    "dest-filename": "apfloat-1.14.0.pom"
   },
   {
     "type": "file",
@@ -659,24 +659,24 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.11.1/compose-gradle-plugin-1.11.1.jar",
-    "sha512": "781058ebcac56cf090075c76a116adb1f8121a212d8626ecc17262a985c9ed0955a764c3f9292e5be06982a65d62c399409e462828af9683ea2d9806d1eab877",
-    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.11.1",
-    "dest-filename": "compose-gradle-plugin-1.11.1.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.12.1/compose-gradle-plugin-1.12.1.jar",
+    "sha512": "714079ebaaa88a47f7c3593f00bb5219a0d887077f572fd082488532dab0cf6294744b300cccd392db3cef6d55b6f15a447ab0515714a31f1128922e1cafdbaa",
+    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.12.1",
+    "dest-filename": "compose-gradle-plugin-1.12.1.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.11.1/compose-gradle-plugin-1.11.1.module",
-    "sha512": "1ca92b2382e5a75747c8acdfe87f49eba320b31ff8d5833426dff10bd8126a2c09a44868dc7492e995f2e33793d46af3cc70dfd0a4e9445d762b30d5d5690e17",
-    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.11.1",
-    "dest-filename": "compose-gradle-plugin-1.11.1.module"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.12.1/compose-gradle-plugin-1.12.1.module",
+    "sha512": "efc080635c80140a1427ba6dca01e1070c3176f1fb070a758f20ea3ec19dd798aeafbf25a0ed89ddeca078085f2ea2d478fa5f03f185fb1f43fb73f4e5e58960",
+    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.12.1",
+    "dest-filename": "compose-gradle-plugin-1.12.1.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.11.1/compose-gradle-plugin-1.11.1.pom",
-    "sha512": "8a21e33501ba6f0940849c3c8a1d7f34da1c781468cfa009cfbc3e3ab8994073b283ce504984b33fd339caa43e5763fd987e08b453266345913c3455b84433d3",
-    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.11.1",
-    "dest-filename": "compose-gradle-plugin-1.11.1.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/compose-gradle-plugin/1.12.1/compose-gradle-plugin-1.12.1.pom",
+    "sha512": "09d7117b165deb4b8ab5c4fb4f8e8310804b9ce7df3ca815eec38772cd6fbbf259c19573fc4506e7e1b753bed28330bcd5c5dfed6324cfe9161e8756cbdd88e9",
+    "dest": "./offline-repository/org/jetbrains/compose/compose-gradle-plugin/1.12.1",
+    "dest-filename": "compose-gradle-plugin-1.12.1.pom"
   },
   {
     "type": "file",
@@ -708,10 +708,10 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/org.jetbrains.compose.gradle.plugin/1.11.1/org.jetbrains.compose.gradle.plugin-1.11.1.pom",
-    "sha512": "f83fa6266e2e41db9ab3b42a0e4a54db5b088fb43d47020ac4256b7b584fec245443fed04f7eb754e353c177417bc137dd122fde56e1faa7dd37300e43ff6a07",
-    "dest": "./offline-repository/org/jetbrains/compose/org.jetbrains.compose.gradle.plugin/1.11.1",
-    "dest-filename": "org.jetbrains.compose.gradle.plugin-1.11.1.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/org.jetbrains.compose.gradle.plugin/1.12.1/org.jetbrains.compose.gradle.plugin-1.12.1.pom",
+    "sha512": "aa2aae9f802dec1218bfabae970ff27732b8b67c9c1422436936b6893be77b176b1d7bdadb1e29c95f6777c7a8737236b53781f867d8222500b102432b636916",
+    "dest": "./offline-repository/org/jetbrains/compose/org.jetbrains.compose.gradle.plugin/1.12.1",
+    "dest-filename": "org.jetbrains.compose.gradle.plugin-1.12.1.pom"
   },
   {
     "type": "file",
@@ -1198,24 +1198,24 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jgrapht/jgrapht-core/1.5.2/jgrapht-core-1.5.2.jar",
-    "sha512": "e409474f8b7293c23beed68b37d6ed86756bcef817e877111fed38b80579794395991e3f0845fd0bc88958f6d485e5b38ead9af4b6f368886ad82df16cdfe60b",
-    "dest": "./offline-repository/org/jgrapht/jgrapht-core/1.5.2",
-    "dest-filename": "jgrapht-core-1.5.2.jar"
+    "url": "https://repo.maven.apache.org/maven2/org/jgrapht/jgrapht-core/1.5.3/jgrapht-core-1.5.3.jar",
+    "sha512": "1c91d3ac21decca6687094f0f6dba500247fa8a4fd8be323d58ea8053924e09ab52091d3f04a70b768fa41b79faf2f77cbd10b6ba5be5435c41fb17812c47ba3",
+    "dest": "./offline-repository/org/jgrapht/jgrapht-core/1.5.3",
+    "dest-filename": "jgrapht-core-1.5.3.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jgrapht/jgrapht-core/1.5.2/jgrapht-core-1.5.2.pom",
-    "sha512": "5dc04c355ca9c6c8af9654123f24ebad604e5a0f50765eab3ac9b398193af3decb307f353f5c101e287544d0c6f1a8de2bc1c1c33c16210966f8cb38f8522cbe",
-    "dest": "./offline-repository/org/jgrapht/jgrapht-core/1.5.2",
-    "dest-filename": "jgrapht-core-1.5.2.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jgrapht/jgrapht-core/1.5.3/jgrapht-core-1.5.3.pom",
+    "sha512": "4d59fac3d497737a0bcb4a44ebf5c6d857069bb95d9538b9fe63d62a7799c2061394e8fe4ad311db4c77e8c2c120d61ad3156ff58e787747b86194a454abc468",
+    "dest": "./offline-repository/org/jgrapht/jgrapht-core/1.5.3",
+    "dest-filename": "jgrapht-core-1.5.3.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/org/jgrapht/jgrapht/1.5.2/jgrapht-1.5.2.pom",
-    "sha512": "19583a0e1480e1c59d33abbece5e4aa51e1e29a5330e029a12afd0570fe96450622626202a9da3d73891015581fe8a2130788960ea78afcbbc39b29b2bf9389f",
-    "dest": "./offline-repository/org/jgrapht/jgrapht/1.5.2",
-    "dest-filename": "jgrapht-1.5.2.pom"
+    "url": "https://repo.maven.apache.org/maven2/org/jgrapht/jgrapht/1.5.3/jgrapht-1.5.3.pom",
+    "sha512": "ad2f77619ef0046fd26326b82469164d63eb0d20d0fa21fdd74358a1f0c3277c25f341dc3d1e88b2f931acb290c62f900ee686801b93a9ac817dc362eae6008e",
+    "dest": "./offline-repository/org/jgrapht/jgrapht/1.5.3",
+    "dest-filename": "jgrapht-1.5.3.pom"
   },
   {
     "type": "file",
