@@ -1,9 +1,10 @@
 app-id: com.prof18.feedflow
 runtime: org.freedesktop.Platform
-runtime-version: '24.08'
+runtime-version: '25.08'
 sdk: org.freedesktop.Sdk
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.openjdk21
+  - org.freedesktop.Sdk.Extension.openjdk25
 command: feedflow
 finish-args:
   - --share=network
@@ -20,13 +21,13 @@ modules:
       - tar xzf jbr-*.tar.gz -C /app/jre --strip-components=1
     sources:
       - type: file
-        url: https://cache-redirector.jetbrains.com/intellij-jbr/jbr-21.0.10-linux-x64-b1163.105.tar.gz
-        sha256: b6a3b13451d296140727bbde9325dd9ee422e2e9b2c6a9378f346f1b8d1111bc
+        url: https://cache-redirector.jetbrains.com/intellij-jbr/jbr-25.0.4.1-linux-x64-b623.69.tar.gz
+        sha512: fcc442dcb13aca4358875f7d68819e057a4e045cea845ef188b0caf1b4be2179b8dcf7b6c8cb7d60ecb65275a5b8ee05ba4016f9fdd8d368e53ea629aab0953e
         only-arches:
           - x86_64
       - type: file
-        url: https://cache-redirector.jetbrains.com/intellij-jbr/jbr-21.0.10-linux-aarch64-b1163.105.tar.gz
-        sha256: 38804f526d869f5a9c49e9b90c04edcbc918b41e8e43264e5d5076d352a959bc
+        url: https://cache-redirector.jetbrains.com/intellij-jbr/jbr-25.0.4.1-linux-aarch64-b623.69.tar.gz
+        sha512: 3fae28e0080bdd8ffaf39f80ca51141dd17adaeb83b955141dc206f3a1d94863a6491f41601921d0590d11d0047741afb9fec424d5fdbfe7b2c294cba9d3f249
         only-arches:
           - aarch64
 
@@ -46,12 +47,14 @@ modules:
       - mkdir -p /app/bin
       - install -Dm755 desktopApp/packaging/flatpak/feedflow.sh /app/bin/feedflow
     sources:
+      # Test pin for the Jewel desktop branch; replace with the release tag before merging.
       - type: git
         url: https://github.com/prof18/feed-flow
-        tag: 1.18.0-all
+        branch: desktop-settings-sidebar-polish
+        commit: 9529ad2b180a9784df87c98c59ae559845952659
       - type: file
-        url: "https://services.gradle.org/distributions/gradle-9.1.0-bin.zip"
-        sha256: "a17ddd85a26b6a7f5ddb71ff8b05fc5104c0202c6e64782429790c933686c806"
+        url: "https://services.gradle.org/distributions/gradle-9.7.1-bin.zip"
+        sha256: "acd53f1edaf02f1a8ff99879f8a34b302661a057d9b063ae9e35b552f804d20a"
         dest: "gradle/wrapper"
         dest-filename: "gradle-bin.zip"
       - flatpak-sources.json
