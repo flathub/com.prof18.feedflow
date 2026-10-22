@@ -2161,5 +2161,75 @@
     "sha512": "c2a96c840dd9ff43a6585963a2ccb13e402d91d9bb69985f6d159d98d7c1220763fe4349e327cf5a424bfa2d243e1702ea8878e7e050243edfd0ed5ca340f026",
     "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-metadata-jvm/2.2.0",
     "dest-filename": "kotlin-metadata-jvm-2.2.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://www.jetbrains.com/intellij-repository/releases/com/jetbrains/intellij/platform/icons/262.10968.63/icons-262.10968.63.jar",
+    "sha512": "a6d1676fec8fbe646a9895d1030ff0a9e7b65a928996cdf92043cb27e4e8def34a5f10287300aeb29f96ad02734e2af7fbfa93c9a6b465786afad79baf957b0e",
+    "dest": "./offline-repository/com/jetbrains/intellij/platform/icons/262.10968.63",
+    "dest-filename": "icons-262.10968.63.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://www.jetbrains.com/intellij-repository/releases/com/jetbrains/intellij/platform/icons/262.10968.63/icons-262.10968.63.pom",
+    "sha512": "f923c25619c1a6c95a1fc31a93a144b21e2de1cb9a8dd929c3f1b1105fda7883c130927b8598ecad69c5460fb462506db774febc5bd271ac3683dd3ff5e76f5c",
+    "dest": "./offline-repository/com/jetbrains/intellij/platform/icons/262.10968.63",
+    "dest-filename": "icons-262.10968.63.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-mock/3.6.0/ktor-client-mock-3.6.0.jar",
+    "sha512": "5177be62ed3c0efe206a004fb367d23825b99c224ef978772dd97b2d2f939fa2df5a60a231423d0f17f08d768275ca7b807fe036042906da26cea12af3802abb",
+    "dest": "./offline-repository/io/ktor/ktor-client-mock/3.6.0",
+    "dest-filename": "ktor-client-mock-3.6.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-mock/3.6.0/ktor-client-mock-3.6.0.pom",
+    "sha512": "f7b85953f12cf836b4414e0a96cd0090fcaccf3f7d1256342b32e522564e81f056b292a5a3659923145e81d27cdb1ced2319ed12d0ee5de646f533fc30d23664",
+    "dest": "./offline-repository/io/ktor/ktor-client-mock/3.6.0",
+    "dest-filename": "ktor-client-mock-3.6.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-mock/3.6.0/ktor-client-mock-3.6.0.module",
+    "sha512": "55c29a51bff31d863b1cd4c0ec657233d07441e4ada4bbfab5b603bcfc96d2c21fbfae0abe73682548e0ceb243c65dadf5cb65fc06af985580886c492b2b6be6",
+    "dest": "./offline-repository/io/ktor/ktor-client-mock/3.6.0",
+    "dest-filename": "ktor-client-mock-3.6.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-mock-jvm/3.6.0/ktor-client-mock-jvm-3.6.0.jar",
+    "sha512": "b754ea61eb2d5377f364a24c1dcc5cd6035fb6aaaccc21d1c0efa7a3f08334ce96490b8cb99173f65710f5cb727473dab42c89c5102528905e528cc8147cc088",
+    "dest": "./offline-repository/io/ktor/ktor-client-mock-jvm/3.6.0",
+    "dest-filename": "ktor-client-mock-jvm-3.6.0.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-mock-jvm/3.6.0/ktor-client-mock-jvm-3.6.0.pom",
+    "sha512": "e4d82ec95305658137c0847f0a1b55bfc504dba087bf1eb4b2dd09b1ee9bb3cfc91968cf39f2b68b3451f97f1cceb2f6d0145006795ce33951ec33b38cdc657d",
+    "dest": "./offline-repository/io/ktor/ktor-client-mock-jvm/3.6.0",
+    "dest-filename": "ktor-client-mock-jvm-3.6.0.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-mock-jvm/3.6.0/ktor-client-mock-jvm-3.6.0.module",
+    "sha512": "a9a6044018bd405d8d288a177b5898ce2a1171d5f56a2dd659c7fa17e9ea4cdbf2b69b3a381d1c752772d8c72b6867ee8d84d4c7eccee823126da12a39d88f08",
+    "dest": "./offline-repository/io/ktor/ktor-client-mock-jvm/3.6.0",
+    "dest-filename": "ktor-client-mock-jvm-3.6.0.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.12.2/desktop-jvm-linux-arm64-1.12.2.pom",
+    "sha512": "b1d182aeb1f0d347e933c75e1190086058da049b1b5ef9189a0ada026e755dd48b3ebd4ab3e19b4d54f47ab8811773b1e5b0819aee663b9e1e5cf31c7afaacc3",
+    "dest": "./offline-repository/org/jetbrains/compose/desktop/desktop-jvm-linux-arm64/1.12.2",
+    "dest-filename": "desktop-jvm-linux-arm64-1.12.2.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.150.2/skiko-awt-runtime-linux-arm64-0.150.2.jar",
+    "sha512": "596e477c14cf2c32ccc052dbab4ec92565960e3d1fd2a874d7296825d43be1e4ab38644a636256768e39d6304bffa7e4ddf483b5acb2afab090ca39309904c13",
+    "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.150.2",
+    "dest-filename": "skiko-awt-runtime-linux-arm64-0.150.2.jar"
   }
 ]
