@@ -2087,104 +2087,6 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/composables/composeunstyled-build-modifier-jvm/2.10.0/composeunstyled-build-modifier-jvm-2.10.0.jar",
-    "sha512": "eb9c43c448bed9576d9957ca29c0e459c4992a90cc66fb5c12473f0af080df9088b66b8f8ff73b3fcdccc0c071f38cb5d43f74e4c82431cda5ca48b3b490f191",
-    "dest": "./offline-repository/com/composables/composeunstyled-build-modifier-jvm/2.10.0",
-    "dest-filename": "composeunstyled-build-modifier-jvm-2.10.0.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/composables/composeunstyled-build-modifier-jvm/2.10.0/composeunstyled-build-modifier-jvm-2.10.0.module",
-    "sha512": "29898eb3907bad9d5644e8cc4aba3d5a91cf2be372eaf7b63e5c68a85ecf5ab294257cad3b36adcad29fbed725ef514a19ebbc280fddb3f59a20c414c79ceda7",
-    "dest": "./offline-repository/com/composables/composeunstyled-build-modifier-jvm/2.10.0",
-    "dest-filename": "composeunstyled-build-modifier-jvm-2.10.0.module"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/composables/composeunstyled-build-modifier-jvm/2.10.0/composeunstyled-build-modifier-jvm-2.10.0.pom",
-    "sha512": "b9e58c1480f77b8610f9952e0b6c1c3d34a2e355c0be96be437277b91541dee378bde07f0f5467b87db39ce5f61d9c418ff630cbfeaf3333399a1873f4ad7f7c",
-    "dest": "./offline-repository/com/composables/composeunstyled-build-modifier-jvm/2.10.0",
-    "dest-filename": "composeunstyled-build-modifier-jvm-2.10.0.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/composables/composeunstyled-build-modifier/2.10.0/../../composeunstyled-build-modifier-jvm/2.10.0/composeunstyled-build-modifier-jvm-2.10.0.module",
-    "sha512": "29898eb3907bad9d5644e8cc4aba3d5a91cf2be372eaf7b63e5c68a85ecf5ab294257cad3b36adcad29fbed725ef514a19ebbc280fddb3f59a20c414c79ceda7",
-    "dest": "./offline-repository/com/composables/composeunstyled-build-modifier/2.10.0/../../composeunstyled-build-modifier-jvm/2.10.0",
-    "dest-filename": "composeunstyled-build-modifier-jvm-2.10.0.module"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/composables/composeunstyled-build-modifier/2.10.0/composeunstyled-build-modifier-2.10.0.jar",
-    "sha512": "f23a95c31e278492932c4fc8af3b49831d775fdabfcd4a4184e8aa46f3d10a9757b54896a3318fe97d1c5564dbdc8b780fa870d3a4872ce01b3a2f2545306c41",
-    "dest": "./offline-repository/com/composables/composeunstyled-build-modifier/2.10.0",
-    "dest-filename": "composeunstyled-build-modifier-2.10.0.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/composables/composeunstyled-build-modifier/2.10.0/composeunstyled-build-modifier-2.10.0.module",
-    "sha512": "fecf0ba643a25600d23d04a3a6440ed173c3cff728c11f0d7a6458aaf0c3fc5b1d6cef85c4d9d758821578d316f9ad165a05dba51c02eb13affa730bd7802d28",
-    "dest": "./offline-repository/com/composables/composeunstyled-build-modifier/2.10.0",
-    "dest-filename": "composeunstyled-build-modifier-2.10.0.module"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/composables/composeunstyled-build-modifier/2.10.0/composeunstyled-build-modifier-2.10.0.pom",
-    "sha512": "1e10d115607e0f09ed820f3ed898b96d75d0af55e309a94dcf017e2494900987518efe639c295249adacab2db37a5e31b76f8616a764d4d897abe65a65601938",
-    "dest": "./offline-repository/com/composables/composeunstyled-build-modifier/2.10.0",
-    "dest-filename": "composeunstyled-build-modifier-2.10.0.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/composables/composeunstyled-scrollbars-jvm/2.10.0/composeunstyled-scrollbars-jvm-2.10.0.jar",
-    "sha512": "d1546a1ae986aa3ccfad8996033bc026662467cebb9558d8f2e9f6c9684388e7ab214af95fa9e2e625057c9b691be5c718b21acd07b0e1510dca8412211f51a3",
-    "dest": "./offline-repository/com/composables/composeunstyled-scrollbars-jvm/2.10.0",
-    "dest-filename": "composeunstyled-scrollbars-jvm-2.10.0.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/composables/composeunstyled-scrollbars-jvm/2.10.0/composeunstyled-scrollbars-jvm-2.10.0.module",
-    "sha512": "0999b77562216dc9c5c1bfb8719ec2067ac479ced90fd68b1f743fee8a8264f2aa42acc6a5e936fd9f487c409a7b2e03a1e11e704bdf3cda394ad8545ad5efe4",
-    "dest": "./offline-repository/com/composables/composeunstyled-scrollbars-jvm/2.10.0",
-    "dest-filename": "composeunstyled-scrollbars-jvm-2.10.0.module"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/composables/composeunstyled-scrollbars-jvm/2.10.0/composeunstyled-scrollbars-jvm-2.10.0.pom",
-    "sha512": "a43ae298259cca0b9ad99c324437f418ba3e3f4a4be9e9207eb84d9b08e858f5b2f40e190fe525038270cdf21028f621fb01e630b8f7e5563ebd9ae7e22a7326",
-    "dest": "./offline-repository/com/composables/composeunstyled-scrollbars-jvm/2.10.0",
-    "dest-filename": "composeunstyled-scrollbars-jvm-2.10.0.pom"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/composables/composeunstyled-scrollbars/2.10.0/../../composeunstyled-scrollbars-jvm/2.10.0/composeunstyled-scrollbars-jvm-2.10.0.module",
-    "sha512": "0999b77562216dc9c5c1bfb8719ec2067ac479ced90fd68b1f743fee8a8264f2aa42acc6a5e936fd9f487c409a7b2e03a1e11e704bdf3cda394ad8545ad5efe4",
-    "dest": "./offline-repository/com/composables/composeunstyled-scrollbars/2.10.0/../../composeunstyled-scrollbars-jvm/2.10.0",
-    "dest-filename": "composeunstyled-scrollbars-jvm-2.10.0.module"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/composables/composeunstyled-scrollbars/2.10.0/composeunstyled-scrollbars-2.10.0.jar",
-    "sha512": "891efa827175f6bc34bd2389feace5d55ebc54e4f0a0835f6316ac206293c40c29ba55f2253a7d6a40d485b3a8baaf770e15ac160512c236210a97ce82c9182f",
-    "dest": "./offline-repository/com/composables/composeunstyled-scrollbars/2.10.0",
-    "dest-filename": "composeunstyled-scrollbars-2.10.0.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/composables/composeunstyled-scrollbars/2.10.0/composeunstyled-scrollbars-2.10.0.module",
-    "sha512": "1682e773365fdb9acea76d1aee140f7a6b71c224d0dfd636e87a41efc7f13139a3022b4c086c859e534c6de68950e2bd6808c6cc143aa1a1e851d52edc0cf56c",
-    "dest": "./offline-repository/com/composables/composeunstyled-scrollbars/2.10.0",
-    "dest-filename": "composeunstyled-scrollbars-2.10.0.module"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/composables/composeunstyled-scrollbars/2.10.0/composeunstyled-scrollbars-2.10.0.pom",
-    "sha512": "d2cdcf9d698869bec71b7e1f867b90cfad7608ab2678cfe5411bc472212c2a8f157f9ec2a862745c1ebbe8c27fa3b33557066dea71e761ce937427584a3c9417",
-    "dest": "./offline-repository/com/composables/composeunstyled-scrollbars/2.10.0",
-    "dest-filename": "composeunstyled-scrollbars-2.10.0.pom"
-  },
-  {
-    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/com/composables/composeunstyled-slider-jvm/2.10.0/composeunstyled-slider-jvm-2.10.0.jar",
     "sha512": "5490005dd4effd11e69930e1f3b3821b0798976cd00d714e98525c029b6e94ad58122a1108d3c1b7e8d4606ef2382fb31ec130eb14065bc2d947742779ff9e1b",
     "dest": "./offline-repository/com/composables/composeunstyled-slider-jvm/2.10.0",
@@ -3270,6 +3172,13 @@
   },
   {
     "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava/33.4.8-android/../33.4.8-jre/guava-33.4.8-jre.jar",
+    "sha512": "82c43d82fee2b3264e53cd2e9451865f9467ec0baa68d0ddfffa06a1e5465872913150ef96e99ea91daec4387248d832ec9398859f2fa5f08f65caf103306ba3",
+    "dest": "./offline-repository/com/google/guava/guava/33.4.8-android",
+    "dest-filename": "../33.4.8-jre/guava-33.4.8-jre.jar"
+  },
+  {
+    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava/33.4.8-android/guava-33.4.8-android.module",
     "sha512": "295489ff01176ce48f1846069b059ff800c39e211f1b5978ca61b2055b51c18dcf3024725acdcafc00b8c167eb92f7b17410a8803fea5c256116cce91e635464",
     "dest": "./offline-repository/com/google/guava/guava/33.4.8-android",
@@ -3641,52 +3550,52 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/prof18/klead-jvm/0.0.1-alpha11/klead-jvm-0.0.1-alpha11.jar",
-    "sha512": "7d298e47272039854a2a95cb7cd74022680c023e03b7d05b933de9539793c92808039d6da2e9ed1032696c0bd84b1d464d4bc16a8a0f13973b7e42debb8e823c",
-    "dest": "./offline-repository/com/prof18/klead-jvm/0.0.1-alpha11",
-    "dest-filename": "klead-jvm-0.0.1-alpha11.jar"
+    "url": "https://repo.maven.apache.org/maven2/com/prof18/klead-jvm/0.0.1-alpha12/klead-jvm-0.0.1-alpha12.jar",
+    "sha512": "3fc04c97485669b31ade157426c162fff82ebbd1bb48dc46e309fb79cc942a3d1e88991e0bf32e3d9783ef8c26ea304dbc101d43ef235aa0fc89ab10660e2daa",
+    "dest": "./offline-repository/com/prof18/klead-jvm/0.0.1-alpha12",
+    "dest-filename": "klead-jvm-0.0.1-alpha12.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/prof18/klead-jvm/0.0.1-alpha11/klead-jvm-0.0.1-alpha11.module",
-    "sha512": "9a55213543745f6e67af04e4668e92a92bf3b87e2579934c682caa3f3abd4d1bf76551cc943ee6b5d64c2478852bccf74c3db3226665878633a04c7250b82ce0",
-    "dest": "./offline-repository/com/prof18/klead-jvm/0.0.1-alpha11",
-    "dest-filename": "klead-jvm-0.0.1-alpha11.module"
+    "url": "https://repo.maven.apache.org/maven2/com/prof18/klead-jvm/0.0.1-alpha12/klead-jvm-0.0.1-alpha12.module",
+    "sha512": "410f968f0980eb1a752b63fdf6b13d13006cf79049e6d013db5eb36ad0d132d793ebba99cb6bacaed6e6a8a6dd3182f07c4a702db88c13a4c37d3b6b8a31f6b0",
+    "dest": "./offline-repository/com/prof18/klead-jvm/0.0.1-alpha12",
+    "dest-filename": "klead-jvm-0.0.1-alpha12.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/prof18/klead-jvm/0.0.1-alpha11/klead-jvm-0.0.1-alpha11.pom",
-    "sha512": "8a627a098dc9a9b9273940493e2922534d40fe6f0c4a0e523d8c2000c180b36ffacdf7c0d979897cbdfe582be331b298985935085f50e8bbbd6a23c35c899297",
-    "dest": "./offline-repository/com/prof18/klead-jvm/0.0.1-alpha11",
-    "dest-filename": "klead-jvm-0.0.1-alpha11.pom"
+    "url": "https://repo.maven.apache.org/maven2/com/prof18/klead-jvm/0.0.1-alpha12/klead-jvm-0.0.1-alpha12.pom",
+    "sha512": "c1eb3be9dc0f3ac47563efe07f1a49c6a13539a7b6c523b55a805484e5d3d114ac4609c125b9ce579c93bf4859febdf3e89d8b054784c5ff0c56d33857356ace",
+    "dest": "./offline-repository/com/prof18/klead-jvm/0.0.1-alpha12",
+    "dest-filename": "klead-jvm-0.0.1-alpha12.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/prof18/klead/0.0.1-alpha11/../../klead-jvm/0.0.1-alpha11/klead-jvm-0.0.1-alpha11.module",
-    "sha512": "9a55213543745f6e67af04e4668e92a92bf3b87e2579934c682caa3f3abd4d1bf76551cc943ee6b5d64c2478852bccf74c3db3226665878633a04c7250b82ce0",
-    "dest": "./offline-repository/com/prof18/klead/0.0.1-alpha11/../../klead-jvm/0.0.1-alpha11",
-    "dest-filename": "klead-jvm-0.0.1-alpha11.module"
+    "url": "https://repo.maven.apache.org/maven2/com/prof18/klead/0.0.1-alpha12/../../klead-jvm/0.0.1-alpha12/klead-jvm-0.0.1-alpha12.module",
+    "sha512": "410f968f0980eb1a752b63fdf6b13d13006cf79049e6d013db5eb36ad0d132d793ebba99cb6bacaed6e6a8a6dd3182f07c4a702db88c13a4c37d3b6b8a31f6b0",
+    "dest": "./offline-repository/com/prof18/klead/0.0.1-alpha12/../../klead-jvm/0.0.1-alpha12",
+    "dest-filename": "klead-jvm-0.0.1-alpha12.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/prof18/klead/0.0.1-alpha11/klead-0.0.1-alpha11.jar",
-    "sha512": "8a55f3774abb426894bb4d0f6aef6769935ea5ff901930e99034261d2a61f329641e549a3153fab563a164ee2455d296a2c964d962e4d91901a56efc07b0f6f9",
-    "dest": "./offline-repository/com/prof18/klead/0.0.1-alpha11",
-    "dest-filename": "klead-0.0.1-alpha11.jar"
+    "url": "https://repo.maven.apache.org/maven2/com/prof18/klead/0.0.1-alpha12/klead-0.0.1-alpha12.jar",
+    "sha512": "fa6728de8079161709ed18fe2b94a04405c6bb6e2b626beb411d9cc7578f624e5f1ee0f72127b6b4cf7da0ac2dde41f631b8e57221ff7333b7b9777a5d55506e",
+    "dest": "./offline-repository/com/prof18/klead/0.0.1-alpha12",
+    "dest-filename": "klead-0.0.1-alpha12.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/prof18/klead/0.0.1-alpha11/klead-0.0.1-alpha11.module",
-    "sha512": "5c6e90fabdc1a46161c6ee72621de7e2af500e1bb99a82feed1b9042506ec738c423bdfc2c23e35f2739ad52f40295c0974eea2d84e32ea9f88b420cccd8ea70",
-    "dest": "./offline-repository/com/prof18/klead/0.0.1-alpha11",
-    "dest-filename": "klead-0.0.1-alpha11.module"
+    "url": "https://repo.maven.apache.org/maven2/com/prof18/klead/0.0.1-alpha12/klead-0.0.1-alpha12.module",
+    "sha512": "6c0a58cd6f5ca38d6956077d1a9468ec7da8e924f6c5aa1b54eb44fb0c41f5188f03e576d5b48c4dbdd80767528663111ffb0794f3c42dbf6a096c57ed69d412",
+    "dest": "./offline-repository/com/prof18/klead/0.0.1-alpha12",
+    "dest-filename": "klead-0.0.1-alpha12.module"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/prof18/klead/0.0.1-alpha11/klead-0.0.1-alpha11.pom",
-    "sha512": "a3cdfd45a4ac99fbf7127d3fbb321ab47bc0227814c25cf538fb994b597040383e2da3ebc6f800824e0e2521c4934ed2352cab73480431c201046157f2584428",
-    "dest": "./offline-repository/com/prof18/klead/0.0.1-alpha11",
-    "dest-filename": "klead-0.0.1-alpha11.pom"
+    "url": "https://repo.maven.apache.org/maven2/com/prof18/klead/0.0.1-alpha12/klead-0.0.1-alpha12.pom",
+    "sha512": "0efd81fbbf6ef5579e7e6dfb8e2b0d96ae44bcd662020a999136b71b9508169dba60cf01cb872a2e94c3e9725b22093f6c9aa31644d3ba9e667ab612ab397026",
+    "dest": "./offline-repository/com/prof18/klead/0.0.1-alpha12",
+    "dest-filename": "klead-0.0.1-alpha12.pom"
   },
   {
     "type": "file",
