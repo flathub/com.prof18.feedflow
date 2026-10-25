@@ -3172,13 +3172,6 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava/33.4.8-android/../33.4.8-jre/guava-33.4.8-jre.jar",
-    "sha512": "82c43d82fee2b3264e53cd2e9451865f9467ec0baa68d0ddfffa06a1e5465872913150ef96e99ea91daec4387248d832ec9398859f2fa5f08f65caf103306ba3",
-    "dest": "./offline-repository/com/google/guava/guava/33.4.8-android",
-    "dest-filename": "../33.4.8-jre/guava-33.4.8-jre.jar"
-  },
-  {
-    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/com/google/guava/guava/33.4.8-android/guava-33.4.8-android.module",
     "sha512": "295489ff01176ce48f1846069b059ff800c39e211f1b5978ca61b2055b51c18dcf3024725acdcafc00b8c167eb92f7b17410a8803fea5c256116cce91e635464",
     "dest": "./offline-repository/com/google/guava/guava/33.4.8-android",
