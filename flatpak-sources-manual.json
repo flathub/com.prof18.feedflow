@@ -232,20 +232,6 @@
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.10/symbol-processing-aa-embeddable-2.3.10.jar",
-    "sha512": "2b04e39ee39e3e24001494924223d6cd3985bb2fd4e7dcdb9640d585a8138a0480b11554df73e64dd8688683beac3c124b1e50bc3e4279bd9675ba9d6993ac43",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.10",
-    "dest-filename": "symbol-processing-aa-embeddable-2.3.10.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.10/symbol-processing-aa-embeddable-2.3.10.pom",
-    "sha512": "f7faa150a977bb415225d3874b1fa12a76b1d6478a4323c7107bc30e2adb80d125b99d49237d2fa95d92e258e00653608aaaa6d6991f0c2f1291f5934eeb3b4e",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.10",
-    "dest-filename": "symbol-processing-aa-embeddable-2.3.10.pom"
-  },
-  {
-    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.jar",
     "sha512": "479f3c5e25a7ccd90adf70a9b1a71bae18205681ce966618b2ba28aea1b10c087b10ca7172e7b34384901b5e8d2dd009f1cdcbcd2a01be55082d276245de0a35",
     "dest": "./offline-repository/com/google/errorprone/error_prone_annotations/2.27.0",
@@ -2136,20 +2122,6 @@
   },
   {
     "type": "file",
-    "url": "https://www.jetbrains.com/intellij-repository/releases/com/jetbrains/intellij/platform/icons/262.10968.63/icons-262.10968.63.jar",
-    "sha512": "a6d1676fec8fbe646a9895d1030ff0a9e7b65a928996cdf92043cb27e4e8def34a5f10287300aeb29f96ad02734e2af7fbfa93c9a6b465786afad79baf957b0e",
-    "dest": "./offline-repository/com/jetbrains/intellij/platform/icons/262.10968.63",
-    "dest-filename": "icons-262.10968.63.jar"
-  },
-  {
-    "type": "file",
-    "url": "https://www.jetbrains.com/intellij-repository/releases/com/jetbrains/intellij/platform/icons/262.10968.63/icons-262.10968.63.pom",
-    "sha512": "f923c25619c1a6c95a1fc31a93a144b21e2de1cb9a8dd929c3f1b1105fda7883c130927b8598ecad69c5460fb462506db774febc5bd271ac3683dd3ff5e76f5c",
-    "dest": "./offline-repository/com/jetbrains/intellij/platform/icons/262.10968.63",
-    "dest-filename": "icons-262.10968.63.pom"
-  },
-  {
-    "type": "file",
     "url": "https://repo.maven.apache.org/maven2/io/ktor/ktor-client-mock/3.6.0/ktor-client-mock-3.6.0.jar",
     "sha512": "5177be62ed3c0efe206a004fb367d23825b99c224ef978772dd97b2d2f939fa2df5a60a231423d0f17f08d768275ca7b807fe036042906da26cea12af3802abb",
     "dest": "./offline-repository/io/ktor/ktor-client-mock/3.6.0",
@@ -2203,5 +2175,33 @@
     "sha512": "596e477c14cf2c32ccc052dbab4ec92565960e3d1fd2a874d7296825d43be1e4ab38644a636256768e39d6304bffa7e4ddf483b5acb2afab090ca39309904c13",
     "dest": "./offline-repository/org/jetbrains/skiko/skiko-awt-runtime-linux-arm64/0.150.2",
     "dest-filename": "skiko-awt-runtime-linux-arm64-0.150.2.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://www.jetbrains.com/intellij-repository/releases/com/jetbrains/intellij/platform/icons/262.11879.111/icons-262.11879.111.jar",
+    "sha512": "a6d1676fec8fbe646a9895d1030ff0a9e7b65a928996cdf92043cb27e4e8def34a5f10287300aeb29f96ad02734e2af7fbfa93c9a6b465786afad79baf957b0e",
+    "dest": "./offline-repository/com/jetbrains/intellij/platform/icons/262.11879.111",
+    "dest-filename": "icons-262.11879.111.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://www.jetbrains.com/intellij-repository/releases/com/jetbrains/intellij/platform/icons/262.11879.111/icons-262.11879.111.pom",
+    "sha512": "5c3703ed9d5133b8f8404fedb81ef5fe5ecbee1d11150d121ab4212f40290f64bec3fd09d741a9f31b946497fc2f0412ab17b140078325d2d9292ec400402ed1",
+    "dest": "./offline-repository/com/jetbrains/intellij/platform/icons/262.11879.111",
+    "dest-filename": "icons-262.11879.111.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.13/symbol-processing-aa-embeddable-2.3.13.jar",
+    "sha512": "433bb63fca8c0689c10e41e1e398bc5fa9cd91fcca07caeb1a6f8e8bd4d04af08ff604d4cace7809a192a13f97e31555f82012d0bdb80308fb4fe4a9f5249022",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.13",
+    "dest-filename": "symbol-processing-aa-embeddable-2.3.13.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.13/symbol-processing-aa-embeddable-2.3.13.pom",
+    "sha512": "242984d7dc43bf78c83c696d818d2705452495251860ec264a283a9390583e321c209a0ed05a718d4d2b0dc7ddd0b32c9c31cfdefaef318b90692a5571fc1fef",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.13",
+    "dest-filename": "symbol-processing-aa-embeddable-2.3.13.pom"
   }
 ]
