@@ -4054,115 +4054,115 @@
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/prof18/klead-jvm/1.0.0/klead-jvm-1.0.0.jar",
-        "sha512": "1a08b9ca06c3dda7d4cd219f758ad6957c669737b5842429a735c3034f2faefccb2a4e688188e184700e7c6dd2c326a738398601d3fe9b0495d5b6c21c3e9eb5",
-        "dest": "./offline-repository/com/prof18/klead-jvm/1.0.0",
-        "dest-filename": "klead-jvm-1.0.0.jar"
+        "url": "https://plugins.gradle.org/m2/com/prof18/klead-jvm/1.0.1/klead-jvm-1.0.1.jar",
+        "sha512": "52d9f62a3bf3fee3fd5c17c945b69c85db932c37dbb3f635da581c3d8db0048fe744409c29df4957f23814235ed6e19789b296b4a397ea3a72836ec938599d6f",
+        "dest": "./offline-repository/com/prof18/klead-jvm/1.0.1",
+        "dest-filename": "klead-jvm-1.0.1.jar"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/prof18/klead-jvm/1.0.0/klead-jvm-1.0.0.module",
-        "sha512": "61e5ae55f7cf14ac7b0e82a3e8fc666aed18934a4fb90d4fab069d8ce924f2eadef1a5da2b6bff30010c7b1e5b4b1aa89fec333e3a7899fc64e376f30e3c7900",
-        "dest": "./offline-repository/com/prof18/klead-jvm/1.0.0",
-        "dest-filename": "klead-jvm-1.0.0.module"
+        "url": "https://plugins.gradle.org/m2/com/prof18/klead-jvm/1.0.1/klead-jvm-1.0.1.module",
+        "sha512": "07eaaf1e975684f32359834b0313120bb6667305cc4328db0401101f57392e95c8038a3f906dde0f90f32b43d6df09ee468a17ea67224c490727c86dc71d30f6",
+        "dest": "./offline-repository/com/prof18/klead-jvm/1.0.1",
+        "dest-filename": "klead-jvm-1.0.1.module"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/prof18/klead-jvm/1.0.0/klead-jvm-1.0.0.pom",
-        "sha512": "1177a2dbc469b6f54e7d92bb76c286b13757013657bfe3e3744e26e7a679731d8df0f0032f3f7ff4ff9bfe189df8af19d66e8e33ea3a6f78f698ba97fe2176f1",
-        "dest": "./offline-repository/com/prof18/klead-jvm/1.0.0",
-        "dest-filename": "klead-jvm-1.0.0.pom"
+        "url": "https://plugins.gradle.org/m2/com/prof18/klead-jvm/1.0.1/klead-jvm-1.0.1.pom",
+        "sha512": "8968ab22a4af61a388fa5a3db5bc4136a6513d3fbf4cdd82a4cb1ca5ca0bcb5c884d2c5d5c4b5ddc3ccf1e8000124f6ec74ef1346051f2193db7fe2a1ed9c0e5",
+        "dest": "./offline-repository/com/prof18/klead-jvm/1.0.1",
+        "dest-filename": "klead-jvm-1.0.1.pom"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/prof18/klead/1.0.0/klead-1.0.0.jar",
-        "sha512": "c6caa0f8452ca6190a4ae6999c3b84013d94d6d853cd9171268116df27dba7c8b9c43a9c0240b592f5c856e0ae497b4fa0e82466db4af285c986662b8642923c",
-        "dest": "./offline-repository/com/prof18/klead/1.0.0",
-        "dest-filename": "klead-1.0.0.jar"
+        "url": "https://plugins.gradle.org/m2/com/prof18/klead/1.0.1/klead-1.0.1.jar",
+        "sha512": "75e7c34e579365b830eb3979dea55df893350fff955a747c252944450c2c8bde2ac8cf4372626172475237528eba973d58a93e19324e2b54f2eb065c7685900a",
+        "dest": "./offline-repository/com/prof18/klead/1.0.1",
+        "dest-filename": "klead-1.0.1.jar"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/prof18/klead/1.0.0/klead-1.0.0.module",
-        "sha512": "789c681cf2782f575a59dcca3772da03273870c678ab24308bcf2b671623581bf41227e0d41ccbbed9ebbf68f892081bcb664154b06ff2438b517c0e5ea5c945",
-        "dest": "./offline-repository/com/prof18/klead/1.0.0",
-        "dest-filename": "klead-1.0.0.module"
+        "url": "https://plugins.gradle.org/m2/com/prof18/klead/1.0.1/klead-1.0.1.module",
+        "sha512": "84e496f7ac44a9e2be643f6783bf7e705f1fb8f25c998d2b264f40f7e95b339041bc1a6b98f00f5496c68298fd76ab8a365ac752bd1a39b55e9e84d1ad952fd4",
+        "dest": "./offline-repository/com/prof18/klead/1.0.1",
+        "dest-filename": "klead-1.0.1.module"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/prof18/klead/1.0.0/klead-1.0.0.pom",
-        "sha512": "7a8c4489ed43a16f2a166b08cd432f291e81adf2dc60ff7e0a0a26bda11e3001023182abf291d82c484e0083bb6121de56025527056b7c6ec558fc532ae019ce",
-        "dest": "./offline-repository/com/prof18/klead/1.0.0",
-        "dest-filename": "klead-1.0.0.pom"
+        "url": "https://plugins.gradle.org/m2/com/prof18/klead/1.0.1/klead-1.0.1.pom",
+        "sha512": "ddb0ab4bc3844fa78a92c29a5ad8fcde5faf2a2096604c2aaa8bd4f11d5f5462e61b94182658a16457b9027482c056985d2fab3b9df8e7d36e0c02021960e646",
+        "dest": "./offline-repository/com/prof18/klead/1.0.1",
+        "dest-filename": "klead-1.0.1.pom"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/prof18/klead/1.0.0/../../klead-jvm/1.0.0/klead-jvm-1.0.0.jar",
-        "sha512": "1a08b9ca06c3dda7d4cd219f758ad6957c669737b5842429a735c3034f2faefccb2a4e688188e184700e7c6dd2c326a738398601d3fe9b0495d5b6c21c3e9eb5",
-        "dest": "./offline-repository/com/prof18/klead/1.0.0/../../klead-jvm/1.0.0",
-        "dest-filename": "klead-jvm-1.0.0.jar"
+        "url": "https://plugins.gradle.org/m2/com/prof18/klead/1.0.1/../../klead-jvm/1.0.1/klead-jvm-1.0.1.jar",
+        "sha512": "52d9f62a3bf3fee3fd5c17c945b69c85db932c37dbb3f635da581c3d8db0048fe744409c29df4957f23814235ed6e19789b296b4a397ea3a72836ec938599d6f",
+        "dest": "./offline-repository/com/prof18/klead/1.0.1/../../klead-jvm/1.0.1",
+        "dest-filename": "klead-jvm-1.0.1.jar"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/prof18/klead/1.0.0/../../klead-jvm/1.0.0/klead-jvm-1.0.0.module",
-        "sha512": "61e5ae55f7cf14ac7b0e82a3e8fc666aed18934a4fb90d4fab069d8ce924f2eadef1a5da2b6bff30010c7b1e5b4b1aa89fec333e3a7899fc64e376f30e3c7900",
-        "dest": "./offline-repository/com/prof18/klead/1.0.0/../../klead-jvm/1.0.0",
-        "dest-filename": "klead-jvm-1.0.0.module"
+        "url": "https://plugins.gradle.org/m2/com/prof18/klead/1.0.1/../../klead-jvm/1.0.1/klead-jvm-1.0.1.module",
+        "sha512": "07eaaf1e975684f32359834b0313120bb6667305cc4328db0401101f57392e95c8038a3f906dde0f90f32b43d6df09ee468a17ea67224c490727c86dc71d30f6",
+        "dest": "./offline-repository/com/prof18/klead/1.0.1/../../klead-jvm/1.0.1",
+        "dest-filename": "klead-jvm-1.0.1.module"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/prof18/rssparser/rssparser-jvm/6.1.8/rssparser-jvm-6.1.8.jar",
-        "sha512": "13852e8375e5c9b8128fac7e6cb6662e0965b2ec0423c46f1e919c78b2ef442a2f5823dbd54fd4d9d02f219684c4ab4276543d37dbbb1d6650827093e1d503d3",
-        "dest": "./offline-repository/com/prof18/rssparser/rssparser-jvm/6.1.8",
-        "dest-filename": "rssparser-jvm-6.1.8.jar"
+        "url": "https://plugins.gradle.org/m2/com/prof18/rssparser/rssparser-jvm/6.2.0/rssparser-jvm-6.2.0.jar",
+        "sha512": "0f0e9b2fb1ee19e56cf16f69e51f904db0c241d28471531e2278945cadff514fced1b77b507013a7a14ae7262f8f6901c9b079f561f4aa35ce7e363d02b3f06e",
+        "dest": "./offline-repository/com/prof18/rssparser/rssparser-jvm/6.2.0",
+        "dest-filename": "rssparser-jvm-6.2.0.jar"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/prof18/rssparser/rssparser-jvm/6.1.8/rssparser-jvm-6.1.8.module",
-        "sha512": "d8b9c699bafa83b6b2693fb6a61377bce4faf6df98cadef34daef6bbaef640005f924ae11408527990bf1c2f90546d76a52d502ea3acf5475d256b09b760a438",
-        "dest": "./offline-repository/com/prof18/rssparser/rssparser-jvm/6.1.8",
-        "dest-filename": "rssparser-jvm-6.1.8.module"
+        "url": "https://plugins.gradle.org/m2/com/prof18/rssparser/rssparser-jvm/6.2.0/rssparser-jvm-6.2.0.module",
+        "sha512": "6eaaeb6a3c7c31a7a58103195d0016bb3174ea0d4865f68224bfda34e5f918ae1a80d528743ed2a63b2f36349149bdd1dd340c248b8753530c74af45ca0abb19",
+        "dest": "./offline-repository/com/prof18/rssparser/rssparser-jvm/6.2.0",
+        "dest-filename": "rssparser-jvm-6.2.0.module"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/prof18/rssparser/rssparser-jvm/6.1.8/rssparser-jvm-6.1.8.pom",
-        "sha512": "e54cf34e9c4d0d17e6e9ea40a9a8be597ad2d2451ff5b4b6a5f3ea32c9b89895b327889d4ce46b46e8052f12906762d7511206d15b5d537773c4e6063cb9e152",
-        "dest": "./offline-repository/com/prof18/rssparser/rssparser-jvm/6.1.8",
-        "dest-filename": "rssparser-jvm-6.1.8.pom"
+        "url": "https://plugins.gradle.org/m2/com/prof18/rssparser/rssparser-jvm/6.2.0/rssparser-jvm-6.2.0.pom",
+        "sha512": "dd38d9fc1923d0136a6b425c7bd0ad6a717a902af53091b622940548303721a13c90723bd987515ba1d13be49a9c575c35f3e22fdd31cbd593deb957e6e7c9b7",
+        "dest": "./offline-repository/com/prof18/rssparser/rssparser-jvm/6.2.0",
+        "dest-filename": "rssparser-jvm-6.2.0.pom"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/prof18/rssparser/rssparser/6.1.8/rssparser-6.1.8.jar",
-        "sha512": "c88d56cd37139315e58bcd00623bb2c312476e780585c7d8d6cad59483ac7f00eddc09b8620fb9df13a17df75191d7c56c44fef06f9ddc956a902da7f322c91a",
-        "dest": "./offline-repository/com/prof18/rssparser/rssparser/6.1.8",
-        "dest-filename": "rssparser-6.1.8.jar"
+        "url": "https://plugins.gradle.org/m2/com/prof18/rssparser/rssparser/6.2.0/rssparser-6.2.0.jar",
+        "sha512": "28bc0a2d5051b75a2a4a8f8f8840cd9be0f9534097339e998690c7661f0566f9d131d368ff8265e3836af7a3507f17dd2f6e7d7dae86aea0a947a20f1500e86b",
+        "dest": "./offline-repository/com/prof18/rssparser/rssparser/6.2.0",
+        "dest-filename": "rssparser-6.2.0.jar"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/prof18/rssparser/rssparser/6.1.8/rssparser-6.1.8.module",
-        "sha512": "1bc0ebb9b1e0023c96b9ecef934f66c519e3161d2975dbf13d1072bb3352f437500717a48ec6a59ec11eaec53d1d5200316ae27e4e7a3befaa3f1692500bae7b",
-        "dest": "./offline-repository/com/prof18/rssparser/rssparser/6.1.8",
-        "dest-filename": "rssparser-6.1.8.module"
+        "url": "https://plugins.gradle.org/m2/com/prof18/rssparser/rssparser/6.2.0/rssparser-6.2.0.module",
+        "sha512": "82b089a6ea70e297a2da27e72850005b4ee459c6c219cedb59685965a783b7cd1661d86613d9048eacb21beb99ac65c29d9f696f5a26a1ca72afe39b81c13b1e",
+        "dest": "./offline-repository/com/prof18/rssparser/rssparser/6.2.0",
+        "dest-filename": "rssparser-6.2.0.module"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/prof18/rssparser/rssparser/6.1.8/rssparser-6.1.8.pom",
-        "sha512": "8068d7460b5432930b02e25acef22373c105a86ef57ba545dfba8f1f638a03824f6334ef84a0ae3f58f2fb813fc4e8d1aab1e9116c8d5fa68d4d35c877d6c238",
-        "dest": "./offline-repository/com/prof18/rssparser/rssparser/6.1.8",
-        "dest-filename": "rssparser-6.1.8.pom"
+        "url": "https://plugins.gradle.org/m2/com/prof18/rssparser/rssparser/6.2.0/rssparser-6.2.0.pom",
+        "sha512": "8a9536aef07ed4ed93a00e9697a317ffac24ff7b495193a388d98930b9b33000571f1cdb5f0fcb8546bca1133899f2712b5783336569b7f059bc78b9d7051509",
+        "dest": "./offline-repository/com/prof18/rssparser/rssparser/6.2.0",
+        "dest-filename": "rssparser-6.2.0.pom"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/prof18/rssparser/rssparser/6.1.8/../../rssparser-jvm/6.1.8/rssparser-jvm-6.1.8.jar",
-        "sha512": "13852e8375e5c9b8128fac7e6cb6662e0965b2ec0423c46f1e919c78b2ef442a2f5823dbd54fd4d9d02f219684c4ab4276543d37dbbb1d6650827093e1d503d3",
-        "dest": "./offline-repository/com/prof18/rssparser/rssparser/6.1.8/../../rssparser-jvm/6.1.8",
-        "dest-filename": "rssparser-jvm-6.1.8.jar"
+        "url": "https://plugins.gradle.org/m2/com/prof18/rssparser/rssparser/6.2.0/../../rssparser-jvm/6.2.0/rssparser-jvm-6.2.0.jar",
+        "sha512": "0f0e9b2fb1ee19e56cf16f69e51f904db0c241d28471531e2278945cadff514fced1b77b507013a7a14ae7262f8f6901c9b079f561f4aa35ce7e363d02b3f06e",
+        "dest": "./offline-repository/com/prof18/rssparser/rssparser/6.2.0/../../rssparser-jvm/6.2.0",
+        "dest-filename": "rssparser-jvm-6.2.0.jar"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/prof18/rssparser/rssparser/6.1.8/../../rssparser-jvm/6.1.8/rssparser-jvm-6.1.8.module",
-        "sha512": "d8b9c699bafa83b6b2693fb6a61377bce4faf6df98cadef34daef6bbaef640005f924ae11408527990bf1c2f90546d76a52d502ea3acf5475d256b09b760a438",
-        "dest": "./offline-repository/com/prof18/rssparser/rssparser/6.1.8/../../rssparser-jvm/6.1.8",
-        "dest-filename": "rssparser-jvm-6.1.8.module"
+        "url": "https://plugins.gradle.org/m2/com/prof18/rssparser/rssparser/6.2.0/../../rssparser-jvm/6.2.0/rssparser-jvm-6.2.0.module",
+        "sha512": "6eaaeb6a3c7c31a7a58103195d0016bb3174ea0d4865f68224bfda34e5f918ae1a80d528743ed2a63b2f36349149bdd1dd340c248b8753530c74af45ca0abb19",
+        "dest": "./offline-repository/com/prof18/rssparser/rssparser/6.2.0/../../rssparser-jvm/6.2.0",
+        "dest-filename": "rssparser-jvm-6.2.0.module"
     },
     {
         "type": "file",
@@ -4299,45 +4299,24 @@
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/squareup/okhttp3/okhttp-coroutines/5.4.0/okhttp-coroutines-5.4.0.jar",
-        "sha512": "c150cbad0af23e4aa40d567aa24d702da6ec09451121410387171ca231786e692929fe1d70f2decbdbf635eb5757d021fc2c6e8e1373cfcde6bc08cc7d7d1b77",
-        "dest": "./offline-repository/com/squareup/okhttp3/okhttp-coroutines/5.4.0",
-        "dest-filename": "okhttp-coroutines-5.4.0.jar"
+        "url": "https://plugins.gradle.org/m2/com/squareup/okhttp3/okhttp-coroutines/5.5.1/okhttp-coroutines-5.5.1.jar",
+        "sha512": "7577a57a5f670e635a205b5eb0cefb4c57f98592590c368b8d93e30a9d2ed5bdfa1d7f511f24451809c51a4960c81f9b30e9d671bfec50d3be412c141aa2ec69",
+        "dest": "./offline-repository/com/squareup/okhttp3/okhttp-coroutines/5.5.1",
+        "dest-filename": "okhttp-coroutines-5.5.1.jar"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/squareup/okhttp3/okhttp-coroutines/5.4.0/okhttp-coroutines-5.4.0.module",
-        "sha512": "663df5747c717edda465320fd53fe47157235ee5ac230bcf1fa36d5e8f0e9c026cf0ab577152b845f2fcac19412c0c98e264be50cd6c95a77fc4be02506dd36b",
-        "dest": "./offline-repository/com/squareup/okhttp3/okhttp-coroutines/5.4.0",
-        "dest-filename": "okhttp-coroutines-5.4.0.module"
+        "url": "https://plugins.gradle.org/m2/com/squareup/okhttp3/okhttp-coroutines/5.5.1/okhttp-coroutines-5.5.1.module",
+        "sha512": "43129e2eae4d5697f6cb2eacf15b0e5cae3e7cb684d48f61416e14e5b9dfce87ba4ad6201a176e49b0154e45fc526ac3674ac4c05507318f1ea9aaaf0b31afc6",
+        "dest": "./offline-repository/com/squareup/okhttp3/okhttp-coroutines/5.5.1",
+        "dest-filename": "okhttp-coroutines-5.5.1.module"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/squareup/okhttp3/okhttp-coroutines/5.4.0/okhttp-coroutines-5.4.0.pom",
-        "sha512": "0c0062b94873ca5631739668b9ea38617f85e97fa0e61900ea183d67a2c8d89f27990db1cb349d686a7b0447a34a0daa7d54883f593c709b79659d2b3319dbf9",
-        "dest": "./offline-repository/com/squareup/okhttp3/okhttp-coroutines/5.4.0",
-        "dest-filename": "okhttp-coroutines-5.4.0.pom"
-    },
-    {
-        "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/squareup/okhttp3/okhttp-jvm/5.4.0/okhttp-jvm-5.4.0.jar",
-        "sha512": "2b5da32a14319d78ebb62067011dd0f4533ae95652d153e84f9803fab55cb1eedc8a3aaa189efa5ebacdc7e52b8618c08dd20e82e73e91305dc12038ca8e1e76",
-        "dest": "./offline-repository/com/squareup/okhttp3/okhttp-jvm/5.4.0",
-        "dest-filename": "okhttp-jvm-5.4.0.jar"
-    },
-    {
-        "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/squareup/okhttp3/okhttp-jvm/5.4.0/okhttp-jvm-5.4.0.module",
-        "sha512": "a9a73dca4ef5423c30ab2e399e1167dccce97e40e6245fb55fb7e2d03e670e5604db9db744b369283fdb0bf7c942ae72e06f8b9a21bd169ea513fad1ba0256b8",
-        "dest": "./offline-repository/com/squareup/okhttp3/okhttp-jvm/5.4.0",
-        "dest-filename": "okhttp-jvm-5.4.0.module"
-    },
-    {
-        "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/squareup/okhttp3/okhttp-jvm/5.4.0/okhttp-jvm-5.4.0.pom",
-        "sha512": "10148b4fa77e87b95155532add09fc8f4c78f3aa81272966e5e11fe3cf5254a632e80a3ebdd4dbb8d02b569d64b5486e4d1c7fb292b7de8267feff8cda1794f1",
-        "dest": "./offline-repository/com/squareup/okhttp3/okhttp-jvm/5.4.0",
-        "dest-filename": "okhttp-jvm-5.4.0.pom"
+        "url": "https://plugins.gradle.org/m2/com/squareup/okhttp3/okhttp-coroutines/5.5.1/okhttp-coroutines-5.5.1.pom",
+        "sha512": "502c9f7a210abcd865fd46da9249b7e56c819507dadda4055e8ce0acf131ee7dc0600b99f17b7ebcaf72562d22e71fbde93cddbc479c006d5f9a1940ca72c05d",
+        "dest": "./offline-repository/com/squareup/okhttp3/okhttp-coroutines/5.5.1",
+        "dest-filename": "okhttp-coroutines-5.5.1.pom"
     },
     {
         "type": "file",
@@ -4359,41 +4338,6 @@
         "sha512": "3407e497c633e1bde9f32d72c283edc6323103895655439254efcece039207fb067bff7597bea05ea3f0e79b181b426181c19c67cf61887ee96fdeacbbe8c929",
         "dest": "./offline-repository/com/squareup/okhttp3/okhttp-jvm/5.5.1",
         "dest-filename": "okhttp-jvm-5.5.1.pom"
-    },
-    {
-        "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/squareup/okhttp3/okhttp/5.4.0/okhttp-5.4.0.jar",
-        "sha512": "2f781d52a71806d226aa5e070c4d0b71220217d341ae4b02fb47058becece2347e660eb263f96b49f49530ab4576fe7110f9b28472acc6b01e2890e02008c753",
-        "dest": "./offline-repository/com/squareup/okhttp3/okhttp/5.4.0",
-        "dest-filename": "okhttp-5.4.0.jar"
-    },
-    {
-        "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/squareup/okhttp3/okhttp/5.4.0/okhttp-5.4.0.module",
-        "sha512": "bee6a8f12218880854975c4fa5ff99908cf6c064d7104caab5b3e4ca0a1f678f1a813721cf1ee177a6669cb706f695b2fab3885f3c3b528e13ca1129f3558483",
-        "dest": "./offline-repository/com/squareup/okhttp3/okhttp/5.4.0",
-        "dest-filename": "okhttp-5.4.0.module"
-    },
-    {
-        "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/squareup/okhttp3/okhttp/5.4.0/okhttp-5.4.0.pom",
-        "sha512": "5220ef8e24591e20e382e8fe76eb8b362e884c4c6eee8e60d690090217435f4c1397f10f0cfbeec02b4c2728994f037eda443760186f2c314730c63d994bef46",
-        "dest": "./offline-repository/com/squareup/okhttp3/okhttp/5.4.0",
-        "dest-filename": "okhttp-5.4.0.pom"
-    },
-    {
-        "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/squareup/okhttp3/okhttp/5.4.0/../../okhttp-jvm/5.4.0/okhttp-jvm-5.4.0.jar",
-        "sha512": "2b5da32a14319d78ebb62067011dd0f4533ae95652d153e84f9803fab55cb1eedc8a3aaa189efa5ebacdc7e52b8618c08dd20e82e73e91305dc12038ca8e1e76",
-        "dest": "./offline-repository/com/squareup/okhttp3/okhttp/5.4.0/../../okhttp-jvm/5.4.0",
-        "dest-filename": "okhttp-jvm-5.4.0.jar"
-    },
-    {
-        "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/squareup/okhttp3/okhttp/5.4.0/../../okhttp-jvm/5.4.0/okhttp-jvm-5.4.0.module",
-        "sha512": "a9a73dca4ef5423c30ab2e399e1167dccce97e40e6245fb55fb7e2d03e670e5604db9db744b369283fdb0bf7c942ae72e06f8b9a21bd169ea513fad1ba0256b8",
-        "dest": "./offline-repository/com/squareup/okhttp3/okhttp/5.4.0/../../okhttp-jvm/5.4.0",
-        "dest-filename": "okhttp-jvm-5.4.0.module"
     },
     {
         "type": "file",
@@ -4432,24 +4376,24 @@
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/squareup/okio/okio-jvm/3.17.0/okio-jvm-3.17.0.jar",
-        "sha512": "2da2e240fb11ee254554bd59b94d4f9545078f69182a56cb528cb3228e42b8cd8e7a6547ed81d198f105413ff03e111f42a903ff092c4c3a0c3b46433ad10921",
-        "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.17.0",
-        "dest-filename": "okio-jvm-3.17.0.jar"
+        "url": "https://plugins.gradle.org/m2/com/squareup/okio/okio-jvm/3.18.1/okio-jvm-3.18.1.jar",
+        "sha512": "a4b9db7bc68876aefbbd57e1e232aadcd9666fffb1ead59f7a9f4dfcc22f2f90a50b29524380548d08dd040379b5dad4737513ed4a78d6f5fc99ae1b5665ef1f",
+        "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.18.1",
+        "dest-filename": "okio-jvm-3.18.1.jar"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/squareup/okio/okio-jvm/3.17.0/okio-jvm-3.17.0.module",
-        "sha512": "00292549423fb5d40163bf5b188db4d43c6d8f295d98ed00756a660c075bc2e0a858a1278e205bc5d29cbe0c3fbefde01a5ed7eb09687597209a574787db2606",
-        "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.17.0",
-        "dest-filename": "okio-jvm-3.17.0.module"
+        "url": "https://plugins.gradle.org/m2/com/squareup/okio/okio-jvm/3.18.1/okio-jvm-3.18.1.module",
+        "sha512": "cdfa76f17db046ea9b5d3bfbb556a8576fb2c54ed8755016eefee44d6b21de4ebc23b97d9a3521dadaffee3dcbacca924b8388157e4281ea2516a71cbe550bfc",
+        "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.18.1",
+        "dest-filename": "okio-jvm-3.18.1.module"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/squareup/okio/okio-jvm/3.17.0/okio-jvm-3.17.0.pom",
-        "sha512": "cb39b93ed4f06f13be7f61448133a640bc04f41d8595a6949365e330c01e67a777e9acaaa43bb2074f6b973fab8fc39967152002a98a643f0ca319a170f18a78",
-        "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.17.0",
-        "dest-filename": "okio-jvm-3.17.0.pom"
+        "url": "https://plugins.gradle.org/m2/com/squareup/okio/okio-jvm/3.18.1/okio-jvm-3.18.1.pom",
+        "sha512": "ec4b184ac3c28ca33a850bcff7f7f7d4d5a3776caac884f3f2f683d20d0cabc0b197038a372433e65599da00b67ee62015d01d7311160f1256d98af64746af20",
+        "dest": "./offline-repository/com/squareup/okio/okio-jvm/3.18.1",
+        "dest-filename": "okio-jvm-3.18.1.pom"
     },
     {
         "type": "file",
@@ -4474,41 +4418,6 @@
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/squareup/okio/okio/3.17.0/okio-3.17.0.jar",
-        "sha512": "45ff512698550fb67d3785e2bdcd1c5ace2a56e6bbb30e4253681f0da4b30e4fde88b5700b8b5a45cac2a366e9e6a0a817b7311c837810be7932386ce7d84d79",
-        "dest": "./offline-repository/com/squareup/okio/okio/3.17.0",
-        "dest-filename": "okio-3.17.0.jar"
-    },
-    {
-        "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/squareup/okio/okio/3.17.0/okio-3.17.0.module",
-        "sha512": "0d20d79f869195911d36ed45190120690ffb2b214fb3fa6bcbda762e03be60f373938a0e4ea2703da931b38eaa57a6aacb830c2c751621868eb70547f58c1910",
-        "dest": "./offline-repository/com/squareup/okio/okio/3.17.0",
-        "dest-filename": "okio-3.17.0.module"
-    },
-    {
-        "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/squareup/okio/okio/3.17.0/okio-3.17.0.pom",
-        "sha512": "be74a69d06ab0ea29b56361331b2c052985a826d595c6a2359a323a3d0150b5b5cef6cece519384f42c2cec19dabe40d415f08630071cf7d852071852d97fd36",
-        "dest": "./offline-repository/com/squareup/okio/okio/3.17.0",
-        "dest-filename": "okio-3.17.0.pom"
-    },
-    {
-        "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/squareup/okio/okio/3.17.0/../../okio-jvm/3.17.0/okio-jvm-3.17.0.jar",
-        "sha512": "2da2e240fb11ee254554bd59b94d4f9545078f69182a56cb528cb3228e42b8cd8e7a6547ed81d198f105413ff03e111f42a903ff092c4c3a0c3b46433ad10921",
-        "dest": "./offline-repository/com/squareup/okio/okio/3.17.0/../../okio-jvm/3.17.0",
-        "dest-filename": "okio-jvm-3.17.0.jar"
-    },
-    {
-        "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/squareup/okio/okio/3.17.0/../../okio-jvm/3.17.0/okio-jvm-3.17.0.module",
-        "sha512": "00292549423fb5d40163bf5b188db4d43c6d8f295d98ed00756a660c075bc2e0a858a1278e205bc5d29cbe0c3fbefde01a5ed7eb09687597209a574787db2606",
-        "dest": "./offline-repository/com/squareup/okio/okio/3.17.0/../../okio-jvm/3.17.0",
-        "dest-filename": "okio-jvm-3.17.0.module"
-    },
-    {
-        "type": "file",
         "url": "https://plugins.gradle.org/m2/com/squareup/okio/okio/3.18.1/okio-3.18.1.jar",
         "sha512": "a188e9b513ed4e0104d958aa7cf0ae575cbf0d0a3575acdebd339386a67659330779eafe977995655760073d9f7f8ad7cf9037b207da8a8c0d032789ba6f9705",
         "dest": "./offline-repository/com/squareup/okio/okio/3.18.1",
@@ -4527,6 +4436,20 @@
         "sha512": "60b67da4959fdeb74693ceb6b4e829474c9fe1515cd60bc014c7f9dfac71ae9fc2eaeddc716b9172f91923718169c55e04441c4d82bc06e9aa21e529dfb312da",
         "dest": "./offline-repository/com/squareup/okio/okio/3.18.1",
         "dest-filename": "okio-3.18.1.pom"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/com/squareup/okio/okio/3.18.1/../../okio-jvm/3.18.1/okio-jvm-3.18.1.jar",
+        "sha512": "a4b9db7bc68876aefbbd57e1e232aadcd9666fffb1ead59f7a9f4dfcc22f2f90a50b29524380548d08dd040379b5dad4737513ed4a78d6f5fc99ae1b5665ef1f",
+        "dest": "./offline-repository/com/squareup/okio/okio/3.18.1/../../okio-jvm/3.18.1",
+        "dest-filename": "okio-jvm-3.18.1.jar"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/com/squareup/okio/okio/3.18.1/../../okio-jvm/3.18.1/okio-jvm-3.18.1.module",
+        "sha512": "cdfa76f17db046ea9b5d3bfbb556a8576fb2c54ed8755016eefee44d6b21de4ebc23b97d9a3521dadaffee3dcbacca924b8388157e4281ea2516a71cbe550bfc",
+        "dest": "./offline-repository/com/squareup/okio/okio/3.18.1/../../okio-jvm/3.18.1",
+        "dest-filename": "okio-jvm-3.18.1.module"
     },
     {
         "type": "file",
@@ -6875,24 +6798,24 @@
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/io/ktor/ktor-client-js/3.5.1/ktor-client-js-3.5.1.jar",
+        "url": "https://plugins.gradle.org/m2/io/ktor/ktor-client-js/3.6.1/ktor-client-js-3.6.1.jar",
         "sha512": "6c5f1ff22ae3d97416bce9784160f677be45b1955398a223fa0ceb4a99181c8eea15447c3ad93d0eab5e2a1edf20f7c68a314ef99611e3eac9d5d7ce6c6e31ef",
-        "dest": "./offline-repository/io/ktor/ktor-client-js/3.5.1",
-        "dest-filename": "ktor-client-js-3.5.1.jar"
+        "dest": "./offline-repository/io/ktor/ktor-client-js/3.6.1",
+        "dest-filename": "ktor-client-js-3.6.1.jar"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/io/ktor/ktor-client-js/3.5.1/ktor-client-js-3.5.1.module",
-        "sha512": "bcbe08cc6e71389f80f539af5928c08c2a61340fba1c3c3211da92b637ffe6a7b469f42139978039dd3d6e25349ca9305fa2c0828033c4a91acb191f454ff3d1",
-        "dest": "./offline-repository/io/ktor/ktor-client-js/3.5.1",
-        "dest-filename": "ktor-client-js-3.5.1.module"
+        "url": "https://plugins.gradle.org/m2/io/ktor/ktor-client-js/3.6.1/ktor-client-js-3.6.1.module",
+        "sha512": "5c2a6bece043d7180d70e6cfdcb3b60859ea81181bdc0f89a640bd0bc03b0bbdc522e14e45fd8091f66f76dbc79b18a6a0f85ee7e5b992f2c3f848b1d7607586",
+        "dest": "./offline-repository/io/ktor/ktor-client-js/3.6.1",
+        "dest-filename": "ktor-client-js-3.6.1.module"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/io/ktor/ktor-client-js/3.5.1/ktor-client-js-3.5.1.pom",
-        "sha512": "878a1650cb0e5e5c01158a2cca5161c56ff9238596a4ebb909316c167f3fc070eeaa52ff4a132fac085b6e7436abb44eba1f2a8266802e1c3a6c960b2f2ffd82",
-        "dest": "./offline-repository/io/ktor/ktor-client-js/3.5.1",
-        "dest-filename": "ktor-client-js-3.5.1.pom"
+        "url": "https://plugins.gradle.org/m2/io/ktor/ktor-client-js/3.6.1/ktor-client-js-3.6.1.pom",
+        "sha512": "538df0cc665038307f18bd6a1d3c7b884a0974064e7b8f00a50e774235c28a90a54d4d1fd201a7134da9f35a1ac31d8e42049bbaf25cbde904a3ef5e0a2450ef",
+        "dest": "./offline-repository/io/ktor/ktor-client-js/3.6.1",
+        "dest-filename": "ktor-client-js-3.6.1.pom"
     },
     {
         "type": "file",
