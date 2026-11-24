@@ -190,115 +190,129 @@
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/google/code/gson/gson-parent/2.14.0/gson-parent-2.14.0.pom",
-        "sha512": "8f2498a254bcb6aa92563a3fdec533039055e1559a91a49be354b1cc4ffb39de2623a2c590308930d34eddf929567463baeafa0e91baf98c2bb0495260bba8d4",
-        "dest": "./offline-repository/com/google/code/gson/gson-parent/2.14.0",
-        "dest-filename": "gson-parent-2.14.0.pom"
+        "url": "https://plugins.gradle.org/m2/com/google/code/gson/gson-parent/2.11.0/gson-parent-2.11.0.pom",
+        "sha512": "d0dc74350cb3266b77d69d17da7473cfddd73d7d824d14c40c0774b454123087e4a35bf7c3db0b5df27f75b3a89d61777e018bb948d2a5eeafecb94a0f37a5cb",
+        "dest": "./offline-repository/com/google/code/gson/gson-parent/2.11.0",
+        "dest-filename": "gson-parent-2.11.0.pom"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/google/code/gson/gson/2.14.0/gson-2.14.0.jar",
-        "sha512": "d040d19a47ca2df33365493f9813a1d0a40b91685f7d87ca445b98d37b4c1b801314aef87940dc8b43dd1b0b96f6d5e6e4296778bf1af8dbfb1091425b37da21",
-        "dest": "./offline-repository/com/google/code/gson/gson/2.14.0",
-        "dest-filename": "gson-2.14.0.jar"
+        "url": "https://plugins.gradle.org/m2/com/google/code/gson/gson-parent/2.15.0/gson-parent-2.15.0.pom",
+        "sha512": "9c67e46232e2a402421e15cca55e67afab56330e1557e2de1e963c2f111b0b47d8ca08224232696b9b36b8add161f576fe62d17470717774ac13935b07eb3bca",
+        "dest": "./offline-repository/com/google/code/gson/gson-parent/2.15.0",
+        "dest-filename": "gson-parent-2.15.0.pom"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/google/code/gson/gson/2.14.0/gson-2.14.0.pom",
-        "sha512": "e4658b6de3de50bd47a79fe9ca7d6795d78e7d5223782db95ef23aaf4c5f878b81a09ef7096f9888d2e84e5d112ee437c9c85e9153c507b7c21bd6bd88dadb26",
-        "dest": "./offline-repository/com/google/code/gson/gson/2.14.0",
-        "dest-filename": "gson-2.14.0.pom"
+        "url": "https://plugins.gradle.org/m2/com/google/code/gson/gson/2.11.0/gson-2.11.0.pom",
+        "sha512": "239e09568793adf46ee24c5fa28d01a98e8034eb17928b9a9d22f070081785a681215d120c933f5c561354ba91ecac1464b4000956f698fe7ddabd3475a465ca",
+        "dest": "./offline-repository/com/google/code/gson/gson/2.11.0",
+        "dest-filename": "gson-2.11.0.pom"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/google/devtools/ksp/com.google.devtools.ksp.gradle.plugin/2.3.13/com.google.devtools.ksp.gradle.plugin-2.3.13.pom",
-        "sha512": "e00aa574896e67c1b6c7d3aa2aba5bf280e52c4e77f569f4b5468c5f45f74f1667a891430d3ee392f6eff0d8aac97eeb8ab61ae95e7b895aa96361e38a00450b",
-        "dest": "./offline-repository/com/google/devtools/ksp/com.google.devtools.ksp.gradle.plugin/2.3.13",
-        "dest-filename": "com.google.devtools.ksp.gradle.plugin-2.3.13.pom"
+        "url": "https://plugins.gradle.org/m2/com/google/code/gson/gson/2.15.0/gson-2.15.0.jar",
+        "sha512": "63132e39102cd80877a6b61f84d74a39f480ba12db1f1ace86ab8a8b0f98ce26dd43b0830f40496f32700df0156ba3dfe4af4df1565726350107140305287c07",
+        "dest": "./offline-repository/com/google/code/gson/gson/2.15.0",
+        "dest-filename": "gson-2.15.0.jar"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/google/devtools/ksp/symbol-processing-api/2.3.13/symbol-processing-api-2.3.13.jar",
-        "sha512": "c61e3572215aef92a403477ee76c13734cdd38d09324c8985e1f4de70df93a9cb9dcc9ec3e125f5d407db01fd0578f0088320fb7a433aa391f644aaf5bc013a8",
-        "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.13",
-        "dest-filename": "symbol-processing-api-2.3.13.jar"
+        "url": "https://plugins.gradle.org/m2/com/google/code/gson/gson/2.15.0/gson-2.15.0.pom",
+        "sha512": "0c491637a27d0e269e515c125fa1e9f00d0fbc357aea3cc8a2424b16aebb977a0994dee5fba4887db1689da3a55b6751bb9cfd481f5e0e8afffefa88e3968cd5",
+        "dest": "./offline-repository/com/google/code/gson/gson/2.15.0",
+        "dest-filename": "gson-2.15.0.pom"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/google/devtools/ksp/symbol-processing-api/2.3.13/symbol-processing-api-2.3.13.module",
-        "sha512": "bd30e2583ce0b1fa76818db96b1f3de37b1b10c4c0cca0491ba25237a3d8694b29042526b5622016936c9405f7447f648d810993b8a2511f5b4ea514a903fab1",
-        "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.13",
-        "dest-filename": "symbol-processing-api-2.3.13.module"
+        "url": "https://plugins.gradle.org/m2/com/google/devtools/ksp/com.google.devtools.ksp.gradle.plugin/2.3.14/com.google.devtools.ksp.gradle.plugin-2.3.14.pom",
+        "sha512": "8961b86786833d9569a614c108da6c162e82ea6b0ee20ce79a6858afc6f83f09ecc0316657cf0b5606347504b0e901a000dd64c996cb4f43a13ed1335992609f",
+        "dest": "./offline-repository/com/google/devtools/ksp/com.google.devtools.ksp.gradle.plugin/2.3.14",
+        "dest-filename": "com.google.devtools.ksp.gradle.plugin-2.3.14.pom"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/google/devtools/ksp/symbol-processing-api/2.3.13/symbol-processing-api-2.3.13.pom",
-        "sha512": "55bda067621859f2653a230bc522c0bd33fbe5197f287617c509366b65b9fc5f53e87057d0712539940a3afec04e46ecfbc2777d8ab38bdda5162993c6e3e44e",
-        "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.13",
-        "dest-filename": "symbol-processing-api-2.3.13.pom"
+        "url": "https://plugins.gradle.org/m2/com/google/devtools/ksp/symbol-processing-api/2.3.14/symbol-processing-api-2.3.14.jar",
+        "sha512": "a7b3bc0c9d4de0e421ea27447e9e5716a344bf64cb3003428e0b5a54d596eaae54664f7a263c482b2280d1a75066ccc64757b08491a4b378d0fe7cb2076dfb7b",
+        "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.14",
+        "dest-filename": "symbol-processing-api-2.3.14.jar"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.13/symbol-processing-common-deps-2.3.13.jar",
+        "url": "https://plugins.gradle.org/m2/com/google/devtools/ksp/symbol-processing-api/2.3.14/symbol-processing-api-2.3.14.module",
+        "sha512": "a156391c3b52c917b49a3ba4ad985cae7275d0d71a40b221654db83d684a098d67431e4dfc4dc7c771ded3491dd1c56b38f716b7bab4966d42b4288e23a369b9",
+        "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.14",
+        "dest-filename": "symbol-processing-api-2.3.14.module"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/com/google/devtools/ksp/symbol-processing-api/2.3.14/symbol-processing-api-2.3.14.pom",
+        "sha512": "377243481009d8a2ef5fc14c6e77c22b738a5468b31b5c57da90f50af216c5057dc8bcdc463e3cb005e291dd0c008dea8ba7a0a9ffb8c30ed6902e46765018dc",
+        "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-api/2.3.14",
+        "dest-filename": "symbol-processing-api-2.3.14.pom"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.14/symbol-processing-common-deps-2.3.14.jar",
         "sha512": "1763d2d50663de28ccd59629f7d05a07a48c625bd7b112fd1279413f4c338b238deaab8b0120a0f63ec2d5698cc51d5a157242ff24b2ac43b9425802991b4530",
-        "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.13",
-        "dest-filename": "symbol-processing-common-deps-2.3.13.jar"
+        "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.14",
+        "dest-filename": "symbol-processing-common-deps-2.3.14.jar"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.13/symbol-processing-common-deps-2.3.13.module",
-        "sha512": "924cf59c742b3590c71da6399fa5ea8b11ae042a04d4231514ee4ef4df8a1c85e99a54bdaf989e18162b3af1fd380511a8b16940d9267461064ae2ba270b5226",
-        "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.13",
-        "dest-filename": "symbol-processing-common-deps-2.3.13.module"
+        "url": "https://plugins.gradle.org/m2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.14/symbol-processing-common-deps-2.3.14.module",
+        "sha512": "3aecb5ea49eb5ce3af59c83b58df634152e25c764b44562e9cb437f2b9d320e74249e9b064db005c2d566b22cbfdb23790228904092ee223b64fbe2fc5ae0a7d",
+        "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.14",
+        "dest-filename": "symbol-processing-common-deps-2.3.14.module"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.13/symbol-processing-common-deps-2.3.13.pom",
-        "sha512": "0374cd1377632bb2a930c0b141dd4f66e2313af0e4cece4af3a1b4cac648e5b65046c9899612c584884399b89b0320229b3a7b2064ed1265daf1144f64e009dc",
-        "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.13",
-        "dest-filename": "symbol-processing-common-deps-2.3.13.pom"
+        "url": "https://plugins.gradle.org/m2/com/google/devtools/ksp/symbol-processing-common-deps/2.3.14/symbol-processing-common-deps-2.3.14.pom",
+        "sha512": "4eca01e4b54cd85a974c835ce6d801b7135ea199320454232cd2bef078a9312d0ec53196bdc23e9887b1b930dcccfd059810f8930f08e68fac2a7de807c4a4ef",
+        "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-common-deps/2.3.14",
+        "dest-filename": "symbol-processing-common-deps-2.3.14.pom"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.13/symbol-processing-gradle-plugin-2.3.13.jar",
-        "sha512": "26c4bea98c19f27552fc0aebca22f0959f382a4a471bde17fe5926e79de20745424f5718ef76497b6312953a089ab5f1b8b3202e9766fb0ef776b110b0e58ec7",
-        "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.13",
-        "dest-filename": "symbol-processing-gradle-plugin-2.3.13.jar"
+        "url": "https://plugins.gradle.org/m2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.14/symbol-processing-gradle-plugin-2.3.14.jar",
+        "sha512": "1d6220985c3c25c846e0a581625ed3d360cf565d5a4b4bc6f9684ffc38e982dc4b9bf5557e19488a064cd5c569964d0ea2212f495aa639d6422852891a8bebf8",
+        "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.14",
+        "dest-filename": "symbol-processing-gradle-plugin-2.3.14.jar"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.13/symbol-processing-gradle-plugin-2.3.13.module",
-        "sha512": "baf921a11123ed9e579fe8187f1636c88c4ae127d36bbad4c33d7f3d272ff6b31bbf4b2191386929e9ab04168303da800d5be517862b954ddb49faad3e3c1876",
-        "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.13",
-        "dest-filename": "symbol-processing-gradle-plugin-2.3.13.module"
+        "url": "https://plugins.gradle.org/m2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.14/symbol-processing-gradle-plugin-2.3.14.module",
+        "sha512": "4538cf5135ad31eadb2f733e05d923091e5ba972ed600a259d1aa373fc6952d3be117018f7f83de445a2e62f6097697951be502e879429690d982c53dcb879a6",
+        "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.14",
+        "dest-filename": "symbol-processing-gradle-plugin-2.3.14.module"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.13/symbol-processing-gradle-plugin-2.3.13.pom",
-        "sha512": "0f04e0939cf58f3dfe80cc401c2de304af3acbf3e9b60ad9216f3c4eb528e6ffb3dc094bb86116b5885951fb797a55a9a6e95b843c757f8839ac471c65dcdb13",
-        "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.13",
-        "dest-filename": "symbol-processing-gradle-plugin-2.3.13.pom"
+        "url": "https://plugins.gradle.org/m2/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.14/symbol-processing-gradle-plugin-2.3.14.pom",
+        "sha512": "3ff76da881bef2bdc9cd0b5d0e0f0522649e38c3ffb09ac85c337b5bc82f3493a6acb1c4e313d37db0e9a2c2410f33337e72d174b14930956a64c3104ebdb398",
+        "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-gradle-plugin/2.3.14",
+        "dest-filename": "symbol-processing-gradle-plugin-2.3.14.pom"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/google/errorprone/error_prone_annotations/2.48.0/error_prone_annotations-2.48.0.jar",
-        "sha512": "1692b210d2b4c1d446da1d86ee787be1c3be56ee8c5f4274f20ef126b57c444a403464df7b9dfdf10bccbe7e0432247ecffe615fbc30d16be7a3282cb2556d34",
-        "dest": "./offline-repository/com/google/errorprone/error_prone_annotations/2.48.0",
-        "dest-filename": "error_prone_annotations-2.48.0.jar"
+        "url": "https://plugins.gradle.org/m2/com/google/errorprone/error_prone_annotations/2.50.0/error_prone_annotations-2.50.0.jar",
+        "sha512": "f867b1a1fbc057fcfc37c2fa86082f5965ad6a1c45373eac6cfa6ec058cedbf7b348ab4f3d4fea2d4d105ecc401c14f24d9b16f344507e126a221d50532cb8b2",
+        "dest": "./offline-repository/com/google/errorprone/error_prone_annotations/2.50.0",
+        "dest-filename": "error_prone_annotations-2.50.0.jar"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/google/errorprone/error_prone_annotations/2.48.0/error_prone_annotations-2.48.0.pom",
-        "sha512": "4cb77580d42df91619e267b7e5080f45b6ef2b2a7f4bd25526d7682ca67eb4e50d8f53f92605fa997dca0f7082253192d02a2a5358fafcc2e05b60719ebc709e",
-        "dest": "./offline-repository/com/google/errorprone/error_prone_annotations/2.48.0",
-        "dest-filename": "error_prone_annotations-2.48.0.pom"
+        "url": "https://plugins.gradle.org/m2/com/google/errorprone/error_prone_annotations/2.50.0/error_prone_annotations-2.50.0.pom",
+        "sha512": "ee01bc4f864400ab1d2eebf7488fb3dae05735dcaada63481f4a6d341c7ba58a6f91065ce67da645c7830f3f059561871d58ff4e4d09eac21715de010eb1d0a6",
+        "dest": "./offline-repository/com/google/errorprone/error_prone_annotations/2.50.0",
+        "dest-filename": "error_prone_annotations-2.50.0.pom"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/com/google/errorprone/error_prone_parent/2.48.0/error_prone_parent-2.48.0.pom",
-        "sha512": "e8d1088ae2fa57b87a117649bfe32a625c17b151fc793e460f94d13c913e5998df2b48e18e4b1d3da640fdfd62c4729fed429eda48d1f8d2437b5c798f7e5729",
-        "dest": "./offline-repository/com/google/errorprone/error_prone_parent/2.48.0",
-        "dest-filename": "error_prone_parent-2.48.0.pom"
+        "url": "https://plugins.gradle.org/m2/com/google/errorprone/error_prone_parent/2.50.0/error_prone_parent-2.50.0.pom",
+        "sha512": "52e5b1568893e212c1d09d41806a2f79249552ce1dfc82bd547e1301fabe17bf60afdcb2dcc479b04a99419319912c9facf1fc6e4ed82185a1c2758c5e32bbd3",
+        "dest": "./offline-repository/com/google/errorprone/error_prone_parent/2.50.0",
+        "dest-filename": "error_prone_parent-2.50.0.pom"
     },
     {
         "type": "file",
@@ -526,31 +540,31 @@
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/io/github/jwharm/flatpak-gradle-generator/io.github.jwharm.flatpak-gradle-generator.gradle.plugin/1.8.0/io.github.jwharm.flatpak-gradle-generator.gradle.plugin-1.8.0.pom",
-        "sha512": "480267b2b3070b8bd2f9e606bb6820e8b089df8dc197ae89e0d98c152cb0688c1f2e7a009bc2d9aead20415c621563e0f0d9dc278284e0d95c9a90788f401d10",
-        "dest": "./offline-repository/io/github/jwharm/flatpak-gradle-generator/io.github.jwharm.flatpak-gradle-generator.gradle.plugin/1.8.0",
-        "dest-filename": "io.github.jwharm.flatpak-gradle-generator.gradle.plugin-1.8.0.pom"
+        "url": "https://plugins.gradle.org/m2/io/github/jwharm/flatpak-gradle-generator/io.github.jwharm.flatpak-gradle-generator.gradle.plugin/1.9.0/io.github.jwharm.flatpak-gradle-generator.gradle.plugin-1.9.0.pom",
+        "sha512": "ffc39b8158f6ac51e7fbb41425d92088c70c11431977d38fdb602f28df8e0d6213f94d8fdde64becf08d7c43a2b576534da4469835d3453d8194fc93ef3f77d4",
+        "dest": "./offline-repository/io/github/jwharm/flatpak-gradle-generator/io.github.jwharm.flatpak-gradle-generator.gradle.plugin/1.9.0",
+        "dest-filename": "io.github.jwharm.flatpak-gradle-generator.gradle.plugin-1.9.0.pom"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/io/github/jwharm/flatpak-gradle-generator/plugin/1.8.0/plugin-1.8.0.jar",
-        "sha512": "389cea14fc72f64f341b2bbc921b876590feff5636b806f2972f971c807bec306282b3cd9d694003eac988c4d418a63a1ec756118df0eebdc2832e918f16b963",
-        "dest": "./offline-repository/io/github/jwharm/flatpak-gradle-generator/plugin/1.8.0",
-        "dest-filename": "plugin-1.8.0.jar"
+        "url": "https://plugins.gradle.org/m2/io/github/jwharm/flatpak-gradle-generator/plugin/1.9.0/plugin-1.9.0.jar",
+        "sha512": "ca75b714c5fda22920bb298a89c5e1113359e013b73b26daebbb9cccfdeb31a49d2937eea3bbb331c79eb2aad875e6198243425bd8008792fbfbdb806ec06023",
+        "dest": "./offline-repository/io/github/jwharm/flatpak-gradle-generator/plugin/1.9.0",
+        "dest-filename": "plugin-1.9.0.jar"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/io/github/jwharm/flatpak-gradle-generator/plugin/1.8.0/plugin-1.8.0.module",
-        "sha512": "e0741c62d068830df72a169733a9cce8a1d4876cd0586d9fc93e3ec60f3bb8291ced113dbe1474ad87707ede2904da507885ffcd5e12e20786a809b9d267f6d7",
-        "dest": "./offline-repository/io/github/jwharm/flatpak-gradle-generator/plugin/1.8.0",
-        "dest-filename": "plugin-1.8.0.module"
+        "url": "https://plugins.gradle.org/m2/io/github/jwharm/flatpak-gradle-generator/plugin/1.9.0/plugin-1.9.0.module",
+        "sha512": "5700872b849b91cd83c4f6fb24764c972f41281a3bc4faae892705e696af1be18ade05025290d0bbc587f4fd2277759dda1d1dcb176d12e02b574cde399d98c1",
+        "dest": "./offline-repository/io/github/jwharm/flatpak-gradle-generator/plugin/1.9.0",
+        "dest-filename": "plugin-1.9.0.module"
     },
     {
         "type": "file",
-        "url": "https://plugins.gradle.org/m2/io/github/jwharm/flatpak-gradle-generator/plugin/1.8.0/plugin-1.8.0.pom",
-        "sha512": "8b4a36b3e2f1435bd18007abc2e10b893ea720de661338d7fecec0fdaae54263160defe844951a6a9c7e719c86712b8e8c3ca4bae69940ab278b0c606c5bc5b1",
-        "dest": "./offline-repository/io/github/jwharm/flatpak-gradle-generator/plugin/1.8.0",
-        "dest-filename": "plugin-1.8.0.pom"
+        "url": "https://plugins.gradle.org/m2/io/github/jwharm/flatpak-gradle-generator/plugin/1.9.0/plugin-1.9.0.pom",
+        "sha512": "77bf5eace5d2754e04fad5f766c53da697a0567902c8a1d483748abd467f846c1e698ce2ebc74e71c92041467b862462b2e483a41a4f2d9ebd5a8058e1f0e69c",
+        "dest": "./offline-repository/io/github/jwharm/flatpak-gradle-generator/plugin/1.9.0",
+        "dest-filename": "plugin-1.9.0.pom"
     },
     {
         "type": "file",
@@ -1023,6 +1037,20 @@
     },
     {
         "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-gradle-plugin/2.3.10/kotlin-gradle-plugin-2.3.10.module",
+        "sha512": "582111fc42190ea8a27bbd729cb494830c47e60692be42563ff32463b174140f02584a971edcdfee074914a074b0e19f7e53ac4d7c162449ff8ba35f8ef647c5",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-gradle-plugin/2.3.10",
+        "dest-filename": "kotlin-gradle-plugin-2.3.10.module"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-gradle-plugin/2.3.10/kotlin-gradle-plugin-2.3.10.pom",
+        "sha512": "9394bd57bc878dbb8c427507a47eeeffbb00badec2e87e26ce55020d4c8a17b216350193399a1dd2792458439439c0ce834b54bd5ed874550f9a44e35fb7d542",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-gradle-plugin/2.3.10",
+        "dest-filename": "kotlin-gradle-plugin-2.3.10.pom"
+    },
+    {
+        "type": "file",
         "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-gradle-plugin/2.4.21/kotlin-gradle-plugin-2.4.21-gradle96.jar",
         "sha512": "f1a81115dc9d235322b01783e59602d721fa212ecea621470edd9c309b38cd9896e0462f3e5521c882be1d7fcfe8a83a1865b86c80a6b83e649e2c1d777daac2",
         "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-gradle-plugin/2.4.21",
@@ -1041,6 +1069,13 @@
         "sha512": "683cad3818e230c62503b91fd006c960fd4dba72822c01fa5b73e0b8a3e808d53f8eb25d9aa326daf2f1cf98ff8c68e0f85722f22b5ea85fedcf57878fa5b2e8",
         "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-gradle-plugin/2.4.21",
         "dest-filename": "kotlin-gradle-plugin-2.4.21.pom"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-gradle-plugins-bom/2.3.10/kotlin-gradle-plugins-bom-2.3.10.pom",
+        "sha512": "d02e66297461c67311016054bcefc533bad158770892dee09ce8d9230813d42b259077693fe71cee30d6e45f1f2bf0cb04dc291e5147f159e1cc8c16c4b15e5f",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-gradle-plugins-bom/2.3.10",
+        "dest-filename": "kotlin-gradle-plugins-bom-2.3.10.pom"
     },
     {
         "type": "file",
@@ -1121,6 +1156,13 @@
     },
     {
         "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-reflect/2.4.20/kotlin-reflect-2.4.20.pom",
+        "sha512": "238e4330b697bfd2f27bd4660c3a8dacaa0c929fc56673921d34b8570c36bc07b65ff6619355459c7326d398f3041f6046cf3bc976f7c8c2e4b44e39be38ea66",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-reflect/2.4.20",
+        "dest-filename": "kotlin-reflect-2.4.20.pom"
+    },
+    {
+        "type": "file",
         "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-sam-with-receiver/2.4.21/kotlin-sam-with-receiver-2.4.21.pom",
         "sha512": "80e018a9c3c249819a28ee1633967a12505b47bcbc688e4e89be7a9e7dca63da9bec4e0d01ea45f4c27e4db1f8932ef2a4dd42a822fc2ce002b73b879f1761b9",
         "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-sam-with-receiver/2.4.21",
@@ -1149,6 +1191,41 @@
     },
     {
         "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-stdlib-common/1.7.20/kotlin-stdlib-common-1.7.20.pom",
+        "sha512": "ef432b0606a7d87bf3731dcabf0cc3db13c60a9bab65bff7d733af1b295de5578cafc2441b8a78619fd713989270e5f00a06e1c039f2ceb5b79cd356e2e44538",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-common/1.7.20",
+        "dest-filename": "kotlin-stdlib-common-1.7.20.pom"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-stdlib-common/1.9.23/kotlin-stdlib-common-1.9.23.pom",
+        "sha512": "fa6aae7ee91f121730b83dac7fe10d6aa03c424ccd754510d87ff4510c6809988b056e24f880018984a591aeee41e0af8be8fae38023f943d38855d51080e476",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-common/1.9.23",
+        "dest-filename": "kotlin-stdlib-common-1.9.23.pom"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-stdlib-common/2.1.20/kotlin-stdlib-common-2.1.20.pom",
+        "sha512": "7acae06a04b6c9e987731d03b6e522e2fb0b15348e061e693ea56c3e8b9bd59551b00bb5b4b4c3880631732456c3b17586d5894708377fa6c8e57e56c511c01e",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-common/2.1.20",
+        "dest-filename": "kotlin-stdlib-common-2.1.20.pom"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-stdlib-common/2.3.10/kotlin-stdlib-common-2.3.10.pom",
+        "sha512": "c56478096092e3ce3b59d2c0dc91f39c04edcb84199605484618dd0571dc6e04fbddcde52a979852a1194d5a06327f8e603f04acb6cc2b11658ef61061331590",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-common/2.3.10",
+        "dest-filename": "kotlin-stdlib-common-2.3.10.pom"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-stdlib-common/2.4.0/kotlin-stdlib-common-2.4.0.pom",
+        "sha512": "72a1e21205b7466cd9f77d622039aeeb6edafa36eb676c625f6a27c9af2fcf3fbf49564e054758f365804c57188ff1540e50e5caac3fcc87e0838a98c881b193",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-common/2.4.0",
+        "dest-filename": "kotlin-stdlib-common-2.4.0.pom"
+    },
+    {
+        "type": "file",
         "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-stdlib-common/2.4.10/kotlin-stdlib-common-2.4.10.module",
         "sha512": "ed3af6846908e5dcabbd474715f0c4a1efb0142bc1337622b0260e29aedfe803ad76b955183882f3a9050b02ac4f1b0951895aa5e18cf7cb3391f39665387ad7",
         "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-common/2.4.10",
@@ -1160,6 +1237,13 @@
         "sha512": "6e920073ee93af521be5b8b3a6abe79e0c36f7446c625eb034973e7b2b9e90ac02e51df588bf13f3ae3ba21e9743b01e8a669d6f7eab9743c0f2edbbf88de3e2",
         "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-common/2.4.10",
         "dest-filename": "kotlin-stdlib-common-2.4.10.pom"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-stdlib-common/2.4.20/kotlin-stdlib-common-2.4.20.pom",
+        "sha512": "4fa4a7b74702d68f127a75479d49f341b4c15dfbab052405e0d68625116066ec7ee1bafffff9ce2a5db04f14d72b7b06388f50bba9b8b39c9cd164a5e51d6eae",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-common/2.4.20",
+        "dest-filename": "kotlin-stdlib-common-2.4.20.pom"
     },
     {
         "type": "file",
@@ -1177,6 +1261,13 @@
     },
     {
         "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.7.20/kotlin-stdlib-jdk8-1.7.20.pom",
+        "sha512": "a8ad0e940009119562892faff2784bff907146bae36f4331e79b619722af9e466546ef0d7d259e2488a1b92eb8c094103615e2c5ab9ea7f43728d3712b66587f",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.7.20",
+        "dest-filename": "kotlin-stdlib-jdk8-1.7.20.pom"
+    },
+    {
+        "type": "file",
         "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.0/kotlin-stdlib-jdk8-1.8.0.jar",
         "sha512": "a85e81accfeefc7038ae61e003927824e7289557c53e96921e1cecc1c19a63b4aef06ded2fb7439227737e4676bc23a20c9602cf85ccd40619f15b7cfb36603b",
         "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.0",
@@ -1188,6 +1279,76 @@
         "sha512": "2c5b573c0e5fcd9137b614586f7e4b5becaff8edcd15431e785bce5014bd23e3c70f22be5fd95ab15ab99326fddc2b27fcdc9726312a59c4d47d34e88940d3f9",
         "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.0",
         "dest-filename": "kotlin-stdlib-jdk8-1.8.0.pom"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-stdlib/1.7.20/kotlin-stdlib-1.7.20.pom",
+        "sha512": "5544726c1c04b77fab48093b6bac8b5f87a608dbabcc6e5c6c7ec8d8b73eaa51c6a32fa4e175e9f98456f23c642a0a8ebbd02e7586d9916ade91d84038d5484b",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/1.7.20",
+        "dest-filename": "kotlin-stdlib-1.7.20.pom"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-stdlib/1.8.0/kotlin-stdlib-1.8.0.pom",
+        "sha512": "886a45c8c6c181901121734a29d767b919c06528e1e6790a525539b6b733dde11d5e4e74643104475e6b7e4cfcefedc0f4b22d1ea2efc81f50eaaebafcee8d16",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/1.8.0",
+        "dest-filename": "kotlin-stdlib-1.8.0.pom"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-stdlib/1.9.23/kotlin-stdlib-1.9.23.module",
+        "sha512": "953a28dcb3fab8b8289e6aae3bb77a099559b70fe5b1b3b46e2379403903d1daebf571d990cf3bea683a2bb1d40b9db441e82d617be6382737864862bd4e43d9",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/1.9.23",
+        "dest-filename": "kotlin-stdlib-1.9.23.module"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-stdlib/1.9.23/kotlin-stdlib-1.9.23.pom",
+        "sha512": "cfb588e41f1701a351ebba794f850e9df2c4888c7d47d3fa626da6c67e2d17fd25dd19b92d12e7f334b634864a96b0cd0cbb062a2d5881dc63867abcdce1ba68",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/1.9.23",
+        "dest-filename": "kotlin-stdlib-1.9.23.pom"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-stdlib/2.1.20/kotlin-stdlib-2.1.20.module",
+        "sha512": "31b4d24a40d24a18d794d58a6d07ed3956751c3c6e8d11a9ce9e58aad2b219e1835ae3453e941d0c91c47cec3ab673a6f4444c437766718b5f67695a87842fac",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.1.20",
+        "dest-filename": "kotlin-stdlib-2.1.20.module"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-stdlib/2.1.20/kotlin-stdlib-2.1.20.pom",
+        "sha512": "d403a3e294b962d553158d24838914d3249addd96f9638598c57d23170f71efb441196575d59346ae67478b31b1d04044f5a83e3391516b481aad66541b8fede",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.1.20",
+        "dest-filename": "kotlin-stdlib-2.1.20.pom"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-stdlib/2.3.10/kotlin-stdlib-2.3.10.module",
+        "sha512": "5257ab9b466ff2ed1c9708a80c6fddf140bef07deaf115b03244b78ca4827df25de76d56c0c9df97ac8ba713e45e386e3103e18ecd9b0d1e30dbe8ba3ec49fdb",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.10",
+        "dest-filename": "kotlin-stdlib-2.3.10.module"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-stdlib/2.3.10/kotlin-stdlib-2.3.10.pom",
+        "sha512": "e0ad7ce36f588d24ee21868d61f6b15f90678485558cf283b88855f0154a6d69a7bc8db02781d62be7099343a41ac311921d944159ccfa7e378a48f9fcd902b5",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.3.10",
+        "dest-filename": "kotlin-stdlib-2.3.10.pom"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-stdlib/2.4.0/kotlin-stdlib-2.4.0.module",
+        "sha512": "c8b8970e1ccf8000b962e1d7aa68d49b50ae2a7d3fb324c532ea798c43d6be65e2f04820778f0edbf00660afcda43d7b660bd6c1d3d620bb3f92284b04fb378c",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.4.0",
+        "dest-filename": "kotlin-stdlib-2.4.0.module"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-stdlib/2.4.0/kotlin-stdlib-2.4.0.pom",
+        "sha512": "ce37bd679da72a793e1e2c717a1ad792ddf59832e02120c9d358db543916de2991ec2d3a574c05bd08e06afba0b082e5637bb2c2b8f8b3a043d2104e508fc9e1",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.4.0",
+        "dest-filename": "kotlin-stdlib-2.4.0.pom"
     },
     {
         "type": "file",
@@ -1209,6 +1370,20 @@
         "sha512": "9191ac9ff5eeccbe5cbabd6ad3d07f00e5911a9af2828d384908352a06c79a5bba4b8d91a55c160195ad595e77f43be26011d01c590ae4a9183b7026402dc918",
         "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.4.10",
         "dest-filename": "kotlin-stdlib-2.4.10.pom"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-stdlib/2.4.20/kotlin-stdlib-2.4.20.module",
+        "sha512": "898bf29e217120abd06ba0ca593b168d253e63a4c76bc699f87940a7616887d3bb7bf449cd76d44031ab33bb8790da903e75ec1d91d67d91ead37e083ba056ab",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.4.20",
+        "dest-filename": "kotlin-stdlib-2.4.20.module"
+    },
+    {
+        "type": "file",
+        "url": "https://plugins.gradle.org/m2/org/jetbrains/kotlin/kotlin-stdlib/2.4.20/kotlin-stdlib-2.4.20.pom",
+        "sha512": "d74b9263c06f2533b9a88577b08c29369eb1029f99f2ae7166796748a375ebc9f0e5a53d7fe888b6c0739fce6dde0264d853529644c633be9dad8c4e6ba6ec5b",
+        "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-stdlib/2.4.20",
+        "dest-filename": "kotlin-stdlib-2.4.20.pom"
     },
     {
         "type": "file",

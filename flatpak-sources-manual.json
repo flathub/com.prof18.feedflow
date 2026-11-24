@@ -596,31 +596,31 @@
   },
   {
     "type": "file",
-    "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/gradle-kotlin-dsl-plugins/6.2.0/gradle-kotlin-dsl-plugins-6.2.0.jar",
-    "sha512": "880c2251b48daba184ea91bd7553bf34a6fcb7f986b008718bb9dcea8b95c3039d128d9c6857141cb4b12f4d58e798761b5cded1a28b1d5bdfc1b3153c04d7cb",
-    "dest": "./offline-repository/org/gradle/kotlin/gradle-kotlin-dsl-plugins/6.2.0",
-    "dest-filename": "gradle-kotlin-dsl-plugins-6.2.0.jar"
+    "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/kotlin-dsl/org.gradle.kotlin.kotlin-dsl.gradle.plugin/6.7.13/org.gradle.kotlin.kotlin-dsl.gradle.plugin-6.7.13.pom",
+    "sha512": "623f33a4e0bfe29cb2629dde6d2321b538f53df1d15b507de983554265ec9b532adbe2aab30d903ef92e039845c935d6332c73f9fabea2308a299bf03214f4f9",
+    "dest": "./offline-repository/org/gradle/kotlin/kotlin-dsl/org.gradle.kotlin.kotlin-dsl.gradle.plugin/6.7.13",
+    "dest-filename": "org.gradle.kotlin.kotlin-dsl.gradle.plugin-6.7.13.pom"
   },
   {
     "type": "file",
-    "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/gradle-kotlin-dsl-plugins/6.2.0/gradle-kotlin-dsl-plugins-6.2.0.module",
-    "sha512": "03d7d75f19c43ed35ba9e11b7b92047069e13978f80b58029ffce0a29824e0dfba566f1c3a6e291c5fe018b9dbdab533f1c18b80b101d5b44d38d90f2c4f7df5",
-    "dest": "./offline-repository/org/gradle/kotlin/gradle-kotlin-dsl-plugins/6.2.0",
-    "dest-filename": "gradle-kotlin-dsl-plugins-6.2.0.module"
+    "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/gradle-kotlin-dsl-plugins/6.7.13/gradle-kotlin-dsl-plugins-6.7.13.jar",
+    "sha512": "9214def75b181babd3d4279f9a48b50dcdb922325d530481a6fbc4b1d31a3ea31cfff17ce70d7cb23057e0793c8fa155cd64de36dec094820d4ca75810a20aac",
+    "dest": "./offline-repository/org/gradle/kotlin/gradle-kotlin-dsl-plugins/6.7.13",
+    "dest-filename": "gradle-kotlin-dsl-plugins-6.7.13.jar"
   },
   {
     "type": "file",
-    "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/gradle-kotlin-dsl-plugins/6.2.0/gradle-kotlin-dsl-plugins-6.2.0.pom",
-    "sha512": "173aad62ddfb66105ad3ea8b9af8ad850dbd48b05210f5f5262a5642941a55cd0ec3dfed189c00933df734fe1a0475e1a47d37e88bed7ffcb3d328a9e2eed5d0",
-    "dest": "./offline-repository/org/gradle/kotlin/gradle-kotlin-dsl-plugins/6.2.0",
-    "dest-filename": "gradle-kotlin-dsl-plugins-6.2.0.pom"
+    "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/gradle-kotlin-dsl-plugins/6.7.13/gradle-kotlin-dsl-plugins-6.7.13.pom",
+    "sha512": "e2d2dc9a930471cad6ce14612732bd2010a940907e3019fca0fa41dd8753c0956c336bdaf8f402a0e2cd6fa744391d094687d8be5ef71ed4a2e4fbe00e9f3ccd",
+    "dest": "./offline-repository/org/gradle/kotlin/gradle-kotlin-dsl-plugins/6.7.13",
+    "dest-filename": "gradle-kotlin-dsl-plugins-6.7.13.pom"
   },
   {
     "type": "file",
-    "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/kotlin-dsl/org.gradle.kotlin.kotlin-dsl.gradle.plugin/6.2.0/org.gradle.kotlin.kotlin-dsl.gradle.plugin-6.2.0.pom",
-    "sha512": "27fd45f0279312bcb0b1591c0d5c5f230a01f87f9d8b862e9db2a6b856f0e91dd82d5843d087d414d4db5b1a7ea04a42339720f3732ccea0afea52bf4efbca0c",
-    "dest": "./offline-repository/org/gradle/kotlin/kotlin-dsl/org.gradle.kotlin.kotlin-dsl.gradle.plugin/6.2.0",
-    "dest-filename": "org.gradle.kotlin.kotlin-dsl.gradle.plugin-6.2.0.pom"
+    "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/gradle-kotlin-dsl-plugins/6.7.13/gradle-kotlin-dsl-plugins-6.7.13.module",
+    "sha512": "079c44a4b6766d934ab4e803b35ed585e686270303b5d65c267ac35f9a6e45ec11e0b27ebc87f9519564ef66b80bdeadbd3fcea3eb5692e7afa7ba4455b10824",
+    "dest": "./offline-repository/org/gradle/kotlin/gradle-kotlin-dsl-plugins/6.7.13",
+    "dest-filename": "gradle-kotlin-dsl-plugins-6.7.13.module"
   },
   {
     "type": "file",
@@ -2178,30 +2178,100 @@
   },
   {
     "type": "file",
-    "url": "https://www.jetbrains.com/intellij-repository/releases/com/jetbrains/intellij/platform/icons/262.11879.111/icons-262.11879.111.jar",
-    "sha512": "a6d1676fec8fbe646a9895d1030ff0a9e7b65a928996cdf92043cb27e4e8def34a5f10287300aeb29f96ad02734e2af7fbfa93c9a6b465786afad79baf957b0e",
-    "dest": "./offline-repository/com/jetbrains/intellij/platform/icons/262.11879.111",
-    "dest-filename": "icons-262.11879.111.jar"
+    "url": "https://www.jetbrains.com/intellij-repository/releases/com/jetbrains/intellij/platform/icons/263.7307.356/icons-263.7307.356.jar",
+    "sha512": "7fb919ddcc120e8d74dcbb3f7e71d51d38663279c1568e05d7fd6ede3f9932f8b1b250eaf222433020cc519f62a857e8d679a5f1b9d1a09a9f59066d68956b7d",
+    "dest": "./offline-repository/com/jetbrains/intellij/platform/icons/263.7307.356",
+    "dest-filename": "icons-263.7307.356.jar"
   },
   {
     "type": "file",
-    "url": "https://www.jetbrains.com/intellij-repository/releases/com/jetbrains/intellij/platform/icons/262.11879.111/icons-262.11879.111.pom",
-    "sha512": "5c3703ed9d5133b8f8404fedb81ef5fe5ecbee1d11150d121ab4212f40290f64bec3fd09d741a9f31b946497fc2f0412ab17b140078325d2d9292ec400402ed1",
-    "dest": "./offline-repository/com/jetbrains/intellij/platform/icons/262.11879.111",
-    "dest-filename": "icons-262.11879.111.pom"
+    "url": "https://www.jetbrains.com/intellij-repository/releases/com/jetbrains/intellij/platform/icons/263.7307.356/icons-263.7307.356.pom",
+    "sha512": "63c0e57fc7e8347fa18bcc95abc03528bf083311a587568fd038db73a7466a4ca050f1fadf2cacb32c83ce6ea005e6e97890eb96f3920e1e265745bcfdc917ba",
+    "dest": "./offline-repository/com/jetbrains/intellij/platform/icons/263.7307.356",
+    "dest-filename": "icons-263.7307.356.pom"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.13/symbol-processing-aa-embeddable-2.3.13.jar",
-    "sha512": "433bb63fca8c0689c10e41e1e398bc5fa9cd91fcca07caeb1a6f8e8bd4d04af08ff604d4cace7809a192a13f97e31555f82012d0bdb80308fb4fe4a9f5249022",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.13",
-    "dest-filename": "symbol-processing-aa-embeddable-2.3.13.jar"
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.14/symbol-processing-aa-embeddable-2.3.14.jar",
+    "sha512": "0d2aee9c0dab571a2192cf891251cab696b1de3b5d90fd34b16ef300a5f59e5163cf550943ca880550a4e5d704c5a036c987673c22c686540218cf35e9aad0ed",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.14",
+    "dest-filename": "symbol-processing-aa-embeddable-2.3.14.jar"
   },
   {
     "type": "file",
-    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.13/symbol-processing-aa-embeddable-2.3.13.pom",
-    "sha512": "242984d7dc43bf78c83c696d818d2705452495251860ec264a283a9390583e321c209a0ed05a718d4d2b0dc7ddd0b32c9c31cfdefaef318b90692a5571fc1fef",
-    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.13",
-    "dest-filename": "symbol-processing-aa-embeddable-2.3.13.pom"
+    "url": "https://repo.maven.apache.org/maven2/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.14/symbol-processing-aa-embeddable-2.3.14.pom",
+    "sha512": "3bd635f1f8ec9debe93fbf54ff7904f6011afc607478eaeabcc9561c0f5ed9c5f65147aef7837c359a5ae2ed66d19b3db7b21f571ce2aa773f2bda61a227f22f",
+    "dest": "./offline-repository/com/google/devtools/ksp/symbol-processing-aa-embeddable/2.3.14",
+    "dest-filename": "symbol-processing-aa-embeddable-2.3.14.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-sam-with-receiver/2.4.21/kotlin-sam-with-receiver-2.4.21.module",
+    "sha512": "28adfbdebd8bc82ed42a437824e1f33f3d63491a94b7b29b526750c8ae528df0b11194b5b2355c68e03c0a924b612f7bbc23e72e6fe852e08bee83aaae9a3dd9",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-sam-with-receiver/2.4.21",
+    "dest-filename": "kotlin-sam-with-receiver-2.4.21.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-sam-with-receiver/2.4.21/kotlin-sam-with-receiver-2.4.21-gradle96.jar",
+    "sha512": "116450bbf1d250e17e2d9aae1b7d4410c559d204f1f3ddb1c9240c934c523bb7f7aa4fe9edf3f5bc081bf5a5c0b9164a1d2bddf33e50d019ce1aeefdc3dc1016",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-sam-with-receiver/2.4.21",
+    "dest-filename": "kotlin-sam-with-receiver-2.4.21-gradle96.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-assignment/2.4.21/kotlin-assignment-2.4.21.module",
+    "sha512": "b68545958d381ff60ec57f12346c21a86197b019a328cbae04ac9af70a748dbdbf7f863b34b3037974d3112868da09c90ec0e8f9ae3685fef83ec8197f3ff34b",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-assignment/2.4.21",
+    "dest-filename": "kotlin-assignment-2.4.21.module"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-assignment/2.4.21/kotlin-assignment-2.4.21-gradle96.jar",
+    "sha512": "da8866293aaa5214df40c756037e8d6b862028855f1dc6a67067c3b3d50504184e2ca4dd02a82221aebd449ba9f3eab205e18a90e2b7f1a73d184c8d1c5296a7",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-assignment/2.4.21",
+    "dest-filename": "kotlin-assignment-2.4.21-gradle96.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/2.4.21/kotlin-reflect-2.4.21.jar",
+    "sha512": "459b222c4a5bf7e9cc3ee448ba566683fecb0b33a439156c6e337d9c2a5dea25598fa78362447ff03b0189cb33cfb109d4c786435d45ff795e9f00c0d66aad2f",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-reflect/2.4.21",
+    "dest-filename": "kotlin-reflect-2.4.21.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/2.4.21/kotlin-reflect-2.4.21.pom",
+    "sha512": "242b70865d9bd1f0b41154a43e579e8d1f604c95e4fded8848eafc29bc6b404ee98a1b3425d44cbbb4343c781e92c1562647dab66213ed8999e3acfad3e0d32d",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-reflect/2.4.21",
+    "dest-filename": "kotlin-reflect-2.4.21.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-sam-with-receiver-compiler-plugin-embeddable/2.4.21/kotlin-sam-with-receiver-compiler-plugin-embeddable-2.4.21.jar",
+    "sha512": "6a968930ec083801445457be2df1a26a9b017b27dfc0941b8a567b1cda0b5325d6cfc1d5c746cca3ac513b3a0053e22f151d7067bfd2f26aede5094f127c35ba",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-sam-with-receiver-compiler-plugin-embeddable/2.4.21",
+    "dest-filename": "kotlin-sam-with-receiver-compiler-plugin-embeddable-2.4.21.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-sam-with-receiver-compiler-plugin-embeddable/2.4.21/kotlin-sam-with-receiver-compiler-plugin-embeddable-2.4.21.pom",
+    "sha512": "2e7d0388b467913622ea057163a1a59d1eab18d53aabc59f72f852c5317c44f8c2bca3be9310cbd163035b82cfe5ab2960a97e47d434fc90d5e0e37eeba13b98",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-sam-with-receiver-compiler-plugin-embeddable/2.4.21",
+    "dest-filename": "kotlin-sam-with-receiver-compiler-plugin-embeddable-2.4.21.pom"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-assignment-compiler-plugin-embeddable/2.4.21/kotlin-assignment-compiler-plugin-embeddable-2.4.21.jar",
+    "sha512": "9e5cbe47659a1a84b5d1c1a27cb822910df88deb1d78a24d4ece25b9c97d91d136de8c5287f4b501785326fde84f50467a0fa187b4c035f68b2c48e6e5ab5586",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-assignment-compiler-plugin-embeddable/2.4.21",
+    "dest-filename": "kotlin-assignment-compiler-plugin-embeddable-2.4.21.jar"
+  },
+  {
+    "type": "file",
+    "url": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-assignment-compiler-plugin-embeddable/2.4.21/kotlin-assignment-compiler-plugin-embeddable-2.4.21.pom",
+    "sha512": "e649dc8e94348bdd39075666f66cd3c22118a4aa58540e1e34f33acf01a8c9630dd1f8a6839eeb0f4f5dff1b920103cb7308f98fa5078355dca624a520901fc3",
+    "dest": "./offline-repository/org/jetbrains/kotlin/kotlin-assignment-compiler-plugin-embeddable/2.4.21",
+    "dest-filename": "kotlin-assignment-compiler-plugin-embeddable-2.4.21.pom"
   }
 ]
